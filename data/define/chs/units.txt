@@ -105,7 +105,7 @@ descr=成功闪避时，对手受到1点伤害。
 
 < CARD_UNIT_CUTIES >
 name=优空＆夏姆 (可爱者)
-descr=只能选择STAR目标。任意来源获得STAR时额外获得X个，X为你使用的不同事件卡数量。战斗时随机ATK或DEF+1。
+descr=只能选择STAR目标。从奖励格获得STAR时额外获得X个，X为你使用的不同事件卡数量。战斗时随机ATK或DEF+1。
 
 < CARD_UNIT_FERNET >
 name=菲尔涅特
@@ -277,11 +277,11 @@ descr=
 
 < CARD_UNIT_SHIFUROBOT_MP >
 name=希夫机器人
-descr=游戏开始时和复活时HP为1。\n倒下后下一个回合复活。\n每经过3轮恢复1点HP。
+descr=游戏开始时与复活时HP为2。\n复活后持续3回合ATK-1。\n若连续3回合存活且HP小于上限，\n恢复1点HP。
 
 < CARD_COOP_UNIT_SHIFUROBOT >
 name=希夫机器人
-descr=游戏开始时和复活时HP为2。\n倒下后间隔1个回合复活。\n每经过3轮恢复1点HP。\n复活时获得1层萎靡不振效果。\n储备效果：每层储备使复活延迟1回合。
+descr=游戏开始时和复活时HP为2。\n倒下后间隔2个回合复活。\n若连续3回合存活且HP小于上限，\n恢复1点HP。\n复活时获得1层萎靡不振效果。\n储备效果：每层储备使复活延迟1回合。
 
 < CARD_UNIT_SORA >
 name=优空
@@ -470,5 +470,13 @@ descr=任何玩家在场上挑战你时，必须支付其等级数\n的STAR。
 < CARD_COOP_UNIT_FERNETNOBLE >
 name=社交界的菲尔涅特
 descr=当你被敌人挑战时，对方失去你等级数的\nSTAR，你获得你等级数的STAR。
+
+< CARD_UNIT_SHIFU >
+name=希夫
+descr=对机械系野怪造成的战斗伤害+2。\n当机械系野怪击倒其他玩家时，获得1WIN。
+
+< CARD_UNIT_REIKA >
+name=星乃丽华
+descr=只能选择STAR目标。\n除轮初奖励与星星收集者外，\n任意来源获得STAR时额外获得1个。
 
 [EOF]

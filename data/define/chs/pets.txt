@@ -288,3 +288,7 @@ descr=芜与伦比。
 < PET_PUNYZARD >
 name=小兔蜥
 descr=耳朵都睡长了。
+
+< PET_MASHIRO >
+name=真白
+descr=不再不幸。

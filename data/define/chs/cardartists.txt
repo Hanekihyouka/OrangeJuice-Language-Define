@@ -122,4 +122,7 @@ EOkami
 < CARD_ARTIST_TIANNYA >
 tian nya
 
+< CARD_ARTIST_KOKOROTEN >
+心太
+
 [EOF]

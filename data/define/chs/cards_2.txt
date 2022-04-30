@@ -36,7 +36,7 @@ flavor=「再见！」—托玛特
 
 < CARD_TRAP_PIYOPIYO >
 name=小鸡小鸡大游行
-descr=进行3场玩家先攻的遭遇战。
+descr=进行3场由玩家先攻的随机遭遇战。
 flavor=「叽叽叽叽叽叽叽叽——」—彩色小鸡们
 
 < CARD_TRAP_SEALEDMEMORIES >
@@ -201,7 +201,7 @@ flavor=「啵！啵！啵！啵啵噗～！」—玛丽啵噗
 
 < CARD_HYPER_ARUSCRAMBLE >
 name=圣诞小姐的工作
-descr=在你的回合结束时，将这张卡以外的\n1张可用等级的手牌转让给随机玩家。\n获得转让卡片的等级×5的STAR。\n获得卡片的玩家，直到转让者的下一个\n回合前，无法对他人发起挑战。\n在使用或倒下时，将丢弃这张卡。
+descr=在待命时，你可以选择这张卡以外的1张\n可用等级的手牌转让给另1名随机玩家。\n获得转让卡片的等级×5的STAR。\n获得卡片的玩家，直到转让者的下一个\n回合前，无法对他人发起挑战。\n在使用或倒下时，将丢弃这张卡。
 flavor=「等着我们吧，全世界的孩子们！」—亚琉
 
 < CARD_HYPER_NATH >
@@ -341,7 +341,7 @@ flavor=「开饭啦～♪」—夏美
 
 < CARD_HYPER_NICO >
 name=奇迹漫步
-descr=★COST（变化卡片数×5）\n所有的手牌（包括这张卡）\n变为随机HYPER卡。\n这个回合你可以再使用1张卡片。
+descr=所有的手牌（包括这张卡）\n变为随机HYPER卡。\n这个回合你可以再使用1张卡片。
 flavor=「哇～！妮可会加油的！」—妮可
 
 < CARD_HYPER_ARTHUR >
@@ -633,6 +633,16 @@ flavor=「天空中飞舞着无数的飞翼。\n你不觉得这简直就是梦�
 name=小麦格农炮
 descr=这场战斗中ATK+1。\n此外，你在这场战斗中受到的伤害值也会\n提高你的ATK。
 flavor=「别欺负爸爸——！」—梅丝卡尔
+
+< CARD_HYPER_SHIFU >
+name=梦寐以求的世界
+descr=在所有未放置陷阱的HOME格放置「袭来」。\n所有玩家之后2次遭遇战都将与机械系野怪\n战斗，且此机械系角色将ATK+1。\n此效果可叠加。
+flavor=「一切都如我所愿。」—希夫
+
+< CARD_HYPER_REIKA >
+name=星星收集者
+descr=持续效果（3轮）\n当其他玩家从格子或战斗击倒获得STAR时，\n将少获得你等级数的STAR，而你将获得\n你等级数的STAR。\n倒下时效果结束。
+flavor=「呵呵呵，好多星星啊。」—丽华
 
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=炎炎烈日的最终兵器

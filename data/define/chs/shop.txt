@@ -152,6 +152,9 @@ Ultimate Weapon Girl
 < SHOP_DLC_MALTMESCAL >
 莫尔特＆梅丝卡尔
 
+< SHOP_DLC_SHIFUREIKA >
+希夫＆丽华
+
 < SHOP_TOOLTIP_HOME >
 按类别图标查看商店。
 

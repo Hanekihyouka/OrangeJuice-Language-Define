@@ -52,11 +52,15 @@ descr=复活前REC-2。
 
 < CARD_COOP_STEALTHON_EFFECT >
 name=隐身启动
-descr=无法被敌人挑战。\n不会触发遭遇格或BOSS格。\n进入战斗时效果结束，但在这场战斗中ATK+2。
+descr=无法被敌人挑战。\n不会触发遭遇格或BOSS格。\n进入战斗时效果结束，并且在这场战斗中ATK+2。
 
 < CARD_COOP_SPECIALSTAGE_EFFECT >
 name=演唱会模式
 descr=MOV-3，只能触发移动类型的格子，不能使用卡片。\n无法被敌人挑战。\n当对手在5×5范围内结束回合时，从其手中夺走本角色等级×5的STAR。\n倒下时效果结束。
+
+< CARD_COOP_IDEALWORLD_EFFECT >
+name=机械朋友
+descr=机械系角色将会代替玩家进行战斗，且此机械系角色将ATK+1。
 
 < CARD_BOSS_HYPE_EFFECT >
 name=兴奋

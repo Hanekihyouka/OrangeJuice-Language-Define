@@ -26,6 +26,6 @@
 校园撞机
 
 < EVENTNAME_CHAOS_MODE >
-混乱模式
+混沌模式
 
 [EOF]

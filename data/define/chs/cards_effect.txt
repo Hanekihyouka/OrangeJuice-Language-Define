@@ -163,8 +163,8 @@ name=奇怪的药
 descr=每层储备使HP上限-1。
 
 < CARD_CUTIES_EFFECT >
-name=举办活动
-descr=任意来源获得STAR时额外获得1个。
+name=闯入活动
+descr=从奖励格获得STAR时额外获得1个。
 
 < CARD_SPECIALSTAGE_EFFECT >
 name=演唱会模式
@@ -317,7 +317,7 @@ descr=使用卡片无需COST。
 
 < CARD_SANTASJOB_EFFECT >
 name=圣诞小姐的工作
-descr=每当回合结束时，将这张卡以外的1张可用等级的手牌转让给随机玩家。\n获得转让卡片的等级×5的STAR。
+descr=在待命时，可以选择1张可用等级的手牌转让给另1名随机玩家。\n获得转让卡片的等级×5的STAR。
 
 < CARD_BANNEDFORLIFE_EFFECT >
 name=永久流放
@@ -386,6 +386,14 @@ descr=「店长」会代替你进行战斗。\n允许克丽丝向其他角色发
 < CARD_MANAGERCOUNTER_EFFECT >
 name=店长值
 descr=在使用上限为1的卡片时获得。当店长值大于等于4且你的等级大于等于4时，「拜托了厨师长！」会变为「拜托了店长！」。
+
+< CARD_BOSSROBOREPAIR_EFFECT >
+name=自动修复
+descr=如果你在回合开始时拥有3层自动修复，恢复1点HP并将其全部移除。在被击倒或HP到达上限时移除。
+
+< CARD_BOSSROBOWRECKED_EFFECT >
+name=慢启动
+descr=ATK-1。
 
 < CARD_PHILOSOPHERSTONE_EFFECT >
 name=贤者之石
@@ -489,7 +497,7 @@ descr=每层储备使ATK+1。
 
 < CARD_NEWNOBILITY_EFFECT >
 name=贵族魅力
-descr=在你的下一场战斗中，ATK·DEF·EVD中的一项-1。
+descr=在你的下一场战斗开始时，ATK·DEF·EVD中的一项-1。
 
 < CARD_AFFLUENCE_EFFECT >
 name=大小姐的邀请
@@ -508,5 +516,9 @@ flavor=
 < CARD_FORCED_DEPARTURE_EFFECT >
 name=强制离场
 descr=被勒令在此储备效果耗尽时离开战场。
+
+< CARD_IDEALWORLD_EFFECT >
+name=机械支配
+descr=你的下次遭遇战将会是机械系野怪，且此机械系角色将ATK+1。
 
 [EOF]
