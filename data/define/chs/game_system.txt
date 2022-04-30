@@ -1,0 +1,66 @@
+﻿
+< GAME_SYSTEM_ROLLTOREVIVE >
+及以上复活！
+
+< GAME_SYSTEM_ROLL_MULTIPLE >
+投掷\n%d枚骰子！
+
+< GAME_SYSTEM_WINNERSCREEN_STARS >
+Stars
+
+< GAME_SYSTEM_WINNERSCREEN_WINS >
+Wins
+
+< GAME_SYSTEM_WINNERSCREEN_FAME >
+Fame
+
+// The following HUD text will require a size smaller or (more or less) equivalent to the english counterpart! Use abbreviations if needed
+// Level (current norma.)
+< GAME_SYSTEM_HUD_LVL >
+LVL
+
+< GAME_SYSTEM_HUD_HP >
+HP
+
+< GAME_SYSTEM_HUD_NORMA >
+目标
+
+< GAME_SYSTEM_HUD_NORMA_MAX >
+已达满级！
+
+< GAME_SYSTEM_HUD_CARDEFFECTS >
+效果
+
+< GAME_SYSTEM_HUD_CARDEFFECTS_STACKS >
+储备
+
+< GAME_SYSTEM_HUD_CARDEFFECTS_DURATION >
+持续
+
+< GAME_SYSTEM_SHOP_LEVEL >
+等级：%d
+
+< GAME_SYSTEM_SHOP_NO_BONUS >
+没有已解锁的奖励。
+
+// %% is normal here.
+< GAME_SYSTEM_SHOP_BONUS_1 >
+增加%d%%SSR出现几率。
+
+// %% is normal here.
+< GAME_SYSTEM_SHOP_BONUS_2 >
+在完成价格计算后获得%d%%折扣。
+
+< GAME_SYSTEM_SHOP_BONUS_3 >
+在卖卡时额外获得%d个STAR。
+
+< GAME_SYSTEM_SHOP_BONUS_4 >
+1件商品可能会拥有1个额外库存。
+
+< GAME_SYSTEM_SHOP_BONUS_5 >
+在交付委托物品完成任务时额外获得%d个STAR。
+
+< GAME_SYSTEM_SHOP_BONUS_6 >
+1件商品可能会拥有最多2个额外库存，\n- 场地上会额外生成1间这种类型的商店。
+
+[EOF]

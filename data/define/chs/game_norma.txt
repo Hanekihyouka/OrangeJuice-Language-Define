@@ -1,0 +1,51 @@
+﻿
+< GAME_NORMA_CLEAR >
+  目标达成 ！
+
+< GAME_NORMA_ACHIEVED >
+已完成目标
+
+< GAME_NORMA_STARS >
+STAR为<normaamount>及以上。
+
+< GAME_NORMA_STARS_10 >
+STAR为10及以上。
+
+< GAME_NORMA_STARS_30 >
+STAR为30及以上。
+
+< GAME_NORMA_STARS_70 >
+STAR为70及以上。
+
+< GAME_NORMA_STARS_120 >
+STAR为120及以上。
+
+< GAME_NORMA_STARS_200 >
+STAR为200及以上。
+
+< GAME_NORMA_WINS_SINGLE >
+WIN为1及以上。
+
+< GAME_NORMA_WINS_MULTIPLE >
+WIN为<normaamount>及以上。
+
+< GAME_NORMA_WINS_1 >
+WIN为1及以上。
+
+< GAME_NORMA_WINS_2 >
+WIN为2及以上。
+
+< GAME_NORMA_WINS_5 >
+WIN为5及以上。
+
+< GAME_NORMA_WINS_9 >
+WIN为9及以上。
+
+< GAME_NORMA_WINS_14 >
+WIN为14及以上。
+
+< GAME_NORMA_FAME >
+声望为<normaamount>及以上。
+
+[EOF]
+

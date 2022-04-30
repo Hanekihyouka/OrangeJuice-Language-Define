@@ -1,0 +1,474 @@
+﻿
+< CARD_UNIT_ALTE >
+name=阿露特
+descr=战斗中随机查看对方的1张战斗卡。\n「自爆」使对方倒下时ATK+1（最多+3）。
+
+< CARD_UNIT_ARTHUR >
+name=亚瑟
+descr=从奖励格或商店获得STAR时额外获得X个，\nX为场上你的「兔子模玩店」的数量，\n上限为你的等级数。
+
+< CARD_UNIT_ARU >
+name=亚琉
+descr=手牌上限为4张。
+
+< CARD_UNIT_ARUSCRAMBLE >
+name=亚琉 (争夺)
+descr=手牌上限为4张。
+
+< CARD_UNIT_BIG_THE_JONATHAN >
+name=大乔纳桑
+descr=玩家被击倒时，1轮内ATK+1。\n每4轮，在BOSS的回合结束时使用「发射」。\n每10轮，获得永久ATK+1、DEF·EVD-1。
+
+< CARD_UNIT_BIG_THE_JONATHAN_HYPER >
+name=大乔纳桑
+descr=玩家被击倒时，1轮内ATK+1。\n每3轮，在BOSS的回合结束时使用「发射」。\n每10轮，获得永久ATK+1、DEF·EVD-1。
+
+< CARD_UNIT_BOSS_CHICKEN >
+name=大春夫
+descr=场上每存在1只鸡手下ATK·DEF-1，\n攻击骰个数+1。每5轮召唤1只鸡手下。
+
+< CARD_UNIT_BOSS_CHICKEN_HYPER >
+name=大春夫
+descr=场上每存在1只鸡手下ATK·DEF-1，\n攻击骰个数+1。每5轮召唤2只鸡手下。
+
+< CARD_UNIT_BOSS_POPPO >
+name=星星吞噬者
+descr=玩家的轮初奖励STAR双倍。\n受到伤害时，DEF+1直到该轮结束。\n每拥有300个STAR战斗伤害+1，每造成/受到1点战斗伤害获得5个STAR/给予3个STAR。\n拥有1000个STAR时：BOSS获胜，没有STAR时：玩家获胜。
+
+< CARD_UNIT_BOSS_POPPO_HYPER >
+name=星星吞噬者
+descr=玩家的轮初奖励STAR双倍。\n受到伤害时，DEF+1直到该轮结束。\n每拥有300个STAR战斗伤害+1，\n每造成1点战斗伤害获得5个STAR。\n拥有1000个STAR时：BOSS获胜，没有STAR时：玩家获胜。
+
+< CARD_UNIT_BIG_POPPO >
+name=大啵噗
+descr=造成的每点伤害由偷取3个STAR替代。\n被击倒时REC为10，\n给予100个STAR和3WIN。
+
+< CARD_UNIT_BIG_POPPO_NM >
+name=大啵噗
+descr=
+
+< CARD_UNIT_BOSS_ROBOBALL >
+name=M10机器人
+descr=在BOSS的回合，挑战玩家不会停步。\n在没有受到保护或扰乱效果时，使用保护。
+
+< CARD_UNIT_BOSS_QP >
+name=夏日野兽
+descr=每回合召唤海鸥手下（直到BOSS等级数）。\n手下被击倒时失去1点兴奋。玩家被击倒时\n获得1点兴奋。\n如果在BOSS的回合开始时拥有10+兴奋，\n开始撒野。
+
+< CARD_UNIT_BOSS_ROPOCHI >
+name=萝啵鸡
+descr=在没有受到啵护或扰乱效果时，使用啵护。\n场上每存在1名手下ATK-2，攻击骰个数+1。\n每6轮使用增强鸡窝。\n每造成1点战斗伤害获得3个STAR。
+
+< CARD_UNIT_BOSS_ROPOCHI_HYPER >
+name=萝啵鸡
+descr=在没有受到啵护或扰乱效果时，使用啵护。\n场上每存在1名手下ATK-2，攻击骰个数+1。\n每6轮使用增强鸡窝。\n每造成1点战斗伤害获得5个STAR。
+
+< CARD_UNIT_BOSS_COACH >
+name=游泳教练
+descr=每2轮使用一次「浮标」。\n若场上没有沙滩球力士，使用「沙滩球力士」。\n若游泳圈套少于2个，使用「游泳圈套」。
+
+< CARD_UNIT_BOSS_COACH_HYPER >
+name=游泳教练
+descr=每2轮使用一次「浮标」。\n若场上没有沙滩球力士，使用「沙滩球力士」。\n若游泳圈套少于2个，使用「游泳圈套」。\n不会在战斗中受到伤害。
+
+< CARD_UNIT_GOALPOST >
+name=浮标
+descr=无法移动和闪避，且只能被伤害为1的攻击\n所伤害。
+
+< CARD_UNIT_BALLOON_JERK >
+name=沙滩球力士
+descr=
+
+< CARD_UNIT_SWIMMING_RINGER >
+name=游泳圈套
+descr=MOV-1。
+
+< CARD_UNIT_CHICKEN >
+name=鸡
+descr=
+
+< CARD_UNIT_CHICKEN_MP >
+name=鸡
+descr=战斗中倒下时只会给予1WIN和1/4的STAR。
+
+< CARD_UNIT_CASTLE >
+name=飞天城堡
+descr=
+
+< CARD_UNIT_CASTLE_MP >
+name=飞天城堡
+descr=后攻时对方无法使用战斗卡。\n无法反击。
+
+< CARD_UNIT_CEOREPARQUE >
+name=柯欧蕾帕露可
+descr=成功闪避时，对手受到1点伤害。
+
+< CARD_UNIT_CUTIES >
+name=优空＆夏姆 (可爱者)
+descr=只能选择STAR目标。任意来源获得STAR时额外获得X个，X为你使用的不同事件卡数量。战斗时随机ATK或DEF+1。
+
+< CARD_UNIT_FERNET >
+name=菲尔涅特
+descr=
+
+< CARD_UNIT_HIME >
+name=姬梦
+descr=
+
+< CARD_UNIT_IRU >
+name=依琉
+descr=向敌人发起挑战时，对方受到1点伤害，\n因这个效果而倒下时算作战斗击倒。
+
+< CARD_UNIT_ISLAY >
+name=艾拉
+descr=无法发起挑战。
+
+< CARD_UNIT_KAE >
+name=佳爱
+descr=DEF的相反数加到ATK上。\n先攻时DEF-1。
+
+< CARD_COOP_UNIT_KAE >
+name=佳爱
+descr=DEF的相反数加到ATK上。\n
+
+< CARD_UNIT_KAI >
+name=凯
+descr=
+
+< CARD_UNIT_KIRIKO >
+name=斩子
+descr=恢复效果无效。战斗卡使用时，\n战斗中ATK·EVD+1，HP上限-1 (下限为2) ，\nHP上限的减少在战斗结束后依然持续。
+
+< CARD_UNIT_KRILA >
+name=克里拉拉莉丝
+descr=
+
+< CARD_UNIT_KYOKO >
+name=京子
+descr=战斗时无法选择闪避。
+
+< CARD_UNIT_KYOUSUKE >
+name=京介
+descr=
+
+< CARD_UNIT_MALT >
+name=莫尔特
+descr=在战斗中倒下时给予3WIN。无法发起挑战。\n可以将没有特殊使用条件的战斗卡作为陷阱卡\n设置，无需COST。\n敌人在触发它时将与你战斗，双方角色皆可获得\n该卡片的效果。\n在这场战斗中无法使用其它战斗卡。
+
+< CARD_UNIT_MANAGER >
+name=店长
+descr=
+
+< CARD_UNIT_MANAGER_MP >
+name=店长
+descr=奖励格无法获得STAR。\n只能使用礼物卡。\n每丢弃1张手牌受到1点伤害。
+
+< CARD_UNIT_MARC >
+name=玛儿
+descr=
+
+< CARD_UNIT_MEI >
+name=梅依
+descr=如果在你的回合结束时没有手牌，\n获得1张「小红＆小蓝」。
+
+< CARD_UNIT_MESCAL >
+name=梅丝卡尔
+descr=在受到挑战时，有50%几率「海贼小弟」将会\n代替你进行战斗。\n如果这名「海贼小弟」在战斗中被击倒，他将在3轮时间内无法再为你战斗。\n其在被击倒时给予对方1WIN，\n其在战斗中获得的STAR将给予你的角色。
+
+< CARD_UNIT_MIMYUU >
+name=米缪
+descr=以托玛特复活并行动。\n战斗中倒下时只会给予1WIN和1/4的STAR。
+
+< CARD_UNIT_MIRA >
+name=米拉
+descr=当你的陷阱被敌人触发时追加\n「束缚的烟幕」效果：持续效果（2轮）\n移动时骰子只能投出1、2或3。
+
+< CARD_UNIT_MIUSAKI >
+name=美羽咲
+descr=防御时一次攻击最多只会受到2点伤害。
+
+< CARD_COOP_UNIT_MIUSAKI >
+name=美羽咲
+descr=防御时一次攻击最多只会受到HP上限一半\n的伤害（向上取整）。
+
+< CARD_UNIT_MIXEDPOPPO >
+name=玛丽啵噗 (混成)
+descr=传送时等级为奇数时\n获得等级×3的STAR，为偶数时抽1张卡。\n※卡片效果或场地效果的传送都包含。
+
+< CARD_UNIT_MIO >
+name=魅樱
+descr=
+
+< CARD_UNIT_NANAKO >
+name=奈奈子
+descr=
+
+< CARD_UNIT_NATH >
+name=娜德
+descr=如在参与战斗时有人使用战斗卡，获得1层\n「主动·部件扩张」（上限：3）。\n倒下时失去1层储备。\n每层储备使ATK·DEF+1，EVD-1。
+
+< CARD_UNIT_NATSUMI >
+name=夏美
+descr=当你在回合结束时没有倒下且有存活玩家在\n同一格，该格的所有存活玩家恢复1点HP。\n获得由你所恢复的其他玩家数×5的STAR。
+
+< CARD_UNIT_NATSUMI_BH >
+name=夏美
+descr=当你在回合结束时没有倒下且有存活角色在\n同一格，该格的所有存活角色恢复1点HP。\n获得由你所恢复的其他角色数×5的STAR。
+
+< CARD_UNIT_NICO >
+name=妮可
+descr=不受礼物卡影响。\n任意来源获得STAR时额外获得X个，\nX为持有礼物卡的张数。手牌上限为4张。
+
+< CARD_UNIT_NONAME >
+name=NoName
+descr=倒下时变为「NoName(头)」。\n在战斗中倒下时不会给予STAR和WIN。
+
+< CARD_UNIT_NONAME_HEAD >
+name=NoName (头)
+descr=在到达HOME格或倒下时\n变为「NoName」。MOV-1。
+
+< CARD_UNIT_POPPO >
+name=玛丽啵噗
+descr=
+
+< CARD_UNIT_PEAT >
+name=彼特
+descr=
+
+< CARD_UNIT_QP >
+name=QP
+descr=
+
+< CARD_UNIT_QPD >
+name=QP (危机)
+descr=持有名称包含布丁的卡片时，战斗中获得加成。\n危险布丁(ATK+1)、糟糕的布丁(DEF+1)、\n布丁(EVD+1)、便携布丁(HP上限+1)。
+
+< CARD_UNIT_ROBOBALL >
+name=机器球
+descr=
+
+< CARD_UNIT_ROBOBALL_MP >
+name=机器球
+descr=战斗中倒下时只会给予1WIN和1/4的STAR。
+
+< CARD_UNIT_SAKI >
+name=纱季
+descr=
+
+< CARD_UNIT_SEAGULL >
+name=海鸥
+descr=
+
+< CARD_UNIT_SEAGULL_MP >
+name=海鸥
+descr=战斗中倒下时只会给予1WIN和1/4的STAR。
+
+< CARD_UNIT_SHAM >
+name=夏姆
+descr=
+
+< CARD_UNIT_SHERRY >
+name=雪莉
+descr=战斗时对方先攻，\n对方也是雪莉时此效果无效。
+
+< CARD_UNIT_SHIFUROBOT >
+name=希夫机器人
+descr=
+
+< CARD_UNIT_SHIFUROBOT_MP >
+name=希夫机器人
+descr=游戏开始时和复活时HP为1。\n倒下后下一个回合复活。\n每经过3轮恢复1点HP。
+
+< CARD_COOP_UNIT_SHIFUROBOT >
+name=希夫机器人
+descr=游戏开始时和复活时HP为2。\n倒下后间隔1个回合复活。\n每经过3轮恢复1点HP。\n复活时获得1层萎靡不振效果。\n储备效果：每层储备使复活延迟1回合。
+
+< CARD_UNIT_SORA >
+name=优空
+descr=
+
+< CARD_UNIT_SORAMILITARY >
+name=优空 (军服)
+descr=战斗中倒下时，\n在下一个你的回合以HP2的状态复活。
+
+< CARD_COOP_UNIT_SORAMILITARY >
+name=优空 (军服)
+descr=战斗中倒下时，\n在下一个你的回合以HP2的状态复活。\n从战斗击倒复活时获得1层萎靡不振效果。\n储备效果：每层储备使复活延迟1回合。
+
+< CARD_UNIT_STARBREAKER >
+name=星球破坏者
+descr=只能选择WIN目标。
+
+< CARD_UNIT_SUGURI >
+name=须玖莉
+descr=
+
+< CARD_UNIT_SUGURI_V2 >
+name=须玖莉 (Ver.2)
+descr=手牌上限为2张。\n在你的回合开始时恢复1点HP。
+
+< CARD_UNIT_SWEETBREAKER >
+name=甜点破坏者
+descr=与持有翻转卡的对手战斗时，\n获得对方翻转卡数量的ATK·DEF·EVD。
+
+< CARD_COOP_UNIT_SWEETBREAKER >
+name=甜点破坏者
+descr=和处于融化的记忆效果的角色战斗时，ATK·DEF·EVD+1。
+
+< CARD_UNIT_SYURA >
+name=秀拉
+descr=如果战斗开始时HP为1，\nATK·EVD+1，\n直到战斗结束。
+
+< CARD_UNIT_TOMATO >
+name=托玛特
+descr=以米缪复活并行动。\n抽到的「邪恶的间谍行动～执行」替换成\n「阴谋机器人出动！」。
+
+< CARD_UNIT_TEQUILA >
+name=铁基拉
+descr=出现的敌方角色包含「海贼小弟」。\n在战斗中，每失去1点HP，ATK+1。
+
+< CARD_UNIT_TEQUILA_BH >
+name=铁基拉
+descr=出现的敌方角色包含「海贼小弟」。\n在战斗中，失去HP会使ATK+1。
+
+< CARD_UNIT_TEQMINION >
+name=海贼小弟
+descr=打倒对手时对手失去等级×10的STAR。\n召唤该角色的玩家获得这些STAR。\n不会在召唤者的遭遇战中出现。
+
+< CARD_UNIT_TOMOMO >
+name=兔萌萌
+descr=
+
+< CARD_UNIT_TOMOMO_MP >
+name=兔萌萌
+descr=软化：因为和朋友一起玩，所以降低了能力值。
+
+< CARD_UNIT_TOMOMO_CASUAL >
+name=兔萌萌 (休闲)
+descr=
+
+< CARD_UNIT_TOMOMO_SWEETEATER >
+name=兔萌萌 (甜点品尝者)
+descr=倒下时，丢弃所有手牌\n并变回「兔萌萌(休闲)」。
+
+< CARD_UNIT_TSIH >
+name=杏
+descr=手牌中持有礼物卡时ATK+2。
+
+< CARD_UNIT_YUKI >
+name=由希
+descr=
+
+< CARD_UNIT_YUKI_DANGEROUS >
+name=由希 (危机)
+descr=手牌中名称包含「布丁」的卡片都会变为\n「深夜的惨剧」。当你的陷阱被其他人触发时\n获得1WIN。在遭遇战中无法获得WIN。
+
+< CARD_UNIT_YUUKI >
+name=夕希
+descr=在奇数轮时，ATK-1·DEF+2。\n在偶数轮时，ATK+2·DEF-1。
+
+< CARD_UNIT_SUGURI46 >
+name=须玖莉 (460亿年)
+descr=在使用能造成伤害的增益卡或事件卡时，\n你可以支付1.5倍COST（向上取整）使其\n造成双倍伤害。\n发动后，下次移动时骰子个数+1。
+
+< CARD_UNIT_SUMIKA >
+name=栖海花
+descr=
+
+< CARD_UNIT_ELLIE >
+name=艾莉
+descr=
+
+< CARD_UNIT_LULU >
+name=露露
+descr=
+
+< CARD_UNIT_MARC_PILOT >
+name=玛儿 (飞行员)
+descr=
+
+< CARD_UNIT_ALICIANRONE >
+name=亚莉希安罗妮
+descr=战斗对手的ATK为+1或以上时，\n在战斗结束前EVD+1。\n其ATK为+2或以上时，额外EVD+1。
+
+< CARD_UNIT_TEOTORATTA >
+name=缇欧特拉塔
+descr=不会触发遭遇格。
+
+< CARD_UNIT_ARNELLE >
+name=阿妮尔
+descr=持有「情报官」时，\n能看见卡堆顶部的一张卡。
+
+< CARD_UNIT_MAYNIE >
+name=梅妮
+descr=在未处于狂暴模式下时，\n受到伤害获得愤怒值，\n受到恢复失去愤怒值。
+
+< CARD_UNIT_KYUPITA >
+name=QP太
+descr=
+
+< CARD_UNIT_CHRIS >
+name=克丽丝
+descr=手牌上限为4张。\n只有当「厨师长」或「店长」在场时才能\n发起挑战。\n使用上限为1的非礼物卡时获得1点店长值。
+
+< CARD_UNIT_CHEF >
+name=厨师长
+descr=
+
+< CARD_UNIT_GOLEM >
+name=苔魔像
+descr=
+
+< CARD_UNIT_GUARDIAN >
+name=守护者
+descr=无法挑战其他玩家。\n与召唤者共享悬赏。
+
+< CARD_UNIT_GUARDIAN_CHAOS >
+name=守护者
+descr=击败遭遇格的角色时额外获得等级×1\n的STAR。
+
+< CARD_UNIT_EVILGUARDIAN >
+name=噩兆
+descr=不会在战斗外受到伤害或被击倒。\n经过其他角色时会发起挑战。\n在战斗中击败对手时窃取1点声望，\n未觉醒时可同时获得1层噬魂者并恢复1点HP。\n被击败时给予2点+其声望窃取量的声望。
+
+< CARD_UNIT_FAE >
+name=奥罗拉
+descr=MOV+1。无法挑战其他玩家。\n每偶数轮恢复1点召唤者的HP，\n或是将其以一半HP复活。
+
+< CARD_UNIT_FAE_CHAOS >
+name=奥罗拉
+descr=MOV+1。每偶数轮恢复1点自己的HP，\n或是将自己以一半HP复活。\n当你在回合结束时没有倒下且有存活玩家在\n同一格，该格的所有存活玩家恢复1点HP。\n获得由你所恢复的其他玩家数×5的STAR。
+
+< CARD_UNIT_MERCENARY >
+name=佣兵
+descr=经过其他玩家时会发起挑战。\n战斗中获得的STAR的50%将给予召唤者。
+
+< CARD_UNIT_HALENA >
+name=哈琳娜
+descr=停留在自己的HOME格时获得\n等级×2的STAR。
+
+< CARD_UNIT_COOK >
+name=库克
+descr=使用闪避时获得1层饥饿（最多3层）。\n拥有3层饥饿时EVD-1。\n停留在自己的HOME格时清除所有饥饿。
+
+< CARD_UNIT_LONERIDER >
+name=孤独车手
+descr=当你移动骰结果到达7或以上时，\nATK+1·DEF+1·EVD+2，\n直到下一个你的回合开始。
+
+< CARD_UNIT_MERCHANT >
+name=商人
+descr=手牌上限为4张。\n停留在他人的HOME格时\n获得一张「货物」。
+
+< CARD_UNIT_HIMEV2 >
+name=月夜姬梦
+descr=在满月期间（每5轮），基础能力值\n变为ATK-1·DEF-1·EVD+3。
+
+< CARD_UNIT_FERNETNOBLE >
+name=社交界的菲尔涅特
+descr=任何玩家在场上挑战你时，必须支付其等级数\n的STAR。
+
+< CARD_COOP_UNIT_FERNETNOBLE >
+name=社交界的菲尔涅特
+descr=当你被敌人挑战时，对方失去你等级数的\nSTAR，你获得你等级数的STAR。
+
+[EOF]

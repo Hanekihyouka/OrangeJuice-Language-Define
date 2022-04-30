@@ -1,0 +1,68 @@
+< INVENTORY_MEDICINALHERB >
+name=药草
+descr=带有治疗效果的药草。
+
+< INVENTORY_TURNISLIME >
+name=芜莱姆粘液
+descr=曾是芜莱姆的一部分。
+
+< INVENTORY_CHILLINGWIND >
+name=袋装寒风
+descr=填满刺骨寒风的袋子。\n要是不小心点的话，你的手会被它瞬间冻成冰块。
+
+< INVENTORY_FLOUR >
+name=无尽面粉
+descr=一袋永不见底的面粉。它到底有些什么奥秘呢？
+
+< INVENTORY_BROKENBLADE >
+name=断剑
+descr=死者留下的残破武器。
+
+< INVENTORY_TROLLITEHORN >
+name=小巨魔角
+descr=曾长在小巨魔头上的古老\n犄角。\n它会使周围麻烦不断。
+
+< INVENTORY_MISTYSAP >
+name=迷雾树液
+descr=树里流出的汁液。很甜。
+
+< INVENTORY_CACTUS >
+name=仙人掌
+descr=沙漠里的仙人掌，里面含有水份。
+
+< INVENTORY_GOST >
+name=阿鬼的灵魂
+descr=被打败的调皮鬼魂。
+
+< INVENTORY_WOLLY >
+name=绒绒奶
+descr=绒绒产出的鲜奶。
+
+< INVENTORY_BUCKET >
+name=空桶
+descr=可以拿来装各种东西的空桶。
+
+< INVENTORY_HEATGLOVES >
+name=隔热手套
+descr=能够帮你抵御极度高温的手套。
+
+< INVENTORY_GLOBBU >
+name=火泡
+descr=喜欢让人置身火海的熔岩捣蛋鬼。
+
+< INVENTORY_SANDALS >
+name=木屐
+descr=一双随处可见的鞋子，它能在跑步时保护双脚。\nMOV+1。
+
+< INVENTORY_LEATHERBOOTS >
+name=皮靴
+descr=著名皮匠的新作，比通常的凉鞋和鞋子要强得多。\nMOV+1，未持有任务物品时额外+1。
+
+< INVENTORY_GALESHOES >
+name=疾风之靴
+descr=蕴含了强大的魔法，只要穿了它，怎么跑都不会累。\nMOV+1，未持有任务物品且持有不多于1张卡时额外+2。
+
+// Winter 2020 Event Special Item
+< INVENTORY_DELICACY >
+name=好吃的东西
+descr=给库克的美味小食。每场游戏最多能收集3个。
