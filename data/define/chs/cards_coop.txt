@@ -6,7 +6,7 @@ flavor=「接受我的挑战吧！」—公会会长
 < CARD_BOOST_COOP_AMBUSH >
 name=偷袭
 descr=与同一格的所有敌人进行战斗。\n之后回合结束。
-flavor=「咿呀！」—夏姆
+flavor=「咕啊！」—夏姆
 
 < CARD_EVENT_COOP_DINNER >
 name=晚餐
@@ -166,7 +166,7 @@ flavor=「嘛呜呜呜哩呀呀呀呀呀！！」—纱季
 < CARD_HYPER_COOP_SHAM >
 name=三角力场
 descr=这场战斗中对手受到以下效果：\n骰子投出的数值为1。
-flavor=「既然你无论如何都不肯回去，\n那我就只好尽全力把你带回去了！」—夏姆
+flavor=「既然你无论如何都不肯回去，\n那我就只好不择手段把你带回去了！」—夏姆
 
 < CARD_HYPER_COOP_SHERRY >
 name=变化无常的风车

@@ -3,7 +3,7 @@
 微软雅黑
 
 < LAUNCHER_TITLE >
-100%鲜橙汁！ 设置
+100%鲜橙汁！设置
 
 < LAUNCHER_LANGUAGE_LABEL >
 Language/语言
@@ -21,16 +21,16 @@ Language/语言
 全彩纹理
 
 < LAUNCHER_SCREENMODE_LABEL >
-屏幕模式
+显示模式
 
 < LAUNCHER_SCREENMODE_WINDOWED >
-窗口
+窗口化
 
 < LAUNCHER_SCREENMODE_FULLSCREEN >
 全屏
 
 < LAUNCHER_SCREENMODE_BORDERLESS >
-无边窗口
+无边窗口化
 
 < LAUNCHER_RESOLUTION_LABEL >
 分辨率

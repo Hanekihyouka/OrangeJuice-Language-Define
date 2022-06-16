@@ -240,6 +240,9 @@
 < PLAYMENU_PROFILE >
 玩家信息
 
+< PLAYMENU_CODEX >
+橙汁事典
+
 < PLAYMENU_MANUAL >
 新手教程
 
@@ -260,6 +263,9 @@
 
 < PLAYMENU_TOOLTIP_PROFILE >
 确认玩家情报、阅览卡片、定制个人形象。
+
+< PLAYMENU_TOOLTIP_CODEX >
+浏览角色简介等内容。
 
 < PLAYMENU_TOOLTIP_MANUAL >
 打开游戏手册。
@@ -555,7 +561,7 @@ BOSS的能力会在每轮开始时展示，\n在这轮结束时，BOSS会在行�
 
 
 < PLAYMENU_EVENT_SUMMER2019_INSTRUCTION_MAIN >
-QP被太阳晒得发疯了！与她和她的新小弟玩到让她累趴下吧！
+QP被太阳晒得发疯了！与她和她的新小弟们玩到让她累趴下吧！
 
 
 < PLAYMENU_EVENT_SUMMER2019_COMPLETE >
@@ -990,6 +996,9 @@ Steam创意工坊返回了一个错误。\n\n %s
 < MENU_PLATEFRAME_UNLOCK >
 解锁了新的面板边框！
 
+< MENU_PLATEFRAME_PIN >
+解锁了新的面板挂件！
+
 // eg.: Online Level 200 Reward
 < MENU_PLATE_STEAMLEVEL_REWARD >
 在线游戏%d级奖励
@@ -1030,5 +1039,23 @@ CPU自定义
 
 < MENU_ACHIEVEMENTS_DISABLED >
 已禁用成就。
+
+< MENU_CODEX_INFO_LABEL >
+角色信息
+
+< MENU_CODEX_MORESOON_LABEL >
+将陆续更新更多角色！
+
+< MENU_CODEX_INSTRUCTION_1 >
+欢迎来到橙汁事典！\n你可以在这充满了无穷智慧的界面中浏览角色简介，\n未来还将更新更多内容。
+
+< MENU_CODEX_INSTRUCTION_2 >
+你可以通过用特定角色进行一定场数的任意在线游戏模式\n解锁角色信息。而过去已记录的普通模式在线游戏也将被\n计入进度内。
+
+< MENU_CODEX_INSTRUCTION_3 >
+当你使用一名角色进行50场在线游戏时，将会解锁\n对应角色的面板挂件。
+
+< MENU_CODEX_INSTRUCTION_4 >
+希望你能喜欢这项新功能。欢迎前往Steam论坛或我们的\nDiscord服务器进行反馈！
 
 [EOF]

@@ -490,7 +490,7 @@ WIN目标
 场数
 
 <PROFILE_STATS_WINS>
-胜利
+胜场
 
 <PROFILE_WIN_PERCENTAGE>
 胜率

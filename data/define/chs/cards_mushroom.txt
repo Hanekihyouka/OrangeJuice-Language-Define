@@ -53,10 +53,10 @@ descr=下次移动时MOV+%d。
 descr=下次移动时MOV-%d。
 
 < CARD_SHROOM_GAINSTARS >
-descr=获得等级×%d个STAR。
+descr=获得等级数×%d个STAR。
 
 < CARD_SHROOM_LOSESTARS >
-descr=失去等级×%d个STAR。
+descr=失去等级数×%d个STAR。
 
 < CARD_SHROOM_HEALTHUP >
 descr=获得%d点HP。
@@ -116,6 +116,6 @@ descr=获得1WIN。
 descr=任意来源获得STAR时额外获得等级数\n的STAR。\n战斗中倒下时，胜者获得这张卡。
 
 < CARD_SHROOM_LEGEND_WINS >
-descr=任意来源获得WIN时会额外获得1WIN。\n战斗中倒下时，胜者获得这张卡。
+descr=任意来源获得WIN时额外获得1WIN。\n战斗中倒下时，胜者获得这张卡。
 
 [EOF]

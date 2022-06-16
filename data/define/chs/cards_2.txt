@@ -1,8 +1,8 @@
 ﻿
 < CARD_BOOST_AMBUSH >
 name=偷袭
-descr=与同一格的所有其他玩家进行战斗。\n战斗结束后回合结束。
-flavor=「咿呀！」—夏姆
+descr=与同一格的所有其他角色进行战斗。\n战斗结束后回合结束。
+flavor=「咕啊！」—夏姆
 
 < CARD_BOOST_LONELYCHARIOT >
 name=孤独的暴走车
@@ -162,7 +162,7 @@ flavor=「我也不中用了啊……」—京子
 < CARD_HYPER_SHAM >
 name=三角力场
 descr=除你以外的所有角色，直到你的下一个回合前\n受到以下效果：\n骰子投出的数值为1。
-flavor=「既然你无论如何都不肯回去，\n那我就只好尽全力把你带回去了！」—夏姆
+flavor=「既然你无论如何都不肯回去，\n那我就只好不择手段把你带回去了！」—夏姆
 
 < CARD_HYPER_SHERRY >
 name=变化无常的风车
@@ -192,7 +192,7 @@ flavor=「小布丁……\n我、我……爱死你了。」—QP
 < CARD_HYPER_SORAM >
 name=才气觉醒
 descr=回合结束前，移动·战斗·奖励·掉落时\n骰子投出的数值为5。\n这张卡也可以作为战斗卡使用。
-flavor=「要开始……工作了。」—优空
+flavor=「开始……工作。」—优空
 
 < CARD_HYPER_MIXEDPOPPO >
 name=亚空间通道
@@ -272,7 +272,7 @@ flavor=「在这边！我的鼻子是不会错的！」—QP
 < CARD_GIFT_PRICEOFPOWER >
 name=力量的代价
 descr=你可以使用比当前等级高1级的卡片。\n所有卡片COST+5。\n使用将丢弃这张卡。
-flavor=「这种身体，就算在战争中活下来了，\n也什么用处都没有。」—娜德
+flavor=「有着这样的身体，就算在战争中活下来了，\n我也做不了任何事。」—娜德
 
 < CARD_GIFT_VALENTINESDAY2018 >
 name=甜点战争！
@@ -291,7 +291,7 @@ flavor=「因我的力量而颤抖吧！」—由希
 
 < CARD_HYPER_TOMOMOCASUAL >
 name=奇迹红豆冰淇淋
-descr=ATK+1。\n使用将丢弃这张卡。\n兔萌萌(休闲)：\n当使用时，变身为「兔萌萌(甜点品尝者)」恢复所有HP。\n兔萌萌(甜点品尝者)：\n当持有时，此卡会变为「复仇魔法」。
+descr=ATK+1。\n使用将丢弃这张卡。\n兔萌萌(休闲)：\n当使用时，变身为「兔萌萌(甜点品尝者)」恢复所有HP。\n兔萌萌(甜点品尝者)：\n当持有时，此卡会变为「魔法复仇」。
 flavor=「奇迹红豆冰淇淋～」—兔萌萌
 
 < CARD_HYPER_TOMOMOSWEETEATER >
@@ -302,7 +302,7 @@ flavor=「魔法复仇的时间到了！」—兔萌萌
 < CARD_HYPER_SUGURI_V2 >
 name=星之再生
 descr=★COST（等级×3）\n持续效果（3轮）\n所有掉落格变为奖励格。\n所有遭遇格与BOSS格变为抽卡格。\n站在被影响的格子上时ATK-1。
-flavor=「你所守护的梦想，\n已经遍布了整个星球。」—须玖莉
+flavor=「你所守护的梦想，\n已经传遍了整个星球。」—须玖莉
 
 < CARD_HYPER_TSIH >
 name=隐身启动

@@ -223,5 +223,11 @@ Speed: %d, %s, %s
 < LOBBY_QUICKJOIN_TOOLTIP >
 Quick join.
 
+< PLAYERPLATE_STEAMLEVEL >
+LVL %d
+
+< PLAYERPLATE_STEAMWINS >
+Wins: %d
+
 [EOF]
 

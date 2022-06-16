@@ -1,0 +1,39 @@
+﻿< PIN_FBAT >
+name=果蝠
+desc=
+artist=
+
+< PIN_FLYING_SUGURI >
+name=飞翔的须玖莉
+desc=授予使用须玖莉进行过很多场游戏的玩家。\n她说不定能一口气冲上天空！
+artist=Sora
+
+< PIN_FLYING_KAI >
+name=飞翔的凯
+desc=授予使用凯进行过很多场游戏的玩家。\n他能找回自己的钱包吗？
+artist=Sora
+
+< PIN_FLYING_QP >
+name=飞翔的QP
+desc=授予使用QP进行过很多场游戏的玩家。\n她总会为自己备一些布丁。
+artist=Sora
+
+< PIN_FLYING_MARC >
+name=飞翔的玛儿
+desc=授予使用玛儿进行过很多场游戏的玩家。\n她绝不会抛下自己的火箭。
+artist=Sora
+
+< PIN_FACTORY >
+name=橙子工厂
+desc=授予Fruitbat Factory员工。
+artist=
+
+< PIN_CONTEST_WINNER >
+name=比赛获胜者
+desc=授予在官方比赛中获得胜利的玩家。
+artist=Yulay Devlet
+
+< PIN_CONTRIBUTOR >
+name=贡献者
+desc=授予以某种方式为100%鲜橙汁作出正式贡献的玩家。
+artist=Yulay Devlet

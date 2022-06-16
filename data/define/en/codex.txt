@@ -1,0 +1,24 @@
+< LORE_SUGURI >
+1=A girl who forever looks 14 years old.
+2=Likes: Planet Earth\nDislikes: Conflict
+3=Suguri has spent over 10,000 years restoring the ruined Earth. The calm and quiet girl never hesitates to put up a fight for the sake of protecting Earth and its people.
+4=She is capable of creating any tools she requires and of flying through the air at an incredible speed.
+
+< LORE_QP >
+1=A human-Pomeranian hybrid girl who is always a ball of energy, QP is a silly and honest girl who gravitates toward excitement.
+2=Likes: Pudding\nDislikes: Bullies
+3=The dog girl loves pudding above anything else, and her excitement for pudding never fails to peak.
+4=She gets along well with rabbits.
+
+< LORE_KAI >
+1=Kai is an 18-year-old, ordinary guy.
+2=Likes: Benjamins\nDislikes: Trouble
+3=After the mysterious creature Marie Poppo has stolen his wallet, he chases after her and ends up in many different worlds. 
+4=Even though he's the protagonist of 100% Orange Juice, Kai doesn't have any outstanding characteristics. That fact bothers him, but he tries to forcefully cheer himself up to get over it.
+
+< LORE_MARC >
+1=A 16-year old girl who dreamed of becoming an aviator as a kid and grew up to be one. She's motivated, diligent, and hardworking, but can be extremely stubborn.
+2=Likes: Red things, apples\nDislikes: Those who cause others trouble
+3=Marc is younger than anyone else in the Guild, an organization formed and run by aviators. Her trusty airplane "Red Barrel" literally looks like a red barrel.
+4=Marc's two pet peeves are a boy named Peat who's constantly giving her trouble for stealing his position as the youngest in the Guild, and her best friend Fernet messing with her after their friendship broke up over a fight.
+5=Marc's latest frustration is having to find her own jobs because the Guildmaster went on a rampage and caused the Guild to collapse.

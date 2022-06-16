@@ -26,6 +26,9 @@
 < SHOP_LABEL_COWKIGU >
 牛布偶装
 
+< SHOP_LABEL_TIGERKIGU >
+虎布偶装
+
 < SHOP_LABEL_RETIREDEVENTS >
 绝版活动
 
@@ -181,6 +184,9 @@ Ultimate Weapon Girl
 
 < SHOP_TOOLTIP_COWKIGU >
 解锁牛布偶装。
+
+< SHOP_TOOLTIP_TIGERKIGU >
+解锁虎布偶装。
 
 < SHOP_TOOLTIP_RETIREDEVENTS >
 购买绝版活动的奖励。

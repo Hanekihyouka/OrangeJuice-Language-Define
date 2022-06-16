@@ -26,6 +26,9 @@ Pigformation
 < SHOP_LABEL_COWKIGU >
 Cow Kigurumi
 
+< SHOP_LABEL_TIGERKIGU >
+Tiger Kigurumi
+
 < SHOP_LABEL_RETIREDEVENTS >
 Retired Events
 
@@ -181,6 +184,9 @@ Unlock "Beware Pigformation" event accessories.
 
 < SHOP_TOOLTIP_COWKIGU >
 Unlock Cow Kigurumi costumes.
+
+< SHOP_TOOLTIP_TIGERKIGU >
+Unlock Tiger Kigurumi costumes.
 
 < SHOP_TOOLTIP_RETIREDEVENTS >
 Purchase rewards from retired events.

@@ -81,7 +81,7 @@
 玩家离开了游戏。
 
 < LOBBY_KICKCONFIRM >
-真的要踢掉这名玩家吗？
+真的要逐出这名玩家吗？
 
 < LOBBY_KICKED >
 你被移出了房间。
@@ -222,6 +222,12 @@
 
 < LOBBY_QUICKJOIN_TOOLTIP >
 快速加入。
+
+< PLAYERPLATE_STEAMLEVEL >
+LVL %d
+
+< PLAYERPLATE_STEAMWINS >
+Wins: %d
 
 [EOF]
 

@@ -1,0 +1,39 @@
+< PIN_FBAT >
+name=Fruitbat
+desc=
+artist=
+
+< PIN_FLYING_SUGURI >
+name=Flying Suguri
+desc=Granted to the players who played as Suguri a lot.\nShe may ever dash to the sky!
+artist=Sora
+
+< PIN_FLYING_KAI >
+name=Flying Kai
+desc=Granted to the players who played as Kai a lot.\nWill he ever get his wallet back?
+artist=Sora
+
+< PIN_FLYING_QP >
+name=Flying QP
+desc=Granted to the players who played as QP a lot.\nAlways having some Pudding.
+artist=Sora
+
+< PIN_FLYING_MARC >
+name=Flying Marc
+desc=Granted to the players who played as Marc a lot.\nNever leaving without her rocket.
+artist=Sora
+
+< PIN_FACTORY >
+name=Orange Factory
+desc=Granted to players who are part of the Fruitbat Factory staff.
+artist=
+
+< PIN_CONTEST_WINNER >
+name=Contest Winner
+desc=Granted to players who won an official contest.
+artist=Yulay Devlet
+
+< PIN_CONTRIBUTOR >
+name=Contributor
+desc=Granted to players who officially contributed to 100% Orange Juice in a way or another.
+artist=Yulay Devlet

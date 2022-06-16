@@ -238,7 +238,10 @@ SHOPPING
 SINGLE PLAYER
 
 < PLAYMENU_PROFILE >
-PLAYER INFO
+PLAYER\nINFO
+
+< PLAYMENU_CODEX >
+OJDEX
 
 < PLAYMENU_MANUAL >
 GUIDE
@@ -260,6 +263,9 @@ Select a character and dive into their storyline in single player.
 
 < PLAYMENU_TOOLTIP_PROFILE >
 View your statistics, browse cards and customize your Avatar.
+
+< PLAYMENU_TOOLTIP_CODEX >
+View character profiles and more.
 
 < PLAYMENU_TOOLTIP_MANUAL >
 Open the game Manual.
@@ -993,6 +999,9 @@ New plate background unlocked!
 < MENU_PLATEFRAME_UNLOCK >
 New plate border unlocked!
 
+< MENU_PLATEFRAME_PIN >
+New plate pin unlocked!
+
 // eg.: Online Level 200 Reward
 < MENU_PLATE_STEAMLEVEL_REWARD >
 Online Level %d Reward
@@ -1033,5 +1042,23 @@ Endgame Rewards are disabled.
 
 < MENU_ACHIEVEMENTS_DISABLED >
 Achievements are disabled.
+
+< MENU_CODEX_INFO_LABEL >
+Information
+
+< MENU_CODEX_MORESOON_LABEL >
+More units coming soon!
+
+< MENU_CODEX_INSTRUCTION_1 >
+Welcome to the OJDex!\nThis interface of infinite knowledge allows you to browse unit profiles, with more coming in the future.
+
+< MENU_CODEX_INSTRUCTION_2 >
+In order to unlock character information, you need to play a certain amount of online games with that character in any game mode. Note that previously tracked Normal mode online games have been added to the progress tracker.
+
+< MENU_CODEX_INSTRUCTION_3 >
+Once you reach 50 online games with a unit, you will unlock their respective player plate pin.
+
+< MENU_CODEX_INSTRUCTION_4 >
+We hope you will enjoy this new feature. Feel free to post your feedback on the Steam forums, or our Discord server!
 
 [EOF]
