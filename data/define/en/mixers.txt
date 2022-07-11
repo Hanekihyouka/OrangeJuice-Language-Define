@@ -4,7 +4,7 @@ descr=All units will take 1 damage at the beginning of the Chapter.
 
 < MIXER_AMPLIFY >
 name=Amplify
-descr=All units will randomly receive a +1 bonus to their attack, defense, or dodge stat. This effect lasts for 2 Chapters.
+descr=All units will randomly receive a +1 bonus to their ATK, DEF, or EVD stat. This effect lasts for 2 Chapters.
 
 < MIXER_BACKTRACK >
 name=Backtrack

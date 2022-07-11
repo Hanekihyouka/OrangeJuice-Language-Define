@@ -393,7 +393,7 @@ descr=如果你在回合开始时拥有3层自动修复，恢复1点HP并将其�
 
 < CARD_BOSSROBOWRECKED_EFFECT >
 name=慢启动
-descr=ATK-1。
+descr=MOV-1。
 
 < CARD_PHILOSOPHERSTONE_EFFECT >
 name=贤者之石

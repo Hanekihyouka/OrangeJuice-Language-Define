@@ -276,7 +276,7 @@ flavor="Manager, it's your turn!!" ―Chris
 
 < CARD_HYPER_BOSSROBO >
 name=Turbo Charged
-descr=Drop to 1 HP.\nGain +1 ATK per lost HP.\nEffect Duration: As many Chapters as lost HP.\nLose 1 ATK per turn for the duration.\nEffect expires on KO.
+descr=Drop to 1 HP. Gain +1 ATK per lost HP.\nEffect Duration: As many Chapters as lost HP.\nLose 1 ATK per turn for the duration.\nEffect expires on KO.
 flavor="Rumble rumble rumble." ―Shifu Robot
 
 < CARD_HYPER_CASTLE >

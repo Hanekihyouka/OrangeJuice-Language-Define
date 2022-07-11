@@ -130,7 +130,7 @@ flavor="Gyaoooh!" ―Maynie
 
 < CARD_HYPER_COOP_MEI >
 name=White Christsmasher
-descr=Discard your current hand and deal 2 damage to enemies within 1 panel of you.\nFor each enemy KO'd, gain a win and KO'd Player's Lvl x5 stars.\nWhen carrying "Red & Blue", this card becomes "True White Christsmasher". 
+descr=Discard your current hand and deal 2 damage to enemies within 1 panel of you.\nFor each enemy KO'd, gain a win and stars equal to KO'd enemy's Lvl x5.\nWhen carrying "Red & Blue", this card becomes "True White Christsmasher". 
 flavor="White Christsmasher!" ―Mei
 
 < CARD_HYPER_COOP_MEITRUE >

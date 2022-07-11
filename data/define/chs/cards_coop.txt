@@ -1,11 +1,11 @@
 ﻿< CARD_BOOST_COOP_GENTLEMANSBATTLE >
 name=绅士的决斗
-descr=指定1个HP为上限的敌人，与其进行战斗。\n战斗结束后，回合结束。
+descr=指定1个HP为上限的敌人，与其进行战斗。\n战斗结束后回合结束。
 flavor=「接受我的挑战吧！」—公会会长
 
 < CARD_BOOST_COOP_AMBUSH >
 name=偷袭
-descr=与同一格的所有敌人进行战斗。\n之后回合结束。
+descr=与同一格的所有敌人进行战斗。\n战斗结束后回合结束。
 flavor=「咕啊！」—夏姆
 
 < CARD_EVENT_COOP_DINNER >

@@ -105,7 +105,7 @@ descr=成功闪避时，对手受到1点伤害。
 
 < CARD_UNIT_CUTIES >
 name=优空＆夏姆 (可爱者)
-descr=只能选择STAR目标。从奖励格获得STAR时额外获得X个，X为你使用的不同事件卡数量。战斗时随机ATK或DEF+1。
+descr=只能选择STAR目标。\n从奖励格获得STAR时额外获得X个，X为你使用的不同事件卡数量。\n战斗时随机ATK或DEF+1。
 
 < CARD_UNIT_FERNET >
 name=菲尔涅特
@@ -129,7 +129,7 @@ descr=DEF的相反数加到ATK上。\n先攻时DEF-1。
 
 < CARD_COOP_UNIT_KAE >
 name=佳爱
-descr=DEF的相反数加到ATK上。\n
+descr=DEF的相反数加到ATK上。
 
 < CARD_UNIT_KAI >
 name=凯
@@ -277,7 +277,7 @@ descr=
 
 < CARD_UNIT_SHIFUROBOT_MP >
 name=希夫机器人
-descr=游戏开始时与复活时HP为2。\n复活后持续3回合ATK-1。\n若连续3回合存活且HP小于上限，\n恢复1点HP。
+descr=游戏开始时与复活时HP为2。\n复活后持续2回合MOV-1。\n若连续3回合存活且HP小于上限，\n恢复1点HP。
 
 < CARD_COOP_UNIT_SHIFUROBOT >
 name=希夫机器人

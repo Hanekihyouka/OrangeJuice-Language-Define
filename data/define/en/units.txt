@@ -277,7 +277,7 @@ descr=
 
 < CARD_UNIT_SHIFUROBOT_MP >
 name=Shifu Robot
-descr=Start and revive with 2 HP. -1 ATK for 3 turns after revival. If active and below maximum HP for 3 consecutive turns, heal 1 HP.
+descr=Start and revive with 2 HP. -1 MOV for 2 turns after revival. If active and below maximum HP for 3 consecutive turns, heal 1 HP.
 
 < CARD_COOP_UNIT_SHIFUROBOT >
 name=Shifu Robot

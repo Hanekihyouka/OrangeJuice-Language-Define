@@ -393,7 +393,7 @@ descr=If you have 3 Auto-Repair at the start of turn, heal 1 HP and remove them.
 
 < CARD_BOSSROBOWRECKED_EFFECT >
 name=Slow Start
-descr=-1 ATK.
+descr=-1 MOV.
 
 < CARD_PHILOSOPHERSTONE_EFFECT >
 name=Philosopher's Stone

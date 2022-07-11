@@ -66,7 +66,7 @@ flavor=「啊！牛先生！青蛙先生！！」—夕希\n「哈哈哈！尽�
 
 < CARD_BOOST_COMPLETIONREWARD >
 name=成功报酬
-descr=获得这场游戏中你设置的陷阱\n被触发次数×7的STAR。
+descr=获得这场游戏中你设置的陷阱\n被角色停留次数×7的STAR。
 flavor=「哇，发工资啦～！」—克丽丝\n「可不要乱花哦。」—店长
 
 < CARD_BATTLE_EXTENSION >
@@ -76,7 +76,7 @@ flavor=「我的工作就是将你击败。」—娜德
 
 < CARD_BOOST_GENTLEMANSBATTLE >
 name=绅士的决斗
-descr=指定1名HP为上限的玩家，与其进行战斗。\n战斗结束后，回合结束。
+descr=指定1名HP为上限的玩家，与其进行战斗。\n战斗结束后回合结束。
 flavor=「接受我的挑战吧！」—公会会长
 
 < CARD_EVENT_PLAYOFTHEGODS >
