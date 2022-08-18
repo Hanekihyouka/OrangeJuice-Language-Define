@@ -829,6 +829,31 @@ QP还想多玩一会！夏日野兽复活了！
 打破一切规则！投入混沌的怀抱吧！
 
 
+< PLAYMENU_EVENT_PTS_INSTRUCTION_MAIN >
+目的地已近在咫尺！带领艾莉和露露赶在阿妮尔\n一行人之前抵达湖畔的神殿吧！
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_01 >
+进行任意模式游戏可获得移动点数，使用\n移动点数即可探索活动地图！
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_02 >
+每日的首场游戏可以获得3点移动点数，之后\n每场游戏可获得1点。
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_03 >
+每点移动点数都可以让你在活动地图上\n移动1格。
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_04 >
+移动点数会自动用来沿着你所选择的路线前进，\n直到遭遇岔路为止。你可以选择从哪条路线前进。
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_05 >
+经过某些格子时将获得星星、橙子、随机装扮\n甚至活动奖励！
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_06 >
+谁将获得传说中的宝物？让我们拭目以待吧……
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_COMPLETE >
+你已经到达了神殿！但你还可以重复这次旅程\n以获得更多奖励。
+
+
 < PLAYMENU_EVENT_NEXT_GOAL >
 下一个目标：
 

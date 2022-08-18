@@ -373,7 +373,7 @@ descr=When receiving damage from a non-battle effect, that damage is reduced by 
 
 < CARD_SAINTEYES_EFFECT >
 name=Saint Eyes
-descr=In battles where you attack first, gain -1 ATK and +1 DEF for every 2 stacks, and +1 ATK per stack.
+descr=In battles where you attack first, gain +1 ATK per odd stack, and +1 DEF per even stack.
 
 < CARD_CHEFSUMMON_EFFECT >
 name=Chef, I Need Your Help!

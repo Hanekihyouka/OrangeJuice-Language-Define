@@ -152,7 +152,7 @@
 <0150> Why don't we make some sweets?
 <0151> You want to cook something with me?
 <0152> Fufufu, make me something delicious, okay?
-<0153> All right, I'll give you a feast you tonight.
+<0153> All right, I'll give you a feast tonight.
 <0154> Ufufu, everyone looks like they're having fun.
 <0155> Hmmm! La lah!
 <0156> It's time for dinner!

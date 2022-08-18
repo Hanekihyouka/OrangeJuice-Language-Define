@@ -145,7 +145,7 @@
 <0144> You don't have a lower body! It's because of a disease, isn't it?
 <0145> Where did you lose your whole lower body...?
 <0146> I'm sure performing a surgery on a giant like you will be very challenging.
-<0147> How can you be so enegetic when you only have an upper body... Pure insanity.
+<0147> How can you be so energetic when you only have an upper body... Pure insanity.
 <0148> Would you look at your shoulders... You have to be suffering from a very rare disease...
 <0149> Your eyes resemble those of a dead fish... It has to be a mental health issue...!
 <0150> Relax, I'm going to treat you.

@@ -246,12 +246,12 @@ flavor=「超能模式！」—QP
 
 < CARD_HYPER_TOMOMO >
 name=杀戮魔法
-descr=HP为上限及以上的所有角色倒下。\n下次复活骰时，REC减去倒下人数。
+descr=击倒HP为上限及以上的所有角色。\n在下次复活骰时，REC减去除你自己以外的\n击倒角色数。
 flavor=「消失吧。」—兔萌萌
 
 < CARD_HYPER_ARU >
 name=给你的礼物
-descr=所有玩家抽卡直到上限。\n如果原本已达上限则抽取1张卡\n使用这张卡的玩家获得抽卡数×10的STAR。
+descr=所有玩家抽卡直到上限。\n如果原本已达上限则抽取1张卡。\n使用这张卡的玩家获得抽卡数×10的STAR。
 flavor=「这是给好孩子的礼物哟～」—亚琉
 
 < CARD_HYPER_KAI >

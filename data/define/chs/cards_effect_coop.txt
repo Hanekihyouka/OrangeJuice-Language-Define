@@ -238,6 +238,10 @@ descr=EVD+2。
 name=涡轮鸡
 descr=移动时的骰子个数+1，在挑战敌人时不会停步。\n每层储备使ATK+1。\n每与1名玩家战斗过，获得25个STAR。
 
+< CARD_BOSS_SWARM_EFFECT >
+name=群鸡起舞
+descr=在下一场战斗中ATK+2，且如果先攻，对方无法反击。（每场战斗只能起效1次）
+
 < CARD_SKILL_COOP_FURY_EFFECT >
 name=愤怒
 descr=每层储备使战斗中造成的伤害+1。

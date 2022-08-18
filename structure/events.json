@@ -343,6 +343,8 @@
       "swamp.dat": 1048704,
       "volcano.dat": 1048704
     },
+    "board.dat": 524416,
+    "boardBounty.dat": 65664,
     "counter.dat": 262272,
     "field": {
       "castle00.dat": 262272,
@@ -398,6 +400,8 @@
       "volcano_lava02.dat": 262272,
       "volcano_lava03.dat": 262272
     },
+    "forecast.dat": 65664,
+    "forecast_hover.dat": 65664,
     "gamemode_bounty128.dat": 65664,
     "harucraft_numbers.dat": 1048704,
     "inventory.dat": 4194432,
@@ -547,6 +551,12 @@
     "logo.dat": 524416,
     "summer21_lose.dat": 524416,
     "summer21_win.dat": 524416,
+    "tutorial_00.dat": 262272,
+    "tutorial_01.dat": 262272
+  },
+  "summer2022": {
+    "logo.dat": 524416,
+    "signpost.dat": 262272,
     "tutorial_00.dat": 262272,
     "tutorial_01.dat": 262272
   },

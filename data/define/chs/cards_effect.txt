@@ -373,7 +373,7 @@ descr=受到战斗外效果的造成伤害时，这个伤害降低1点，失去�
 
 < CARD_SAINTEYES_EFFECT >
 name=圣露眼
-descr=在由你先攻的战斗中每层储备使ATK+1，\n每2层储备使ATK-1、DEF+1。
+descr=在由你先攻的战斗中，\n每奇数层储备使ATK+1，\n每偶数层储备使DEF+1。
 
 < CARD_CHEFSUMMON_EFFECT >
 name=拜托了厨师长！

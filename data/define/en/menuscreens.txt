@@ -832,6 +832,31 @@ This event does not have an ending or unique rewards. By playing in the Chaos Mo
 It's time to break all the rules! Embrace the chaos! 
 
 
+< PLAYMENU_EVENT_PTS_INSTRUCTION_MAIN >
+The target is in sight! Let's guide Ellie and Lulu to the lake shrine before Team Arnelle!
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_01 >
+Play games in any game mode to receive Movement Points, then use them to explore the event map!
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_02 >
+You will gain 3 Movement Points for your first game of the day, and an additional point every game.
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_03 >
+One Movement Point allows you to move one panel on the event map.
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_04 >
+Movement points will automatically be used to travel along the chosen path until a crossroads.\nIt's up to you which path you will take on the journey.
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_05 >
+Passing certain panels will grant you stars, oranges, a random cosmetic or even an event reward!
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_06 >
+Who will obtain the fabled treasure? Only time will tell...
+
+< PLAYMENU_EVENT_PTS_INSTRUCTION_COMPLETE >
+You have reached the shrine! However, you may repeat the trek as many times as you want for even more rewards.
+
+
 < PLAYMENU_EVENT_NEXT_GOAL >
 Next goal:
 

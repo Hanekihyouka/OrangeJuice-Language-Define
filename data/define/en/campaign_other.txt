@@ -54,6 +54,12 @@ Cook
 < CAMPAIGN_CHARACTER_HALENA > 
 Halena
 
+< CAMPAIGN_CHARACTER_WATTY >
+Watty
+
+< CAMPAIGN_CHARACTER_POMERANIUS > 
+Pomeranius
+
 < CAMPAIGN_PRESENTCONFIRM >
 Really select this present?
 

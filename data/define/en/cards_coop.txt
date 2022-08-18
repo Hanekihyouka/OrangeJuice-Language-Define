@@ -355,7 +355,7 @@ flavor=
 
 < CARD_BOSS_COOP_SWARM >
 name=Swarm
-descr=All minions on the field will gain +2 ATK for their next battle and battle a random player. Players cannot counter-attack.\nBoss will use Dash afterwards.
+descr=All minions on the field will gain +2 ATK for their next battle, then leap to and battle a random player. Players cannot counter-attack.\nBoss will use Dash afterwards.
 flavor=
 
 < CARD_BOSS_COOP_FINAL_WARNING >

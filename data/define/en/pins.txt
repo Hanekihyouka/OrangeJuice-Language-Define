@@ -37,3 +37,23 @@ artist=Yulay Devlet
 name=Contributor
 desc=Granted to players who officially contributed to 100% Orange Juice in a way or another.
 artist=Yulay Devlet
+
+< PIN_FLYING_HIME >
+name=Flying Hime
+desc=Granted to the players who played as Hime a lot.\nDo not underestimate the chains of the Guardian.
+artist=Sora
+
+< PIN_FLYING_FERNET >
+name=Flying Fernet
+desc=Granted to the players who played as Fernet a lot.\nWould you like a cup of tea?
+artist=Sora
+
+< PIN_FLYING_YUKI >
+name=Flying Yuki
+desc=Granted to the players who played as Yuki a lot.\nWhat about gambling our lives away?
+artist=Sora
+
+< PIN_FLYING_POPPO >
+name=Flying Poppo
+desc=Granted to the players who played as Poppo a lot.\nProof of a deeper understanding of the game.
+artist=Sora

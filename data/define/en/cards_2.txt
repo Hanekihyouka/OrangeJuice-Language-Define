@@ -566,7 +566,7 @@ flavor="Gyaoooh!" ―Maynie
 
 < CARD_HYPER_KYUPITA >
 name=Saint Eyes
-descr=Stock Effect (3). In a battle where you attack first, gain -1 ATK and +1 DEF for every 2 stock, and +1 ATK per stock. This effect can stack.
+descr=Stock Effect (3)\nIn a battle where you attack first, gain +1 ATK per odd stock, and +1 DEF per even stock. This effect can stack.
 flavor="I'm going to use my saint eyes!" ―Kyupita
 
 < CARD_HYPER_CHRIS_CHEF >

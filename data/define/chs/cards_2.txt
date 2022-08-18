@@ -566,7 +566,7 @@ flavor=「嘎哦哦哦哦！」—梅妮
 
 < CARD_HYPER_KYUPITA >
 name=圣露眼
-descr=储备效果（3）\n在由你先攻的战斗中每层储备使ATK+1，\n每2层储备使ATK-1、DEF+1。\n该效果可叠加。
+descr=储备效果（3）\n在由你先攻的战斗中，\n每奇数层储备使ATK+1，\n每偶数层储备使DEF+1。\n该效果可叠加。
 flavor=「就靠我这圣露眼！！」—QP太
 
 < CARD_HYPER_CHRIS_CHEF >

@@ -180,7 +180,7 @@ flavor=「因为我是星球破坏者，\n破坏星球的导火线。」—星�
 
 < CARD_HYPER_COOP_STARBREAKER2 >
 name=不可视的炸弹
-descr=敌人受到4点伤害。\n友方不会触发这张卡。\n只有设置这张卡的玩家和队友\n可以看到这张卡。
+descr=敌人受到4点伤害。\n友方不会触发这张卡。\n只有设置这张卡的玩家自己和队友\n可以看到这张卡。
 flavor=「因为我是星球破坏者，\n破坏星球的导火线。」—星球破坏者
 
 < CARD_HYPER_COOP_SWEETBREAKER >
@@ -200,7 +200,7 @@ flavor=「复仇！」—托玛特
 
 < CARD_HYPER_COOP_TOMOMO >
 name=杀戮魔法
-descr=所有敌人受到X点伤害。\nX为倒下的队友人数×3。
+descr=对所有敌人造成X点伤害。\nX为倒下的队友人数×3。
 flavor=「消失吧。」—兔萌萌
 
 < CARD_HYPER_COOP_TOMOMOSWEETEATER >
@@ -355,7 +355,7 @@ flavor=
 
 < CARD_BOSS_COOP_SWARM >
 name=群鸡起舞
-descr=场上的所有手下在下一场战斗中\nATK+2，并与1名随机玩家战斗。\n玩家无法反击。\n之后BOSS会使用冲刺。
+descr=场上的所有手下在下一场战斗中\nATK+2，然后跃向1名随机玩家\n并与其战斗。\n玩家无法反击。\n之后BOSS会使用冲刺。
 flavor=
 
 < CARD_BOSS_COOP_FINAL_WARNING >

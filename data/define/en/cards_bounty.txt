@@ -162,9 +162,4 @@ name=Guidance of the Weathercock
 descr=Stock Effect.\nRoll 2 dice for everything except for battle. This effect ends when you stop on a Home panel.
 flavor="*Cheep cheep*! Cook wants to go this way." ―Cook
 
-< CARD_BOUNTY_PLAYER >
-name=DEAD OR ALIVE
-descr=Wanted for committing crimes against society.
-flavor=
-
 [EOF]

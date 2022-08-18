@@ -246,7 +246,7 @@ flavor="HYPER MODE!" ―QP
 
 < CARD_HYPER_TOMOMO >
 name=Magical Massacre
-descr=All units whose HP is full or higher will suffer KO. Gain -1 REC on next Revive roll for each enemy KO'd.
+descr=All units whose HP is full or higher will suffer KO. Gain -1 REC on next Revive roll per unit KO'd (other than yourself).
 flavor="Disappear." ―Tomomo
 
 < CARD_HYPER_ARU >

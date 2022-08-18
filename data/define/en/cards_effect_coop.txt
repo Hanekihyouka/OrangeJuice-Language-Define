@@ -238,6 +238,10 @@ descr=Gain +2 EVD.
 name=Turbo Chicken
 descr=Gain an additional movement dice and do not stop when challenging an enemy.\nGain +1 ATK for each additional stack.\nGain 25 stars when fighting an enemy.
 
+< CARD_BOSS_SWARM_EFFECT >
+name=Swarm
+descr=In next battle, gain +2 ATK and if attacking first, the enemy cannot counterattack (once per combat).
+
 < CARD_SKILL_COOP_FURY_EFFECT >
 name=Fury
 descr=Deal 1 additional damage in battle per stack.

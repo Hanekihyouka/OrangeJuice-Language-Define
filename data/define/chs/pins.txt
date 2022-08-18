@@ -37,3 +37,23 @@ artist=Yulay Devlet
 name=贡献者
 desc=授予以某种方式为100%鲜橙汁作出正式贡献的玩家。
 artist=Yulay Devlet
+
+< PIN_FLYING_HIME >
+name=飞翔的姬梦
+desc=授予使用姬梦进行过很多场游戏的玩家。\n切勿轻视守护者的锁链。
+artist=Sora
+
+< PIN_FLYING_FERNET >
+name=飞翔的菲尔涅特
+desc=授予使用菲尔涅特进行过很多场游戏的玩家。\n要来杯茶吗？
+artist=Sora
+
+< PIN_FLYING_YUKI >
+name=飞翔的由希
+desc=授予使用由希进行过很多场游戏的玩家。\n要来场押上性命的赌局吗？
+artist=Sora
+
+< PIN_FLYING_POPPO >
+name=飞翔的啵噗
+desc=授予使用啵噗进行过很多场游戏的玩家。\n对游戏有着深刻理解的证明。
+artist=Sora

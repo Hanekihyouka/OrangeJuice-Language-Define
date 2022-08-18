@@ -22,3 +22,30 @@
 3=Marc is younger than anyone else in the Guild, an organization formed and run by aviators. Her trusty airplane "Red Barrel" literally looks like a red barrel.
 4=Marc's two pet peeves are a boy named Peat who's constantly giving her trouble for stealing his position as the youngest in the Guild, and her best friend Fernet messing with her after their friendship broke up over a fight.
 5=Marc's latest frustration is having to find her own jobs because the Guildmaster went on a rampage and caused the Guild to collapse.
+
+< LORE_HIME >
+1=A gentle girl who appears around 14 years old.
+2=Likes: The atmosphere\nDislikes: The void of space
+3=Hime has lived for over 10,000 years without aging physically. She used to play the role of the guardian of the humans who'd left Earth to travel into space for certain reasons. 
+4=Now that she's back on Earth and done protecting her people, Hime's living a slow and quiet life.
+5=Hime's relaxed, elegant demeanor reminds one of a well-brought up girl who's accepting of everyone and everything. Her long life has given her a calm and collected outlook on the everyday events of life, though she still acts and talks in a way that befits her apparent age.
+
+< LORE_FERNET >
+1=The daughter of a rich family, Fernet is 16 years old and childhood friends with Marc.
+2=Likes: Her parents\nDislikes: Inelegant people/things
+3=Fernet doesn't hail from nobility. Instead, her father became a millionaire during the rapid growth of the aviation industry. When Fernet was little, she was having trouble getting along with the kids from other rich families, so her parents decided to send her to a school for ordinary kids, where she met and befriended Marc. 
+4=When the two girls grew up, their friendship suffered a rough patch because Marc decided that she wanted to be an aviator, and Fernet didn't like that idea.
+5=Fernet isn't selfish, but she's the age where she finds it embarrassing to express her feelings, and as a result can sound blunt and thoughtless. She also feels like she has to go above and beyond in order to fit in with the other rich families.
+
+< LORE_YUKI >
+1=A cat-eared girl who looks to be 16 years old and speaks in Kansai dialect.
+2=Likes: Manga\nDislikes: Conceited people
+3=Yuki enjoys bullying the dog girl QP; In the QP Shooting game, Yuki steals QP's most favorite food, pudding, from her and even ruins the dessert by pouring soy sauce on it right in front of her.
+4=This domineering, self-assured dictator leads a group of mischievous kids called the Waruda, spending most of her time hanging out with the members.
+
+< LORE_POPPO >
+1=Marie Poppo is the mischievous mascot of 100% Orange Juice.
+2=Likes: Stars\nDislikes: Quiet places
+3=She makes fun of other people and thinks she's the cutest in the whole world.
+4=Poppo tends to speak in cute "poppo" sounds, but is in fact perfectly capable of speaking normally.
+5=There actually exists more than one Poppo! The strange creatures are minions created by Tomomo, the creator of 100% Orange Juice.
