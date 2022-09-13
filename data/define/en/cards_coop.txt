@@ -35,7 +35,7 @@ flavor="The train's full of dangerous stuff?!" ―Tomato
 
 < CARD_EVENT_COOP_PETSNACKS >
 name=Pet Snacks
-descr=Boss and all active minions gain -1 ATK in their next battle.
+descr=Boss and all active minions gain -1 ATK in their next battle. This effect can stack.
 flavor="Guys, it's snack time! Come eat!" ―Syura
 
 < CARD_BOOST_COOP_FREIGHT >
@@ -130,12 +130,12 @@ flavor="Gyaoooh!" ―Maynie
 
 < CARD_HYPER_COOP_MEI >
 name=White Christsmasher
-descr=Discard your current hand and deal 2 damage to enemies within 1 panel of you.\nFor each enemy KO'd, gain a win and stars equal to KO'd enemy's Lvl x5.\nWhen carrying "Red & Blue", this card becomes "True White Christsmasher". 
+descr=Discard your current hand and deal 2 damage to enemies within 1 panel of you.\nFor each enemy KO'd, gain a win and stars equal to your Lvl x5.\nWhen carrying "Red & Blue", this card becomes "True White Christsmasher". 
 flavor="White Christsmasher!" ―Mei
 
 < CARD_HYPER_COOP_MEITRUE >
 name=True White Christsmasher
-descr=Deal 4 damage to enemies within 2 panels of you.\nFor each enemy KO'd, gain 2 wins and stars equal to KO'd enemy's Lvl x10.\nWhen not carrying "Red & Blue", this card becomes "White Christsmasher".
+descr=Deal 4 damage to enemies within 2 panels of you.\nFor each enemy KO'd, gain 2 wins and stars equal to your Lvl x10.\nWhen not carrying "Red & Blue", this card becomes "White Christsmasher".
 flavor="White Christsmasher!" ―Mei, Red & Blue
 
 < CARD_HYPER_COOP_NATH >
@@ -270,12 +270,12 @@ flavor="We are the strongest idols!" ―Sora & Sham
 
 < CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE >
 name=Affluence (X)
-descr=Choose one of the following:\n1. If not Affluence (4), upgrade this card.\n2. Fight the Boss. They gain -X ATK, where X = Affluence level. If you are not KO'd, the opponent gives you X x 20 stars.\nIf not held by Fernet, this card becomes New Nobility.
+descr=Fight the Boss. They gain -X ATK, where X = Affluence level. You cannot attack. If you are not KO'd, the opponent gives you X x 20 stars.\nIf not Affluence (4), you may instead pay this card's cost to upgrade it.\nIf not held by Fernet, this card becomes New Nobility.
 flavor="You wish to ask me for a favor...? My my, of course I'd be ever so happy to help a friend." ―Fernet
 
 < CARD_HYPER_COOP_FERNETNOBLE_AFFLUENCE_V >
 name=Affluence (%d)
-descr=Choose one of the following:\n1. If not Affluence (4), upgrade this card.\n2. Fight the Boss. They gain -X ATK, where X = Affluence level. If you are not KO'd, the opponent gives you X x 20 stars.\nIf not held by Fernet, this card becomes New Nobility.
+descr=Fight the Boss. They gain -X ATK, where X = Affluence level. You cannot attack. If you are not KO'd, the opponent gives you X x 20 stars.\nIf not Affluence (4), you may instead pay this card's cost to upgrade it.\nIf not held by Fernet, this card becomes New Nobility.
 flavor="You wish to ask me for a favor...? My my, of course I'd be ever so happy to help a friend." ―Fernet
 
 < CARD_HYPER_COOP_SHIFU >

@@ -469,7 +469,7 @@ descr=任何玩家在场上挑战你时，必须支付其等级数\n的STAR。
 
 < CARD_COOP_UNIT_FERNETNOBLE >
 name=社交界的菲尔涅特
-descr=当你被敌人挑战时，对方失去你等级数的\nSTAR，你获得你等级数的STAR。
+descr=任何敌人在场上挑战你时，支付你等级数\n的STAR。
 
 < CARD_UNIT_SHIFU >
 name=希夫

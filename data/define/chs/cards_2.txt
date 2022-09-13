@@ -536,7 +536,7 @@ flavor=「马……马上就要生出来了……」—露露
 
 < CARD_HYPER_MARCPILOT_NORMAL >
 name=火箭炮
-descr=从以下效果中选择一种使用：\n1.这张卡变为「大火箭炮」。\n2.对指定敌人造成1点伤害。\n击倒角色时，你获得等同于在战斗中击倒的\nWIN。
+descr=对指定敌人造成1点伤害。击倒角色时，你获得\n等同于在战斗中击倒的WIN。\n你也可以选择支付这张卡的COST，将这张卡\n变为「大火箭炮」。
 flavor=「赤红酒桶上……\n可是有着这种武器的！」—玛儿
 
 < CARD_HYPER_MARCPILOT_UPGRADE >
@@ -566,7 +566,7 @@ flavor=「嘎哦哦哦哦！」—梅妮
 
 < CARD_HYPER_KYUPITA >
 name=圣露眼
-descr=储备效果（3）\n在由你先攻的战斗中，\n每奇数层储备使ATK+1，\n每偶数层储备使DEF+1。\n该效果可叠加。
+descr=储备效果（3）\n在由你先攻的战斗中，\n每奇数层储备使ATK+1，\n每偶数层储备使DEF+1，\n然后消耗1层储备。\n该效果可叠加。
 flavor=「就靠我这圣露眼！！」—QP太
 
 < CARD_HYPER_CHRIS_CHEF >

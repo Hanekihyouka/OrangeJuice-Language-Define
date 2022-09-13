@@ -469,7 +469,7 @@ descr=Any player challenging you on the field must pay their Lvl x Stars to do s
 
 < CARD_COOP_UNIT_FERNETNOBLE >
 name=Fernet (Noble)
-descr=When challenged by an enemy, the opponent loses your Lvl x Stars and you gain your Lvl x Stars. 
+descr=Any enemy challenging you on the field will pay your Lvl x Stars. 
 
 < CARD_UNIT_SHIFU >
 name=Shifu
