@@ -277,11 +277,11 @@ descr=
 
 < CARD_UNIT_SHIFUROBOT_MP >
 name=Shifu Robot
-descr=Start and revive with 2 HP. -1 MOV for 2 turns after revival. If active and below maximum HP for 3 consecutive turns, heal 1 HP.
+descr=Start and Auto-Revive with 1 HP and a 1 HP Absorptive Shell.\nAuto-Repair: At the start of your turn, every 3rd chapter, heal 1 HP and remove Absorptive Shell.\nRevive with -1 MOV for 2 chapters.
 
 < CARD_COOP_UNIT_SHIFUROBOT >
 name=Shifu Robot
-descr=Start and revive after 2 turns with 2 HP. If active and below maximum HP for 3 consecutive turns, heal 1 HP.\nGain a stack of Burn Out every time you revive.\nStock Effect: Recovery is delayed 1 turn for each stack.
+descr=Start and Auto-Revive after 2 turns with 1 HP and a 1 HP Absorptive Shell.\nAuto-Repair: At the start of your turn, every 3rd chapter, heal 1 HP and remove Absorptive Shell.\nGain a stack of Burn Out every time you revive.\nStock Effect: Recovery is delayed 1 turn for each stack.
 
 < CARD_UNIT_SORA >
 name=Sora
@@ -478,5 +478,17 @@ descr=Deal +2 battle damage to robotic wild units. When a robotic wild unit defe
 < CARD_UNIT_REIKA >
 name=Hoshino Reika
 descr=Can only choose Stars norma.\nGain +1 star from all sources except for chapter bonus or from Star Collector.
+
+< CARD_UNIT_WATTY >
+name=Watty
+descr=After battle, gain 1 stack of Hardened Scales for each point of damage reduced by using Defend (max 5).\n(For 3 Chapters: gain +1 ATK per stack. Effect expires on KO).
+
+< CARD_UNIT_POMERANIUS >
+name=Pomeranius
+descr=Ignore any Trap card landed on when your HP is full or higher.
+
+< CARD_COOP_UNIT_WATTY >
+name=Watty
+descr=After battle, gain 1 stack of Hardened Scales for every 2 points of damage reduced by using Defend (max 5).\n(For 3 Chapters: gain +1 ATK per stack. Effect expires on KO).
 
 [EOF]

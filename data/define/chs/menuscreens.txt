@@ -873,7 +873,7 @@ QP还想多玩一会！夏日野兽复活了！
 声望：%d
 
 < PLAYMENU_EVENT_BOUNTYHUNTERS_RIBBON > 
-你得到了露露的丝带！
+你得到了露露的蝴蝶结！
 
 < PLAYMENU_LOADING_TEXT > 
 读取中……

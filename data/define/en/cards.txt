@@ -276,7 +276,7 @@ flavor="Manager, it's your turn!!" ―Chris
 
 < CARD_HYPER_BOSSROBO >
 name=Turbo Charged
-descr=Drop to 1 HP. Gain +1 ATK per lost HP.\nEffect Duration: As many Chapters as lost HP.\nLose 1 ATK per turn for the duration.\nEffect expires on KO.
+descr=Drop to 1 HP. Gain 1 stack of Turbo Charged per lost HP.\nEffect Duration: As many chapters as stacks of Turbo Charged. Gain +1 ATK per stack. Lose 1 stack per turn.\nIf target is Shifu Robot, at the start of turn also heal 1 HP and remove Absorptive Shell, but do not heal from Auto-Repair.\nEffect expires on KO.
 flavor="Rumble rumble rumble." ―Shifu Robot
 
 < CARD_HYPER_CASTLE >

@@ -149,4 +149,10 @@ Tokiwa Shouhei
 < VOICEACTOR_KUWAHARA_YUUKI >
 Kuwahara Yuuki
 
+< VOICEACTOR_ONO_YUKO >
+Oono Yuuko
+
+< VOICEACTOR_OGAMI_SHINNOSUKE >
+Shinnosuke Ogami
+
 [EOF]

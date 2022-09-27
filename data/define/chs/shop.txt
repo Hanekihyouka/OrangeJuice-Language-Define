@@ -158,6 +158,12 @@ Ultimate Weapon Girl
 < SHOP_DLC_SHIFUREIKA >
 希夫＆丽华
 
+< SHOP_DLC_PUDDINGPOP >
+布丁Pop
+
+< SHOP_DLC_WATTYPOMERANIUS >
+沃缇＆波美拉尼亚斯
+
 < SHOP_TOOLTIP_HOME >
 按类别图标查看商店。
 

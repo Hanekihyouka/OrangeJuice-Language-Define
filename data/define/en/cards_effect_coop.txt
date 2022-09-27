@@ -62,6 +62,10 @@ descr=Gain -3 MOV, can only trigger movement type panels and cannot use cards. C
 name=Robo Pals
 descr=Robotic units will fight in battle on behalf of the player. These robotic units will gain +1 ATK during battle.
 
+< CARD_COOP_GOODESTBOY_EFFECT >
+name=Goodest Boy
+descr=Ignore Boss panels.\nWhen staying on a panel with another player at the end of either of your turns, both draw a card.\nYou can neither challenge nor be challenged.\nPlayers may stop to Pet you.
+
 < CARD_BOSS_HYPE_EFFECT >
 name=Hype
 descr=When 10 stacks are reached, boss will use "Rampage".

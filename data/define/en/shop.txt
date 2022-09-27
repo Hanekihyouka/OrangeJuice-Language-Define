@@ -158,6 +158,12 @@ Malt & Mescal
 < SHOP_DLC_SHIFUREIKA >
 Shifu & Reika
 
+< SHOP_DLC_PUDDINGPOP >
+Pudding Pop
+
+< SHOP_DLC_WATTYPOMERANIUS >
+Watty & Pomeranius
+
 < SHOP_TOOLTIP_HOME >
 Navigate the shop by category icons.
 

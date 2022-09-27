@@ -168,3 +168,9 @@ Awaiting player action...
 
 < GAME_MESSAGE_PICK_UNIT >
 Pick your Unit
+
+< GAME_MESSAGE_PET_PLAYER >
+Pet this player?
+
+< GAME_MESSAGE_PET_DOG >
+Would you like to pet the dog?

@@ -62,6 +62,10 @@ descr=MOV-3，只能触发移动类型的格子，不能使用卡片。\n无法�
 name=机械朋友
 descr=机械系角色将会代替玩家进行战斗，且此机械系角色将ATK+1。
 
+< CARD_COOP_GOODESTBOY_EFFECT >
+name=可爱到犯规的小狗狗
+descr=不会触发BOSS格。\n当你与另一名玩家在同一格，且其中一方回合\n结束时，双方皆抽取一张卡。无法发起挑战\n或受到挑战。\n玩家可以停下来摸摸你。
+
 < CARD_BOSS_HYPE_EFFECT >
 name=兴奋
 descr=当拥有10层储备时，BOSS将会使用“撒野”。
@@ -143,7 +147,7 @@ name=恢复模式
 descr=直到下一场战斗，跳过移动骰并每回合恢复2点HP。
 
 < CARD_BOSS_PERFECTREFLECTIVESHELL_EFFECT >
-name=完美反射外装
+name=完美反射外壳
 descr=受到的每点伤害都将返还给攻击者。
 
 < CARD_BOSS_PROTECT_EFFECT >

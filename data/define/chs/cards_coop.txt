@@ -264,7 +264,7 @@ descr=免疫BOSS及其手下造成的STAR丢失效果。\n效果发动后将丢�
 flavor=「服从我吧！野兽们！」—缇欧特拉塔
 
 < CARD_HYPER_COOP_CUTIES >
-name=特别舞台
+name=特别演出
 descr=★COST（等级×10）\n进入X回合的演唱会模式，X为你的等级数。\nMOV-3，只能触发移动类型的格子，无法使用卡片。\n不会被敌人挑战。\n当对手在5×5范围内结束回合时，\n从其手中夺走你等级×5的STAR。\n倒下时演唱会结束。
 flavor=「这就是最强的可爱者！」—优空和夏姆
 
@@ -287,6 +287,16 @@ flavor=「一切都如我所愿。」—希夫
 name=星星收集者
 descr=持续效果（3轮）\n当一名玩家从格子或战斗击倒获得STAR时，\n将额外获得其等级数的STAR。
 flavor=「呵呵呵，好多星星啊。」—丽华
+
+< CARD_HYPER_COOP_WATTY >
+name=魔力解放
+descr=持续效果（3轮）\nDEF+2。硬化鳞片的最大层数增加至10。\n当你获得10层硬化鳞片时，对BOSS造成\n你等级数的伤害，并对场上的所有其它敌人造成\n一半的伤害。
+flavor=「这、这很危险的……对不起。」—沃缇
+
+< CARD_HYPER_COOP_POMERANIUS >
+name=可爱到犯规的小狗狗
+descr=持续效果（3轮）\n不会触发BOSS格。\n当你与另一名玩家在同一格，且其中一方回合\n结束时，双方皆抽取一张卡。无法发起挑战\n或受到挑战。\n玩家可以停下来摸摸你。
+flavor=「呜呜～」—波美拉尼亚斯
 
 < CARD_BOSS_COOP_DOZE >
 name=打盹
@@ -474,7 +484,7 @@ descr=储备效果（1）\n直到下一场战斗，\n跳过移动骰并每回合
 flavor=
 
 < CARD_BOSS_COOP_PERFECT_REFLECTIVE_SHELL >
-name=完美反射外装
+name=完美反射外壳
 descr=受到的每点伤害都将返还给攻击者。
 flavor=
 

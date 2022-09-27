@@ -71,7 +71,7 @@
 <0022> "That weird Ms. Treasure Hunter."
 
 // (arnelle)
-<0023> "It's Arnelle! Never forget my name!"
+<0023> "It's Arnelle! Never forget my name again!"
 
 // (lulu)
 <0024> "Sorry."
@@ -80,7 +80,7 @@
 <0025> "Ellie, who are those people?"
 
 // (ellie)
-<0026> "They and us got in trouble before, and it was all on them!"
+<0026> "We got in some trouble together before, all because of them!"
 
 // (maynie)
 <0027> "Don't you dare put all the blame on us!"

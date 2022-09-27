@@ -387,9 +387,13 @@ descr=「店长」会代替你进行战斗。\n允许克丽丝向其他角色发
 name=店长值
 descr=在使用上限为1的卡片时获得。当店长值大于等于4且你的等级大于等于4时，「拜托了厨师长！」会变为「拜托了店长！」。
 
+< CARD_BOSSROBOBARRIER_EFFECT >
+name=吸收外壳
+descr=吸收1点伤害。自动修复时移除。
+
 < CARD_BOSSROBOREPAIR_EFFECT >
 name=自动修复
-descr=如果你在回合开始时拥有3层自动修复，恢复1点HP并将其全部移除。在被击倒或HP到达上限时移除。
+descr=如果你在回合开始时拥有3层自动修复，恢复1点HP并将其全部移除。
 
 < CARD_BOSSROBOWRECKED_EFFECT >
 name=慢启动
@@ -520,5 +524,13 @@ descr=被勒令在此储备效果耗尽时离开战场。
 < CARD_IDEALWORLD_EFFECT >
 name=机械支配
 descr=你的下次遭遇战将会是机械系野怪，且此机械系角色将ATK+1。
+
+< CARD_HARDENEDSCALES_EFFECT >
+name=硬化鳞片
+descr=每层储备使ATK+1。倒下时效果结束。
+
+< CARD_GOODESTBOY_EFFECT >
+name=可爱到犯规的小狗狗
+descr=无法发起挑战或受到挑战。\n免疫立即击倒效果。\n当你与另一名玩家在同一格，且其中一方回合\n结束时，你获得对方一张随机手牌的副本。
 
 [EOF]

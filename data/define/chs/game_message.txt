@@ -60,7 +60,7 @@ BOSS出现了！
 选择下一个目标。
 
 < GAME_MESSAGE_NORMANOTACHIEVED >
-现在的目标并未达成。
+未完成目标。
 
 < GAME_MESSAGE_CARDDRAWN >
 抽卡。
@@ -168,3 +168,9 @@ BOSS出现了！
 
 < GAME_MESSAGE_PICK_UNIT >
 选择你的角色
+
+< GAME_MESSAGE_PET_PLAYER >
+要摸摸这名玩家吗？
+
+< GAME_MESSAGE_PET_DOG >
+要摸摸这只小狗吗？

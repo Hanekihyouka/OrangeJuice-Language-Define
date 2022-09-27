@@ -79,7 +79,7 @@
 购买能在游戏中使用的物品！
 
 < ARCADE_TOOLTIP_GAMEMACHINE >
-玩以前加入的小游戏！
+玩过去加入的小游戏！
 
 < ARCADE_MACHINE_PETCATCHER >
 抓宠物机

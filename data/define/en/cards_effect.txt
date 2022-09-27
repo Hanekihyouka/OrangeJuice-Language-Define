@@ -387,11 +387,15 @@ descr=Store Manager will fight in your stead. Allows Chris to challenge other un
 name=Store Manager Counter
 descr=Awarded for playing a Max 1 copy limit card. Gathering 4 or more while your level is 4 or higher will upgrade "Chef, I Could Use Some Help!" into "Manager, I Could Use Some Help!".
 
+< CARD_BOSSROBOBARRIER_EFFECT >
+name=Absorptive Shell
+descr=Absorb 1 point of damage. Removed on Auto-Repair.
+
 < CARD_BOSSROBOREPAIR_EFFECT >
 name=Auto-Repair
-descr=If you have 3 Auto-Repair at the start of turn, heal 1 HP and remove them. Removed on KO or reaching max HP.
+descr=If you have 3 Auto-Repair at the start of turn, remove them all to heal 1 HP.
 
-< CARD_BOSSROBOWRECKED_EFFECT >
+< CARD_BOSSROBOSLOWSTART_EFFECT >
 name=Slow Start
 descr=-1 MOV.
 
@@ -520,5 +524,13 @@ descr=Ordered to leave the battlefield after this stock effect expires.
 < CARD_IDEALWORLD_EFFECT >
 name=Robotic Takeover
 descr=Your next encounter will be a robotic wild unit. This robotic unit will gain +1 ATK.
+
+< CARD_HARDENEDSCALES_EFFECT >
+name=Hardened Scales
+descr=Gain +1 ATK for each stack. Effect expires on KO.
+
+< CARD_GOODESTBOY_EFFECT >
+name=Goodest Boy
+descr=Immune to instant KO effects. When staying on a panel with another player at the end of either player's turn, gain a copy of a random card in their hand. You can neither challenge nor be challenged; instead, opponents may stop to Pet you. Effect expires on KO.
 
 [EOF]

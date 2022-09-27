@@ -154,3 +154,11 @@
 <0153> Aren't you sleepy?
 <0154> Can I rub my cheek against yours?
 <0155> Fufu, are you having fun?
+<0156> You're such a fluffy puppy.
+<0157> Fufu... Oh, it's nothing.
+<0158> May I rub my cheek against yo-... No?
+<0159> How adorable...
+<0160> What wonderful flexibility.
+<0161> May I have a feather of yours?
+<0162> Those long ears... They're too cute.
+<0163> May I touch you just for a bit?

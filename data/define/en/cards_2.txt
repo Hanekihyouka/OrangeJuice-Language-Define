@@ -644,6 +644,16 @@ name=Star Collector
 descr=Effect Duration: 3 Chapters.\nWhenever another player gains stars from a panel or battle KO, they gain up to your Lvl fewer stars, and you gain your Lvl stars. Effect expires on KO.
 flavor="Fufufu, look how many stars I have here." ―Reika
 
+< CARD_HYPER_WATTY >
+name=Torrent of Magic
+descr=Effect Duration: 3 Chapters.\nGain +2 DEF. The maximum stacks of Hardened Scales are increased to 10.\nIf you gain 10 stacks of Hardened Scales, all other players suffer KO.
+flavor="Th-that's dangerous... I'm sorry." ―Watty
+
+< CARD_HYPER_POMERANIUS >
+name=Goodest Boy
+descr=Effect duration: 3 Chapters\nImmune to instant KO effects. When staying on a panel with another player at the end of either player's turn, gain a copy of a random card in their hand. You can neither challenge nor be challenged; instead, opponents may stop to Pet you. Effect expires on KO.
+flavor="*Whimper*" ―Pomeranius
+
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=Ultimate Weapon in the Sun
 descr=During this battle, gain +3 ATK.

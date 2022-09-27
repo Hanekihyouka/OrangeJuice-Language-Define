@@ -54,7 +54,7 @@
 星之巡游
 
 < FIELD_TRAININGPROGRAM >
-训练程序
+训练课程
 
 < FIELD_VORTEX >
 暗涡
@@ -138,7 +138,7 @@
 造船厂 合作
 
 < FIELD_COOP_TRAININGPROGRAM >
-训练程序 合作
+训练课程 合作
 
 < FIELD_COOP_NIGHTFLIGHT >
 夜间飞行 合作

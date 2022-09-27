@@ -288,6 +288,16 @@ name=Star Collector
 descr=Effect Duration: 3 Chapters.\nWhenever a player gains stars from a panel or battle KO, they gain an additional Lvl x stars.
 flavor="Fufufu, look how many stars I have here." ―Reika
 
+< CARD_HYPER_COOP_WATTY >
+name=Torrent of Magic
+descr=Effect Duration: 3 Chapters.\nGain +2 DEF. The maximum stacks of Hardened Scales are increased to 10.\nIf you gain 10 stacks of Hardened Scales, deal your Lvl x damage to the Boss, and half of that damage to all other enemies on the field.
+flavor="Th-that's dangerous... I'm sorry." ―Watty
+
+< CARD_HYPER_COOP_POMERANIUS >
+name=Goodest Boy
+descr=Effect duration: 3 Chapters.\nIgnore Boss panels. When staying on a panel with another player at the end of either of your turns, both draw a card.\nYou can neither challenge nor be challenged. Players may stop to Pet you.
+flavor="*Whimper*" ―Pomeranius
+
 < CARD_BOSS_COOP_DOZE >
 name=Doze
 descr=No effect.

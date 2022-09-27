@@ -36,7 +36,6 @@ name=Herbal Remedy
 descr=Effect Duration: 1 Chapter. Cannot take damage.
 
 // Bakery
-
 < ITEM_ATK_BOOST_LV1 >
 name=Cookie
 descr=Effect Duration: 3 Chapters. Gain +1 ATK. Cannot stack the same effect twice.
@@ -94,7 +93,6 @@ name=Red Bean Ice Cream
 descr=Stock Effect: Gain +1 ATK. This effect is removed upon KO. This effect cannot stack.
 
 // Armory
-
 < ITEM_WOODENSHIELD >
 name=Wooden Shield
 descr=A shield reducing incoming damage by 1. Removed after 2 hits, or after 1 battle.

@@ -79,7 +79,7 @@ flavor=—铁匠
 
 < CARD_BOUNTY_CAVEARMORY_QUEST >
 name=
-descr=小巨魔的角是做厨具的好材料，但我的库存\n已经快用完了。它们每3天换一次角，你应该\n能在它们的巢穴里找到一些。
+descr=小巨魔的角是做厨具的好材料，但我的库存\n已经快用完了。它们每三天换一次角，你应该\n能在它们的巢穴里找到一些。
 flavor=—铁匠
 
 < CARD_BOUNTY_VOLCANOALCHEMER_QUEST >
@@ -94,17 +94,17 @@ flavor=—旅店店主
 
 < CARD_BOUNTY_MOUNTAINBAKERY_QUEST >
 name=
-descr=牛奶用完了！我们店里的面包要用到山上的\n绒绒所产出的奶，请快帮我带来吧！
+descr=牛奶用完了！我们店里的面包需要使用山上的\n绒绒所产出的奶，请快帮我带来吧！
 flavor=—空之糕点师
 
 < CARD_BOUNTY_REDFORESTALCHEMER_QUEST >
 name=
-descr=附近绯红森林里的鬼魂有些很有趣的特性。\n你能给我带个样本来吗？我应该能用它做些\n能吃的东西。
+descr=附近绯红森林里的鬼魂有些很有趣的特性。\n你能给我带个样本来吗？我应该能用它做些\n可以吃的东西。
 flavor=—炼金术士
 
 < CARD_BOUNTY_DESERTARMORY_QUEST >
 name=
-descr=口好渴……沙漠里的仙人掌应该能帮我解渴。\n等我喝完以后，你可以留着剩下的部分。
+descr=口好渴……沙漠里的仙人掌应该能帮我解渴。\n等我喝完以后，剩下的部分你可以随意处置。
 flavor=—铁匠
 
 < CARD_BOUNTY_SLIMEBOMB_ITEM >
@@ -144,8 +144,8 @@ flavor=「别把它放跑了！」—铁匠
 
 < CARD_BOUNTY_RADAR_ITEM >
 name=冒险者用探测器
-descr=持续效果（从第2轮至第5轮）\n效果持续期间可以获悉所有怪物的所在地点。
-flavor=「它会是你旅途中的好助手……\n只要它还在工作的话！」—铠甲匠
+descr=持续效果（第2轮至第5轮）\n效果持续期间可以获悉所有怪物的所在地点。
+flavor=「它会是你旅途中的好帮手……\n只要它还在继续工作的话！」—铠甲匠
 
 < CARD_HYPER_BOUNTY_ELLIE >
 name=艾莉的奇迹
