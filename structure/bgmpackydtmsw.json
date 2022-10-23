@@ -1,5 +1,9 @@
-{
-  "001.ogg": 2333553,
-  "002.ogg": 1762246,
-  "003.ogg": 3724855
-}
+[
+  {"type":"directory","name":"./instance/bgmpackydtmsw.pak","size":4096,"contents":[
+    {"type":"file","name":"001.ogg","size":2333553},
+    {"type":"file","name":"002.ogg","size":1762246},
+    {"type":"file","name":"003.ogg","size":3724855}
+  ]}
+,
+  {"type":"report","directories":0,"files":3}
+]

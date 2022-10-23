@@ -1,8 +1,12 @@
-{
-  "001.ogg": 2031325,
-  "002.ogg": 1075219,
-  "003.ogg": 3772527,
-  "004.ogg": 2380284,
-  "005.ogg": 2611288,
-  "006.ogg": 3456935
-}
+[
+  {"type":"directory","name":"./instance/bgmpacknpc.pak","size":4096,"contents":[
+    {"type":"file","name":"001.ogg","size":2031325},
+    {"type":"file","name":"002.ogg","size":1075219},
+    {"type":"file","name":"003.ogg","size":3772527},
+    {"type":"file","name":"004.ogg","size":2380284},
+    {"type":"file","name":"005.ogg","size":2611288},
+    {"type":"file","name":"006.ogg","size":3456935}
+  ]}
+,
+  {"type":"report","directories":0,"files":6}
+]

@@ -1,3 +1,7 @@
-{
-  "001.ogg": 2944461
-}
+[
+  {"type":"directory","name":"./instance/bgmfielddesert.pak","size":4096,"contents":[
+    {"type":"file","name":"001.ogg","size":2944461}
+  ]}
+,
+  {"type":"report","directories":0,"files":1}
+]

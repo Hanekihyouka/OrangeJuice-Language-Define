@@ -1,3 +1,7 @@
-{
-  "001.ogg": 7570994
-}
+[
+  {"type":"directory","name":"./instance/bgmpacksugbonus.pak","size":4096,"contents":[
+    {"type":"file","name":"001.ogg","size":7570994}
+  ]}
+,
+  {"type":"report","directories":0,"files":1}
+]

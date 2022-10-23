@@ -1,4 +1,8 @@
-{
-  "001.ogg": 16007544,
-  "002.ogg": 6803700
-}
+[
+  {"type":"directory","name":"./instance/bgmpacksusu.pak","size":4096,"contents":[
+    {"type":"file","name":"001.ogg","size":16007544},
+    {"type":"file","name":"002.ogg","size":6803700}
+  ]}
+,
+  {"type":"report","directories":0,"files":2}
+]

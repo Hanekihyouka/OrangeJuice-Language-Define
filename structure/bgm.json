@@ -1,22 +1,26 @@
-{
-  "001.ogg": 1137118,
-  "002.ogg": 2249598,
-  "003.ogg": 1178451,
-  "004.ogg": 2842401,
-  "005.ogg": 382129,
-  "006.ogg": 3447270,
-  "007.ogg": 6771669,
-  "008.ogg": 1748279,
-  "009.ogg": 2555172,
-  "010.ogg": 2945976,
-  "011.ogg": 5113727,
-  "012.ogg": 3991609,
-  "013.ogg": 3804489,
-  "014.ogg": 1054839,
-  "015.ogg": 3551258,
-  "016.ogg": 1713275,
-  "017.ogg": 2652901,
-  "018.ogg": 1449890,
-  "019.ogg": 7894721,
-  "020.ogg": 2195219
-}
+[
+  {"type":"directory","name":"./instance/bgm.pak","size":4096,"contents":[
+    {"type":"file","name":"001.ogg","size":1137118},
+    {"type":"file","name":"002.ogg","size":2249598},
+    {"type":"file","name":"003.ogg","size":1178451},
+    {"type":"file","name":"004.ogg","size":2842401},
+    {"type":"file","name":"005.ogg","size":382129},
+    {"type":"file","name":"006.ogg","size":3447270},
+    {"type":"file","name":"007.ogg","size":6771669},
+    {"type":"file","name":"008.ogg","size":1748279},
+    {"type":"file","name":"009.ogg","size":2555172},
+    {"type":"file","name":"010.ogg","size":2945976},
+    {"type":"file","name":"011.ogg","size":5113727},
+    {"type":"file","name":"012.ogg","size":3991609},
+    {"type":"file","name":"013.ogg","size":3804489},
+    {"type":"file","name":"014.ogg","size":1054839},
+    {"type":"file","name":"015.ogg","size":3551258},
+    {"type":"file","name":"016.ogg","size":1713275},
+    {"type":"file","name":"017.ogg","size":2652901},
+    {"type":"file","name":"018.ogg","size":1449890},
+    {"type":"file","name":"019.ogg","size":7894721},
+    {"type":"file","name":"020.ogg","size":2195219}
+  ]}
+,
+  {"type":"report","directories":0,"files":20}
+]

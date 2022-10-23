@@ -1,3 +1,7 @@
-{
-  "001.ogg": 4294103
-}
+[
+  {"type":"directory","name":"./instance/bgmfieldpool.pak","size":4096,"contents":[
+    {"type":"file","name":"001.ogg","size":4294103}
+  ]}
+,
+  {"type":"report","directories":0,"files":1}
+]

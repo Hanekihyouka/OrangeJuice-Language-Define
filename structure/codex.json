@@ -1,16 +1,20 @@
-{
-  "aru.dat": 4194432,
-  "fernet.dat": 4194432,
-  "hime.dat": 4194432,
-  "kai.dat": 4194432,
-  "marc.dat": 4194432,
-  "peat.dat": 4194432,
-  "poppo.dat": 4194432,
-  "qp.dat": 4194432,
-  "sora - Copy.dat": 4194432,
-  "sora.dat": 4194432,
-  "suguri.dat": 4194432,
-  "tomomo - Copy.dat": 4194432,
-  "tomomo.dat": 4194432,
-  "yuki.dat": 4194432
-}
+[
+  {"type":"directory","name":"./instance/codex.pak","size":4096,"contents":[
+    {"type":"file","name":"aru.dat","size":4194432},
+    {"type":"file","name":"fernet.dat","size":4194432},
+    {"type":"file","name":"hime.dat","size":4194432},
+    {"type":"file","name":"kai.dat","size":4194432},
+    {"type":"file","name":"marc.dat","size":4194432},
+    {"type":"file","name":"peat.dat","size":4194432},
+    {"type":"file","name":"poppo.dat","size":4194432},
+    {"type":"file","name":"qp.dat","size":4194432},
+    {"type":"file","name":"sora - Copy.dat","size":4194432},
+    {"type":"file","name":"sora.dat","size":4194432},
+    {"type":"file","name":"suguri.dat","size":4194432},
+    {"type":"file","name":"tomomo - Copy.dat","size":4194432},
+    {"type":"file","name":"tomomo.dat","size":4194432},
+    {"type":"file","name":"yuki.dat","size":4194432}
+  ]}
+,
+  {"type":"report","directories":0,"files":14}
+]

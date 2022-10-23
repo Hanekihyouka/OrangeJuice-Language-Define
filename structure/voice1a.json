@@ -1,24 +1,28 @@
-{
-  "1.WAV": 24172,
-  "2.WAV": 25024,
-  "3.WAV": 42922,
-  "BATTLE.WAV": 47148,
-  "BONUS.WAV": 69676,
-  "CHECK.WAV": 79916,
-  "DRAW.WAV": 73772,
-  "DROP.WAV": 98348,
-  "NORMA1.WAV": 157740,
-  "NORMA2.WAV": 182316,
-  "NORMA3.WAV": 180268,
-  "NORMA4.WAV": 174124,
-  "NORMA5.WAV": 184364,
-  "NORMA6.WAV": 155692,
-  "PLAYER1.WAV": 75820,
-  "PLAYER2.WAV": 90156,
-  "PLAYER3.WAV": 88108,
-  "PLAYER4.WAV": 77868,
-  "START.WAV": 65580,
-  "TITLE.WAV": 192556,
-  "TRAP.WAV": 145452,
-  "WIN.WAV": 51244
-}
+[
+  {"type":"directory","name":"./instance/voice1a.pak","size":4096,"contents":[
+    {"type":"file","name":"1.WAV","size":24172},
+    {"type":"file","name":"2.WAV","size":25024},
+    {"type":"file","name":"3.WAV","size":42922},
+    {"type":"file","name":"BATTLE.WAV","size":47148},
+    {"type":"file","name":"BONUS.WAV","size":69676},
+    {"type":"file","name":"CHECK.WAV","size":79916},
+    {"type":"file","name":"DRAW.WAV","size":73772},
+    {"type":"file","name":"DROP.WAV","size":98348},
+    {"type":"file","name":"NORMA1.WAV","size":157740},
+    {"type":"file","name":"NORMA2.WAV","size":182316},
+    {"type":"file","name":"NORMA3.WAV","size":180268},
+    {"type":"file","name":"NORMA4.WAV","size":174124},
+    {"type":"file","name":"NORMA5.WAV","size":184364},
+    {"type":"file","name":"NORMA6.WAV","size":155692},
+    {"type":"file","name":"PLAYER1.WAV","size":75820},
+    {"type":"file","name":"PLAYER2.WAV","size":90156},
+    {"type":"file","name":"PLAYER3.WAV","size":88108},
+    {"type":"file","name":"PLAYER4.WAV","size":77868},
+    {"type":"file","name":"START.WAV","size":65580},
+    {"type":"file","name":"TITLE.WAV","size":192556},
+    {"type":"file","name":"TRAP.WAV","size":145452},
+    {"type":"file","name":"WIN.WAV","size":51244}
+  ]}
+,
+  {"type":"report","directories":0,"files":22}
+]

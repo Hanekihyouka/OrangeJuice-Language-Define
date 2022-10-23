@@ -1,4 +1,8 @@
-{
-  "001.ogg": 4789485,
-  "002.ogg": 8697494
-}
+[
+  {"type":"directory","name":"./instance/bgmpackim.pak","size":4096,"contents":[
+    {"type":"file","name":"001.ogg","size":4789485},
+    {"type":"file","name":"002.ogg","size":8697494}
+  ]}
+,
+  {"type":"report","directories":0,"files":2}
+]

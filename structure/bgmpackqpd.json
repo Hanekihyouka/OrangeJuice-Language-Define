@@ -1,3 +1,7 @@
-{
-  "001.ogg": 2050698
-}
+[
+  {"type":"directory","name":"./instance/bgmpackqpd.pak","size":4096,"contents":[
+    {"type":"file","name":"001.ogg","size":2050698}
+  ]}
+,
+  {"type":"report","directories":0,"files":1}
+]

@@ -1,5 +1,9 @@
-{
-  "caution.dat": 4194432,
-  "daidai.dat": 4194432,
-  "shinden.dat": 4194432
-}
+[
+  {"type":"directory","name":"./instance/srf.pak","size":4096,"contents":[
+    {"type":"file","name":"caution.dat","size":4194432},
+    {"type":"file","name":"daidai.dat","size":4194432},
+    {"type":"file","name":"shinden.dat","size":4194432}
+  ]}
+,
+  {"type":"report","directories":0,"files":3}
+]

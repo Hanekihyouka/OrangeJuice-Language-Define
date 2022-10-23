@@ -1,4 +1,8 @@
-{
-  "001.ogg": 1809672,
-  "002.ogg": 5325421
-}
+[
+  {"type":"directory","name":"./instance/bgmpackel.pak","size":4096,"contents":[
+    {"type":"file","name":"001.ogg","size":1809672},
+    {"type":"file","name":"002.ogg","size":5325421}
+  ]}
+,
+  {"type":"report","directories":0,"files":2}
+]

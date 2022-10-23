@@ -1,15 +1,19 @@
-{
-  "taunt_emotion_bubble.dat": 262272,
-  "taunt_emotion_sheet.dat": 4194432,
-  "taunt_mask00_00.dat": 262272,
-  "taunt_mask01_00.dat": 262272,
-  "taunt_mask02_00.dat": 262272,
-  "taunt_mask03_00.dat": 262272,
-  "taunt_mask04_00.dat": 262272,
-  "taunt_none.dat": 65664,
-  "taunt_shape00.dat": 262272,
-  "taunt_shape01.dat": 262272,
-  "taunt_shape02.dat": 262272,
-  "taunt_shape03.dat": 262272,
-  "taunt_shape04.dat": 262272
-}
+[
+  {"type":"directory","name":"./instance/taunts.pak","size":4096,"contents":[
+    {"type":"file","name":"taunt_emotion_bubble.dat","size":262272},
+    {"type":"file","name":"taunt_emotion_sheet.dat","size":4194432},
+    {"type":"file","name":"taunt_mask00_00.dat","size":262272},
+    {"type":"file","name":"taunt_mask01_00.dat","size":262272},
+    {"type":"file","name":"taunt_mask02_00.dat","size":262272},
+    {"type":"file","name":"taunt_mask03_00.dat","size":262272},
+    {"type":"file","name":"taunt_mask04_00.dat","size":262272},
+    {"type":"file","name":"taunt_none.dat","size":65664},
+    {"type":"file","name":"taunt_shape00.dat","size":262272},
+    {"type":"file","name":"taunt_shape01.dat","size":262272},
+    {"type":"file","name":"taunt_shape02.dat","size":262272},
+    {"type":"file","name":"taunt_shape03.dat","size":262272},
+    {"type":"file","name":"taunt_shape04.dat","size":262272}
+  ]}
+,
+  {"type":"report","directories":0,"files":13}
+]

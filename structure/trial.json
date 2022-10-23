@@ -1,5 +1,9 @@
-{
-  "fullgameonly.dat": 7378,
-  "getfullgame.dat": 40657,
-  "triallogo.dat": 60395
-}
+[
+  {"type":"directory","name":"./instance/trial.pak","size":4096,"contents":[
+    {"type":"file","name":"fullgameonly.dat.png","size":7378},
+    {"type":"file","name":"getfullgame.dat.png","size":40657},
+    {"type":"file","name":"triallogo.dat.png","size":60395}
+  ]}
+,
+  {"type":"report","directories":0,"files":3}
+]
