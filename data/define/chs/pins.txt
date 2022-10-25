@@ -57,3 +57,43 @@ artist=Sora
 name=飞翔的啵噗
 desc=授予使用啵噗进行过很多场游戏的玩家。\n对游戏有着深刻理解的证明。
 artist=Sora
+
+< PIN_FLYING_ARU >
+name=飞翔的亚琉
+desc=授予使用亚琉进行过很多场游戏的玩家。\n正在递送礼物！
+artist=Sora
+
+< PIN_FLYING_SORA >
+name=飞翔的优空
+desc=授予使用优空进行过很多场游戏的玩家。\n她努力奋战只为再次见到晴空……
+artist=Sora
+
+< PIN_FLYING_PEAT >
+name=飞翔的彼特
+desc=授予使用彼特进行过很多场游戏的玩家。\n他或许还在试图击败赤红酒桶。
+artist=Sora
+
+< PIN_FLYING_TOMOMO >
+name=飞翔的兔萌萌
+desc=授予使用兔萌萌进行过很多场游戏的玩家。\n真实存在的魔法。
+artist=Sora
+
+< PIN_FLYING_SYURA >
+name=飞翔的秀拉
+desc=授予使用秀拉进行过很多场游戏的玩家。\n她能超越的还有可爱。
+artist=Sora
+
+< PIN_FLYING_NANAKO >
+name=飞翔的奈奈子
+desc=授予使用奈奈子进行过很多场游戏的玩家。\n别说她矮！
+artist=Sora
+
+< PIN_FLYING_SAKI >
+name=飞翔的纱季
+desc=授予使用纱季进行过很多场游戏的玩家。\n要来块曲奇吗？
+artist=Sora
+
+< PIN_FLYING_KYOUSUKE >
+name=飞翔的京介
+desc=授予使用京介进行过很多场游戏的玩家。\n找寻着一位特别的人。
+artist=Sora

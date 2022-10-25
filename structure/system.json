@@ -76,6 +76,7 @@
     {"type":"file","name":"dice_water.dat","size":262272},
     {"type":"file","name":"dice_wood.dat","size":262272},
     {"type":"file","name":"dice_yellow.dat","size":262272},
+    {"type":"file","name":"editor_pic.dat","size":65664},
     {"type":"file","name":"enemyring.dat","size":16512},
     {"type":"file","name":"entry_index.dat","size":262272},
     {"type":"file","name":"entry_pic2.dat","size":262272},
@@ -201,5 +202,5 @@
     {"type":"file","name":"word_input.dat","size":1048704}
   ]}
 ,
-  {"type":"report","directories":0,"files":199}
+  {"type":"report","directories":0,"files":200}
 ]

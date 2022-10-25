@@ -11,13 +11,13 @@
 4=She gets along well with rabbits.
 
 < LORE_KAI >
-1=Kai is an 18-year-old, ordinary guy.
+1=Kai is an 18 year old, ordinary guy.
 2=Likes: Benjamins\nDislikes: Trouble
 3=After the mysterious creature Marie Poppo has stolen his wallet, he chases after her and ends up in many different worlds. 
 4=Even though he's the protagonist of 100% Orange Juice, Kai doesn't have any outstanding characteristics. That fact bothers him, but he tries to forcefully cheer himself up to get over it.
 
 < LORE_MARC >
-1=A 16-year old girl who dreamed of becoming an aviator as a kid and grew up to be one. She's motivated, diligent, and hardworking, but can be extremely stubborn.
+1=A 16 year old girl who dreamed of becoming an aviator as a kid and grew up to be one. She's motivated, diligent, and hardworking, but can be extremely stubborn.
 2=Likes: Red things, apples\nDislikes: Those who cause others trouble
 3=Marc is younger than anyone else in the Guild, an organization formed and run by aviators. Her trusty airplane "Red Barrel" literally looks like a red barrel.
 4=Marc's two pet peeves are a boy named Peat who's constantly giving her trouble for stealing his position as the youngest in the Guild, and her best friend Fernet messing with her after their friendship broke up over a fight.
@@ -49,3 +49,57 @@
 3=She makes fun of other people and thinks she's the cutest in the whole world.
 4=Poppo tends to speak in cute "poppo" sounds, but is in fact perfectly capable of speaking normally.
 5=There actually exists more than one Poppo! The strange creatures are minions created by Tomomo, the creator of 100% Orange Juice.
+
+< LORE_ARU >
+1=A bunny-eared girl who's training to be a Santa Claus. She's a happy, upstanding, and straightforward girl.
+2=Likes: Leaves\nDislikes: Greasy foods
+3=Aru is diligent and works hard to make every kid's dream come true. 
+4=There was a time when someone stole all the Christmas presents Aru was supposed to deliver, and she went all out to take them back. 
+
+< LORE_SORA >
+1=The protagonist of her titular game, Sora always looks 16 years old due to the body modifications she was forced to have that turned her into an ultimate weapon of a war.
+2=Likes: Chocolate\nDislikes: Medicine
+3=10,000 years after ending the war, Sora woke up to an Earth that had recovered from the severe damage wrought by the fighting, and is now living the slow life.
+4=All the harrowing experiences she had in the war have made Sora terrible at expressing her feelings.
+5=In the peaceful world of 100% Orange Juice, she enjoys the board game and shows no sense of depression from her tragic past, though the competitive part of her personality makes her try her hardest to win.
+
+< LORE_PEAT >
+1=A 17 year old aviator working for the Guild, riding his airplane called the Blue Crow. He's an honest, diligent guy at heart, but his efforts tend to go in the wrong direction. 
+2=Likes: Being number one\nDislikes: Losing
+3=Peat used to be the youngest member of the Guild and enjoyed being the center of attention prior to Marc joining the organization and stealing the spotlight.
+4=Peat is the second son in a family with a time-honored history. Claiming his older brother to be the successor of the family name, Peat set foot in the world of aviators and has been working hard to be number one in the skies.
+5=In addition to his rivalry with Marc, Peat also harbors romantic feelings for her which he doesn't recognize himself. Peat is not the best with girls, probably because he goes to a boys' school. His attempts to act like a gentleman quickly go awry.
+
+< LORE_TOMOMO >
+1=The 27 year old mastermind of 100% Orange Juice, Tomomo has a lazy and easygoing personality.
+2=Likes: Whipped cream\nDislikes: Vegetables
+3=Tomomo used to be a tired, unmotivated office employee, but one day, a miracle happened that turned her into a magical girl.
+4=Even though she's actually a harmless, down-to-earth person, the fact that she's too old for her magical girl get-up and was put in such a peculiar position made her so upset that she caused a lot of trouble for other people. 
+
+< LORE_SYURA >
+1=Syura is 14 years old and a second year in middle school. She's the understanding bestie of QP.
+2=Likes: Shrimp\nDislikes: Mushrooms
+3=This huge gamer geek is always cheerful and full of energy, except for when she panics to death and circles form under her eyes due to lack of sleep because she's scrambling to finish up her manga to sell at Comic Market. 
+4=Regardless of gender, Syura loves cute and pretty people so much that she goes crazy when she sees them.
+5=Syura and Piyo, a chick friend of hers, always talk to each other like comedians. 
+
+< LORE_NANAKO >
+1=One of the Shifu Brands, Nanako is an altered human who fights by controlling seven autonomous weapons called Bits at the same time. Her physical age is 12 years old.
+2=Likes: All kinds of fruit\nDislikes: Spicy food
+3=She fought Suguri under the command of Shifu, who was seeking to take over Earth, after which the two girls made up. She is now living a carefree life.
+4=Nanako is always either tough and cool, or irritated. However, she is a kind girl with a broad perspective, who will help anyone in trouble.
+5=She gets along especially well with Kae. On the other hand, she hates Shifu, who altered her, and his robot copy NoName, and gets snappish when encountering either of them.
+
+< LORE_SAKI >
+1=One of the Shifu Brands, Saki is an altered human who fights using explosive weaponry modeled after musical instruments. Her physical age is 16 years old. 
+2=Likes: Anything delicious\nDislikes: Super sour things
+3=Saki has a warm and relaxing personality, though she can be pretty vicious sometimes.
+4=She gets uncomfortable and cringes when either Shifu, the one who altered her, or his copy robot NoName is around.
+5=Saki's good at making sweets. Her success of recreating a legendary dessert, pudding, turned her into one of the six Sweet Gods, Sweet Maker. Saki and QP get along with each other because they are both Sweet Gods and share a similar personality and theme color.
+
+< LORE_KYOUSUKE >
+1=Kyousuke is 18 years old and a third year in high school. 
+2=Likes: Sushi\nDislikes: Natto
+3=He's a competent, lovable school president with a witty tongue and a bad habit of stripping off his clothes when he gets excited.
+4=Kyousuke originally appears in a fake April Fool's game, and his first real appearance is in QP Shooting - Dangerous!!
+5=Having romantic feelings for a boy named Kyupita, Kyousuke is in persistent pursuit of QP who's the spitting image of the boy he's in love with.

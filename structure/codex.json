@@ -4,17 +4,22 @@
     {"type":"file","name":"fernet.dat","size":4194432},
     {"type":"file","name":"hime.dat","size":4194432},
     {"type":"file","name":"kai.dat","size":4194432},
+    {"type":"file","name":"ksuke.dat","size":4194432},
     {"type":"file","name":"marc.dat","size":4194432},
+    {"type":"file","name":"nanako.dat","size":4194432},
+    {"type":"file","name":"nico.dat","size":4194432},
     {"type":"file","name":"peat.dat","size":4194432},
     {"type":"file","name":"poppo.dat","size":4194432},
     {"type":"file","name":"qp.dat","size":4194432},
+    {"type":"file","name":"saki.dat","size":4194432},
     {"type":"file","name":"sora - Copy.dat","size":4194432},
     {"type":"file","name":"sora.dat","size":4194432},
     {"type":"file","name":"suguri.dat","size":4194432},
+    {"type":"file","name":"syura.dat","size":4194432},
     {"type":"file","name":"tomomo - Copy.dat","size":4194432},
     {"type":"file","name":"tomomo.dat","size":4194432},
     {"type":"file","name":"yuki.dat","size":4194432}
   ]}
 ,
-  {"type":"report","directories":0,"files":14}
+  {"type":"report","directories":0,"files":19}
 ]
