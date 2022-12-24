@@ -50,6 +50,7 @@
     {"type":"file","name":"dice_greenMarble.dat","size":262272},
     {"type":"file","name":"dice_heart.dat","size":262272},
     {"type":"file","name":"dice_ice.dat","size":262272},
+    {"type":"file","name":"dice_miocake.dat","size":262272},
     {"type":"file","name":"dice_mioflame2.dat","size":262272},
     {"type":"file","name":"dice_noname.dat","size":262272},
     {"type":"file","name":"dice_orangecocktail.dat","size":262272},
@@ -76,7 +77,7 @@
     {"type":"file","name":"dice_water.dat","size":262272},
     {"type":"file","name":"dice_wood.dat","size":262272},
     {"type":"file","name":"dice_yellow.dat","size":262272},
-    {"type":"file","name":"editor_pic.dat","size":65664},
+    {"type":"file","name":"editor_pic.dat","size":262272},
     {"type":"file","name":"enemyring.dat","size":16512},
     {"type":"file","name":"entry_index.dat","size":262272},
     {"type":"file","name":"entry_pic2.dat","size":262272},
@@ -159,6 +160,10 @@
     {"type":"file","name":"playerringmask.dat","size":16512},
     {"type":"file","name":"pointer2.dat","size":16512},
     {"type":"file","name":"pointer.dat","size":16512},
+    {"type":"file","name":"pointer_editor_direction2.dat","size":16512},
+    {"type":"file","name":"pointer_editor_direction.dat","size":16512},
+    {"type":"file","name":"pointer_editor_rdirection2.dat","size":16512},
+    {"type":"file","name":"pointer_editor_rdirection.dat","size":16512},
     {"type":"file","name":"prepar_comment.dat","size":262272},
     {"type":"file","name":"prepar_field.dat","size":262272},
     {"type":"file","name":"prepar_index.dat","size":262272},
@@ -202,5 +207,5 @@
     {"type":"file","name":"word_input.dat","size":1048704}
   ]}
 ,
-  {"type":"report","directories":0,"files":200}
+  {"type":"report","directories":0,"files":205}
 ]

@@ -689,4 +689,9 @@ name=Snowball Reflector
 descr=On this defense turn, any snowball that would hit you will hit the unit that threw them instead. Ignore unit effects that would prevent this card from being played.
 flavor="A-and it comes right back at you!" ―Aru
 
+< CARD_WINTER2022_FALSECAKE >
+name=Mio's False Cake
+descr=Choose one of the following:\n- Eat to gain a random effect.\n- Throw at target enemy to deal 1 damage. (If no target is available, eat it instead.)
+flavor="What the heck! This is disgusting!" ―Tomomo
+
 [EOF]

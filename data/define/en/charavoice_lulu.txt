@@ -9,7 +9,7 @@
 <0008> Lulu knows little about these things... Like this?
 <0009> Hohee, so this is a trap!
 <0010> What happens when you step on it?
-<0011> Lulu's set a trap here♥
+<0011> Lulu's set a trap here ♥
 <0012> Lulu's going to play a card to fight well!
 <0013> Lulu doesn't like losing!
 <0014> If Lulu has to fight, she'll use this!

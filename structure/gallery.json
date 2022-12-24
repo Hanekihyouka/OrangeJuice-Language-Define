@@ -29,8 +29,18 @@
     {"type":"file","name":"thumb_summer2022.dat","size":262272},
     {"type":"file","name":"thumb_sweetbreaker.dat","size":262272},
     {"type":"file","name":"thumb_valentines2018.dat","size":262272},
-    {"type":"file","name":"thumb_winter2020.dat","size":262272}
+    {"type":"file","name":"thumb_winter2020.dat","size":262272},
+    {"type":"file","name":"thumb_winter2022contest_coolness1.dat","size":262272},
+    {"type":"file","name":"thumb_winter2022contest_coolness2.dat","size":262272},
+    {"type":"file","name":"thumb_winter2022contest_coolness3.dat","size":262272},
+    {"type":"file","name":"thumb_winter2022contest_essence1.dat","size":262272},
+    {"type":"file","name":"thumb_winter2022contest_essence2.dat","size":262272},
+    {"type":"file","name":"thumb_winter2022contest_essence3.dat","size":262272},
+    {"type":"file","name":"thumb_winter2022contest_essence4.dat","size":262272},
+    {"type":"file","name":"thumb_winter2022contest_wholesome1.dat","size":262272},
+    {"type":"file","name":"thumb_winter2022contest_wholesome2.dat","size":262272},
+    {"type":"file","name":"thumb_winter2022contest_wholesome3.dat","size":262272}
   ]}
 ,
-  {"type":"report","directories":0,"files":30}
+  {"type":"report","directories":0,"files":40}
 ]

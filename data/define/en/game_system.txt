@@ -49,7 +49,7 @@ Additional %d %% chance to have SSR items showing up.
 
 // %% is normal here.
 < GAME_SYSTEM_SHOP_BONUS_2 >
-%d %% item price reduction after all calculations.
+%d %% item price reduction after other calculations.
 
 < GAME_SYSTEM_SHOP_BONUS_3 >
 An additional %d stars will be given when selling a card.

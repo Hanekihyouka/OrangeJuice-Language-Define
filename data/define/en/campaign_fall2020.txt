@@ -128,7 +128,7 @@
 <0041> So, whoever gets both mushrooms wins. Clear and simple, isn't it?
 
 // (ellie)
-<0042> Aha♥ Okay, challenge accepted!
+<0042> Aha ♥ Okay, challenge accepted!
 
 // (lulu)
 <0043> Ellie, are you sure about this?
@@ -154,7 +154,7 @@
 <0049> Look how red and poisonous-looking it is... It's definitely the one!
 
 // (ellie)
-<0050> Aha♥ Well done, Lulu!
+<0050> Aha ♥ Well done, Lulu!
 
 // (arnelle)
 <0051> Ku-ku-ku...

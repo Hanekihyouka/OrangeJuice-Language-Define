@@ -19,7 +19,6 @@ CONFIGURATION
 < MAINMENU_EXIT >
 EXIT
 
-
 < MENU_BUTTON_OK >
 OK
 
@@ -228,6 +227,9 @@ BOMB
 < MENU_BUTTON_GAME_DASH >
 DASH
 
+< MENU_BUTTON_GAME_EAT >
+EAT
+
 < PLAYMENU_FREEBATTLE >
 ONLINE
 
@@ -317,6 +319,9 @@ When carrying at least 500 Chocolate, store them at a home stop to prevent them 
 
 < PLAYMENU_EVENT_VALENTINE2018_COMPLETE >
 The sweets of the world have been saved!\n(For now, at least...)
+
+< PLAYMENU_EVENT_GAMESPLAYED >
+Games played: %d
 
 < PLAYMENU_EVENT_BONUSITEMS >
 Bonus items: %d/%d
@@ -856,6 +861,27 @@ Who will obtain the fabled treasure? Only time will tell...
 < PLAYMENU_EVENT_PTS_INSTRUCTION_COMPLETE >
 You have reached the shrine! However, you may repeat the trek as many times as you want for even more rewards.
 
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_MAIN >
+Christmas cakes around the world are in danger! We must search far and wide and dispose of Mio's abominable cakes!
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_01 >
+A special "Mio's False Cake" card will be added to every player's hand every 6 chapters.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_02 >
+To safely dispose of this foul creation, either consume it (at your own peril) for a random effect, or throw it at an opponent to deal 1 damage.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_03 >
+Playing event games in any game mode will reward you tasty Christmas cakes which can be used in the Shop to unlock rewards. The event can be toggled off when creating a game.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_04 >
+The event is successful when all of Mio's "cakes" have been safely disposed of by players all around the world.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_05 >
+The two event counters correspond to the method of disposing of the cakes, and either can be used to progress toward the ending.
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_06 >
+To unlock the event's ending, you must reach your personal goal of event games played, which will also give you a prize independent of the global event progress.
 
 < PLAYMENU_EVENT_NEXT_GOAL >
 Next goal:

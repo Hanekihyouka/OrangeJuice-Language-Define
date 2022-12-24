@@ -346,6 +346,8 @@
     ]},
       {"type":"file","name":"boardBounty.dat","size":65664},
       {"type":"file","name":"board.dat","size":524416},
+      {"type":"file","name":"bounty.dat","size":65664},
+      {"type":"file","name":"bounty_hover.dat","size":65664},
       {"type":"file","name":"counter.dat","size":262272},
       {"type":"directory","name":"field","size":4096,"contents":[
         {"type":"file","name":"castle00.dat","size":262272},
@@ -408,15 +410,20 @@
       {"type":"file","name":"inventory.dat","size":4194432},
       {"type":"file","name":"logo.dat","size":524416},
       {"type":"file","name":"luluribbon.dat","size":262272},
+      {"type":"file","name":"normaBoard.dat","size":4194432},
       {"type":"file","name":"previewbg.dat","size":16512},
       {"type":"directory","name":"shop","size":4096,"contents":[
         {"type":"file","name":"ssr.dat","size":65664},
-        {"type":"file","name":"tShop.dat","size":4194432},
-        {"type":"file","name":"tShopIcons.dat","size":1048704}
+        {"type":"file","name":"tShop.dat","size":16777344},
+        {"type":"file","name":"tShopIcons.dat","size":4194432}
     ]},
       {"type":"directory","name":"throwables","size":4096,"contents":[
+        {"type":"file","name":"corrosion.dat","size":65664},
         {"type":"file","name":"lure.dat","size":65664},
-        {"type":"file","name":"slimebomb.dat","size":65664}
+        {"type":"file","name":"poison.dat","size":65664},
+        {"type":"file","name":"slimebomb.dat","size":65664},
+        {"type":"file","name":"sparkle.dat","size":65664},
+        {"type":"file","name":"venom.dat","size":65664}
     ]},
       {"type":"file","name":"tutorial_00.dat","size":262272},
       {"type":"file","name":"tutorial_01.dat","size":262272},
@@ -575,6 +582,21 @@
       {"type":"file","name":"tutorial_09.dat","size":262272},
       {"type":"file","name":"tutorial_12.dat","size":262272},
       {"type":"file","name":"tutorial_13.dat","size":262272}
+  ]},
+    {"type":"directory","name":"winter2022","size":4096,"contents":[
+      {"type":"file","name":"cakegods.dat","size":16512},
+      {"type":"file","name":"cakemio.dat","size":16512},
+      {"type":"file","name":"cakepiece.dat","size":65664},
+      {"type":"file","name":"cakewhole.dat","size":16512},
+      {"type":"file","name":"eatcake.dat","size":65664},
+      {"type":"file","name":"logo.dat","size":524416},
+      {"type":"file","name":"mio_apron.dat","size":262272},
+      {"type":"file","name":"tosscake.dat","size":65664},
+      {"type":"file","name":"tutorial_00.dat","size":262272},
+      {"type":"file","name":"tutorial_01.dat","size":262272},
+      {"type":"file","name":"tutorial_02.dat","size":262272},
+      {"type":"file","name":"tutorial_03.dat","size":262272},
+      {"type":"file","name":"tutorial_04.dat","size":262272}
   ]},
     {"type":"directory","name":"xmas2018","size":4096,"contents":[
       {"type":"file","name":"backgroundshape_snowball.dat","size":262272},
@@ -929,5 +951,5 @@
   ]}
   ]}
 ,
-  {"type":"report","directories":39,"files":849}
+  {"type":"report","directories":40,"files":869}
 ]

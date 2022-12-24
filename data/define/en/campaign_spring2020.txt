@@ -103,7 +103,7 @@
 <0032> Hmm... Lulu wants some good food, and that's it.
 
 // (ellie)
-<0033> Ahaaa!♥ Of course, I'm going to get you good food!
+<0033> Ahaaa! ♥ Of course, I'm going to get you good food!
 
 // (ellie)
 <0034> But I want to get you something else as a gift.
@@ -142,7 +142,7 @@
 <0045> Wow, it's a ribbon!
 
 // (ellie)
-<0046> Ahaaa♥ You look super cute with it on!
+<0046> Ahaaa ♥ You look super cute with it on!
 
 // (lulu)
 <0047> That's quite a normal gift from someone with the most excellent taste, but yeah, it sure is cute.
@@ -163,5 +163,5 @@
 <0052> Whoa, Ellie, wait up!
 
 // (ellie)
-<0053> Ahaaa♥
+<0053> Ahaaa ♥
 

@@ -30,7 +30,10 @@
 虎布偶装
 
 < SHOP_LABEL_RETIREDEVENTS >
-绝版活动
+已淘汰活动
+
+< SHOP_LABEL_PLAYERPLATES >
+玩家面板
 
 < SHOP_LABEL_MISC >
 其它
@@ -195,7 +198,7 @@ Ultimate Weapon Girl
 解锁虎布偶装。
 
 < SHOP_TOOLTIP_RETIREDEVENTS >
-购买绝版活动的奖励。
+购买已淘汰活动的奖励。
 
 < SHOP_TOOLTIP_MISC >
 解锁多人游戏的奖励要素以及其它物品。
@@ -211,6 +214,9 @@ Ultimate Weapon Girl
 
 < SHOP_TOOLTIP_DLC >
 支付真实的现金购买DLC。
+
+< SHOP_TOOLTIP_PLAYERPLATES >
+为你的玩家面板购买背景、边框等装饰！
 
 < SHOP_TOOLTIP_ALL >
 查看商店里所有的物品。

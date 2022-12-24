@@ -105,7 +105,7 @@ Pasu
 Tamaki
 
 < CARD_ARTIST_YASUMEYUKITO >
-Yasume Yukito
+YasumeYukito
 
 < CARD_ARTIST_LVMNOT >
 LVmNoT

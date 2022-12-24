@@ -439,7 +439,7 @@ descr=将3～5张「突击」设置在随机的格子上。
 flavor=
 
 < CARD_BOSS_COOP_EVASION_DOWN >
-name=回避下降
+name=闪避下降
 descr=持续效果（2轮）\n所有玩家EVD-2。\nBOSS的EVD+2。
 flavor=
 
@@ -1132,7 +1132,7 @@ descr=进入队友所在的格子时可以花费3×剩余REC\n的STAR为其复�
 flavor=
 
 < CARD_SKILL_COOP_EVASIONBOOST >
-name=回避提升
+name=闪避提升
 descr=目标3：EVD+1。
 flavor=
 	

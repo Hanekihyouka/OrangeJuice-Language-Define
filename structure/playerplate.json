@@ -2,7 +2,17 @@
   {"type":"directory","name":"./instance/playerplate.pak","size":4096,"contents":[
     {"type":"file","name":"bg_0.dat","size":1048704},
     {"type":"file","name":"bg_100.dat","size":1048704},
+    {"type":"file","name":"bg_101.dat","size":1048704},
+    {"type":"file","name":"bg_102.dat","size":1048704},
+    {"type":"file","name":"bg_103.dat","size":1048704},
+    {"type":"file","name":"bg_104.dat","size":1048704},
+    {"type":"file","name":"bg_105.dat","size":1048704},
+    {"type":"file","name":"bg_106.dat","size":1048704},
+    {"type":"file","name":"bg_107.dat","size":1048704},
+    {"type":"file","name":"bg_108.dat","size":1048704},
+    {"type":"file","name":"bg_109.dat","size":1048704},
     {"type":"file","name":"bg_10.dat","size":1048704},
+    {"type":"file","name":"bg_110.dat","size":1048704},
     {"type":"file","name":"bg_11.dat","size":1048704},
     {"type":"file","name":"bg_12.dat","size":1048704},
     {"type":"file","name":"bg_13.dat","size":1048704},
@@ -128,6 +138,8 @@
     {"type":"file","name":"border_31.dat","size":1048704},
     {"type":"file","name":"border_32.dat","size":1048704},
     {"type":"file","name":"border_33.dat","size":1048704},
+    {"type":"file","name":"border_34.dat","size":1048704},
+    {"type":"file","name":"border_35.dat","size":1048704},
     {"type":"file","name":"border_3.dat","size":1048704},
     {"type":"file","name":"border_4.dat","size":1048704},
     {"type":"file","name":"border_5.dat","size":1048704},
@@ -181,5 +193,5 @@
   ]}
   ]}
 ,
-  {"type":"report","directories":1,"files":177}
+  {"type":"report","directories":1,"files":189}
 ]

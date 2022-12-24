@@ -961,6 +961,8 @@
     {"type":"file","name":"usabit256.dat","size":262272},
     {"type":"file","name":"vday18_128.dat","size":65664},
     {"type":"file","name":"vday18_256.dat","size":262272},
+    {"type":"file","name":"w22cake128.dat","size":65664},
+    {"type":"file","name":"w22cake256.dat","size":262272},
     {"type":"file","name":"wanted128.dat","size":65664},
     {"type":"file","name":"wanted256.dat","size":262272},
     {"type":"file","name":"waruda128.dat","size":65664},
@@ -999,5 +1001,5 @@
     {"type":"file","name":"zsalesman256.dat","size":262272}
   ]}
 ,
-  {"type":"report","directories":0,"files":997}
+  {"type":"report","directories":0,"files":999}
 ]

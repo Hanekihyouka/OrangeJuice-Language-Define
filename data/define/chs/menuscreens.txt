@@ -228,6 +228,9 @@
 < MENU_BUTTON_GAME_DASH >
 冲刺
 
+< MENU_BUTTON_GAME_EAT >
+吃
+
 < PLAYMENU_FREEBATTLE >
 在线游戏
 
@@ -317,6 +320,9 @@
 
 < PLAYMENU_EVENT_VALENTINE2018_COMPLETE >
 全世界的甜点被拯救了！\n（至少这一次……）
+
+< PLAYMENU_EVENT_GAMESPLAYED >
+已进行场数：%d
 
 < PLAYMENU_EVENT_BONUSITEMS >
 奖励物品：%d/%d
@@ -853,6 +859,27 @@ QP还想多玩一会！夏日野兽复活了！
 < PLAYMENU_EVENT_PTS_INSTRUCTION_COMPLETE >
 你已经到达了神殿！但你还可以重复这次旅程\n以获得更多奖励。
 
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_MAIN >
+全世界的圣诞蛋糕都危在旦夕！我们必须尽力\n找到魅樱那些讨人厌的蛋糕并将它们销毁！
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_01 >
+所有玩家每6轮将获得一张名为“魅樱的\n假蛋糕”的特殊卡片。
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_02 >
+要想安全地销毁这些恶心的杰作，你可以选择\n吃掉它们（后果自负）获得一种随机效果，或是\n将它们丢向对手造成1点伤害。
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_03 >
+在任意模式下进行活动将获得美味的\n圣诞蛋糕，可用于在商店内解锁奖励。\n如有需要，也可在创建游戏时关闭活动。
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_04 >
+当全世界的玩家齐心协力将所有魅樱的“蛋糕”\n安全销毁时，活动完成。
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_05 >
+两个活动计数器对应着两种销毁蛋糕的方式，\n两者都可以推进活动进度。
+
+< PLAYMENU_EVENT_WINTER2022_INSTRUCTION_06 >
+为解锁活动结局，你需要到达你的个人活动场数\n目标，同时还可以获得独立于全局活动进度的\n奖励。
 
 < PLAYMENU_EVENT_NEXT_GOAL >
 下一个目标：

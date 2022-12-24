@@ -32,6 +32,9 @@ Tiger Kigurumi
 < SHOP_LABEL_RETIREDEVENTS >
 Retired Events
 
+< SHOP_LABEL_PLAYERPLATES >
+Player Plates
+
 < SHOP_LABEL_MISC >
 Misc
 
@@ -211,6 +214,9 @@ Use arcade tokens to win fabulous prizes!
 
 < SHOP_TOOLTIP_DLC >
 Purchase new DLC content with real money.
+
+< SHOP_TOOLTIP_PLAYERPLATES >
+Purchase new backgrounds, borders, and more for your online player plate!
 
 < SHOP_TOOLTIP_ALL >
 View all Shop content.

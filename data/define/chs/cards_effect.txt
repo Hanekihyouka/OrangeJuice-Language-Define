@@ -52,7 +52,7 @@ descr=每层储备使下次复活时REC-1。
 
 < CARD_CASTOFF_EFFECT >
 name=脱衣
-descr=使用这张卡的角色本来的ATK和DEF的数值交换。\n倒下或者再一次使用这张卡时效果结束。
+descr=交换角色的基础ATK和DEF。\n倒下或再次使用「脱衣」时效果结束。
 
 < CARD_LONGEAREDBEASTS_EFFECT >
 name=起舞吧长耳兽
@@ -127,7 +127,7 @@ name=防御强化
 descr=每层储备使DEF+1。
 
 < CARD_AMPEVD_EFFECT >
-name=回避强化
+name=闪避强化
 descr=每层储备使EVD+1。
 
 < CARD_AMPMOV_EFFECT >

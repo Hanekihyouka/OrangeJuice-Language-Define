@@ -6127,6 +6127,12 @@
     {"type":"file","name":"reika_12_03.dat","size":262272},
     {"type":"file","name":"reika_12_04.dat","size":262272},
     {"type":"file","name":"reika_12_05.dat","size":262272},
+    {"type":"file","name":"reika_15_00.dat","size":262272},
+    {"type":"file","name":"reika_15_01.dat","size":262272},
+    {"type":"file","name":"reika_15_02.dat","size":262272},
+    {"type":"file","name":"reika_15_03.dat","size":262272},
+    {"type":"file","name":"reika_15_04.dat","size":262272},
+    {"type":"file","name":"reika_15_05.dat","size":262272},
     {"type":"file","name":"ropochi_00_00.dat","size":262272},
     {"type":"file","name":"ropochi_00_01.dat","size":262272},
     {"type":"file","name":"ropochi_00_02.dat","size":262272},
@@ -6604,6 +6610,12 @@
     {"type":"file","name":"shifu_12_03.dat","size":262272},
     {"type":"file","name":"shifu_12_04.dat","size":262272},
     {"type":"file","name":"shifu_12_05.dat","size":262272},
+    {"type":"file","name":"shifu_15_00.dat","size":262272},
+    {"type":"file","name":"shifu_15_01.dat","size":262272},
+    {"type":"file","name":"shifu_15_02.dat","size":262272},
+    {"type":"file","name":"shifu_15_03.dat","size":262272},
+    {"type":"file","name":"shifu_15_04.dat","size":262272},
+    {"type":"file","name":"shifu_15_05.dat","size":262272},
     {"type":"file","name":"shot_filter.dat","size":262272},
     {"type":"file","name":"shot_nofilter.dat","size":262272},
     {"type":"file","name":"shroom_00_00.dat","size":262272},
@@ -8834,5 +8846,5 @@
     {"type":"file","name":"yuuki_18_05.dat","size":262272}
   ]}
 ,
-  {"type":"report","directories":0,"files":8832}
+  {"type":"report","directories":0,"files":8844}
 ]

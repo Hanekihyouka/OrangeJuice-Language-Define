@@ -2,6 +2,26 @@
   {"type":"directory","name":"./instance/ending.pak","size":4096,"contents":[
     {"type":"file","name":"christmas2017.dat","size":16777344},
     {"type":"file","name":"christmas2018.dat","size":16777344},
+    {"type":"directory","name":"contest","size":4096,"contents":[
+      {"type":"directory","name":"winter2022","size":4096,"contents":[
+        {"type":"directory","name":"coolness","size":4096,"contents":[
+          {"type":"file","name":"1.dat","size":16777344},
+          {"type":"file","name":"2.dat","size":16777344},
+          {"type":"file","name":"3.dat","size":16777344}
+      ]},
+        {"type":"directory","name":"essence","size":4096,"contents":[
+          {"type":"file","name":"1.dat","size":16777344},
+          {"type":"file","name":"2.dat","size":16777344},
+          {"type":"file","name":"3.dat","size":16777344},
+          {"type":"file","name":"4.dat","size":16777344}
+      ]},
+        {"type":"directory","name":"wholesome","size":4096,"contents":[
+          {"type":"file","name":"1.dat","size":16777344},
+          {"type":"file","name":"2.dat","size":16777344},
+          {"type":"file","name":"3.dat","size":16777344}
+      ]}
+    ]}
+  ]},
     {"type":"file","name":"ellielulu.dat","size":4194432},
     {"type":"file","name":"frb2019.dat","size":16777344},
     {"type":"file","name":"halloween2018.dat","size":16777344},
@@ -35,5 +55,5 @@
     {"type":"file","name":"winter2020.dat","size":16777344}
   ]}
 ,
-  {"type":"report","directories":0,"files":33}
+  {"type":"report","directories":5,"files":43}
 ]

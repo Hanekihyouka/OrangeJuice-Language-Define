@@ -115,7 +115,7 @@ name=防御下降
 descr=每层储备使DEF-1。
 
 < CARD_BOSS_EVASIONDOWN_EFFECT >
-name=回避下降
+name=闪避下降
 descr=每层储备使EVD-1。
 
 < CARD_BOSS_TURBO_EFFECT >

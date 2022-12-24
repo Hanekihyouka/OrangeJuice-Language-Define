@@ -243,6 +243,8 @@
     {"type":"file","name":"fernetship_shotvariant0.dat","size":262272},
     {"type":"file","name":"fernetship_shotvariant1.dat","size":262272},
     {"type":"file","name":"fernetship_shotvariant2.dat","size":262272},
+    {"type":"file","name":"fieldstrike_sword00.dat","size":65664},
+    {"type":"file","name":"fieldstrike_sword01.dat","size":65664},
     {"type":"file","name":"fireworks_00.dat","size":262272},
     {"type":"file","name":"fireworks_01.dat","size":262272},
     {"type":"file","name":"fireworks_02.dat","size":262272},
@@ -639,5 +641,5 @@
     {"type":"file","name":"yk_devilboost.dat","size":65664}
   ]}
 ,
-  {"type":"report","directories":0,"files":637}
+  {"type":"report","directories":0,"files":639}
 ]

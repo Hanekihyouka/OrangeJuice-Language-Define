@@ -134,7 +134,7 @@
 <0043> H-hey...
 
 // (ellie)
-<0044> Your fur feels a little funny to touch and nice to stroke♥
+<0044> Your fur feels a little funny to touch and nice to stroke ♥
 
 // (lulu)
 <0045> If you stroke Lulu like that... she'll...
@@ -158,7 +158,7 @@
 <0051> You stroked Lulu so much, her heart was pounding.
 
 // (ellie)
-<0052> Ahaaa♥ You're the cutest cutie!
+<0052> Ahaaa ♥ You're the cutest cutie!
 
 // (ellie)
 <0053> Anyhoo, there are dangerous monsters around here.
@@ -200,7 +200,7 @@
 <0065> She's sure going with you will be fun.
 
 // (ellie)
-<0066> Ahaaa♥ It's a deal, then! Let's talk more as we go!
+<0066> Ahaaa ♥ It's a deal, then! Let's talk more as we go!
 
 // (lulu)
 <0067> Sure!
@@ -217,7 +217,7 @@
 <0070> Hawah, that was super! You really are strong, Ellie!
 
 // (ellie)
-<0071> Ahaaa♥ I know, right? I know, right?
+<0071> Ahaaa ♥ I know, right? I know, right?
 
 // (ellie)
 <0072> I've not been traveling alone for nothing!
@@ -229,7 +229,7 @@
 <0074> Hey, Lulu has a question for you. What are you traveling for?
 
 // (ellie)
-<0075> Ahaaa♥ You wanna know?
+<0075> Ahaaa ♥ You wanna know?
 
 // (lulu)
 <0076> Yeah, badly!
@@ -268,13 +268,13 @@
 <0087> Howah, you're such a girl of action.
 
 // (ellie)
-<0088> Ahaaa♥ I love being praised. Praise me more. More!
+<0088> Ahaaa ♥ I love being praised. Praise me more. More!
 
 // (lulu)
 <0089> You're a great girl, Ellie!
 
 // (ellie)
-<0090> Ahaaa! That makes me feel real good♥ You're a good praiser, Lulu!
+<0090> Ahaaa! That makes me feel real good ♥ You're a good praiser, Lulu!
 
 // (lulu)
 <0091> Lulu's not. You're just gullible.
@@ -303,7 +303,7 @@
 <0098> Yeah...
 
 // (ellie)
-<0099> Aha♥ If you're that scared... we should walk like this!
+<0099> Aha ♥ If you're that scared... we should walk like this!
 
 // (lulu)
 <0100> Fuah!
@@ -315,7 +315,7 @@
 <0102> Your hand's soft, too. If it's like this, Lulu's not scared anymore!
 
 // (ellie)
-<0103> Ahaaa♥ Good to hear that. But we don't have much time, so let's pick up the pace.
+<0103> Ahaaa ♥ Good to hear that. But we don't have much time, so let's pick up the pace.
 
 // (lulu)
 <0104> Okay... Huh?
@@ -600,7 +600,7 @@
 <0195> Lulu wants to be with you, too!
 
 // (ellie)
-<0196> Ahaaa♥ Alright!
+<0196> Ahaaa ♥ Alright!
 
 // (lulu)
 <0197> Ahaaa. Hehe.

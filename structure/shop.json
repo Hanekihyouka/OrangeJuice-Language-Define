@@ -659,11 +659,22 @@
     {"type":"file","name":"m_misc.dat","size":65664},
     {"type":"file","name":"m_pets.dat","size":65664},
     {"type":"file","name":"m_pigformation.dat","size":65664},
+    {"type":"file","name":"m_playerplates.dat","size":262272},
     {"type":"file","name":"m_retiredevents.dat","size":262272},
     {"type":"file","name":"m_tigerkigu.dat","size":65664},
     {"type":"file","name":"m_xmas.dat","size":65664},
     {"type":"file","name":"petselect_icons.dat","size":131200},
     {"type":"file","name":"petselect_preview_shadow.dat","size":262272},
+    {"type":"file","name":"platebg_10.dat","size":65664},
+    {"type":"file","name":"platebg_1.dat","size":65664},
+    {"type":"file","name":"platebg_2.dat","size":65664},
+    {"type":"file","name":"platebg_3.dat","size":65664},
+    {"type":"file","name":"platebg_4.dat","size":65664},
+    {"type":"file","name":"platebg_5.dat","size":65664},
+    {"type":"file","name":"platebg_6.dat","size":65664},
+    {"type":"file","name":"platebg_7.dat","size":65664},
+    {"type":"file","name":"platebg_8.dat","size":65664},
+    {"type":"file","name":"platebg_9.dat","size":65664},
     {"type":"file","name":"preview_cardpack_01.dat","size":1048704},
     {"type":"file","name":"preview_cardpack_02.dat","size":1048704},
     {"type":"file","name":"preview_cardpack_ccp_01_1.dat","size":1048704},
@@ -693,5 +704,5 @@
     {"type":"file","name":"re_beachparty.dat","size":262272}
   ]}
 ,
-  {"type":"report","directories":0,"files":691}
+  {"type":"report","directories":0,"files":702}
 ]
