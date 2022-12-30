@@ -47,6 +47,7 @@
     {"type":"file","name":"LAUNCH.WAV","size":31187},
     {"type":"file","name":"LIGHTER.WAV","size":40980},
     {"type":"file","name":"LOCKON.WAV","size":5750},
+    {"type":"file","name":"MAGICAL.WAV","size":1222892},
     {"type":"file","name":"MIRACLE2.WAV","size":622520},
     {"type":"file","name":"MIRACLE.WAV","size":203048},
     {"type":"file","name":"MISSILEHIT.WAV","size":13923},
@@ -85,6 +86,7 @@
     {"type":"file","name":"SYNTH-SWEEP2.WAV","size":516140},
     {"type":"file","name":"SYNTHSWEEP_NEW.WAV","size":330794},
     {"type":"file","name":"SYNTHSWEEP_WIND.WAV","size":992294},
+    {"type":"file","name":"TADA.WAV","size":383092},
     {"type":"file","name":"THROW01.WAV","size":40128},
     {"type":"file","name":"THROW02.WAV","size":44536},
     {"type":"file","name":"THROW03.WAV","size":118388},
@@ -99,5 +101,5 @@
     {"type":"file","name":"WIN.WAV","size":414604}
   ]}
 ,
-  {"type":"report","directories":0,"files":97}
+  {"type":"report","directories":0,"files":99}
 ]

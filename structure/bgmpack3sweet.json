@@ -1,0 +1,9 @@
+[
+  {"type":"directory","name":"./instance/bgmpack3sweet.pak","size":4096,"contents":[
+    {"type":"file","name":"001.ogg","size":3378975},
+    {"type":"file","name":"002.ogg","size":1910450},
+    {"type":"file","name":"003.ogg","size":2536068}
+  ]}
+,
+  {"type":"report","directories":0,"files":3}
+]

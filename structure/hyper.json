@@ -1,0 +1,33 @@
+[
+  {"type":"directory","name":"./instance/hyper.pak","size":4096,"contents":[
+    {"type":"directory","name":"sweetblogger","size":4096,"contents":[
+      {"type":"file","name":"background.dat","size":2097280},
+      {"type":"file","name":"bubble.dat","size":65664},
+      {"type":"file","name":"cloud.dat","size":262272},
+      {"type":"file","name":"mountain.dat","size":1048704},
+      {"type":"file","name":"platter.dat","size":262272},
+      {"type":"file","name":"sweet01.dat","size":65664},
+      {"type":"file","name":"sweet02.dat","size":65664},
+      {"type":"file","name":"sweet03.dat","size":65664},
+      {"type":"file","name":"sweet04.dat","size":65664},
+      {"type":"file","name":"sweet05.dat","size":65664},
+      {"type":"file","name":"sweet06.dat","size":65664}
+  ]},
+    {"type":"directory","name":"sweetcreator","size":4096,"contents":[
+      {"type":"file","name":"butterflies.dat","size":1048704},
+      {"type":"file","name":"sweetcreatorbutterfly_front.dat","size":4194432},
+      {"type":"file","name":"trail.dat","size":524416}
+  ]},
+    {"type":"directory","name":"sweetmaker","size":4096,"contents":[
+      {"type":"file","name":"card.dat","size":65664},
+      {"type":"file","name":"sweet01.dat","size":65664},
+      {"type":"file","name":"sweet02.dat","size":65664},
+      {"type":"file","name":"sweet03.dat","size":65664},
+      {"type":"file","name":"sweet04.dat","size":65664},
+      {"type":"file","name":"sweet05.dat","size":65664},
+      {"type":"file","name":"sweet06.dat","size":65664}
+  ]}
+  ]}
+,
+  {"type":"report","directories":3,"files":21}
+]

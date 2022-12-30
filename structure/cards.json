@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/cards.pak","size":36864,"contents":[
+  {"type":"directory","name":"./instance/cards.pak","size":40960,"contents":[
     {"type":"file","name":"accel128.dat","size":65664},
     {"type":"file","name":"accel256.dat","size":262272},
     {"type":"file","name":"accelhyper128.dat","size":65664},
@@ -687,6 +687,8 @@
     {"type":"file","name":"ohours256.dat","size":262272},
     {"type":"file","name":"omochaya128.dat","size":65664},
     {"type":"file","name":"omochaya256.dat","size":262272},
+    {"type":"file","name":"operationssweets128.dat","size":65664},
+    {"type":"file","name":"operationssweets256.dat","size":262272},
     {"type":"file","name":"orangeshroom128.dat","size":65664},
     {"type":"file","name":"orangeshroom256.dat","size":262272},
     {"type":"file","name":"party128.dat","size":65664},
@@ -891,8 +893,22 @@
     {"type":"file","name":"sweet256.dat","size":262272},
     {"type":"file","name":"sweetb128.dat","size":65664},
     {"type":"file","name":"sweetb256.dat","size":262272},
+    {"type":"file","name":"sweetblogger128.dat","size":65664},
+    {"type":"file","name":"sweetblogger256.dat","size":262272},
+    {"type":"file","name":"sweetcreator128.dat","size":65664},
+    {"type":"file","name":"sweetcreator256.dat","size":262272},
     {"type":"file","name":"sweetdestroyer128.dat","size":65664},
     {"type":"file","name":"sweetdestroyer256.dat","size":262272},
+    {"type":"file","name":"sweetmaker128.dat","size":65664},
+    {"type":"file","name":"sweetmaker256.dat","size":262272},
+    {"type":"file","name":"sweetmakermagic128.dat","size":65664},
+    {"type":"file","name":"sweetmakermagic256.dat","size":262272},
+    {"type":"file","name":"sweetparadise128.dat","size":65664},
+    {"type":"file","name":"sweetparadise256.dat","size":262272},
+    {"type":"file","name":"sweetparadiseb128.dat","size":65664},
+    {"type":"file","name":"sweetparadiseb256.dat","size":262272},
+    {"type":"file","name":"sweetparadisec128.dat","size":65664},
+    {"type":"file","name":"sweetparadisec256.dat","size":262272},
     {"type":"file","name":"swimmingcoach128.dat","size":65664},
     {"type":"file","name":"swimmingcoach256.dat","size":262272},
     {"type":"file","name":"swimmingringer128.dat","size":65664},
@@ -1001,5 +1017,5 @@
     {"type":"file","name":"zsalesman256.dat","size":262272}
   ]}
 ,
-  {"type":"report","directories":0,"files":999}
+  {"type":"report","directories":0,"files":1015}
 ]

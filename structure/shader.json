@@ -19,11 +19,12 @@
     {"type":"file","name":"Multiply.dat","size":340},
     {"type":"file","name":"MultiplyDiffuse.dat","size":408},
     {"type":"file","name":"NoiseFade.dat","size":584},
+    {"type":"file","name":"Overlay.dat","size":744},
     {"type":"file","name":"PetShader.dat","size":684},
     {"type":"file","name":"ReflectiveShell.dat","size":732},
     {"type":"file","name":"Saturation.dat","size":356},
     {"type":"file","name":"Screen.dat","size":352}
   ]}
 ,
-  {"type":"report","directories":0,"files":23}
+  {"type":"report","directories":0,"files":24}
 ]
