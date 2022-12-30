@@ -298,6 +298,16 @@ name=Goodest Boy
 descr=Effect duration: 3 Chapters.\nIgnore Boss panels. When staying on a panel with another player at the end of either of your turns, both draw a card.\nYou can neither challenge nor be challenged. Players may stop to Pet you.
 flavor="*Whimper*" ―Pomeranius
 
+< CARD_HYPER_COOP_SWEETCREATOR >
+name=Sweet Paradise
+descr=Set "Sweet Indulgence" trap face-up on 3-5 random panels.
+flavor="This is the power of a Sweet God!"  ―Sweet Creator
+
+< CARD_HYPER_COOP_SWEETCREATOR2 >
+name=Sweet Indulgence
+descr=Gain 3 random non-Hyper, Sweets type cards. Can only be triggered by allies.
+flavor="I am about to stuff you with sweets, whether you like it or not."  ―Sweet Creator
+
 < CARD_BOSS_COOP_DOZE >
 name=Doze
 descr=No effect.

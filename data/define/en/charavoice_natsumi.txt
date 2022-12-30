@@ -135,24 +135,25 @@
 <0133> How do I use this?
 <0134> I'm going to borrow this for a bit.
 <0135> This card is incredible.
-<0136> Q, let's play.
-<0137> Oh, you want me to play with you?
-<0138> Oh Q, are you sleepy?
-<0139> You're so strong, Q.
-<0140> Yuki, you mustn't play too many pranks, okay?
-<0141> Fufufu, I don't mind playing with you.
-<0142> Fufufu, I'll put you in charge of doing the dishes today.
-<0143> Oh geez, Yuki.
-<0144> Mei, you want to join my game?
-<0145> Mei, hiya.
-<0146> Fufu, I win, Mei.
-<0147> You win, Mei. That's incredible.
-<0148> Let me take a nap with you...
-<0149> Tea time? Would you like me to get us some sweets?
-<0150> Why don't we make some sweets?
-<0151> You want to cook something with me?
-<0152> Fufufu, make me something delicious, okay?
-<0153> All right, I'll give you a feast tonight.
-<0154> Ufufu, everyone looks like they're having fun.
-<0155> Hmmm! La lah!
-<0156> It's time for dinner!
+<0136> Thank you.
+<0137> Q, let's play.
+<0138> Oh, you want me to play with you?
+<0139> Oh Q, are you sleepy?
+<0140> You're so strong, Q.
+<0141> Yuki, you mustn't play too many pranks, okay?
+<0142> Fufufu, I don't mind playing with you.
+<0143> Fufufu, I'll put you in charge of doing the dishes today.
+<0144> Oh geez, Yuki.
+<0145> Mei, you want to join my game?
+<0146> Mei, hiya.
+<0147> Fufu, I win, Mei.
+<0148> You win, Mei. That's incredible.
+<0149> Let me take a nap with you...
+<0150> Tea time? Would you like me to get us some sweets?
+<0151> Why don't we make some sweets?
+<0152> You want to cook something with me?
+<0153> Fufufu, make me something delicious, okay?
+<0154> All right, I'll give you a feast tonight.
+<0155> Ufufu, everyone looks like they're having fun.
+<0156> Hmmm! La lah!
+<0157> It's time for dinner!

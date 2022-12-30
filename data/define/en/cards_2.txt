@@ -186,7 +186,7 @@ flavor="How foolish you are to have challenged a God. Prepare to taste your bitt
 
 < CARD_HYPER_QPD >
 name=Sweet Guardian
-descr=Draw 2 cards with "Pudding" in their name from the center deck.
+descr=Draw 2 cards with "Pudding" in their name from the center deck. If there are no cards with "pudding" in their name in the deck, instead randomly gain 1 Dangerous Pudding or Bad Pudding.
 flavor="My little... pudding..." ―QP
 
 < CARD_HYPER_SORAM >
@@ -441,7 +441,7 @@ flavor="I've got pudding for lunch today!" ―QP
 
 < CARD_BOOST_SWEETDESTROYER >
 name=Sweet Destroyer
-descr=Steal a random "pudding" card from each other player. You may play another card this turn. At the end of your turn, discard as many cards as you gained.
+descr=Steal a random "pudding" card from each other player. You may play another card this turn. For 3 chapters, all non-Hyper Sweets type cards drawn are permanently transformed at random into Dangerous Pudding or Bad Pudding.
 flavor="The sweets that bring harm to the world... I will destroy them all!" ―Sweet Breaker
 
 < CARD_BOOST_BACKDOORTRADE >
@@ -654,6 +654,26 @@ name=Goodest Boy
 descr=Effect duration: 3 Chapters\nImmune to instant KO effects. When staying on a panel with another player at the end of either player's turn, gain a copy of a random card in their hand. You can neither challenge nor be challenged; instead, opponents may stop to Pet you. Effect expires on KO.
 flavor="*Whimper*" ―Pomeranius
 
+< CARD_HYPER_SWEETCREATOR >
+name=Sweet Paradise
+descr=Set "Sweet Indulgence" trap on 3-5 random panels.
+flavor="This is the power of a Sweet God!" ―Sweet Creator
+
+< CARD_HYPER_SWEETCREATOR2 >
+name=Sweet Indulgence
+descr=Turn all your cards into random non-Hyper, Sweets type cards.
+flavor="I am about to stuff you with sweets, whether you like it or not."  ―Sweet Creator
+
+< CARD_HYPER_SWEETMAKER >
+name=Sweet Maker's Magic
+descr=Heal 1 HP and gain +2 ATK per Sweets type card in hand during this battle. Discard all Sweets type cards.
+flavor="Sweets power is the best!" ―Saki
+
+< CARD_HYPER_SWEETBLOGGER >
+name=Operation: A Mountain of Sweets
+descr=Draw 3 Boost cards from the deck. You can play up to 3 more Boost cards this turn for 1/3 of their cost.
+flavor="Ehehe, let's have a lot of delicious sweets." ―Natsumi
+
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=Ultimate Weapon in the Sun
 descr=During this battle, gain +3 ATK.
@@ -691,7 +711,7 @@ flavor="A-and it comes right back at you!" ―Aru
 
 < CARD_WINTER2022_FALSECAKE >
 name=Mio's False Cake
-descr=Choose one of the following:\n- Eat to gain a random effect.\n- Throw at target enemy to deal 1 damage. (If no target is available, eat it instead.)
+descr=Choose one of the following:\n- Eat to gain a random effect.\n- Throw at target enemy to deal 1 damage. (If no target is available, eat it instead.)\nIgnore unit effects that would prevent this card from being played.
 flavor="What the heck! This is disgusting!" ―Tomomo
 
 [EOF]

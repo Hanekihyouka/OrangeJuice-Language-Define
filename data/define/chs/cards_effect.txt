@@ -227,15 +227,15 @@ name=盾
 descr=降低受到的伤害，随受伤次数减少储备层数。
 
 < CARD_ELLIEATK_EFFECT >
-name=艾莉的奇迹(ATK)
+name=艾莉的奇迹（ATK）
 descr=每层储备使ATK+1。
 
 < CARD_ELLIEDEF_EFFECT >
-name=艾莉的奇迹(DEF)
+name=艾莉的奇迹（DEF）
 descr=每层储备使DEF+1。
 
 < CARD_ELLIEEVD_EFFECT >
-name=艾莉的奇迹(EVD)
+name=艾莉的奇迹（EVD）
 descr=每层储备使EVD+1。
 
 < CARD_LUCKYLUNCH_EFFECT >
@@ -304,8 +304,8 @@ name=通缉
 descr=战斗中倒下时对手获得双倍WIN。\n倒下时效果结束。
 
 < CARD_SWEETDESTROYER_EFFECT >
-name=甜点毁灭者
-descr=在回合结束时丢弃储备层数的手牌。
+name=甜点的破坏者
+descr=抽取的所有非Hyper甜点类卡片\n随机永久变为「危险布丁」或「糟糕的布丁」。
 
 < CARD_LONELYCHARIOT_EFFECT >
 name=孤独的暴走车
@@ -533,4 +533,7 @@ descr=每层储备使ATK+1。倒下时效果结束。
 name=可爱到犯规的小狗狗
 descr=免疫立即击倒效果。当你与另一名玩家在同一格，且其中一方回合结束时，你获得对方一张随机手牌的副本。无法发起挑战或受到挑战，相对的，对方可以停下来摸摸你。倒下时效果结束。
 
+< CARD_SWEETMOUNTAIN_EFFECT >
+name=甜点成堆大作战
+descr=可以额外使用增益卡，且使用时只需3分之1的COST。
 [EOF]

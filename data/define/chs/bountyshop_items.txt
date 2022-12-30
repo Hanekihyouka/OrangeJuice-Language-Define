@@ -36,7 +36,6 @@ name=药草茶
 descr=持续效果（1轮）\n不会受到伤害。
 
 // Bakery
-
 < ITEM_ATK_BOOST_LV1 >
 name=曲奇
 descr=持续效果（3轮）\nATK+1。相同效果无法叠加。

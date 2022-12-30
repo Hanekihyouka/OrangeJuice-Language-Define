@@ -155,4 +155,7 @@ Oono Yuuko
 < VOICEACTOR_OGAMI_SHINNOSUKE >
 Shinnosuke Ogami
 
+< VOICEACTOR_OOTSUBO_YUKA >
+Ootsubo Yuka
+
 [EOF]

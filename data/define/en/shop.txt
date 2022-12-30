@@ -167,6 +167,9 @@ Pudding Pop
 < SHOP_DLC_WATTYPOMERANIUS >
 Watty & Pomeranius
 
+< SHOP_DLC_SWEETGODS >
+Sweet Gods
+
 < SHOP_TOOLTIP_HOME >
 Navigate the shop by category icons.
 

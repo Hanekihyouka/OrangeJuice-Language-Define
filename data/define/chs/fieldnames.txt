@@ -18,7 +18,7 @@
 神圣之夜
 
 < FIELD_PLANETEARTH >
-绿之行星
+绿色星球
 
 < FIELD_LAGOONFLIGHT >
 环礁
@@ -39,7 +39,7 @@
 兔萌萌空间
 
 < FIELD_WHITEWINTER >
-白色之冬
+银白冬日
 
 < FIELD_NIGHTFLIGHT >
 夜间飞行
@@ -51,7 +51,7 @@
 牧场
 
 < FIELD_STARCIRCUIT >
-星之巡游
+星海巡游
 
 < FIELD_TRAININGPROGRAM >
 训练课程
@@ -66,7 +66,7 @@
 宇宙船
 
 < FIELD_FROSTCAVE >
-冰之洞窟
+寒冰洞窟
 
 < FIELD_SHIPYARD >
 造船厂
@@ -123,7 +123,7 @@
 啵噗空间
 
 < FIELD_COOP_STARCIRCUIT >
-星之巡游 合作
+星海巡游 合作
 
 < FIELD_COOP_SPACEWANDERER >
 不可思议的宇宙 合作
@@ -150,7 +150,7 @@
 电子空间
 
 < FIELD_COOP_PLANETEARTH >
-绿之行星 合作
+绿色星球 合作
 
 < FIELD_COOP_WITCHFOREST >
 魔女之森 合作
@@ -180,7 +180,7 @@
 四叶草 合作
 
 < FIELD_COOP_FROSTCAVE >
-冰之洞窟 合作
+寒冰洞窟 合作
 
 < FIELD_COOP_ICYHIDEOUT >
 冰冷的秘密基地 合作
@@ -192,7 +192,7 @@
 兔萌萌空间 合作
 
 < FIELD_COOP_WHITEWINTER >
-白色之冬 合作
+银白冬日 合作
 
 < FIELD_COOP_BEGINNERTOWN >
 新手小镇 合作

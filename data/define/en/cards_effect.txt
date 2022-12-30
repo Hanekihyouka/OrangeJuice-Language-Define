@@ -305,7 +305,7 @@ descr=Give double wins on KO from battle. Effect expires on KO.
 
 < CARD_SWEETDESTROYER_EFFECT >
 name=Sweet Destroyer
-descr=On turn end, discard as many cards as amount of stacks.
+descr=Any drawn Sweets type cards will be permanently transformed at random into Dangerous Pudding or Bad Pudding.
 
 < CARD_LONELYCHARIOT_EFFECT >
 name=Lonely Chariot
@@ -533,4 +533,7 @@ descr=Gain +1 ATK for each stack. Effect expires on KO.
 name=Goodest Boy
 descr=Immune to instant KO effects. When staying on a panel with another player at the end of either player's turn, gain a copy of a random card in their hand. You can neither challenge nor be challenged; instead, opponents may stop to Pet you. Effect expires on KO.
 
+< CARD_SWEETMOUNTAIN_EFFECT >
+name=Sweet Mountain
+descr=Able to play additional Boost cards for 1/3 of their cost.
 [EOF]

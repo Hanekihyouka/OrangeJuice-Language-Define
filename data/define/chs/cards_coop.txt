@@ -15,7 +15,7 @@ flavor=「一起来吃饭吧。」—夏美
 
 < CARD_BATTLE_COOP_SINKORSWIM >
 name=赌命一搏
-descr=ATK·DEF·EVD-1。\n如果你在这场战斗中取得胜利，\n获得10STAR和1WIN。
+descr=ATK·DEF·EVD-1。\n如果你在这场战斗中取得胜利，\n获得10个STAR和1WIN。
 flavor=「好了，来赌波大的吧！」—由希
 
 < CARD_EVENT_COOP_UNPAIDWORK >
@@ -60,7 +60,7 @@ flavor=「接下来该开店了。」—亚瑟
 
 < CARD_HYPER_COOP_ARUSCRAMBLE >
 name=圣诞小姐的工作
-descr=在待命时，你可以选择这张卡以外的1张\n可用等级的手牌转让给另1名随机玩家。\n获得转让卡片的等级×5的STAR。\n在使用或倒下时，将丢弃这张卡。
+descr=在待命时，你可以选择这张卡以外的1张\n可用等级的手牌转让给另1名随机玩家。\n获得转让卡片等级×5的STAR。\n在使用或倒下时，将丢弃这张卡。
 flavor=「等着我们吧，全世界的孩子们！」—亚琉
 
 < CARD_HYPER_COOP_CHICKEN >
@@ -160,7 +160,7 @@ flavor=「小布丁……\n我、我……爱死你了。」—QP
 
 < CARD_HYPER_COOP_SAKI >
 name=大爆炸铃
-descr=以这张卡为中心的5×5范围内的敌人\n受到X点伤害。\nX=2+(设置后经过的轮数÷2)。\n因这个效果而倒下的敌人失去一半的STAR，\n由设置这张卡的玩家获得所失去的STAR。
+descr=以这张卡为中心的5×5范围内的敌人\n受到X点伤害。\nX=2+（设置后经过的轮数÷2）。\n因这个效果而倒下的敌人失去一半的STAR，\n由设置这张卡的玩家获得所失去的STAR。
 flavor=「嘛呜呜呜哩呀呀呀呀呀！！」—纱季
 
 < CARD_HYPER_COOP_SHAM >
@@ -175,7 +175,7 @@ flavor=「我们只是，想要自由地飞翔而已。」—雪莉
 
 < CARD_HYPER_COOP_STARBREAKER >
 name=星球的导火线
-descr=将3～5张「不可视的炸弹」\n设置在随机的格子上。
+descr=将3～5个「不可视的炸弹」\n设置在随机的格子上。
 flavor=「因为我是星球破坏者，\n破坏星球的导火线。」—星球破坏者
 
 < CARD_HYPER_COOP_STARBREAKER2 >
@@ -205,7 +205,7 @@ flavor=「消失吧。」—兔萌萌
 
 < CARD_HYPER_COOP_TOMOMOSWEETEATER >
 name=魔法复仇
-descr=你目前所缺失的每点HP，\n使除你以外的随机1名敌人受到1点伤害。\n因这个效果而倒下时获得1WIN。\n当持有者不是「兔萌萌(甜点品尝者)」时，\n此卡会变为「奇迹红豆冰淇淋」。
+descr=你目前所缺失的每点HP，\n使除你以外的随机1名敌人受到1点伤害。\n因这个效果而倒下时获得1WIN。\n当持有者不是「兔萌萌（甜点品尝者）」时，\n此卡会变为「奇迹红豆冰淇淋」。
 flavor=「魔法复仇的时间到了！」 —兔萌萌
 
 < CARD_HYPER_COOP_TSIH >
@@ -297,6 +297,16 @@ flavor=「这、这很危险的……对不起。」—沃缇
 name=可爱到犯规的小狗狗
 descr=持续效果（3轮）\n不会触发BOSS格。\n当你与另一名玩家在同一格，且其中一方回合\n结束时，双方皆抽取一张卡。无法发起挑战\n或受到挑战。\n玩家可以停下来摸摸你。
 flavor=「呜呜～」—波美拉尼亚斯
+
+< CARD_HYPER_COOP_SWEETCREATOR >
+name=甜点天堂
+descr=将3～5张「甜点纵溺」正面向上设置在\n随机的格子上。
+flavor=「这就是甜点神的力量！」—甜点创造者
+
+< CARD_HYPER_COOP_SWEETCREATOR2 >
+name=甜点纵溺
+descr=获得3张随机的非Hyper甜点类卡片。\n甜点天堂只会被友方触发。
+flavor=「我想用甜点填满你。」—甜点创造者
 
 < CARD_BOSS_COOP_DOZE >
 name=打盹

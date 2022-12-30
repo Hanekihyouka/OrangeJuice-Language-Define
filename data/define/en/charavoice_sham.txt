@@ -150,7 +150,7 @@
 <0148> I can't believe I won...
 <0149> I knew I wouldn't do well against you.
 <0150> Omigod!? There's a cute little girl here!
-<0151> Hi, little girl, how about you come hang out with me!
+<0151> Hi, cutie, how about you come hang out with me!
 <0152> Y-you want to hang out with me? Yeah, sure. What should we do?
 <0153> That was fun! By the way, have you ever thought of becoming an idol?
 <0154> Tiny and cute, yet strong... You'd make the perfect idol...

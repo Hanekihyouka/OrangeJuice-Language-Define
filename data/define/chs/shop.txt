@@ -87,7 +87,7 @@ DLC
 娜德＆托玛特＋米缪
 
 < SHOP_DLC_SUGURIHIMEWINTER >
-须玖莉＆姬梦(冬服)
+须玖莉＆姬梦（冬服）
 
 < SHOP_DLC_KIRIKONONAME >
 斩子＆NoName
@@ -167,6 +167,9 @@ Ultimate Weapon Girl
 < SHOP_DLC_WATTYPOMERANIUS >
 沃缇＆波美拉尼亚斯
 
+< SHOP_DLC_SWEETGODS >
+甜点之神
+
 < SHOP_TOOLTIP_HOME >
 按类别图标查看商店。
 
@@ -174,7 +177,7 @@ Ultimate Weapon Girl
 购买已解锁的卡包与角色。
 
 < SHOP_TOOLTIP_CHARACTERS >
-购买变更外貌的物品。(以角色分类。)
+购买变更外貌的物品。（以角色分类。）
 
 < SHOP_TOOLTIP_CHALLENGES >
 消费橙子获得挑战限定木箱与发色。

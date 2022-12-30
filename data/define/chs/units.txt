@@ -12,7 +12,7 @@ name=亚琉
 descr=手牌上限为4张。
 
 < CARD_UNIT_ARUSCRAMBLE >
-name=亚琉 (争夺)
+name=亚琉（争夺）
 descr=手牌上限为4张。
 
 < CARD_UNIT_BIG_THE_JONATHAN >
@@ -104,7 +104,7 @@ name=柯欧蕾帕露可
 descr=成功闪避时，对手受到1点伤害。
 
 < CARD_UNIT_CUTIES >
-name=优空＆夏姆 (可爱者)
+name=优空＆夏姆（可爱者）
 descr=只能选择STAR目标。\n从奖励格获得STAR时额外获得X个，X为你使用的不同事件卡数量。\n战斗时随机ATK或DEF+1。
 
 < CARD_UNIT_FERNET >
@@ -137,7 +137,7 @@ descr=
 
 < CARD_UNIT_KIRIKO >
 name=斩子
-descr=恢复效果无效。战斗卡使用时，\n战斗中ATK·EVD+1，HP上限-1 (下限为2) ，\nHP上限的减少在战斗结束后依然持续。
+descr=恢复效果无效。战斗卡使用时，\n战斗中ATK·EVD+1，HP上限-1\n（下限为2），\nHP上限的减少在战斗结束后依然持续。
 
 < CARD_UNIT_KRILA >
 name=克里拉拉莉丝
@@ -192,7 +192,7 @@ name=美羽咲
 descr=防御时一次攻击最多只会受到HP上限一半\n的伤害（向上取整）。
 
 < CARD_UNIT_MIXEDPOPPO >
-name=玛丽啵噗 (混成)
+name=玛丽啵噗（混成）
 descr=传送时等级为奇数时\n获得等级×3的STAR，为偶数时抽1张卡。\n※卡片效果或场地效果的传送都包含。
 
 < CARD_UNIT_MIO >
@@ -221,10 +221,10 @@ descr=不受礼物卡影响。\n任意来源获得STAR时额外获得X个，\nX�
 
 < CARD_UNIT_NONAME >
 name=NoName
-descr=倒下时变为「NoName(头)」。\n在战斗中倒下时不会给予STAR和WIN。
+descr=倒下时变为「NoName（头）」。\n在战斗中倒下时不会给予STAR和WIN。
 
 < CARD_UNIT_NONAME_HEAD >
-name=NoName (头)
+name=NoName（头）
 descr=在到达HOME格或倒下时\n变为「NoName」。MOV-1。
 
 < CARD_UNIT_POPPO >
@@ -240,8 +240,8 @@ name=QP
 descr=
 
 < CARD_UNIT_QPD >
-name=QP (危机)
-descr=持有名称包含布丁的卡片时，战斗中获得加成。\n危险布丁(ATK+1)、糟糕的布丁(DEF+1)、\n布丁(EVD+1)、便携布丁(HP上限+1)。
+name=QP（危机）
+descr=持有名称包含布丁的卡片时，战斗中获得加成。\n危险布丁(ATK+1)、糟糕的布丁(DEF+1)、\n布丁(EVD+1)、便携布丁(战斗击倒时\n恢复1HP)。
 
 < CARD_UNIT_ROBOBALL >
 name=机器球
@@ -288,11 +288,11 @@ name=优空
 descr=
 
 < CARD_UNIT_SORAMILITARY >
-name=优空 (军服)
+name=优空（军服）
 descr=战斗中倒下时，\n在下一个你的回合以HP2的状态复活。
 
 < CARD_COOP_UNIT_SORAMILITARY >
-name=优空 (军服)
+name=优空（军服）
 descr=战斗中倒下时，\n在下一个你的回合以HP2的状态复活。\n每次从战斗击倒复活时获得1层萎靡不振效果。\n储备效果：每层储备使复活延迟1回合。
 
 < CARD_UNIT_STARBREAKER >
@@ -304,7 +304,7 @@ name=须玖莉
 descr=
 
 < CARD_UNIT_SUGURI_V2 >
-name=须玖莉 (Ver.2)
+name=须玖莉（Ver.2）
 descr=手牌上限为2张。\n在你的回合开始时恢复1点HP。
 
 < CARD_UNIT_SWEETBREAKER >
@@ -344,12 +344,12 @@ name=兔萌萌
 descr=软化：因为和朋友一起玩，所以降低了能力值。
 
 < CARD_UNIT_TOMOMO_CASUAL >
-name=兔萌萌 (休闲)
+name=兔萌萌（休闲）
 descr=
 
 < CARD_UNIT_TOMOMO_SWEETEATER >
-name=兔萌萌 (甜点品尝者)
-descr=倒下时，丢弃所有手牌\n并变回「兔萌萌(休闲)」。
+name=兔萌萌（甜点品尝者）
+descr=倒下时，丢弃所有手牌\n并变回「兔萌萌（休闲）」。
 
 < CARD_UNIT_TSIH >
 name=杏
@@ -360,7 +360,7 @@ name=由希
 descr=
 
 < CARD_UNIT_YUKI_DANGEROUS >
-name=由希 (危机)
+name=由希（危机）
 descr=手牌中名称包含「布丁」的卡片都会变为\n「深夜的惨剧」。当你的陷阱被其他人触发时\n获得1WIN。在遭遇战中无法获得WIN。
 
 < CARD_UNIT_YUUKI >
@@ -368,7 +368,7 @@ name=夕希
 descr=在奇数轮时，ATK-1·DEF+2。\n在偶数轮时，ATK+2·DEF-1。
 
 < CARD_UNIT_SUGURI46 >
-name=须玖莉 (460亿年)
+name=须玖莉（460亿年）
 descr=在使用能造成伤害的增益卡或事件卡时，\n你可以支付1.5倍COST（向上取整）使其\n造成双倍伤害。\n发动后，下次移动时骰子个数+1。
 
 < CARD_UNIT_SUMIKA >
@@ -384,7 +384,7 @@ name=露露
 descr=
 
 < CARD_UNIT_MARC_PILOT >
-name=玛儿 (飞行员)
+name=玛儿（飞行员）
 descr=
 
 < CARD_UNIT_ALICIANRONE >
@@ -491,4 +491,15 @@ descr=当你的HP为上限及以上时，不会触发踩到的\n陷阱卡。
 name=沃缇
 descr=战斗结束时，防御每抵消2点伤害获得1层\n硬化鳞片（最多5层）。（持续3轮：每层储备\n使ATK+1。倒下时效果结束。）
 
+< CARD_UNIT_SWEETCREATOR >
+name=甜点创造者
+descr=当任何人使用非陷阱甜点类卡片，或触发甜点类\n陷阱卡时，你获得卡片等级×2的STAR。
+
+< CARD_UNIT_SWEETMAKER >
+name=纱季（甜点制作者）
+descr=在触发遭遇格并存活时，\n抽取1张可用等级的甜点类卡片。
+
+< CARD_UNIT_SWEETBLOGGER >
+name=夏美（甜点评论者）
+descr=所有甜点类卡片无需COST。\n在触发掉落格并存活时，\n抽取1张可用等级的甜点类卡片。
 [EOF]

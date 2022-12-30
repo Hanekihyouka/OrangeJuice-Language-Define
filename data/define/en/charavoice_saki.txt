@@ -135,27 +135,28 @@
 <0133> I'm not familiar with this, but I'll play it anyway!
 <0134> It's funny using someone else's powers.
 <0135> Let me borrow your powers!
-<0136> Let's fight a sweet battle!
-<0137> Whoa, it's you, Sweet B!
-<0138> Fufu, it looks like I'm on a higher level as a god.
-<0139> You're very good, Sweet B...
-<0140> Q! here I come!
-<0141> Q! Bring it on!
-<0142> Good fight! I'm going to make you some pudding later.
-<0143> You're very good, Q! We should get some pudding together!
-<0144> Th-this is... a legendary sweet...
-<0145> You are...!!
-<0146> Hie! It's hard fighting him!
-<0147> Phew... I was a nervous wreck for many reasons.
-<0148> I can't even imagine defeating him...
-<0149> Just so you know, you're always doing a nice job!
-<0150> Whoa, I feel like something bad's happening right now.
-<0151> An idol...!
-<0152> Sweet Eater...!
-<0153> I sense Guardian...!
-<0154> Battle between Sweet Gods... Let's get started!
-<0155> Hmmmm~♪　Mau~mau~♪
-<0156> Mauuuuuuuryaaaaaaaah!
-<0157> Why don't you go to sleeeeeep!
-<0158> Droooop deaaaaad!!
-<0159> Sweet dreams!
+<0136> Wow, thank you so much.
+<0137> Let's fight a sweet battle!
+<0138> Whoa, it's you, Sweet B!
+<0139> Fufu, it looks like I'm on a higher level as a god.
+<0140> You're very good, Sweet B...
+<0141> Q! here I come!
+<0142> Q! Bring it on!
+<0143> Good fight! I'm going to make you some pudding later.
+<0144> You're very good, Q! We should get some pudding together!
+<0145> Th-this is... a legendary sweet...
+<0146> You are...!!
+<0147> Hie! It's hard fighting him!
+<0148> Phew... I was a nervous wreck for many reasons.
+<0149> I can't even imagine defeating him...
+<0150> Just so you know, you're always doing a nice job!
+<0151> Whoa, I feel like something bad's happening right now.
+<0152> An idol...!
+<0153> Sweet Eater...!
+<0154> I sense Guardian...!
+<0155> Battle between Sweet Gods... Let's get started!
+<0156> Hmmmm~♪　Mau~mau~♪
+<0157> Mauuuuuuuryaaaaaaaah!
+<0158> Why don't you go to sleeeeeep!
+<0159> Droooop deaaaaad!!
+<0160> Sweet dreams!
