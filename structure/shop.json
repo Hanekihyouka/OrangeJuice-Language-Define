@@ -598,6 +598,7 @@
     {"type":"file","name":"dlc_34.dat","size":262272},
     {"type":"file","name":"dlc_35.dat","size":262272},
     {"type":"file","name":"dlc_36.dat","size":262272},
+    {"type":"file","name":"dlc_37.dat","size":262272},
     {"type":"file","name":"field_01.dat","size":65664},
     {"type":"file","name":"field_02.dat","size":65664},
     {"type":"file","name":"field_03.dat","size":65664},
@@ -704,5 +705,5 @@
     {"type":"file","name":"re_beachparty.dat","size":262272}
   ]}
 ,
-  {"type":"report","directories":0,"files":702}
+  {"type":"report","directories":0,"files":703}
 ]
