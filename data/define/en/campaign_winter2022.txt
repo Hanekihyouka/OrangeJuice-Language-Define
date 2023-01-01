@@ -127,3 +127,50 @@
 // (mio)
 <0041> That's lovely. Bring it on, all of you. Nobody can stop me when I'm furious ♥
 
+<0042>
+<0043>
+<0044>
+<0045>
+<0046>
+<0047>
+<0048>
+<0049>
+<0050>
+<0051>
+<0052>
+
+// ========= Scene:  Ending 2 (Mio wins) =========
+
+// (mio)
+<0053> Ufufu, I won ♥ I told you nobody can stop me when I'm angry.
+
+// (sweeteater)
+<0054> How could people actually like that terrible cake more than a real one!?
+
+// (sweetguardian)
+<0055> Actually, I just ate some of it again and it's not as bad as I first thought.
+
+// (sweetblogger)
+<0056> Tons of sweets bloggers are writing about the cake. It's the new trend now.
+
+// (sweetcreator)
+<0057> It seems that the world of sweets is deeper than I knew. There's still much for me to learn.
+
+// (sweetbreaker)
+<0058> I guess that's right. We shouldn't have been so hasty in deciding that the cake is objectively bad.
+
+// (sweetmaker)
+<0059> Mio, could you teach me how to make that cake? As a patissier, I believe I need to learn the recipe!
+
+// (mio)
+<0060> Of course ♥
+
+// (sweetcreator)
+<0061> Alright, we're going to get back to my place and make some cake!
+
+// (everyone)
+<0062> Yeah!
+
+// (sweeteater)
+<0063> Hey, hey, heeey! Wait up! Don't leave me alone here!
+

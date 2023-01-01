@@ -160,6 +160,10 @@
     {"type":"file","name":"homemark_38_1.dat","size":262272},
     {"type":"file","name":"homemark_38_2.dat","size":262272},
     {"type":"file","name":"homemark_38_3.dat","size":262272},
+    {"type":"file","name":"homemark_40_0.dat","size":262272},
+    {"type":"file","name":"homemark_40_1.dat","size":262272},
+    {"type":"file","name":"homemark_40_2.dat","size":262272},
+    {"type":"file","name":"homemark_40_3.dat","size":262272},
     {"type":"file","name":"homemark_icons.dat","size":4194432},
     {"type":"file","name":"homemark_shadow.dat","size":262272},
     {"type":"file","name":"mass_aoe.dat","size":65664},
@@ -221,5 +225,5 @@
     {"type":"file","name":"world_arrow_up.dat","size":65664}
   ]}
 ,
-  {"type":"report","directories":0,"files":219}
+  {"type":"report","directories":1,"files":223}
 ]

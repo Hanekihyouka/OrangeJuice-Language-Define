@@ -881,6 +881,10 @@ QP还想多玩一会！夏日野兽复活了！
 < PLAYMENU_EVENT_WINTER2022_INSTRUCTION_06 >
 为解锁活动结局，你需要到达你的个人活动场数\n目标，同时还可以获得独立于全局活动进度的\n奖励。
 
+< PLAYMENU_EVENT_WINTER2022_COMPLETE_02 >
+蛋糕的新潮流席卷而来！大家都可以尽情享受\n魅樱的新潮杰作了！\n如果你没吃够，你还能继续搜寻更多蛋糕。
+
+
 < PLAYMENU_EVENT_NEXT_GOAL >
 下一个目标：
 

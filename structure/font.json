@@ -119,7 +119,7 @@
       {"type":"file","name":"system_medium_1.png","size":1048704},
       {"type":"file","name":"system_medium_2.png","size":1048704},
       {"type":"file","name":"system_medium.fnt","size":203367}
-  ]},
+    ]},
     {"type":"file","name":"dialogue_misc_0.png","size":4224},
     {"type":"file","name":"dialogue_misc.fnt","size":119},
     {"type":"directory","name":"en","size":4096,"contents":[
@@ -203,7 +203,7 @@
       {"type":"file","name":"system_larger.fnt","size":8442},
       {"type":"file","name":"system_medium_0.png","size":131200},
       {"type":"file","name":"system_medium.fnt","size":7472}
-  ]},
+    ]},
     {"type":"file","name":"game_floatingtext_0.png","size":65664},
     {"type":"file","name":"game_floatingtext.fnt","size":1991},
     {"type":"file","name":"gamesystem_small_0.png","size":262272},
@@ -313,7 +313,7 @@
       {"type":"file","name":"system_medium_2.png","size":1048704},
       {"type":"file","name":"system_medium_3.png","size":1048704},
       {"type":"file","name":"system_medium.fnt","size":270400}
-  ]},
+    ]},
     {"type":"directory","name":"ko","size":12288,"contents":[
       {"type":"file","name":"carddescriptions_large_00_0.png","size":1048704},
       {"type":"file","name":"carddescriptions_large_00_1.png","size":1048704},
@@ -458,7 +458,7 @@
       {"type":"file","name":"system_medium_0.png","size":1048704},
       {"type":"file","name":"system_medium_1.png","size":1048704},
       {"type":"file","name":"system_medium.fnt","size":245745}
-  ]},
+    ]},
     {"type":"directory","name":"ru","size":4096,"contents":[
       {"type":"file","name":"carddescriptions_large_00_0.png","size":262272},
       {"type":"file","name":"carddescriptions_large_00.fnt","size":12557},
@@ -540,7 +540,7 @@
       {"type":"file","name":"system_larger.fnt","size":25254},
       {"type":"file","name":"system_medium_0.png","size":262272},
       {"type":"file","name":"system_medium.fnt","size":21674}
-  ]},
+    ]},
     {"type":"directory","name":"sp","size":4096,"contents":[
       {"type":"file","name":"carddescriptions_large_00_0.png","size":131200},
       {"type":"file","name":"carddescriptions_large_00.fnt","size":12300},
@@ -622,10 +622,10 @@
       {"type":"file","name":"system_larger.fnt","size":8442},
       {"type":"file","name":"system_medium_0.png","size":131200},
       {"type":"file","name":"system_medium.fnt","size":7472}
-  ]},
+    ]},
     {"type":"file","name":"system_medium_misc_0.png","size":4224},
     {"type":"file","name":"system_medium_misc.fnt","size":167}
   ]}
 ,
-  {"type":"report","directories":6,"files":613}
+  {"type":"report","directories":7,"files":613}
 ]

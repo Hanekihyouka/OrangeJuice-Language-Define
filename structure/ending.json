@@ -8,20 +8,20 @@
           {"type":"file","name":"1.dat","size":16777344},
           {"type":"file","name":"2.dat","size":16777344},
           {"type":"file","name":"3.dat","size":16777344}
-      ]},
+        ]},
         {"type":"directory","name":"essence","size":4096,"contents":[
           {"type":"file","name":"1.dat","size":16777344},
           {"type":"file","name":"2.dat","size":16777344},
           {"type":"file","name":"3.dat","size":16777344},
           {"type":"file","name":"4.dat","size":16777344}
-      ]},
+        ]},
         {"type":"directory","name":"wholesome","size":4096,"contents":[
           {"type":"file","name":"1.dat","size":16777344},
           {"type":"file","name":"2.dat","size":16777344},
           {"type":"file","name":"3.dat","size":16777344}
+        ]}
       ]}
-    ]}
-  ]},
+    ]},
     {"type":"file","name":"ellielulu.dat","size":4194432},
     {"type":"file","name":"frb2019.dat","size":16777344},
     {"type":"file","name":"halloween2018.dat","size":16777344},
@@ -52,8 +52,9 @@
     {"type":"file","name":"susu.dat","size":4194432},
     {"type":"file","name":"sweetbreaker.dat","size":16777344},
     {"type":"file","name":"valentines2018.dat","size":16777344},
-    {"type":"file","name":"winter2020.dat","size":16777344}
+    {"type":"file","name":"winter2020.dat","size":16777344},
+    {"type":"file","name":"winter2022_2.dat","size":16777344}
   ]}
 ,
-  {"type":"report","directories":5,"files":43}
+  {"type":"report","directories":6,"files":44}
 ]

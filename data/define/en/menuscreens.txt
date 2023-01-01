@@ -883,6 +883,9 @@ The two event counters correspond to the method of disposing of the cakes, and e
 < PLAYMENU_EVENT_WINTER2022_INSTRUCTION_06 >
 To unlock the event's ending, you must reach your personal goal of event games played, which will also give you a prize independent of the global event progress.
 
+< PLAYMENU_EVENT_WINTER2022_COMPLETE_02 >
+A new cake trend is here! Everyone can enjoy Mio's fashionable creations around the world! You can still keep searching for more cakes if you haven't had your fill. 
+
 < PLAYMENU_EVENT_NEXT_GOAL >
 Next goal:
 

@@ -207,5 +207,5 @@
     {"type":"file","name":"word_input.dat","size":1048704}
   ]}
 ,
-  {"type":"report","directories":0,"files":205}
+  {"type":"report","directories":1,"files":205}
 ]
