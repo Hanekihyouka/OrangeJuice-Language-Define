@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/cards.pak","size":40960,"contents":[
+  {"type":"directory","name":"./instance/cards.pak","size":45056,"contents":[
     {"type":"file","name":"accel128.dat","size":65664},
     {"type":"file","name":"accel256.dat","size":262272},
     {"type":"file","name":"accelhyper128.dat","size":65664},
