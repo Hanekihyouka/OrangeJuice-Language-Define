@@ -296,7 +296,7 @@ flavor="Miracle red bean ice cream!" ―Tomomo
 
 < CARD_HYPER_TOMOMOSWEETEATER >
 name=Magical Revenge
-descr=For each missing HP, random enemy takes 1 damage. If a unit is KO'd, you gain 1 Win.\nWhen not held by Tomomo (Sweet Eater), this card becomes Miracle Red Bean Ice Cream.
+descr=For each of your missing HP, a random enemy takes 1 damage. If a unit is KO'd, you gain 1 Win.\nWhen not held by Tomomo (Sweet Eater), this card becomes Miracle Red Bean Ice Cream.
 flavor="It's Magical Revenge time!" ―Tomomo
 
 < CARD_HYPER_SUGURI_V2 >

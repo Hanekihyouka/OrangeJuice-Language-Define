@@ -97,3 +97,43 @@ artist=Sora
 name=飞翔的京介
 desc=授予使用京介进行过很多场游戏的玩家。\n找寻着一位特别的人。
 artist=Sora
+
+< PIN_FLYING_KRILA >
+name=飞翔的克里拉拉莉丝
+desc=授予使用克里拉拉莉丝进行过很多场游戏的玩家。\n飞向永恒的黑暗。
+artist=Sora
+
+< PIN_FLYING_KAE >
+name=飞翔的佳爱
+desc=授予使用佳爱进行过很多场游戏的玩家。\n卡组里总带着热度300%。
+artist=Sora
+
+< PIN_FLYING_ALTE >
+name=飞翔的阿露特
+desc=授予使用阿露特进行过很多场游戏的玩家。\n使用此挂件时不会发生自爆。
+artist=Sora
+
+< PIN_FLYING_KYOKO >
+name=飞翔的京子
+desc=授予使用京子进行过很多场游戏的玩家。\n保持冷静！
+artist=Sora
+
+< PIN_FLYING_SHAM >
+name=飞翔的夏姆
+desc=授予使用夏姆进行过很多场游戏的玩家。\n最可爱的通信员！
+artist=Sora
+
+< PIN_FLYING_SHERRY >
+name=飞翔的雪莉
+desc=授予使用雪莉进行过很多场游戏的玩家。\n自由飞翔。
+artist=Sora
+
+< PIN_FLYING_SWEETBREAKER >
+name=飞翔的甜点破坏者
+desc=授予使用甜点破坏者进行过很多场游戏的玩家。\n记忆融化进行中！
+artist=Sora
+
+< PIN_FLYING_STARBREAKER >
+name=飞翔的星球破坏者
+desc=授予使用星球破坏者进行过很多场游戏的玩家。\n小心爆炸。
+artist=Sora

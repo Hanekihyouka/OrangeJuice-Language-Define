@@ -97,3 +97,43 @@ artist=Sora
 name=Flying Kyousuke
 desc=Granted to the players who played as Kyousuke a lot.\nIn search of a special someone.
 artist=Sora
+
+< PIN_FLYING_KRILA >
+name=Flying Krilalaris
+desc=Granted to the players who played as Krilalaris a lot.\nFlying to eternal Darkness.
+artist=Sora
+
+< PIN_FLYING_KAE >
+name=Flying Kae
+desc=Granted to the players who played as Kae a lot.\nAlways having Heat 300% in her deck.
+artist=Sora
+
+< PIN_FLYING_ALTE >
+name=Flying Alte
+desc=Granted to the players who played as Alte a lot.\nThis pin will not self-destruct upon use.
+artist=Sora
+
+< PIN_FLYING_KYOKO >
+name=Flying Kyoko
+desc=Granted to the players who played as Kyoko a lot.\nKeep it cool!
+artist=Sora
+
+< PIN_FLYING_SHAM >
+name=Flying Sham
+desc=Granted to the players who played as Sham a lot.\nThe cutest Operator!
+artist=Sora
+
+< PIN_FLYING_SHERRY >
+name=Flying Sherry
+desc=Granted to the players who played as Sherry a lot.\nFlying freely.
+artist=Sora
+
+< PIN_FLYING_SWEETBREAKER >
+name=Flying Sweet Breaker
+desc=Granted to the players who played as Sweet Breaker a lot.\nMemory melting in progress!
+artist=Sora
+
+< PIN_FLYING_STARBREAKER >
+name=Flying Star Breaker
+desc=Granted to the players who played as Star Breaker a lot.\nBeware of explosions.
+artist=Sora

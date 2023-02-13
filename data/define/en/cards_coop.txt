@@ -205,7 +205,7 @@ flavor="Disappear." ―Tomomo
 
 < CARD_HYPER_COOP_TOMOMOSWEETEATER >
 name=Magical Revenge
-descr=For each of your missing HP, random enemy takes 1 damage. If KO'd by this, you gain 1 Win.\nWhen not held by Tomomo (Sweet Eater), this card becomes Miracle Red Bean Ice Cream.
+descr=For each of your missing HP, a random enemy takes 1 damage. If KO'd by this, you gain 1 Win.\nWhen not held by Tomomo (Sweet Eater), this card becomes Miracle Red Bean Ice Cream.
 flavor="It's Magical Revenge time!" ―Tomomo
 
 < CARD_HYPER_COOP_TSIH >

@@ -493,7 +493,7 @@ descr=战斗结束时，防御每抵消2点伤害获得1层\n硬化鳞片（最�
 
 < CARD_UNIT_SWEETCREATOR >
 name=甜点创造者
-descr=当任何人使用非陷阱甜点类卡片，或触发甜点类\n陷阱卡时，你获得卡片等级×2的STAR。
+descr=当其他任何人使用非陷阱甜点类卡片，或触发\n甜点类陷阱卡时，你获得卡片等级×2的STAR。
 
 < CARD_UNIT_SWEETMAKER >
 name=纱季（甜点制作者）

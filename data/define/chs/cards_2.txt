@@ -666,12 +666,12 @@ flavor=「我想用甜点填满你。」—甜点创造者
 
 < CARD_HYPER_SWEETMAKER >
 name=甜点制作者的魔法
-descr=这场战斗中手牌内每有一张甜点类卡片时，\n恢复1HP，ATK+2。丢弃所有甜点类\n卡片。
+descr=这场战斗中手牌内每有一张甜点类卡片时，\n恢复1HP，ATK+2。丢弃所有甜点类卡片。
 flavor=「甜点之力最棒了！」—甜点制作者
 
 < CARD_HYPER_SWEETBLOGGER >
 name=甜点成堆大作战
-descr=从卡堆抽取3张增益卡。\n这个回合你可以再使用3张增益卡，且使用时\n只需3分之1的COST。
+descr=从卡堆抽取3张增益卡。\n这个回合你可以再使用3张增益卡，且使用时\n只需1/3的COST。
 flavor=「诶嘿嘿，尽管来吃好吃的东西吧。」\n—甜点评论者
 
 < CARD_HYPER_SUMMER2018_ATTACKER >

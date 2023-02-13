@@ -155,7 +155,7 @@ flavor=「啵噗！啵噗噗噗噗噗～！」—玛丽啵噗
 
 < CARD_HYPER_COOP_QPD >
 name=甜点守护者
-descr=获得2张名字含有「布丁」的卡片。\n这些卡在使用或丢弃时，会从游戏中除外。
+descr=获得2张「布丁」。\n这些卡在使用或丢弃时，会从游戏中除外。
 flavor=「小布丁……\n我、我……爱死你了。」—QP
 
 < CARD_HYPER_COOP_SAKI >

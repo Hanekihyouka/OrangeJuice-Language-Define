@@ -535,5 +535,5 @@ descr=免疫立即击倒效果。当你与另一名玩家在同一格，且其�
 
 < CARD_SWEETMOUNTAIN_EFFECT >
 name=甜点成堆大作战
-descr=可以额外使用增益卡，且使用时只需3分之1的COST。
+descr=可以额外使用增益卡，且使用时只需1/3的COST。
 [EOF]

@@ -1,10 +1,14 @@
 [
   {"type":"directory","name":"./instance/codex.pak","size":4096,"contents":[
+    {"type":"file","name":"alte.dat","size":4194432},
     {"type":"file","name":"aru.dat","size":4194432},
     {"type":"file","name":"fernet.dat","size":4194432},
     {"type":"file","name":"hime.dat","size":4194432},
+    {"type":"file","name":"kae.dat","size":4194432},
     {"type":"file","name":"kai.dat","size":4194432},
+    {"type":"file","name":"krila.dat","size":4194432},
     {"type":"file","name":"ksuke.dat","size":4194432},
+    {"type":"file","name":"kyoko.dat","size":4194432},
     {"type":"file","name":"marc.dat","size":4194432},
     {"type":"file","name":"nanako.dat","size":4194432},
     {"type":"file","name":"nico.dat","size":4194432},
@@ -12,14 +16,18 @@
     {"type":"file","name":"poppo.dat","size":4194432},
     {"type":"file","name":"qp.dat","size":4194432},
     {"type":"file","name":"saki.dat","size":4194432},
+    {"type":"file","name":"sham.dat","size":4194432},
+    {"type":"file","name":"sherry.dat","size":4194432},
     {"type":"file","name":"sora - Copy.dat","size":4194432},
     {"type":"file","name":"sora.dat","size":4194432},
+    {"type":"file","name":"starb.dat","size":4194432},
     {"type":"file","name":"suguri.dat","size":4194432},
+    {"type":"file","name":"sweetb.dat","size":4194432},
     {"type":"file","name":"syura.dat","size":4194432},
     {"type":"file","name":"tomomo - Copy.dat","size":4194432},
     {"type":"file","name":"tomomo.dat","size":4194432},
     {"type":"file","name":"yuki.dat","size":4194432}
   ]}
 ,
-  {"type":"report","directories":1,"files":19}
+  {"type":"report","directories":1,"files":27}
 ]

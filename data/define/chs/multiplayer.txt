@@ -146,7 +146,7 @@
 
 // 10 characters max.
 < CHAT_NAME_EMPTY >
-<空>
+<空白>
 
 < CHAT_NAME_DASHES >
 --------
