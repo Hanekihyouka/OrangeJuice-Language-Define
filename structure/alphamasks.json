@@ -132,13 +132,16 @@
     {"type":"file","name":"arnelle_05_05.dat","size":262272},
     {"type":"file","name":"arnelle_08_00.dat","size":262272},
     {"type":"file","name":"arnelle_08_01.dat","size":262272},
+    {"type":"file","name":"arnelle_08_02.dat","size":262272},
     {"type":"file","name":"arnelle_08_03.dat","size":262272},
     {"type":"file","name":"arnelle_08_04.dat","size":262272},
     {"type":"file","name":"arnelle_08_05.dat","size":262272},
     {"type":"file","name":"arnelle_10_00.dat","size":262272},
     {"type":"file","name":"arnelle_10_01.dat","size":262272},
+    {"type":"file","name":"arnelle_10_02.dat","size":262272},
     {"type":"file","name":"arnelle_10_03.dat","size":262272},
     {"type":"file","name":"arnelle_10_04.dat","size":262272},
+    {"type":"file","name":"arnelle_10_05.dat","size":262272},
     {"type":"file","name":"arnelle_11_00.dat","size":262272},
     {"type":"file","name":"arnelle_11_01.dat","size":262272},
     {"type":"file","name":"arnelle_11_02.dat","size":262272},
@@ -4234,5 +4237,5 @@
     {"type":"file","name":"yuuki_22_05.dat","size":262272}
   ]}
 ,
-  {"type":"report","directories":1,"files":4232}
+  {"type":"report","directories":1,"files":4235}
 ]
