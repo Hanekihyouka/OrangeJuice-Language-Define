@@ -2,6 +2,9 @@
 < CARD_UNIT_HP_LABEL >
 HP
 
+< CARD_UNIT_BH_COSTS >
+%d%售价
+
 < CARD_RESTRICT_LEVEL_LABEL >
 等级过低
 

@@ -56,13 +56,57 @@ descr=A very common pair of shoes allowing you to sprint fast without hurting yo
 
 < INVENTORY_LEATHERBOOTS >
 name=Leather Boots
-descr=The latest creation of famous leatherworkers, which is a direct upgrade from the usual sandals and common shoes. Adds +1 MOV, and an additional 1 if you're not carrying any quest item.
+descr=The latest creation of famous leatherworkers, and a direct upgrade from the usual sandals and common footwear. Adds +2 MOV.
 
 < INVENTORY_GALESHOES >
 name=Gale Shoes
-descr=Powered by powerful magic, you will never feel tired while wearing this pair of shoes. Adds +1 MOV, and an additional 2 if carrying no quest items and having less than 2 cards.
+descr=Powered by powerful magic. You will never feel tired while wearing this pair of shoes. Adds +2 MOV, and an additional +1 if holding 2 cards or less.
+
+< INVENTORY_CURSEDSHOES >
+name=Enhanced Gale Shoes
+descr=Adds +4 MOV, but reduces your hand size by 1.
 
 // Winter 2020 Event Special Item
 < INVENTORY_DELICACY >
 name=Delicacy
 descr=A tasty morsel for Cook. Collect up to 3 per game.
+
+< INVENTORY_ATK1 >
+name=Cookie
+descr=Use to gain +1 ATK for the next 2 battles. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_ATK2 >
+name=Muffin
+descr=Use to gain +2 ATK for the next 2 battles. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_ATK3 >
+name=Pastry
+descr=Use to gain +3 ATK for the next 2 battles. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_DEF1 >
+name=Candy
+descr=Use to gain +1 DEF for the next 2 battles. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_DEF2 >
+name=Caramel
+descr=Use to gain +2 DEF for the next 2 battles. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_DEF3 >
+name=Chocolate
+descr=Use to gain +3 DEF for the next 2 battles. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_EVD1 >
+name=Ice Cream
+descr=Use to gain +1 EVD for the next 2 battles. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_EVD2 >
+name=Sorbet
+descr=Use to gain +2 EVD for the next 2 battles. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_EVD3 >
+name=Gelato
+descr=Use to gain +3 EVD for the next 2 battles. Cannot stack the same effect twice (the most recent one takes priority).
+
+< INVENTORY_ASSASSINBADGE >
+name=Assassin's Badge
+descr=A badge signifying membership in a guild of skilled assassins. Its holder is rewarded for targeting other players.

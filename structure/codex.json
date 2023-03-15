@@ -18,16 +18,14 @@
     {"type":"file","name":"saki.dat","size":4194432},
     {"type":"file","name":"sham.dat","size":4194432},
     {"type":"file","name":"sherry.dat","size":4194432},
-    {"type":"file","name":"sora - Copy.dat","size":4194432},
     {"type":"file","name":"sora.dat","size":4194432},
     {"type":"file","name":"starb.dat","size":4194432},
     {"type":"file","name":"suguri.dat","size":4194432},
     {"type":"file","name":"sweetb.dat","size":4194432},
     {"type":"file","name":"syura.dat","size":4194432},
-    {"type":"file","name":"tomomo - Copy.dat","size":4194432},
     {"type":"file","name":"tomomo.dat","size":4194432},
     {"type":"file","name":"yuki.dat","size":4194432}
   ]}
 ,
-  {"type":"report","directories":1,"files":27}
+  {"type":"report","directories":1,"files":25}
 ]

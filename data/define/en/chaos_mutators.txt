@@ -69,3 +69,31 @@ descr=Bounty Hunt shops will spawn on random panels, with tweaked item selection
 < MUTATOR_KNIGHTS_AND_FAERIES >
 name=Knights and Faeries
 descr=At the beginning of the match, choose either to play as a Guardian, or Aurora, with modified attributes.\n All Hypers drawn will be random, and unexpected events may occur.
+
+< MUTATOR_FOURHEAVENLYKINGS >
+name=Four Heavenly Kings
+descr=At the beginning of the match, pick a co-op boss to play as for the rest of the game.
+
+< MUTATOR_CHAOS_BATTLEFIELD >
+name=Chaos Battlefield
+descr=All battles have their global turn count fixed to 2.\nEvery 10 chapters, turn all panels into a Player Encounter panel. Those fights will act as if Final Battle was played.\nGain +1 of a stat of your choice every Norma Level Up.
+
+< MUTATOR_HOT_POTATO >
+name=Hot Potato
+descr=A random player gains a "Hot Potato" gift card. Holding onto it will either give you stars or explode before being forcibly sent to another player.
+
+< MUTATOR_SHARING_IS_CARING >
+name=Sharing is Caring
+descr=Every chapter, everyone give their current hand to the next player.
+
+< MUTATOR_FOG_OF_WAR >
+name=Fog of War
+descr=tbd
+
+< MUTATOR_OVERINDULGENCE >
+name=Overindulgence
+descr=All units have their max HP stat set to 9999, but start the game and revive at 1 HP. Every non-Hyper card in the deck is randomly replaced with Sweets type cards.
+
+< MUTATOR_UNLIKELY_ALLIANCE >
+name=Unlikely Alliance
+descr=Play a regular game of 100% Orange Juice with a randomly given ally. Cooperation may yield never-seen-before benefits...

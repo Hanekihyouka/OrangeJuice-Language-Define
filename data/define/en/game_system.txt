@@ -63,4 +63,58 @@ Delivering items will give an extra %d stars upon completion of the quest.
 < GAME_SYSTEM_SHOP_BONUS_6 >
 Up to two additional stock of an item may be available.\n- An additional shop of this type will spawn on the field.
 
+< GAME_SYSTEM_NORMABOARD_UPGRADE_1_NAME >
+Art of the Sword
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_1_DESC >
+Permanently gain +1 ATK.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_2_NAME >
+Art of the Shield
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_2_DESC >
+Permanently gain +1 DEF.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_3_NAME >
+Art of Evasion
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_3_DESC >
+Permanently gain +1 EVD.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_4_NAME >
+Resolute
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_4_DESC >
+Permanently gain -1 REC.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_5_NAME >
+Stimulation
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_5_DESC >
+Permanently gain +1 Max HP. Your unit will be healed to full upon choosing this upgrade.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_6_NAME >
+Carrier
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_6_DESC >
+Permanently gain +1 hand size.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_7_NAME >
+Premium Membership
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_7_DESC >
+All shop costs (minus the Shady Merchant) will be reduced by 30% after other calculations.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_8_NAME >
+Jogger
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_8_DESC >
+Permanently gain +1 MOV.
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_9_NAME >
+Plentiful Harvest
+
+< GAME_SYSTEM_NORMABOARD_UPGRADE_9_DESC >
+Immediately gain 100 stars, and gain the ability to receive stars upon the completion of Bounties.
+
 [EOF]

@@ -57,7 +57,7 @@
 其它卡
 
 < PROFILE_PLAYCOUNT >
-游戏回数
+游戏场数
 
 < PROFILE_CARDSCOLLECTED >
 卡片收集

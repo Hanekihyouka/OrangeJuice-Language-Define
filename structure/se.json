@@ -34,6 +34,7 @@
     {"type":"file","name":"EXPLOSION.WAV","size":367432},
     {"type":"file","name":"FISHSPLASH.WAV","size":7320},
     {"type":"file","name":"FOOD_CRUNCH.WAV","size":127364},
+    {"type":"file","name":"GLASSBREAK.WAV","size":104532},
     {"type":"file","name":"GULP_3TIMES.WAV","size":143288},
     {"type":"file","name":"GULP_ONCE.WAV","size":35420},
     {"type":"file","name":"HEALING.WAV","size":101428},
@@ -66,6 +67,7 @@
     {"type":"file","name":"QPS_HYPER.WAV","size":44960},
     {"type":"file","name":"REBOUND.WAV","size":119852},
     {"type":"file","name":"SCHOOLCHIME.WAV","size":441044},
+    {"type":"file","name":"SE_BIGSPLASH.WAV","size":246920},
     {"type":"file","name":"SE_CHEW.WAV","size":16888},
     {"type":"file","name":"SE_FIRE.WAV","size":549932},
     {"type":"file","name":"SEN_GE_GUN04.WAV","size":176444},
@@ -101,5 +103,5 @@
     {"type":"file","name":"WIN.WAV","size":414604}
   ]}
 ,
-  {"type":"report","directories":1,"files":99}
+  {"type":"report","directories":1,"files":101}
 ]

@@ -142,6 +142,18 @@ descr=每层储备使HP上限+1。
 name=恢复强化
 descr=REC-1。
 
+< CARD_BOUNTY_AMPATK_EFFECT >
+name=攻击强化
+descr=每层储备使ATK+1。
+
+< CARD_BOUNTY_AMPDEF_EFFECT >
+name=防御强化
+descr=每层储备使DEF+1。
+
+< CARD_BOUNTY_AMPEVD_EFFECT >
+name=闪避强化
+descr=每层储备使EVD+1。
+
 < CARD_SOLIDWITCH_EFFECT >
 name=坚实魔女
 descr=不会受到伤害。
@@ -419,13 +431,21 @@ descr=在你的回合开始时，恢复储备层数的HP。
 name=观察者
 descr=获悉所有怪物的所在地点。
 
+< CARD_PRECISIONGOGGLES_EFFECT >
+name=目光敏锐
+descr=投掷范围增加2格。
+
+< CARD_POISONED_EFFECT >
+name=中毒
+descr=在你的回合开始时，受到储备层数的伤害。
+
 < CARD_HARBINGER_FAME >
 name=臭名昭著的欺凌者
 descr=每层储备增加1点声望，上限为6。累积的声望将在击败噩兆时追加到基础的声望奖励中。
 
 < CARD_HARBINGER_SOULEATER >
 name=噬魂者
-descr=当储备达到3层时，完全恢复自己的HP，并使所有其他角色遭受灾厄。
+descr=当储备达到3层时，完全恢复自己的HP，并对所有角色降下灾厄。
 
 < CARD_HARBINGER_AWAKENED >
 name=觉醒的噬魂者
@@ -442,6 +462,26 @@ descr=受到的伤害减少1点。当你的防御骰数值大于对方的攻击�
 < CARD_BATTLEAXE_EFFECT >
 name=处刑者
 descr=永久ATK+1，但EVD-1。
+
+< CARD_CURSEDSWORD_EFFECT >
+name=诅咒之剑
+descr=ATK+2，但DEF·EVD·HP上限-1。
+
+< CARD_CURSEDAXE_EFFECT >
+name=诅咒战斧
+descr=20%几率造成暴击，10%几率攻击落空。
+
+< CARD_CURSEDBOUNTY_EFFECT >
+name=诅咒悬赏
+descr=你完成的下一个悬赏将额外给予2点声望，并将你的HP与HP上限设为1，直至倒下。
+
+< CARD_CURSEDMARK_EFFECT >
+name=诅咒
+descr=作为完成诅咒悬赏的代价，将会迎来命中注定的陨落。
+
+< CARD_CURSEDICECREAM_EFFECT >
+name=紫豆冰淇淋
+descr=ATK+2，但HP上限-3（最低为1）。\n倒下时效果结束。
 
 < CARD_BRAVERYUP_EFFECT >
 name=无畏猎人
@@ -532,6 +572,42 @@ descr=每层储备使ATK+1。倒下时效果结束。
 < CARD_GOODESTBOY_EFFECT >
 name=可爱到犯规的小狗狗
 descr=免疫立即击倒效果。当你与另一名玩家在同一格，且其中一方回合结束时，你获得对方一张随机手牌的副本。无法发起挑战或受到挑战，相对的，对方可以停下来摸摸你。倒下时效果结束。
+
+< CARD_ARTOFSWORD_EFFECT >
+name=剑之技艺
+descr=你的战斗能力提升了。永久ATK+1。
+
+< CARD_ARTOFSHIELD_EFFECT >
+name=盾之技艺
+descr=你抵抗伤害的能力提升了。永久DEF+1。
+
+< CARD_ARTOFEVASION_EFFECT >
+name=闪避之技艺
+descr=你的闪避能力提升了。永久EVD+1。
+
+< CARD_RESOLUTE_EFFECT >
+name=顽强意志
+descr=永久REC-1。
+
+< CARD_STIMULATION_EFFECT >
+name=精神振奋
+descr=永久HP上限+1。
+
+< CARD_CARRIER_EFFECT >
+name=尽收囊中
+descr=永久手牌上限+1，最大为5。
+
+< CARD_PREMIUMMEMBERSHIP_EFFECT >
+name=高级会员
+descr=所有商店（不含可疑商人）的价格在完成价格计算后获得30%折扣。
+
+< CARD_JOGGER_EFFECT >
+name=健步如飞
+descr=永久MOV+1。
+
+< CARD_PLENTIFULHARVEST_EFFECT >
+name=日进斗金
+descr=能够在完成悬赏时获得STAR。
 
 < CARD_SWEETMOUNTAIN_EFFECT >
 name=甜点成堆大作战

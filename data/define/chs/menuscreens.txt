@@ -19,7 +19,6 @@
 < MAINMENU_EXIT >
 离开游戏
 
-
 < MENU_BUTTON_OK >
 确定
 
@@ -152,6 +151,12 @@
 < MENU_LOBBYSETTING_CHAOSMUTATOR >
 混沌突变
 
+< MENU_LOBBYSETTING_INVADER >
+入侵者
+
+< MENU_LOBBYSETTING_PVPBOUNTIES >
+玩家悬赏
+
 < MENU_BUTTON_GAME_RETURN >
 回到游戏
 
@@ -228,8 +233,14 @@
 < MENU_BUTTON_GAME_DASH >
 冲刺
 
+< MENU_BUTTON_GAME_FORECAST >
+预测
+
 < MENU_BUTTON_GAME_EAT >
 吃
+
+< MENU_BUTTON_GAME_BOUNTY >
+悬赏
 
 < PLAYMENU_FREEBATTLE >
 在线游戏
@@ -621,7 +632,7 @@ QP被太阳晒得发疯了！与她和她的新小弟们玩到让她累趴下吧
 在新解锁的战役关卡中体验故事的结局吧：%s
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_MAIN >
-任务正在全新的赏金猎人模式中等待着你！\n帮助艾莉和露露在公会中达到B级来筹集到足够的资金吧！
+委托正在全新的赏金猎人模式中等待着你！\n帮助艾莉和露露在公会中达到B级来筹集到足够的资金吧！
 
 // Instruction about the game mode button
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_01 >
@@ -631,13 +642,13 @@ QP被太阳晒得发疯了！与她和她的新小弟们玩到让她累趴下吧
 任务地点和出售有用道具的商店会随机\n出现在场地上，每6轮刷新一次。
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_03 >
-你可以在任何HOME、商店或\n拥有相关任务的任务地点停步。
+你可以在任何HOME、商店或\n拥有相关委托的任务地点停步。
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_04 >
 在此模式下只有唯一一种全新的\n目标类型：声望（FAME）。\n（此模式下，被限制了目标类型的角色\n同样可以完成声望目标。）
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_05 >
-你可以通过完成任务或悬赏来获得声望。\n悬赏会基于难度奖励数量不等的声望！
+你可以通过完成委托或悬赏来获得声望。\n悬赏会基于难度奖励数量不等的声望！
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_06 >
 悬赏战斗将持续10个回合。\n战斗前请务必做好充分的准备！
@@ -747,16 +758,16 @@ QP还想多玩一会！夏日野兽复活了！
 任务地点和出售有用道具的商店会随机\n出现在场地上，每6轮刷新一次。
 
 < PLAYMENU_EVENT_WINTER2020_INSTRUCTION_04 >
-你可以在任何HOME、商店或\n拥有相关任务的任务地点停步。
+你可以在任何HOME、商店或\n拥有相关委托的任务地点停步。
 
 < PLAYMENU_EVENT_WINTER2020_INSTRUCTION_05 >
 在此模式下只有唯一一种全新的\n目标类型：声望（FAME）。\n（此模式下，被限制了目标类型的角色\n同样可以完成声望目标。）
 
 < PLAYMENU_EVENT_WINTER2020_INSTRUCTION_06 >
-你可以通过完成任务或悬赏来获得声望。\n悬赏会基于难度奖励数量不等的声望！
+你可以通过完成委托或悬赏来获得声望。\n悬赏会基于难度奖励数量不等的声望！
 
 < PLAYMENU_EVENT_WINTER2020_INSTRUCTION_07 >
-每场游戏中会随机决定简单、中等、困难难度的\n赏金任务目标各2种可供狩猎，6种任务地点供搜寻。
+每场游戏会在简单、中等、困难难度的悬赏目标\n中各随机选取2种供狩猎，并随机选取6种任务\n地点供探索。
 
 < PLAYMENU_EVENT_WINTER2020_INSTRUCTION_08 >
 悬赏战斗将持续10个回合。\n战斗前请务必做好充分的准备！
@@ -880,6 +891,9 @@ QP还想多玩一会！夏日野兽复活了！
 
 < PLAYMENU_EVENT_WINTER2022_INSTRUCTION_06 >
 为解锁活动结局，你需要到达你的个人活动场数\n目标，同时还可以获得独立于全局活动进度的\n奖励。
+
+< PLAYMENU_EVENT_WINTER2022_COMPLETE_01 >
+世界得救了！大家又可以愉快地品尝美味的\n圣诞蛋糕了，而不用吃那不知道什么东西！\n你还能继续搜寻剩余的蛋糕。
 
 < PLAYMENU_EVENT_WINTER2022_COMPLETE_02 >
 蛋糕的新潮流席卷而来！大家都可以尽情享受\n魅樱的新潮杰作了！\n如果你没吃够，你还能继续搜寻更多蛋糕。
@@ -1113,5 +1127,8 @@ CPU自定义
 
 < MENU_CODEX_INSTRUCTION_4 >
 希望你能喜欢这项新功能。欢迎前往Steam论坛或我们的\nDiscord服务器进行反馈！
+
+< MENU_NORMABOARD >
+目标达成强化
 
 [EOF]

@@ -119,13 +119,13 @@ flavor=「只消一小口，人影去无踪！」\n—炼金术士
 
 < CARD_BOUNTY_LURE_ITEM >
 name=诱饵
-descr=持续效果（3轮）\n向周围7×7范围内的1个格子投掷诱饵，\n所选择的格子的3×3范围内变为遭遇\n或BOSS格3轮。
-flavor=「这气味应该足够引来四周大部分的\n杂鱼……」—炼金术士
+descr=向周围7×7范围内的1个格子投掷诱饵，\n所选择的格子的3×3范围内变为遭遇\n或BOSS格3轮。
+flavor=「这气味应该足够引来周围的大部分\n杂鱼……」—炼金术士
 
 < CARD_BOUNTY_SHOKUPAN_ITEM >
 name=生吐司
 descr=持续效果（3轮）\n每回合恢复1点HP。\n倒下时效果结束，效果无法叠加。
-flavor=「没人能做出比这更好的东西了。」\n—星之糕点师
+flavor=「别家店可没这么烤得这么好的东西了。」\n—星之糕点师
 
 < CARD_BOUNTY_SSR_SHOKUPAN_ITEM >
 name=软绵绵的生吐司
@@ -137,15 +137,40 @@ name=圣水
 descr=这场战斗中，获得5点HP，\n并且ATK·DEF·EVD+1。
 flavor=「呵呵呵，这可是杯能消除干渴的纯净水，\n信我的准没错！」—旅店店主
 
+< CARD_BOUNTY_CURSEDSYRUP_ITEM >
+name=诅咒糖浆
+descr=这场战斗中，获得10点HP，\n并且ATK·DEF·EVD+2，此外战斗\n时长将限制为5回合。
+flavor=「你一定会想买这个的……你在乎的就只有\n获得更强大的力量……不是吗？」—可疑商人
+
+< CARD_BOUNTY_POISONPHIAL_ITEM >
+name=毒性爆破药
+descr=向周围7×7范围内的1个格子投掷毒性爆破药。\n所有区域内被击中的玩家中毒，2轮内每回合\n受到1点伤害。\n不会和其它爆破药叠加。
+flavor=「我在制作的时候用了些很危险的原料……\n要小心使用啊！」—炼金术士
+
+< CARD_BOUNTY_VENOMPHIAL_ITEM >
+name=毒液爆破药
+descr=向周围7×7范围内的1个格子投掷毒液爆破药。\n所有区域内被击中的玩家中毒，3轮内每回合\n受到1点伤害。\n不会和其它爆破药叠加。
+flavor=「这是我用一种危险的爬行动物的毒液\n做出来的……」—炼金术士
+
+< CARD_BOUNTY_CORROSIONPHIAL_ITEM >
+name=腐蚀爆破药
+descr=向周围7×7范围内的1个格子投掷腐蚀爆破药。\n所有区域内被击中的玩家中毒，3轮内每回合\n受到2点伤害。\n不会和其它爆破药叠加。
+flavor=「腐蚀试剂是用一些可以致命的材料\n制作而成的……」—炼金术士
+
+< CARD_BOUNTY_SPARKLEBOMB_ITEM >
+name=火花炸弹
+descr=2轮内强制场地路线反转。
+flavor=「如果你既想往前走又想往后走，可你又不能\n像往前走一样往后走？\n……呃，当我没说……」—炼金术士
+
 < CARD_BOUNTY_SMOKELOSTMEMORIES_ITEM >
-name=失忆烟雾
+name=失落记忆的烟雾
 descr=忘却过去犯下的错误，触发一场悬赏战。\n只能在已经发现了怪物的格子上使用。\n需要拥有悬赏才能开始战斗。\n使用这张卡后回合结束。
-flavor=「别把它放跑了！」—铁匠
+flavor=「别让它跑了！」—炼金术士
 
 < CARD_BOUNTY_RADAR_ITEM >
 name=冒险者用探测器
-descr=持续效果（第2轮至第5轮）\n效果持续期间可以获悉所有怪物的所在地点。
-flavor=「它会是你旅途中的好帮手……\n只要它还在继续工作的话！」—铠甲匠
+descr=持续效果（2至5轮）\n效果持续期间可以获悉所有怪物的所在地点。
+flavor=「它会是你旅途中的好帮手……\n只要它能运作足够久的话！」—铁匠
 
 < CARD_HYPER_BOUNTY_ELLIE >
 name=艾莉的奇迹
@@ -161,5 +186,15 @@ flavor=「等等！把礼物还给我！」—亚琉
 name=风信鸡的指引
 descr=储备效果\n除战斗外，骰子个数变为2个。\n当你停留在HOME格时此效果结束。
 flavor=「叽叽，库克想去这边。」—库克
+
+< CARD_BOUNTY_PLAYER >
+name=新鲜通缉
+descr=因危害社会而受到通缉。
+flavor=
+
+< CARD_BOUNTY_PLAYER_ITEM >
+name=???
+descr=已标记为清除对象。请务必小心行事。
+flavor=
 
 [EOF]

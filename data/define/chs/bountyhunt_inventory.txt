@@ -56,13 +56,57 @@ descr=一双随处可见的鞋子，它能在跑步时保护双脚。\nMOV+1。
 
 < INVENTORY_LEATHERBOOTS >
 name=皮靴
-descr=著名皮匠的新作，比通常的凉鞋和鞋子要强得多。\nMOV+1，未持有任务物品时额外+1。
+descr=知名皮匠的最新作，普通凉鞋和鞋子的完美替代品。\nMOV+2。
 
 < INVENTORY_GALESHOES >
 name=疾风之靴
-descr=蕴含了强大的魔法，只要穿了它，怎么跑都不会累。\nMOV+1，未持有任务物品且持有不多于1张卡时额外+2。
+descr=蕴含了强大的魔法。只要穿上它，怎么跑都不会累。\nMOV+2，持有2张卡及以下时额外+1。
+
+< INVENTORY_CURSEDSHOES >
+name=附魔疾风之靴
+descr=MOV+4，但手牌上限-1。
 
 // Winter 2020 Event Special Item
 < INVENTORY_DELICACY >
 name=好吃的东西
 descr=给库克的美味小食。每场游戏最多能收集3个。
+
+< INVENTORY_ATK1 >
+name=曲奇
+descr=使用后获得ATK+1，效果持续2场战斗。\n相同效果无法叠加（后使用的为准）。
+
+< INVENTORY_ATK2 >
+name=玛芬
+descr=使用后获得ATK+2，效果持续2场战斗。\n相同效果无法叠加（后使用的为准）。
+
+< INVENTORY_ATK3 >
+name=糕点
+descr=使用后获得ATK+3，效果持续2场战斗。\n相同效果无法叠加（后使用的为准）。
+
+< INVENTORY_DEF1 >
+name=糖果
+descr=使用后获得DEF+1，效果持续2场战斗。\n相同效果无法叠加（后使用的为准）。
+
+< INVENTORY_DEF2 >
+name=焦糖糖果
+descr=使用后获得DEF+2，效果持续2场战斗。\n相同效果无法叠加（后使用的为准）。
+
+< INVENTORY_DEF3 >
+name=巧克力
+descr=使用后获得DEF+3，效果持续2场战斗。\n相同效果无法叠加（后使用的为准）。
+
+< INVENTORY_EVD1 >
+name=冰淇淋
+descr=使用后获得EVD+1，效果持续2场战斗。\n相同效果无法叠加（后使用的为准）。
+
+< INVENTORY_EVD2 >
+name=雪葩
+descr=使用后获得EVD+2，效果持续2场战斗。\n相同效果无法叠加（后使用的为准）。
+
+< INVENTORY_EVD3 >
+name=意式冰淇淋
+descr=使用后获得EVD+3，效果持续2场战斗。\n相同效果无法叠加（后使用的为准）。
+
+< INVENTORY_ASSASSINBADGE >
+name=刺客的徽章
+descr=由娴熟刺客组成的公会所使用的成员凭证。\n持有者可通过袭击其他玩家而获得奖励。
