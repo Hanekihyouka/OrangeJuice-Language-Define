@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/pets.pak","size":69632,"contents":[
+  {"type":"directory","name":"./instance/pets.pak","size":77824,"contents":[
     {"type":"file","name":"airship_b00_00.dat","size":262272},
     {"type":"file","name":"airship_b00_01.dat","size":262272},
     {"type":"file","name":"airship_b00_02.dat","size":262272},
