@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/emotes.pak","size":65536,"contents":[
+  {"type":"directory","name":"./instance/emotes.pak","size":69632,"contents":[
     {"type":"file","name":"aos2_alte_32.dat","size":4224},
     {"type":"file","name":"aos2_alte_large.dat","size":16512},
     {"type":"file","name":"aos2_hime_32.dat","size":4224},

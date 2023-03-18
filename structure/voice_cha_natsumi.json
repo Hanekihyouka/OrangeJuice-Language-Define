@@ -92,10 +92,6 @@
     {"type":"file","name":"29_1.WAV","size":192714},
     {"type":"file","name":"29_2.WAV","size":281286},
     {"type":"file","name":"29_3.WAV","size":332914},
-    {"type":"file","name":"30_0.WAV","size":223786},
-    {"type":"file","name":"30_1.WAV","size":250108},
-    {"type":"file","name":"30_2.WAV","size":202480},
-    {"type":"file","name":"30_3.WAV","size":210348},
     {"type":"file","name":"3_0.WAV","size":109552},
     {"type":"file","name":"31_0.WAV","size":121296},
     {"type":"file","name":"3_1.WAV","size":167898},
@@ -164,5 +160,5 @@
     {"type":"file","name":"9_3.WAV","size":118408}
   ]}
 ,
-  {"type":"report","directories":1,"files":162}
+  {"type":"report","directories":1,"files":158}
 ]

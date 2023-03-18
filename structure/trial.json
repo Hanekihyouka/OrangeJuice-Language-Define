@@ -1,8 +1,8 @@
 [
   {"type":"directory","name":"./instance/trial.pak","size":4096,"contents":[
-    {"type":"file","name":"fullgameonly.dat.png","size":7378},
-    {"type":"file","name":"getfullgame.dat.png","size":40657},
-    {"type":"file","name":"triallogo.dat.png","size":60395}
+    {"type":"file","name":"fullgameonly.png","size":7378},
+    {"type":"file","name":"getfullgame.png","size":40657},
+    {"type":"file","name":"triallogo.png","size":60395}
   ]}
 ,
   {"type":"report","directories":1,"files":3}
