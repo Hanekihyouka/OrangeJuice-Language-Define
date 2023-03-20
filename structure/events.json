@@ -588,6 +588,7 @@
       {"type":"file","name":"cakegods.dat","size":16512},
       {"type":"file","name":"cakemio.dat","size":16512},
       {"type":"file","name":"cakepiece.dat","size":65664},
+      {"type":"file","name":"cakewhole.dat","size":16512},
       {"type":"file","name":"eatcake.dat","size":65664},
       {"type":"file","name":"logo.dat","size":524416},
       {"type":"file","name":"mio_apron.dat","size":262272},
@@ -951,5 +952,5 @@
     ]}
   ]}
 ,
-  {"type":"report","directories":41,"files":869}
+  {"type":"report","directories":41,"files":870}
 ]

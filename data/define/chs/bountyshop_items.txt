@@ -100,11 +100,11 @@ descr=能将受到的伤害降低1点的盾。\n受到2次攻击后移除。
 
 < ITEM_IRONSHIELD >
 name=铁盾
-descr=能将受到的伤害降低2点的盾。\n受到3次攻击后移除。
+descr=能将受到的伤害降低1点的盾。\n受到4次攻击后移除。
 
 < ITEM_MITHRILSHIELD >
 name=秘银盾
-descr=能将受到的伤害降低3点的盾。\n受到5次攻击后移除。
+descr=能将受到的伤害降低2点的盾。\n受到4次攻击后移除。
 
 < ITEM_ZAPPERSWORD >
 name=魔法附魔剑

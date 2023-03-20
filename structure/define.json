@@ -101,7 +101,7 @@
       {"type":"file","name":"charavoice_poppo.txt","size":4268},
       {"type":"file","name":"charavoice_qp.txt","size":4628},
       {"type":"file","name":"charavoice_reika.txt","size":4169},
-      {"type":"file","name":"charavoice_rogue.txt","size":2095},
+      {"type":"file","name":"charavoice_rogue.txt","size":2101},
       {"type":"file","name":"charavoice_saki.txt","size":4989},
       {"type":"file","name":"charavoice_sham_idol.txt","size":3789},
       {"type":"file","name":"charavoice_sham.txt","size":4475},
@@ -155,7 +155,7 @@
       {"type":"file","name":"result.txt","size":766},
       {"type":"file","name":"shop.txt","size":4451},
       {"type":"file","name":"unitgames.txt","size":732},
-      {"type":"file","name":"units.txt","size":17170},
+      {"type":"file","name":"units.txt","size":17164},
       {"type":"file","name":"voiceactors.txt","size":2405}
     ]},
     {"type":"directory","name":"cht","size":12288,"contents":[
@@ -259,7 +259,7 @@
       {"type":"file","name":"charavoice_poppo.txt","size":4268},
       {"type":"file","name":"charavoice_qp.txt","size":4628},
       {"type":"file","name":"charavoice_reika.txt","size":4169},
-      {"type":"file","name":"charavoice_rogue.txt","size":2095},
+      {"type":"file","name":"charavoice_rogue.txt","size":2101},
       {"type":"file","name":"charavoice_saki.txt","size":4989},
       {"type":"file","name":"charavoice_sham_idol.txt","size":3789},
       {"type":"file","name":"charavoice_sham.txt","size":4475},
@@ -313,7 +313,7 @@
       {"type":"file","name":"result.txt","size":766},
       {"type":"file","name":"shop.txt","size":4451},
       {"type":"file","name":"unitgames.txt","size":732},
-      {"type":"file","name":"units.txt","size":17170},
+      {"type":"file","name":"units.txt","size":17164},
       {"type":"file","name":"voiceactors.txt","size":2405}
     ]},
     {"type":"directory","name":"en","size":12288,"contents":[
@@ -321,7 +321,7 @@
       {"type":"file","name":"arcade_rules.txt","size":1084},
       {"type":"file","name":"arcade.txt","size":1576},
       {"type":"file","name":"bountyhunt_inventory.txt","size":3778},
-      {"type":"file","name":"bountyshop_items.txt","size":6270},
+      {"type":"file","name":"bountyshop_items.txt","size":6492},
       {"type":"file","name":"campaign_chaos.txt","size":348},
       {"type":"file","name":"campaign_chnewyear2019.txt","size":3095},
       {"type":"file","name":"campaign_christmas2018.txt","size":5206},

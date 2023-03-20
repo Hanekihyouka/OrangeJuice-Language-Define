@@ -99,11 +99,11 @@ descr=A shield reducing incoming damage by 1. Removed after 2 hits.
 
 < ITEM_IRONSHIELD >
 name=Iron Shield
-descr=A shield reducing incoming damage by 2. Removed after 3 hits.
+descr=A shield reducing incoming damage by 1. Removed after 4 hits.
 
 < ITEM_MITHRILSHIELD >
 name=Mithril Shield
-descr=A shield reducing incoming damage by 3. Removed after 5 hits.
+descr=A shield reducing incoming damage by 2. Removed after 4 hits.
 
 < ITEM_ZAPPERSWORD >
 name=Magical Enchanted Sword
@@ -127,15 +127,15 @@ descr=Gain +4 stars each chapter, and +1 extra star every 5 chapters. Can only b
 
 < ITEM_REC_BOOST_LV1 >
 name=Potion of Vigor
-descr=Reduce your REC by 1 the next time you're KO'd.
+descr=Reduce your REC by 1 the next time you're KO'd. Does not stack with similar effects (the most potent one takes priority).
 
 < ITEM_REC_BOOST_LV2 >
 name=Potion of Vitality
-descr=Reduce your REC by 2 the next time you're KO'd.
+descr=Reduce your REC by 2 the next time you're KO'd. Does not stack with similar effects (the most potent one takes priority).
 
 < ITEM_REC_BOOST_LV3 >
 name=Phoenix Essence
-descr=Reduce your REC by 3 the next time you're KO'd.
+descr=Reduce your REC by 3 the next time you're KO'd. Does not stack with similar effects (the most potent one takes priority).
 
 < ITEM_ANTITIRED >
 name=Energizer
