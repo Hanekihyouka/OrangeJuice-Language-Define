@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/alphamasks.pak","size":155648,"contents":[
+  {"type":"directory","name":"./instance/alphamasks.pak","size":147456,"contents":[
     {"type":"file","name":"alicianrone_00_00.dat","size":262272},
     {"type":"file","name":"alicianrone_00_01.dat","size":262272},
     {"type":"file","name":"alicianrone_00_02.dat","size":262272},
@@ -261,6 +261,12 @@
     {"type":"file","name":"aru_22_03.dat","size":262272},
     {"type":"file","name":"aru_22_04.dat","size":262272},
     {"type":"file","name":"aru_22_05.dat","size":262272},
+    {"type":"file","name":"aru_23_00.dat","size":262272},
+    {"type":"file","name":"aru_23_01.dat","size":262272},
+    {"type":"file","name":"aru_23_02.dat","size":262272},
+    {"type":"file","name":"aru_23_03.dat","size":262272},
+    {"type":"file","name":"aru_23_04.dat","size":262272},
+    {"type":"file","name":"aru_23_05.dat","size":262272},
     {"type":"file","name":"aru_27_00.dat","size":262272},
     {"type":"file","name":"aru_27_01.dat","size":262272},
     {"type":"file","name":"aru_27_02.dat","size":262272},
@@ -464,6 +470,12 @@
     {"type":"file","name":"chris_22_03.dat","size":262272},
     {"type":"file","name":"chris_22_04.dat","size":262272},
     {"type":"file","name":"chris_22_05.dat","size":262272},
+    {"type":"file","name":"chris_23_00.dat","size":262272},
+    {"type":"file","name":"chris_23_01.dat","size":262272},
+    {"type":"file","name":"chris_23_02.dat","size":262272},
+    {"type":"file","name":"chris_23_03.dat","size":262272},
+    {"type":"file","name":"chris_23_04.dat","size":262272},
+    {"type":"file","name":"chris_23_05.dat","size":262272},
     {"type":"file","name":"chris_26_00.dat","size":262272},
     {"type":"file","name":"chris_26_01.dat","size":262272},
     {"type":"file","name":"chris_26_02.dat","size":262272},
@@ -1388,6 +1400,12 @@
     {"type":"file","name":"kyupita_22_03.dat","size":262272},
     {"type":"file","name":"kyupita_22_04.dat","size":262272},
     {"type":"file","name":"kyupita_22_05.dat","size":262272},
+    {"type":"file","name":"kyupita_23_00.dat","size":262272},
+    {"type":"file","name":"kyupita_23_01.dat","size":262272},
+    {"type":"file","name":"kyupita_23_02.dat","size":262272},
+    {"type":"file","name":"kyupita_23_03.dat","size":262272},
+    {"type":"file","name":"kyupita_23_04.dat","size":262272},
+    {"type":"file","name":"kyupita_23_05.dat","size":262272},
     {"type":"file","name":"lonerider_00_00.dat","size":262272},
     {"type":"file","name":"lonerider_00_01.dat","size":262272},
     {"type":"file","name":"lonerider_00_02.dat","size":262272},
@@ -1866,6 +1884,12 @@
     {"type":"file","name":"mio_22_03.dat","size":262272},
     {"type":"file","name":"mio_22_04.dat","size":262272},
     {"type":"file","name":"mio_22_05.dat","size":262272},
+    {"type":"file","name":"mio_23_00.dat","size":262272},
+    {"type":"file","name":"mio_23_01.dat","size":262272},
+    {"type":"file","name":"mio_23_02.dat","size":262272},
+    {"type":"file","name":"mio_23_03.dat","size":262272},
+    {"type":"file","name":"mio_23_04.dat","size":262272},
+    {"type":"file","name":"mio_23_05.dat","size":262272},
     {"type":"file","name":"mira_00_00.dat","size":262272},
     {"type":"file","name":"mira_00_01.dat","size":262272},
     {"type":"file","name":"mira_00_02.dat","size":262272},
@@ -3646,6 +3670,12 @@
     {"type":"file","name":"teotoratta_22_03.dat","size":262272},
     {"type":"file","name":"teotoratta_22_04.dat","size":262272},
     {"type":"file","name":"teotoratta_22_05.dat","size":262272},
+    {"type":"file","name":"teotoratta_23_00.dat","size":262272},
+    {"type":"file","name":"teotoratta_23_01.dat","size":262272},
+    {"type":"file","name":"teotoratta_23_02.dat","size":262272},
+    {"type":"file","name":"teotoratta_23_03.dat","size":262272},
+    {"type":"file","name":"teotoratta_23_04.dat","size":262272},
+    {"type":"file","name":"teotoratta_23_05.dat","size":262272},
     {"type":"file","name":"teq_minion_00_00.dat","size":262272},
     {"type":"file","name":"teq_minion_00_01.dat","size":262272},
     {"type":"file","name":"teq_minion_00_02.dat","size":262272},
@@ -4207,5 +4237,5 @@
     {"type":"file","name":"yuuki_22_05.dat","size":262272}
   ]}
 ,
-  {"type":"report","directories":1,"files":4205}
+  {"type":"report","directories":1,"files":4235}
 ]

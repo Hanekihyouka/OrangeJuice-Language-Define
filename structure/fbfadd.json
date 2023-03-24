@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/fbfadd.pak","size":36864,"contents":[
+  {"type":"directory","name":"./instance/fbfadd.pak","size":32768,"contents":[
     {"type":"file","name":"5year_anniv_unlock.dat","size":262272},
     {"type":"file","name":"alicia_hyper_sheet_circle.dat","size":2097280},
     {"type":"file","name":"alicia_hyper_sheet_slashes.dat","size":2097280},
@@ -152,6 +152,9 @@
     {"type":"file","name":"dlc_suguri46.dat","size":262272},
     {"type":"file","name":"dlc_sumika.dat","size":262272},
     {"type":"file","name":"dlc_sweetb.dat","size":262272},
+    {"type":"file","name":"dlc_sweetblogger.dat","size":262272},
+    {"type":"file","name":"dlc_sweetcreator.dat","size":262272},
+    {"type":"file","name":"dlc_sweetmaker.dat","size":262272},
     {"type":"file","name":"dlc_syura.dat","size":262272},
     {"type":"file","name":"dlc_teotoratta.dat","size":262272},
     {"type":"file","name":"dlc_tequila.dat","size":524416},
@@ -645,5 +648,5 @@
     {"type":"file","name":"yk_devilboost.dat","size":65664}
   ]}
 ,
-  {"type":"report","directories":1,"files":643}
+  {"type":"report","directories":1,"files":646}
 ]
