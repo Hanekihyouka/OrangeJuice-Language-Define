@@ -536,4 +536,40 @@ descr=Immune to instant KO effects. When staying on a panel with another player 
 < CARD_SWEETMOUNTAIN_EFFECT >
 name=Sweet Mountain
 descr=Able to play additional Boost cards for 1/3 of their cost.
+
+< CARD_CHAOS_PROTECT_EFFECT >
+name=Chaos Protect
+descr=For any damage you take, consume a stack for each up to 2 damage to lower it to 1.
+
+< CARD_CHAOS_HYPE_EFFECT >
+name=Hype
+descr=She's hyped.
+
+< CARD_CHAOS_RAMPAGE_EFFECT >
+name=Rampage
+descr=Gain +1 ATK for each stack.
+
+< CARD_CHAOS_MUSCLE_EFFECT >
+name=Chaos Muscle
+descr=Gain +1 ATK for each stack.
+
+< CARD_CHAOS_GUARD_EFFECT >
+name=Chaos Guard
+descr=Gain +1 DEF for each stack.
+
+< CARD_CHAOS_SPEED_EFFECT >
+name=Chaos Speed
+descr=Gain +1 EVD for each stack.
+
+< CARD_CHAOS_DIVE_FATIGUE_EFFECT >
+name=Dive Fatigue
+descr=Cannot Norma while this effect is active.
+
+< CARD_BOMBIMMUNITY_EFFECT >
+name=Explosion Immunity
+descr=Take no damage from bomb explosions until the beginning of next chapter.
+
+< CARD_HOTPOTATO_EFFECT >
+name=Hold the Gremlin
+descr=It's only a matter of time before you explode!
 [EOF]

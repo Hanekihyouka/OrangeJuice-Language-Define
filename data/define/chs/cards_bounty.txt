@@ -120,12 +120,12 @@ flavor=「只消一小口，人影去无踪！」\n—炼金术士
 < CARD_BOUNTY_LURE_ITEM >
 name=诱饵
 descr=持续效果（3轮）\n向周围7×7范围内的1个格子投掷诱饵，\n所选择的格子的3×3范围内变为遭遇\n或BOSS格3轮。
-flavor=「这气味应该足够引来四周大部分的\n杂鱼……」—炼金术士
+flavor=「这气味应该足够引来周围的大部分\n杂鱼……」—炼金术士
 
 < CARD_BOUNTY_SHOKUPAN_ITEM >
 name=生吐司
 descr=持续效果（3轮）\n每回合恢复1点HP。\n倒下时效果结束，效果无法叠加。
-flavor=「没人能做出比这更好的东西了。」\n—星之糕点师
+flavor=「别家店可没这么烤得这么好的东西了。」\n—星之糕点师
 
 < CARD_BOUNTY_SSR_SHOKUPAN_ITEM >
 name=软绵绵的生吐司
@@ -138,14 +138,14 @@ descr=这场战斗中，获得5点HP，\n并且ATK·DEF·EVD+1。
 flavor=「呵呵呵，这可是杯能消除干渴的纯净水，\n信我的准没错！」—旅店店主
 
 < CARD_BOUNTY_SMOKELOSTMEMORIES_ITEM >
-name=失忆烟雾
+name=失落记忆的烟雾
 descr=忘却过去犯下的错误，触发一场悬赏战。\n只能在已经发现了怪物的格子上使用。\n需要拥有悬赏才能开始战斗。\n使用这张卡后回合结束。
-flavor=「别把它放跑了！」—铁匠
+flavor=「别让它跑了！」—炼金术士
 
 < CARD_BOUNTY_RADAR_ITEM >
 name=冒险者用探测器
-descr=持续效果（第2轮至第5轮）\n效果持续期间可以获悉所有怪物的所在地点。
-flavor=「它会是你旅途中的好帮手……\n只要它还在继续工作的话！」—铠甲匠
+descr=持续效果（2至5轮）\n效果持续期间可以获悉所有怪物的所在地点。
+flavor=「它会是你旅途中的好帮手……\n只要它能运作足够久的话！」—铁匠
 
 < CARD_HYPER_BOUNTY_ELLIE >
 name=艾莉的奇迹

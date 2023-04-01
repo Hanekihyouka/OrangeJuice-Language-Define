@@ -43,6 +43,7 @@
     {"type":"file","name":"binder_tab_coop.dat","size":65664},
     {"type":"file","name":"binder_tab_normal.dat","size":65664},
     {"type":"file","name":"bloodlust.dat","size":65664},
+    {"type":"file","name":"bomb_shield.dat","size":16512},
     {"type":"file","name":"boostStat0.dat","size":16512},
     {"type":"file","name":"boostStat1.dat","size":16512},
     {"type":"file","name":"boostStat2.dat","size":16512},
@@ -152,6 +153,9 @@
     {"type":"file","name":"dlc_suguri46.dat","size":262272},
     {"type":"file","name":"dlc_sumika.dat","size":262272},
     {"type":"file","name":"dlc_sweetb.dat","size":262272},
+    {"type":"file","name":"dlc_sweetblogger.dat","size":262272},
+    {"type":"file","name":"dlc_sweetcreator.dat","size":262272},
+    {"type":"file","name":"dlc_sweetmaker.dat","size":262272},
     {"type":"file","name":"dlc_syura.dat","size":262272},
     {"type":"file","name":"dlc_teotoratta.dat","size":262272},
     {"type":"file","name":"dlc_tequila.dat","size":524416},
@@ -194,10 +198,13 @@
     {"type":"file","name":"eff_linework.dat","size":1048704},
     {"type":"file","name":"eff_lockb.dat","size":1048704},
     {"type":"file","name":"eff_lock.dat","size":1048704},
+    {"type":"file","name":"eff_lure.dat","size":262272},
+    {"type":"file","name":"eff_mudbomb.dat","size":1048704},
     {"type":"file","name":"eff_noise.dat","size":262272},
     {"type":"file","name":"eff_panellight.dat","size":16512},
     {"type":"file","name":"eff_perfect_reflective.dat","size":262272},
     {"type":"file","name":"eff_pinkexplosion.dat","size":1048704},
+    {"type":"file","name":"eff_poisoncloud.dat","size":262272},
     {"type":"file","name":"eff_redexplosion.dat","size":1048704},
     {"type":"file","name":"eff_reflective.dat","size":262272},
     {"type":"file","name":"eff_reflective_mask.dat","size":262272},
@@ -212,6 +219,7 @@
     {"type":"file","name":"eff_swbaura.dat","size":262272},
     {"type":"file","name":"eff_torrentb.dat","size":1048704},
     {"type":"file","name":"eff_torrent.dat","size":1048704},
+    {"type":"file","name":"eff_vialbreak.dat","size":262272},
     {"type":"file","name":"eliiecloud1.dat","size":262272},
     {"type":"file","name":"eliiecloud2.dat","size":262272},
     {"type":"file","name":"eliiecloud3.dat","size":262272},
@@ -243,6 +251,8 @@
     {"type":"file","name":"fernetship_shotvariant0.dat","size":262272},
     {"type":"file","name":"fernetship_shotvariant1.dat","size":262272},
     {"type":"file","name":"fernetship_shotvariant2.dat","size":262272},
+    {"type":"file","name":"fieldstrike_sword00.dat","size":65664},
+    {"type":"file","name":"fieldstrike_sword01.dat","size":65664},
     {"type":"file","name":"fireworks_00.dat","size":262272},
     {"type":"file","name":"fireworks_01.dat","size":262272},
     {"type":"file","name":"fireworks_02.dat","size":262272},
@@ -639,5 +649,5 @@
     {"type":"file","name":"yk_devilboost.dat","size":65664}
   ]}
 ,
-  {"type":"report","directories":1,"files":637}
+  {"type":"report","directories":1,"files":647}
 ]

@@ -17,7 +17,13 @@
         {"type":"file","name":"chaos_12.dat","size":1048704},
         {"type":"file","name":"chaos_13.dat","size":1048704},
         {"type":"file","name":"chaos_14.dat","size":1048704},
+        {"type":"file","name":"chaos_15.dat","size":1048704},
+        {"type":"file","name":"chaos_16.dat","size":1048704},
+        {"type":"file","name":"chaos_17.dat","size":1048704},
+        {"type":"file","name":"chaos_18.dat","size":1048704},
+        {"type":"file","name":"chaos_19.dat","size":1048704},
         {"type":"file","name":"chaos_1.dat","size":1048704},
+        {"type":"file","name":"chaos_20.dat","size":1048704},
         {"type":"file","name":"chaos_2.dat","size":1048704},
         {"type":"file","name":"chaos_3.dat","size":1048704},
         {"type":"file","name":"chaos_4.dat","size":1048704},
@@ -28,6 +34,37 @@
         {"type":"file","name":"chaos_9.dat","size":1048704},
         {"type":"directory","name":"dynamis_dice","size":4096,"contents":[
           {"type":"file","name":"icon.dat","size":65664}
+        ]},
+        {"type":"directory","name":"heavenlykings","size":4096,"contents":[
+          {"type":"file","name":"coach0.dat","size":1048704},
+          {"type":"file","name":"coach1.dat","size":1048704},
+          {"type":"file","name":"coach.dat","size":262272},
+          {"type":"file","name":"haruo0.dat","size":1048704},
+          {"type":"file","name":"haruo1.dat","size":1048704},
+          {"type":"file","name":"haruo.dat","size":262272},
+          {"type":"file","name":"jonathan.dat","size":262272},
+          {"type":"file","name":"m100.dat","size":1048704},
+          {"type":"file","name":"m101.dat","size":1048704},
+          {"type":"file","name":"m10.dat","size":262272},
+          {"type":"file","name":"ropochi0.dat","size":1048704},
+          {"type":"file","name":"ropochi1.dat","size":1048704},
+          {"type":"file","name":"ropochi.dat","size":262272},
+          {"type":"file","name":"sbeast0.dat","size":1048704},
+          {"type":"file","name":"sbeast1.dat","size":1048704},
+          {"type":"file","name":"seagull0.dat","size":1048704},
+          {"type":"file","name":"seagull1.dat","size":1048704},
+          {"type":"file","name":"stardev0.dat","size":1048704},
+          {"type":"file","name":"stardev1.dat","size":1048704},
+          {"type":"file","name":"stardev.dat","size":262272},
+          {"type":"file","name":"summerbeast.dat","size":262272}
+        ]},
+        {"type":"directory","name":"hotpotato","size":4096,"contents":[
+          {"type":"file","name":"boom.dat","size":262272},
+          {"type":"file","name":"hotpotato.dat","size":65664},
+          {"type":"file","name":"tantmim01.dat","size":160128},
+          {"type":"file","name":"tantmim02.dat","size":160128},
+          {"type":"file","name":"tantmim03.dat","size":160128},
+          {"type":"file","name":"tantmim04.dat","size":160128}
         ]},
         {"type":"directory","name":"knightsfaeries","size":4096,"contents":[
           {"type":"file","name":"aurora.dat","size":1048704},
@@ -40,6 +77,11 @@
           {"type":"file","name":"knight_00.dat","size":262272},
           {"type":"file","name":"knight_01.dat","size":262272},
           {"type":"file","name":"knight_banner.dat","size":262272}
+        ]},
+        {"type":"directory","name":"unlikelyalliance","size":4096,"contents":[
+          {"type":"file","name":"game_lose.dat","size":524416},
+          {"type":"file","name":"game_win.dat","size":524416},
+          {"type":"file","name":"vs.dat","size":262272}
         ]}
       ]},
       {"type":"file","name":"tutorial_00.dat","size":262272},
@@ -344,6 +386,11 @@
         {"type":"file","name":"swamp.dat","size":1048704},
         {"type":"file","name":"volcano.dat","size":1048704}
       ]},
+      {"type":"file","name":"boardBounty.dat","size":65664},
+      {"type":"file","name":"board.dat","size":524416},
+      {"type":"file","name":"boardrope.dat","size":524416},
+      {"type":"file","name":"bounty.dat","size":65664},
+      {"type":"file","name":"bounty_hover.dat","size":65664},
       {"type":"file","name":"counter.dat","size":262272},
       {"type":"directory","name":"field","size":4096,"contents":[
         {"type":"file","name":"castle00.dat","size":262272},
@@ -399,11 +446,14 @@
         {"type":"file","name":"volcano_lava02.dat","size":262272},
         {"type":"file","name":"volcano_lava03.dat","size":262272}
       ]},
+      {"type":"file","name":"forecast.dat","size":65664},
+      {"type":"file","name":"forecast_hover.dat","size":65664},
       {"type":"file","name":"gamemode_bounty128.dat","size":65664},
       {"type":"file","name":"harucraft_numbers.dat","size":1048704},
       {"type":"file","name":"inventory.dat","size":4194432},
       {"type":"file","name":"logo.dat","size":524416},
       {"type":"file","name":"luluribbon.dat","size":262272},
+      {"type":"file","name":"normaBoard.dat","size":4194432},
       {"type":"file","name":"previewbg.dat","size":16512},
       {"type":"directory","name":"shop","size":4096,"contents":[
         {"type":"file","name":"ssr.dat","size":65664},
@@ -411,8 +461,12 @@
         {"type":"file","name":"tShopIcons.dat","size":4194432}
       ]},
       {"type":"directory","name":"throwables","size":4096,"contents":[
+        {"type":"file","name":"corrosion.dat","size":65664},
         {"type":"file","name":"lure.dat","size":65664},
-        {"type":"file","name":"slimebomb.dat","size":65664}
+        {"type":"file","name":"poison.dat","size":65664},
+        {"type":"file","name":"slimebomb.dat","size":65664},
+        {"type":"file","name":"sparkle.dat","size":65664},
+        {"type":"file","name":"venom.dat","size":65664}
       ]},
       {"type":"file","name":"tutorial_00.dat","size":262272},
       {"type":"file","name":"tutorial_01.dat","size":262272},
@@ -940,5 +994,5 @@
     ]}
   ]}
 ,
-  {"type":"report","directories":41,"files":858}
+  {"type":"report","directories":44,"files":906}
 ]

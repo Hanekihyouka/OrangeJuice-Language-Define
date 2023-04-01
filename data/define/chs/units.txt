@@ -33,7 +33,7 @@ descr=场上每存在1只鸡手下ATK·DEF-1，\n攻击骰个数+1。每5轮召�
 
 < CARD_UNIT_BOSS_POPPO >
 name=星星吞噬者
-descr=玩家的轮初奖励STAR双倍。\n受到伤害时，DEF+1直到该轮结束。\n每拥有300个STAR战斗伤害+1，每造成/受到1点战斗伤害获得5个STAR/给予3个STAR。\n拥有1000个STAR时：BOSS获胜，没有STAR时：玩家获胜。
+descr=玩家的轮初奖励STAR双倍。\n受到伤害时，DEF+1直到该轮结束。\n每拥有300个STAR战斗伤害+1，每造成/受到1点战斗伤害获得5个STAR/交出3个STAR。\n拥有1000个STAR时：BOSS获胜，没有STAR时：玩家获胜。
 
 < CARD_UNIT_BOSS_POPPO_HYPER >
 name=星星吞噬者
@@ -49,7 +49,7 @@ descr=
 
 < CARD_UNIT_BOSS_ROBOBALL >
 name=M10机器人
-descr=在BOSS的回合，挑战玩家不会停步。\n在没有受到保护或扰乱效果时，使用保护。
+descr=在BOSS的回合内，挑战玩家不会停步。\n在没有受到保护或扰乱效果时，使用保护。
 
 < CARD_UNIT_BOSS_QP >
 name=夏日野兽
@@ -89,7 +89,7 @@ descr=
 
 < CARD_UNIT_CHICKEN_MP >
 name=鸡
-descr=战斗中倒下时只会给予1WIN和1/4的STAR。
+descr=被战斗击倒时只会给予1WIN和1/4的STAR。
 
 < CARD_UNIT_CASTLE >
 name=飞天城堡
@@ -153,7 +153,7 @@ descr=
 
 < CARD_UNIT_MALT >
 name=莫尔特
-descr=在战斗中倒下时给予3WIN。无法发起挑战。\n可以将没有特殊使用条件的战斗卡作为陷阱卡\n设置，无需COST。\n敌人在触发它时将与你战斗，双方角色皆可获得\n该卡片的效果。\n在这场战斗中无法使用其它战斗卡。
+descr=被战斗击倒时给予3WIN。无法发起挑战。\n可以将没有特殊使用条件的战斗卡作为陷阱卡\n设置，无需COST。\n敌人在触发它时将与你战斗，双方角色皆可获得\n该卡片的效果。\n在这场战斗中无法使用其它战斗卡。
 
 < CARD_UNIT_MANAGER >
 name=店长
@@ -177,7 +177,7 @@ descr=在受到挑战时，有50%几率「海贼小弟」将会\n代替你进行
 
 < CARD_UNIT_MIMYUU >
 name=米缪
-descr=以托玛特复活并行动。\n战斗中倒下时只会给予1WIN和1/4的STAR。
+descr=以托玛特复活并行动。\n被战斗击倒时只会给予1WIN和1/4的STAR。
 
 < CARD_UNIT_MIRA >
 name=米拉
@@ -221,7 +221,7 @@ descr=不受礼物卡影响。\n任意来源获得STAR时额外获得X个，\nX�
 
 < CARD_UNIT_NONAME >
 name=NoName
-descr=倒下时变为「NoName（头）」。\n在战斗中倒下时不会给予STAR和WIN。
+descr=倒下时变为「NoName（头）」。\n被战斗击倒时不会给予STAR和WIN。
 
 < CARD_UNIT_NONAME_HEAD >
 name=NoName（头）
@@ -249,7 +249,7 @@ descr=
 
 < CARD_UNIT_ROBOBALL_MP >
 name=机器球
-descr=战斗中倒下时只会给予1WIN和1/4的STAR。
+descr=被战斗击倒时只会给予1WIN和1/4的STAR。
 
 < CARD_UNIT_SAKI >
 name=纱季
@@ -261,7 +261,7 @@ descr=
 
 < CARD_UNIT_SEAGULL_MP >
 name=海鸥
-descr=战斗中倒下时只会给予1WIN和1/4的STAR。
+descr=被战斗击倒时只会给予1WIN和1/4的STAR。
 
 < CARD_UNIT_SHAM >
 name=夏姆
@@ -289,11 +289,11 @@ descr=
 
 < CARD_UNIT_SORAMILITARY >
 name=优空（军服）
-descr=战斗中倒下时，\n在下一个你的回合以HP2的状态复活。
+descr=被战斗击倒时，\n在下一个你的回合以HP2的状态复活。
 
 < CARD_COOP_UNIT_SORAMILITARY >
 name=优空（军服）
-descr=战斗中倒下时，\n在下一个你的回合以HP2的状态复活。\n每次从战斗击倒复活时获得1层萎靡不振效果。\n储备效果：每层储备使复活延迟1回合。
+descr=被战斗击倒时，\n在下一个你的回合以HP2的状态复活。\n每次从战斗击倒复活时获得1层萎靡不振效果。\n储备效果：每层储备使复活延迟1回合。
 
 < CARD_UNIT_STARBREAKER >
 name=星球破坏者
@@ -502,4 +502,40 @@ descr=在触发遭遇格并存活时，\n抽取1张可用等级的甜点类卡�
 < CARD_UNIT_SWEETBLOGGER >
 name=夏美（甜点评论者）
 descr=所有甜点类卡片无需COST。\n在触发掉落格并存活时，\n抽取1张可用等级的甜点类卡片。
+
+< CARD_UNIT_BOSSJONATHAN_CHAOS >
+name=大乔纳桑
+descr=
+
+< CARD_UNIT_BOSSHARUO_CHAOS >
+name=大春夫
+descr=
+
+< CARD_UNIT_AGGRESSIVECHICKEN_CHAOS >
+name=好斗鸡
+descr=如果你的对手在战斗中拥有多于+1的基础\nATK，ATK+1。
+
+< CARD_UNIT_BOSSM10_CHAOS >
+name=M10机器人
+descr=在你的回合内，挑战玩家不会停步。
+
+< CARD_UNIT_BOSSSTARDEV_CHAOS >
+name=星星吞噬者
+descr=战斗中，每造成1点伤害偷取1个STAR，\n每受到1点伤害交出1个STAR。\n当你拥有200个STAR，并将其选为最终\n目标时，自动取得胜利。
+
+< CARD_UNIT_POPPO_CHAOS >
+name=混沌啵噗
+descr=造成的每点伤害由偷取2个STAR替代，并将\n直接给予召唤者。\n在被战斗击倒时给予2WIN，并由召唤者给予\n10个STAR。
+
+< CARD_UNIT_BOSSQP_CHAOS >
+name=夏日野兽
+descr=战斗中，每当造成/受到伤害时获得1点兴奋。\n其他玩家被击倒时获得2点兴奋。上限为10。\n当你拥有4点以上的兴奋时，自动以最大HP\n复活，并将其全部消耗。
+
+< CARD_UNIT_BOSSROPOCHI_CHAOS >
+name=萝啵鸡
+descr=
+
+< CARD_UNIT_BOSSCOACH_CHAOS >
+name=游泳教练
+descr=如果召唤了浮标：ATK+2。\n如果召唤了沙滩球力士：DEF+2。\n如果召唤了游泳圈套：每回合获得3个STAR。
 [EOF]

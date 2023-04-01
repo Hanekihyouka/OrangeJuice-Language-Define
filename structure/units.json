@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/units.pak","size":348160,"contents":[
+  {"type":"directory","name":"./instance/units.pak","size":344064,"contents":[
     {"type":"file","name":"alicianrone_00_00.dat","size":262272},
     {"type":"file","name":"alicianrone_00_01.dat","size":262272},
     {"type":"file","name":"alicianrone_00_02.dat","size":262272},
@@ -6133,6 +6133,14 @@
     {"type":"file","name":"reika_15_03.dat","size":262272},
     {"type":"file","name":"reika_15_04.dat","size":262272},
     {"type":"file","name":"reika_15_05.dat","size":262272},
+    {"type":"file","name":"rogue_00_00.dat","size":262272},
+    {"type":"file","name":"rogue_00_01.dat","size":262272},
+    {"type":"file","name":"rogue_00_02.dat","size":262272},
+    {"type":"file","name":"rogue_00_03.dat","size":262272},
+    {"type":"file","name":"rogue_00_04.dat","size":262272},
+    {"type":"file","name":"rogue_00_05.dat","size":262272},
+    {"type":"file","name":"rogue_00_06.dat","size":262272},
+    {"type":"file","name":"rogue_00_07.dat","size":262272},
     {"type":"file","name":"ropochi_00_00.dat","size":262272},
     {"type":"file","name":"ropochi_00_01.dat","size":262272},
     {"type":"file","name":"ropochi_00_02.dat","size":262272},
@@ -6376,6 +6384,12 @@
     {"type":"file","name":"seagullboss_00_04.dat","size":262272},
     {"type":"file","name":"seagullboss_00_05.dat","size":262272},
     {"type":"file","name":"shadow.dat","size":262272},
+    {"type":"file","name":"shadymerchant_00_00.dat","size":262272},
+    {"type":"file","name":"shadymerchant_00_01.dat","size":262272},
+    {"type":"file","name":"shadymerchant_00_02.dat","size":262272},
+    {"type":"file","name":"shadymerchant_00_03.dat","size":262272},
+    {"type":"file","name":"shadymerchant_00_04.dat","size":262272},
+    {"type":"file","name":"shadymerchant_00_05.dat","size":262272},
     {"type":"file","name":"sham_00_00.dat","size":262272},
     {"type":"file","name":"sham_00_01.dat","size":262272},
     {"type":"file","name":"sham_00_02.dat","size":262272},
@@ -9218,5 +9232,5 @@
     {"type":"file","name":"yuuki_18_05.dat","size":262272}
   ]}
 ,
-  {"type":"report","directories":1,"files":9216}
+  {"type":"report","directories":1,"files":9230}
 ]

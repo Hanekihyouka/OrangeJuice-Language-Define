@@ -69,3 +69,27 @@ descr=赏金猎人模式的商店将生成在随机格子，\n销售的商品也
 < MUTATOR_KNIGHTS_AND_FAERIES >
 name=骑士与妖精
 descr=在游戏开始时，可以选择使用守护者或奥罗拉进行游戏，其能力也经过了对应调整。\n抽取的所有Hyper卡都将被随机化，且有可能发生意外事件。
+
+< MUTATOR_FOURHEAVENLYKINGS >
+name=四大天王
+descr=在游戏开始时，选择一名合作模式BOSS来进行整场游戏。
+
+< MUTATOR_CHAOS_BATTLEFIELD >
+name=混沌战场
+descr=所有战斗默认持续2回合。\n每10轮，所有格子变为玩家遭遇格。此类战斗将持续10回合。\n每次升级时可以选择一项数值+1。
+
+< MUTATOR_HOT_POTATO >
+name=烫手小精怪
+descr=随机玩家获得一张「烫手小精怪」礼物卡。\n拿着它有可能会获得STAR，也有可能会爆炸\n并强制送给另一名玩家。
+
+< MUTATOR_SHARING_IS_CARING >
+name=有福同享
+descr=所有玩家每轮将手牌给予下一个玩家。
+
+< MUTATOR_OVERINDULGENCE >
+name=全面纵溺
+descr=HP上限为99，但会以1HP状态立即复活。\n所有卡片被替换为甜点类卡片。\n玩家会因为拥有大量HP获得奖励，但吃得太多\n会使人变得迟缓。
+
+< MUTATOR_UNLIKELY_ALLIANCE >
+name=不可能的同盟
+descr=与随机指定的盟友共享目标要求。\n盟友间无法战斗，但可以互相治疗与复活。
