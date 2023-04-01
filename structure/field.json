@@ -1,9 +1,19 @@
 [
   {"type":"directory","name":"./instance/field.pak","size":12288,"contents":[
+    {"type":"file","name":"arrow2_0.dat","size":262272},
+    {"type":"file","name":"arrow2_1.dat","size":262272},
+    {"type":"file","name":"arrow2_2.dat","size":262272},
+    {"type":"file","name":"arrow2_3.dat","size":262272},
+    {"type":"file","name":"arrow2_reverse_0.dat","size":262272},
+    {"type":"file","name":"arrow2_reverse_1.dat","size":262272},
+    {"type":"file","name":"arrow2_reverse_2.dat","size":262272},
+    {"type":"file","name":"arrow2_reverse_3.dat","size":262272},
     {"type":"file","name":"arrow_down.dat","size":65664},
     {"type":"file","name":"arrow_left.dat","size":65664},
     {"type":"file","name":"arrow_right.dat","size":65664},
     {"type":"file","name":"arrow_up.dat","size":65664},
+    {"type":"file","name":"fieldstrike_ground00.dat","size":262272},
+    {"type":"file","name":"fieldstrike_ground01.dat","size":262272},
     {"type":"file","name":"homemark_00_0.dat","size":262272},
     {"type":"file","name":"homemark_00_1.dat","size":262272},
     {"type":"file","name":"homemark_00_2.dat","size":262272},
@@ -190,7 +200,9 @@
     {"type":"file","name":"mass_encountL2.dat","size":65664},
     {"type":"file","name":"mass_goo.dat","size":65664},
     {"type":"file","name":"mass_grass.dat","size":262272},
+    {"type":"file","name":"mass_grid2.dat","size":262272},
     {"type":"file","name":"mass_grid.dat","size":65664},
+    {"type":"file","name":"mass_gridfill.dat","size":262272},
     {"type":"file","name":"mass_heal.dat","size":65664},
     {"type":"file","name":"mass_healL2.dat","size":65664},
     {"type":"file","name":"mass_ice0.dat","size":65664},
@@ -204,6 +216,7 @@
     {"type":"file","name":"mass_move0.dat","size":65664},
     {"type":"file","name":"mass_moveL2.dat","size":65664},
     {"type":"file","name":"mass_mud.dat","size":65664},
+    {"type":"file","name":"mass_playerencount.dat","size":65664},
     {"type":"file","name":"mass_snow0.dat","size":65664},
     {"type":"file","name":"mass_snowpile0_0.dat","size":262272},
     {"type":"file","name":"mass_snowpile1_0.dat","size":262272},
@@ -225,5 +238,5 @@
     {"type":"file","name":"world_arrow_up.dat","size":65664}
   ]}
 ,
-  {"type":"report","directories":1,"files":223}
+  {"type":"report","directories":1,"files":236}
 ]

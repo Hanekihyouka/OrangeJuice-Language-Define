@@ -98,3 +98,15 @@ descr=1/3 of the field's ungooped panels become covered with goo for 1 chapter.\
 < FIELDEVENT_SPORES >
 name=Spores
 descr=Mushrooms will spawn on the field.\n\nFrequency: Every 3rd chapter.
+
+< FIELDEVENT_CHAOS_BATTLEFIELD >
+name=Chaos Battlefield
+descr=
+
+< FIELDEVENT_CHAOS_STARVATION >
+name=Starvation
+descr=
+
+< FIELDEVENT_CHAOS_OVERINDULGENCE >
+name=Overindulgence
+descr=

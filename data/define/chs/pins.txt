@@ -80,7 +80,7 @@ artist=Sora
 
 < PIN_FLYING_SYURA >
 name=飞翔的秀拉
-desc=授予使用秀拉进行过很多场游戏的玩家。\n她能超越的还有可爱。
+desc=授予使用秀拉进行过很多场游戏的玩家。\n死线就是用来跨越的！
 artist=Sora
 
 < PIN_FLYING_NANAKO >

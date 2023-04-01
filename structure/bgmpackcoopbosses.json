@@ -1,0 +1,13 @@
+[
+  {"type":"directory","name":"./instance/bgmpackcoopbosses.pak","size":4096,"contents":[
+    {"type":"file","name":"001.ogg","size":2583355},
+    {"type":"file","name":"002.ogg","size":1959391},
+    {"type":"file","name":"003.ogg","size":2416184},
+    {"type":"file","name":"004.ogg","size":3528702},
+    {"type":"file","name":"005.ogg","size":2173431},
+    {"type":"file","name":"006.ogg","size":2135953},
+    {"type":"file","name":"007.ogg","size":4599063}
+  ]}
+,
+  {"type":"report","directories":1,"files":7}
+]

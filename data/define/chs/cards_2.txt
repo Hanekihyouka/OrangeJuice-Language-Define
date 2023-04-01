@@ -246,7 +246,7 @@ flavor=「无论怎样的攻击都不会觉得疼！」—美羽咲
 
 < CARD_BATTLE_DARKSIDEOFBUSINESS >
 name=阴谋的资金筹集
-descr=ATK+2，对方DEF-2。这场战斗中给对手造成的伤害不影响HP，作为替代，从对方手中夺走\n伤害值×5的STAR。
+descr=ATK+2，对方DEF-2。这场战斗中给对手造成的伤害不影响HP，作为替代，从对方手中夺取\n伤害值×5的STAR。
 flavor=「勒索」—指使用暴力从弱者手中榨取资金，\n也就是恶人的资金筹集。
 
 < CARD_EVENT_PARTYTIME >
@@ -266,7 +266,7 @@ flavor=「这里是哪啦？」—杏
 
 < CARD_TRAP_WANTED >
 name=通缉令
-descr=储备效果\n战斗中倒下时对手获得双倍WIN。\n倒下时效果结束。
+descr=储备效果\n被战斗击倒时对手获得双倍WIN。\n倒下时效果结束。
 flavor=「在这边！我的鼻子是不会错的！」—QP
 
 < CARD_GIFT_PRICEOFPOWER >
@@ -371,7 +371,7 @@ flavor=「嗖的一下。」—米拉
 
 < CARD_HYPER_CUTIES >
 name=特别演出
-descr=★COST（等级×10）\n进入X回合的演唱会模式，X为你的等级数。\nMOV-3，只能触发移动类型的格子，无法使用\n卡片。\n无法被挑战或被增益卡指定为目标。\n当对手在5×5范围内结束回合时，\n从其手中夺走你等级×5的STAR。\n倒下时演唱会结束。
+descr=★COST（等级×10）\n进入X回合的演唱会模式，X为你的等级数。\nMOV-3，只能触发移动类型的格子，无法使用\n卡片。\n无法被挑战或被增益卡指定为目标。\n当对手在5×5范围内结束回合时，\n从其手中夺取你等级×5的STAR。\n倒下时演唱会结束。
 flavor=「这就是最强的可爱者！」—优空和夏姆
 
 < CARD_HYPER_YUUKI_ANGEL >
@@ -426,7 +426,7 @@ flavor=「我的野兽的真实力量……\n如果是这样的就好了。」�
 
 < CARD_BATTLE_SINKORSWIM >
 name=赌命一搏
-descr=ATK·DEF·EVD-1。\n如果你在这场战斗中取得胜利，\n从对手手中夺走的STAR增加50%。
+descr=ATK·DEF·EVD-1。\n如果你在这场战斗中取得胜利，\n从对手手中夺取的STAR增加50%。
 flavor=「好了，来赌波大的吧！」—由希
 
 < CARD_BATTLE_SERIOUSBATTLE >
@@ -466,7 +466,7 @@ flavor=「……」—优空
 
 < CARD_GIFT_LUCKYCHARM >
 name=幸运护符
-descr=在你的回合开始时获得等级数的STAR。\n无法使用其它卡片。\n战斗中倒下时，需额外给予等级×3的STAR。\n使用将丢弃这张卡。
+descr=在你的回合开始时获得等级数的STAR。\n无法使用其它卡片。\n被战斗击倒时，需额外给予等级×3的STAR。\n使用将丢弃这张卡。
 flavor=「哇哈～里面装满了星星！\n太走运了！！」—兔萌萌
 
 < CARD_GIFT_METALLICMONOCOQUE >
@@ -536,17 +536,17 @@ flavor=「马……马上就要生出来了……」—露露
 
 < CARD_HYPER_MARCPILOT_NORMAL >
 name=火箭炮
-descr=对指定敌人造成1点伤害。击倒角色时，你获得\n等同于在战斗中击倒的WIN。\n你也可以选择支付这张卡的COST，将这张卡\n变为「大火箭炮」。
+descr=对指定敌人造成1点伤害。\n击倒角色时，你获得等同于战斗击倒的WIN。\n你也可以选择支付这张卡的COST，将这张卡\n变为「大火箭炮」。
 flavor=「赤红酒桶上……\n可是有着这种武器的！」—玛儿
 
 < CARD_HYPER_MARCPILOT_UPGRADE >
 name=大火箭炮
-descr=对指定敌人造成3点伤害。\n击倒角色时，你获得等同于在战斗中击倒的\nWIN。\n当你使用另一张卡或倒下时，\n这张卡变为「火箭炮」。
+descr=对指定敌人造成3点伤害。\n击倒角色时，你获得等同于战斗击倒的WIN。\n当你使用另一张卡或倒下时，\n这张卡变为「火箭炮」。
 flavor=「上吧——！」—玛儿
 
 < CARD_HYPER_ALICIANRONE >
 name=急速的亚莉希安罗妮
-descr=投掷一枚骰子，移动骰子点数×3的格数。\n经过其他角色时造成骰子点数的伤害。\n此伤害击倒角色时，你获得等同于在战斗中\n击倒的WIN。\n效果结束后，回合结束。
+descr=投掷一枚骰子，移动骰子点数×3的格数。\n经过其他角色时造成骰子点数的伤害。\n此伤害击倒角色时，你获得等同于战斗击倒\n的WIN。\n效果结束后，回合结束。
 flavor=「冲过去，砍出一条路！」—亚莉希安罗妮
 
 < CARD_HYPER_TEOTORATTA >
@@ -561,7 +561,7 @@ flavor=「我已经看穿了一切。」—阿妮尔
 
 < CARD_HYPER_MAYNIE >
 name=愤怒狂暴
-descr=获得1点愤怒值。\n指定一名存活的其他角色并进入「狂暴模式」：\nATK·EVD+X，X为你的愤怒值。\n目标倒下时「狂暴模式」结束，愤怒值归0。\n在战斗中击倒目标时额外获得2WIN，击倒\n其余角色时获得的STAR和WIN减半。
+descr=获得1点愤怒值。\n指定一名存活的其他角色并进入「狂暴模式」：\nATK·EVD+X，X为你的愤怒值。\n目标倒下时「狂暴模式」结束，愤怒值归0。\n在战斗击倒时额外获得2WIN，击倒其余\n角色时获得的STAR和WIN减半。
 flavor=「嘎哦哦哦哦！」—梅妮
 
 < CARD_HYPER_KYUPITA >
@@ -714,4 +714,43 @@ name=魅樱的假蛋糕
 descr=选择以下一种效果：\n·吃掉它获得一种随机效果。\n·把它丢向选定的敌人造成1点伤害。（场上\n没有可选定的敌人时则会吃掉。）\n忽略阻止使用这张卡的角色效果。
 flavor=「这什么东西啊——！恶心想吐——！」\n—兔萌萌
 
+< CARD_CHAOS_ROOST >
+name=混沌鸡窝
+descr=召唤好斗鸡，让你在战斗攻击骰时额外投掷\n一枚骰子。\n当好斗鸡在场上时，你的ATK·DEF-2。\n你同时只能在场上拥有一个召唤物。
+flavor=
+
+< CARD_CHAOS_PROTECT >
+name=混沌保护
+descr=储备效果（3）\n在你受到任意伤害时，每消耗1层储备可以\n将2点伤害降至1点。
+flavor=
+
+< CARD_CHAOS_ABYSS >
+name=来自混沌之渊
+descr=将混沌啵噗手下召唤至场上。\n造成的每点伤害由偷取2个STAR替代。\n被击倒时给予2WIN，并由召唤者给予10个\nSTAR。\n你同时只能在场上拥有一个召唤物。
+flavor=
+
+< CARD_CHAOS_RAMPAGE >
+name=混沌撒野
+descr=将兴奋降至0。\n每3点兴奋对所有敌人造成1点伤害，并在下次\n被击倒前ATK+1。\n每通过此卡的伤害击倒1名\n角色，获得1点HP。
+flavor=
+
+< CARD_CHAOS_LAUNCH >
+name=混沌发射
+descr=选择想要俯冲至的格子，然后飞离场上，直至\n下一回合。该格不会向其他玩家展示。\n在下一回合，俯冲至所选的格子，且同一回合\n无法进行目标检测。\n7×7范围内的角色受到你等级数的伤害，\n5×5范围内的角色则受到你等级×2的伤害。\n每将一名角色击倒，你获得20个STAR和\n2WIN。
+flavor=
+
+< CARD_CHAOS_ROULETTE >
+name=混沌转盘
+descr=随机获得「混沌鸡窝」、「混沌保护」或\n「来自混沌之渊」中的1张。\n这个回合你可以再使用1张卡片。
+flavor=
+
+< CARD_CHAOS_POOL >
+name=混沌泳池
+descr=随机召唤浮标、沙滩球力士或游泳圈套中的\n1名。\n你同时只能在场上拥有1个召唤物。\n若你在场上已有你的召唤物时再次使用这张卡，\n就会用一个不同的召唤物替换掉原有的。
+flavor=
+
+< CARD_CHAOS_GIFT_HOTPOTATO >
+name=烫手小精怪
+descr=一个捉摸不透的米缪附在了你的身上。\n在你的回合结束时，获得等级数的STAR。\n经过随机回合后将会发飙，把你的HP降为1，\n并转移至另一名玩家手中。\n使用时将转移至另一名玩家手中。\n无法丢弃或通过其它任何方式移除。\n忽略任何阻止这张卡起效的效果。
+flavor=
 [EOF]

@@ -98,3 +98,15 @@ descr=场地上三分之一的未被粘液覆盖的格子被粘液覆盖。\n\n�
 < FIELDEVENT_SPORES >
 name=孢子
 descr=在场地上生成蘑菇。\n\n频度：每3轮
+
+< FIELDEVENT_CHAOS_BATTLEFIELD >
+name=混沌战场
+descr=
+
+< FIELDEVENT_CHAOS_STARVATION >
+name=食不果腹
+descr=
+
+< FIELDEVENT_CHAOS_OVERINDULGENCE >
+name=全面纵溺
+descr=

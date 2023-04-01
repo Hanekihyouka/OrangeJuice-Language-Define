@@ -714,4 +714,43 @@ name=Mio's False Cake
 descr=Choose one of the following:\n- Eat to gain a random effect.\n- Throw at target enemy to deal 1 damage. (If no target is available, eat it instead.)\nIgnore unit effects that would prevent this card from being played.
 flavor="What the heck! This is disgusting!" ―Tomomo
 
+< CARD_CHAOS_ROOST >
+name=Chaos Roost
+descr=Summon Aggressive Chicken, which allows you to roll an additional die when rolling attack in battle. Reduces your ATK by 2, and DEF by 2 while Aggressive Chicken is on the field. Only one summon can be on the field at a time.
+flavor=
+
+< CARD_CHAOS_PROTECT >
+name=Chaos Protect
+descr=Stock Effect (3): For any damage you take, consume a stack for each up to 2 damage to lower it to 1.
+flavor=
+
+< CARD_CHAOS_ABYSS >
+name=From the Chaotic Abyss
+descr=Summon Chaos Poppo minion into the field. Chaos Poppo deals no combat damage, but will steal 2 stars per damage dealt. Gives 10 stars from the summoner and 2 wins on KO. Only one summon can be on the field at a time.
+flavor=
+
+< CARD_CHAOS_RAMPAGE >
+name=Chaotic Rampage
+descr=Lower Hype to 0. For each 3 points of Hype, deal 1 damage to all enemies, and gain +1 ATK until next KO. For each KOed unit by this card's damage, gain +1 HP.
+flavor=
+
+< CARD_CHAOS_LAUNCH >
+name=Chaotic Launch
+descr=Select a panel to dive on, then leave the field until next turn. That panel will not be revealed to other players. On the next turn, dive to chosen panel, and cannot perform a Norma check on the same turn. Units in 3 panel range take Lvl x1 damage. Units in 2 panel range take Lvl x2 damage. For each KOed unit, gain 20 Stars, and 2 Wins.
+flavor=
+
+< CARD_CHAOS_ROULETTE >
+name=Chaos Roulette
+descr=Add a random card between Chaos Roost, Chaos Protect and From the Chaotic Abyss to your hand.\nYou may play another card this turn.
+flavor=
+
+< CARD_CHAOS_POOL >
+name=Chaotic Pool
+descr=Randomly summon either Goalpost, Balloon Jerk, or Swimming Ringer. Only one summon can be on the field at a time. Using this card again after a summon is on the field will replace that summon with a different one.
+flavor=
+
+< CARD_CHAOS_GIFT_HOTPOTATO >
+name=Hold the Gremlin
+descr=An unpredictable Mimyuu has attached herself to you. At the end of your turn, gain Lvl stars. Will lash out after a random amount of turns, reducing your HP to 1 and passing to another player. Use to pass to another player. Cannot be discarded or removed through any other means. Ignore any effects that would prevent this card's effect from being applied.
+flavor=
 [EOF]
