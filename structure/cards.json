@@ -667,8 +667,6 @@
     {"type":"file","name":"mimyuu256.dat","size":262272},
     {"type":"file","name":"mio128.dat","size":65664},
     {"type":"file","name":"mio256.dat","size":262272},
-    {"type":"file","name":"miof128.dat","size":65664},
-    {"type":"file","name":"miof256.dat","size":262272},
     {"type":"file","name":"mira128.dat","size":65664},
     {"type":"file","name":"mira256.dat","size":262272},
     {"type":"file","name":"miraclewalker128.dat","size":65664},
@@ -1054,5 +1052,5 @@
     {"type":"file","name":"zsalesman256.dat","size":262272}
   ]}
 ,
-  {"type":"report","directories":1,"files":1052}
+  {"type":"report","directories":1,"files":1050}
 ]
