@@ -587,8 +587,6 @@
     {"type":"file","name":"immovable256.dat","size":262272},
     {"type":"file","name":"inferno128.dat","size":65664},
     {"type":"file","name":"inferno256.dat","size":262272},
-    {"type":"file","name":"infernob128.dat","size":65664},
-    {"type":"file","name":"infernob256.dat","size":262272},
     {"type":"file","name":"intofficer128.dat","size":65664},
     {"type":"file","name":"intofficer256.dat","size":262272},
     {"type":"file","name":"iru128.dat","size":65664},
@@ -1052,5 +1050,5 @@
     {"type":"file","name":"zsalesman256.dat","size":262272}
   ]}
 ,
-  {"type":"report","directories":1,"files":1050}
+  {"type":"report","directories":1,"files":1048}
 ]
