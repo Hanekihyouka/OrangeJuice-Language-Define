@@ -513,7 +513,7 @@ descr=
 
 < CARD_UNIT_AGGRESSIVECHICKEN_CHAOS >
 name=Aggressive Chicken
-descr=Gain +1 ATK if your opponent in battle has more than 1 base ATK.
+descr=Grant an additional die to the summoner when rolling attack in battle, while reducing ATK and DEF by 2.\nGain +1 ATK if your opponent in battle has more than 1 base ATK.
 
 < CARD_UNIT_BOSSM10_CHAOS >
 name=M10 Robot
@@ -529,7 +529,7 @@ descr=Deal no combat damage but steal 2 stars per damage dealt that is given dir
 
 < CARD_UNIT_BOSSQP_CHAOS >
 name=Summer Beast
-descr=1 Hype is gained when dealing damage, and taking damage in battle. 2 Hype is gained on another player KO. Max 10. Automatically revive will full HP if having 4 Hype or more, which will then be consumed.
+descr=1 Hype is gained when dealing damage, and taking damage in battle. 2 Hype is gained on another player KO. Max 10. Automatically revive with full HP if having 4 Hype or more, which will then be consumed.
 
 < CARD_UNIT_BOSSROPOCHI_CHAOS >
 name=RoPoChi

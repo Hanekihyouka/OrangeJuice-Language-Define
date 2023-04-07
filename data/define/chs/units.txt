@@ -513,7 +513,7 @@ descr=
 
 < CARD_UNIT_AGGRESSIVECHICKEN_CHAOS >
 name=好斗鸡
-descr=如果你的对手在战斗中拥有多于+1的基础\nATK，ATK+1。
+descr=召唤者在战斗攻击骰时额外投掷一枚骰子，\nATK·DEF-2。\n如果你的对手在战斗中拥有多于1的基础\nATK，ATK+1。
 
 < CARD_UNIT_BOSSM10_CHAOS >
 name=M10机器人
