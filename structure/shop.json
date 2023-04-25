@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/shop.pak","size":28672,"contents":[
+  {"type":"directory","name":"./instance/shop.pak","size":36864,"contents":[
     {"type":"file","name":"arcade_background.dat","size":4194432},
     {"type":"file","name":"arcade_bg1.dat","size":4194432},
     {"type":"file","name":"arcade_bg2.dat","size":4194432},

@@ -736,7 +736,7 @@ flavor=
 
 < CARD_CHAOS_LAUNCH >
 name=Chaotic Launch
-descr=Select a panel to dive on, then leave the field until next turn. That panel will not be revealed to other players. On the next turn, dive to chosen panel, and cannot perform a Norma check on the same turn. Units in 3 panel range take Lvl x1 damage. Units in 2 panel range take Lvl x2 damage. For each KOed unit, gain 20 Stars, and 2 Wins.
+descr=Select a panel to dive on, then leave the field until next turn. That panel will not be revealed to other players. On the next turn, dive to chosen panel, and cannot perform a Norma check on the same turn. Units in 2 panel range take Lvl x1 damage. Units in 1 panel range take Lvl x2 damage instead. For each KOed unit, gain 20 Stars, and 2 Wins.
 flavor=
 
 < CARD_CHAOS_ROULETTE >

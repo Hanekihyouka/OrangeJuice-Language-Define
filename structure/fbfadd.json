@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/fbfadd.pak","size":32768,"contents":[
+  {"type":"directory","name":"./instance/fbfadd.pak","size":28672,"contents":[
     {"type":"file","name":"5year_anniv_unlock.dat","size":262272},
     {"type":"file","name":"alicia_hyper_sheet_circle.dat","size":2097280},
     {"type":"file","name":"alicia_hyper_sheet_slashes.dat","size":2097280},

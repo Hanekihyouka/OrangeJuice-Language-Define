@@ -551,15 +551,19 @@ descr=每层储备使ATK+1。
 
 < CARD_CHAOS_MUSCLE_EFFECT >
 name=混沌肌肉
-descr=每层储备使ATK+1。
+descr=每层储备使基础ATK+1（上限为\n基础ATK+3）。
 
 < CARD_CHAOS_GUARD_EFFECT >
 name=混沌防守
-descr=每层储备使DEF+1。
+descr=每层储备使基础DEF+1（上限为\n基础DEF+3）。
 
 < CARD_CHAOS_SPEED_EFFECT >
 name=混沌速度
-descr=每层储备使EVD+1。
+descr=每层储备使基础EVD+1（上限为\n基础EVD+3）。
+
+< CARD_CHAOS_LAUNCH_EFFECT >
+name=混沌发射
+descr=在你的回合开始时，俯冲至所选的格子，\n对5×5范围内的角色造成你等级数的伤害，\n对3×3范围内的角色则造成你等级×2的伤害。
 
 < CARD_CHAOS_DIVE_FATIGUE_EFFECT >
 name=俯冲疲劳

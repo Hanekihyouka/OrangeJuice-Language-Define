@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/face.pak","size":36864,"contents":[
+  {"type":"directory","name":"./instance/face.pak","size":32768,"contents":[
     {"type":"file","name":"alicianrone_00_00.dat","size":262272},
     {"type":"file","name":"alicianrone_00_01.dat","size":262272},
     {"type":"file","name":"alicianrone_00_02.dat","size":262272},

@@ -546,20 +546,24 @@ name=Hype
 descr=She's hyped.
 
 < CARD_CHAOS_RAMPAGE_EFFECT >
-name=Rampage
+name=Chaos Rampage
 descr=Gain +1 ATK for each stack.
 
 < CARD_CHAOS_MUSCLE_EFFECT >
 name=Chaos Muscle
-descr=Gain +1 ATK for each stack.
+descr=Gain +1 base ATK for each stack (up to +3 base ATK).
 
 < CARD_CHAOS_GUARD_EFFECT >
 name=Chaos Guard
-descr=Gain +1 DEF for each stack.
+descr=Gain +1 base DEF for each stack (up to +3 base DEF).
 
 < CARD_CHAOS_SPEED_EFFECT >
 name=Chaos Speed
-descr=Gain +1 EVD for each stack.
+descr=Gain +1 base EVD for each stack (up to +3 base EVD).
+
+< CARD_CHAOS_LAUNCH_EFFECT >
+name=Chaos Launch
+descr=At the start of your turn, dive to chosen panel dealing Lvl x1 damage to units within 2 panel radius, and Lvl x2 damage to units within 1 panel radius.
 
 < CARD_CHAOS_DIVE_FATIGUE_EFFECT >
 name=Dive Fatigue
