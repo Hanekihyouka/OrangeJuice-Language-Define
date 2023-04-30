@@ -538,4 +538,9 @@ descr=
 < CARD_UNIT_BOSSCOACH_CHAOS >
 name=Swimming Coach
 descr=If Goalpost is summoned: Gain +2 ATK. If Balloon Jerk is summoned: Gain +2 DEF. If Swimming Ringer is summoned: Gain 3 stars per turn.
+
+< CARD_UNIT_MIOFESTIVE >
+name=Mio (Festive)
+descr=
+
 [EOF]

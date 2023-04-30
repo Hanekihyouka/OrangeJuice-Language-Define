@@ -89,6 +89,9 @@ QP　最终章
 < CAMPAIGN_EXTRA_SIX > 
 魅樱的黑暗要塞
 
+< CAMPAIGN_EXTRA_SEVEN > 
+秘密的圣诞老人
+
 < CAMPAIGN_STARBREAKER_ONE >
 星球破坏者　第1章
 

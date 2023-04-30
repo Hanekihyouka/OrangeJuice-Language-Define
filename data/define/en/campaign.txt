@@ -89,6 +89,9 @@ Tomomo Hell
 < CAMPAIGN_EXTRA_SIX > 
 Mio's Dark Citadel
 
+< CAMPAIGN_EXTRA_SEVEN > 
+Secret Santa
+
 < CAMPAIGN_STARBREAKER_ONE >
 Star Breaker Episode 1
 

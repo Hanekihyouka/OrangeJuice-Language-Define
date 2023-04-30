@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/emotes.pak","size":69632,"contents":[
+  {"type":"directory","name":"./instance/emotes.pak","size":65536,"contents":[
     {"type":"file","name":"aos2_alte_32.dat","size":4224},
     {"type":"file","name":"aos2_alte_large.dat","size":16512},
     {"type":"file","name":"aos2_hime_32.dat","size":4224},
@@ -791,6 +791,18 @@
     {"type":"file","name":"un_mio04_large.dat","size":16512},
     {"type":"file","name":"un_mio05_32.dat","size":4224},
     {"type":"file","name":"un_mio05_large.dat","size":16512},
+    {"type":"file","name":"un_miof00_32.dat","size":4224},
+    {"type":"file","name":"un_miof00_large.dat","size":16512},
+    {"type":"file","name":"un_miof01_32.dat","size":4224},
+    {"type":"file","name":"un_miof01_large.dat","size":16512},
+    {"type":"file","name":"un_miof02_32.dat","size":4224},
+    {"type":"file","name":"un_miof02_large.dat","size":16512},
+    {"type":"file","name":"un_miof03_32.dat","size":4224},
+    {"type":"file","name":"un_miof03_large.dat","size":16512},
+    {"type":"file","name":"un_miof04_32.dat","size":4224},
+    {"type":"file","name":"un_miof04_large.dat","size":16512},
+    {"type":"file","name":"un_miof05_32.dat","size":4224},
+    {"type":"file","name":"un_miof05_large.dat","size":16512},
     {"type":"file","name":"un_mira00_32.dat","size":4224},
     {"type":"file","name":"un_mira00_large.dat","size":16512},
     {"type":"file","name":"un_mira01_32.dat","size":4224},
@@ -1497,5 +1509,5 @@
     {"type":"file","name":"un_yuuki05_large.dat","size":16512}
   ]}
 ,
-  {"type":"report","directories":1,"files":1495}
+  {"type":"report","directories":1,"files":1507}
 ]

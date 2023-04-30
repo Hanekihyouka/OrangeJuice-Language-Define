@@ -125,4 +125,7 @@ tian nya
 < CARD_ARTIST_KOKOROTEN >
 Kokoroten
 
+< CARD_ARTIST_SENCA >
+Senca
+
 [EOF]

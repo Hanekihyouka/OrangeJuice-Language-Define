@@ -308,6 +308,16 @@ name=Sweet Indulgence
 descr=Gain 3 random non-Hyper, Sweets type cards. Can only be triggered by allies.
 flavor="I am about to stuff you with sweets, whether you like it or not."  ―Sweet Creator
 
+< CARD_HYPER_COOP_MIOFESTIVE >
+name=Christmas Inferno
+descr=Lower your HP to 1. Deal damage equal to the HP you lost to the Boss. Deal damage equal to half the HP you lost to all other enemies, rounded up. Gain a Mio's Christmas Cake card for each ally currently KO'd.
+flavor="I'll show you all hell." ―Mio
+
+< CARD_BOOST_COOP_XMASCAKE >
+name=Mio's Christmas Cake
+descr=Choose one of the following:\n- Eat to gain 2 HP.\n- Share with target player to heal them 2 HP, then you heal the same amount.
+flavor="I'm very proud of this cake that I made. Enjoy ♡" ―Mio
+
 < CARD_BOSS_COOP_DOZE >
 name=Doze
 descr=No effect.

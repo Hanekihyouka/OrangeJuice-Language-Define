@@ -587,6 +587,8 @@
     {"type":"file","name":"immovable256.dat","size":262272},
     {"type":"file","name":"inferno128.dat","size":65664},
     {"type":"file","name":"inferno256.dat","size":262272},
+    {"type":"file","name":"infernob128.dat","size":65664},
+    {"type":"file","name":"infernob256.dat","size":262272},
     {"type":"file","name":"intofficer128.dat","size":65664},
     {"type":"file","name":"intofficer256.dat","size":262272},
     {"type":"file","name":"iru128.dat","size":65664},
@@ -665,6 +667,8 @@
     {"type":"file","name":"mimyuu256.dat","size":262272},
     {"type":"file","name":"mio128.dat","size":65664},
     {"type":"file","name":"mio256.dat","size":262272},
+    {"type":"file","name":"miof128.dat","size":65664},
+    {"type":"file","name":"miof256.dat","size":262272},
     {"type":"file","name":"mira128.dat","size":65664},
     {"type":"file","name":"mira256.dat","size":262272},
     {"type":"file","name":"miraclewalker128.dat","size":65664},
@@ -1034,6 +1038,8 @@
     {"type":"file","name":"xmas2018_defense256.dat","size":262272},
     {"type":"file","name":"xmas2018_offense128.dat","size":65664},
     {"type":"file","name":"xmas2018_offense256.dat","size":262272},
+    {"type":"file","name":"xmascake128.dat","size":65664},
+    {"type":"file","name":"xmascake256.dat","size":262272},
     {"type":"file","name":"xms128.dat","size":65664},
     {"type":"file","name":"xms256.dat","size":262272},
     {"type":"file","name":"yatuatari128.dat","size":65664},
@@ -1050,5 +1056,5 @@
     {"type":"file","name":"zsalesman256.dat","size":262272}
   ]}
 ,
-  {"type":"report","directories":1,"files":1048}
+  {"type":"report","directories":1,"files":1054}
 ]

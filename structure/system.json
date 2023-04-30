@@ -76,6 +76,7 @@
     {"type":"file","name":"dice_wallet.dat","size":262272},
     {"type":"file","name":"dice_water.dat","size":262272},
     {"type":"file","name":"dice_wood.dat","size":262272},
+    {"type":"file","name":"dice_xmascake.dat","size":262272},
     {"type":"file","name":"dice_yellow.dat","size":262272},
     {"type":"file","name":"editor_pic.dat","size":262272},
     {"type":"file","name":"enemyring.dat","size":16512},
@@ -197,6 +198,7 @@
     {"type":"file","name":"title_logo.dat","size":1048704},
     {"type":"file","name":"title_system.dat","size":262272},
     {"type":"file","name":"tony_menu.dat","size":262272},
+    {"type":"file","name":"tPlateBackgrounds-20930.dat","size":4194432},
     {"type":"file","name":"tPlateBackgrounds.dat","size":4194432},
     {"type":"file","name":"tPlatePins.dat","size":1048704},
     {"type":"file","name":"ui_buttons.dat","size":1048704},
@@ -207,5 +209,5 @@
     {"type":"file","name":"word_input.dat","size":1048704}
   ]}
 ,
-  {"type":"report","directories":1,"files":205}
+  {"type":"report","directories":1,"files":207}
 ]

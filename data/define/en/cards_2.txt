@@ -674,6 +674,16 @@ name=Operation: A Mountain of Sweets
 descr=Draw 3 Boost cards from the deck. You can play up to 3 more Boost cards this turn for 1/3 of their cost.
 flavor="Ehehe, let's have a lot of delicious sweets." ―Natsumi
 
+< CARD_HYPER_MIOFESTIVE >
+name=Christmas Inferno
+descr=Lower your HP to 1. Deal damage to all other players equal to the HP you lost. Gain a Mio's Christmas Cake card for each player KO'd by this effect.
+flavor="I'll show you all hell." ―Mio
+
+< CARD_BOOST_XMASCAKE >
+name=Mio's Christmas Cake
+descr=Choose one of the following:\n- Eat to gain 1 HP.\n- Share with target player to heal them 2 HP, then you heal the same amount.
+flavor="I'm very proud of this cake that I made. Enjoy ♡" ―Mio
+
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=Ultimate Weapon in the Sun
 descr=During this battle, gain +3 ATK.

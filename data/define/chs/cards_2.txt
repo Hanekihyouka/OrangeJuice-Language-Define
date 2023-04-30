@@ -674,6 +674,16 @@ name=甜点成堆大作战
 descr=从卡堆抽取3张增益卡。\n这个回合你可以再使用3张增益卡，且使用时\n只需1/3的COST。
 flavor=「诶嘿嘿，尽管来吃好吃的东西吧。」\n—甜点评论者
 
+< CARD_HYPER_MIOFESTIVE >
+name=圣诞狱火
+descr=HP降为1。\n其他玩家受到等同于你失去HP数量的伤害。\n每因此击倒1名玩家获得一张「魅樱的圣诞\n蛋糕」。
+flavor=「给各位展示一下地狱之景。」—节庆魅樱
+
+< CARD_BOOST_XMASCAKE >
+name=魅樱的圣诞蛋糕
+descr=选择以下一种效果：\n·吃掉获得1点HP。\n·与指定玩家分享，为其恢复2点HP，再为你\n恢复相同数量的HP。
+flavor=「这是我的得意之作，请慢用♡」—节庆魅樱
+
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=炎炎烈日的最终兵器
 descr=这场战斗中ATK+3。

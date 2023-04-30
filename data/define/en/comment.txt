@@ -53,6 +53,9 @@ This item has yet to be stocked.
 < COM_SHOP_NOTENOUGHCURRENCY >
 You cannot afford this item.
 
+< COM_SHOP_REACHEDCURRENCYCAP >
+You won't be able to hold more of this currency.
+
 < COM_SHOP_NOSTEAMCONNECTION >
 This item requires Steam connection.
 

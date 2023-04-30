@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/shop.pak","size":36864,"contents":[
+  {"type":"directory","name":"./instance/shop.pak","size":28672,"contents":[
     {"type":"file","name":"arcade_background.dat","size":4194432},
     {"type":"file","name":"arcade_bg1.dat","size":4194432},
     {"type":"file","name":"arcade_bg2.dat","size":4194432},
@@ -323,6 +323,8 @@
     {"type":"file","name":"conv_candy_star.dat","size":65664},
     {"type":"file","name":"conv_pig_orange.dat","size":65664},
     {"type":"file","name":"conv_pig_star.dat","size":65664},
+    {"type":"file","name":"conv_voice_orange.dat","size":65664},
+    {"type":"file","name":"conv_voice_star.dat","size":65664},
     {"type":"file","name":"c_peat_cp.dat","size":65664},
     {"type":"file","name":"c_peat.dat","size":65664},
     {"type":"file","name":"c_peat_h00.dat","size":65664},
@@ -667,7 +669,25 @@
     {"type":"file","name":"petselect_icons.dat","size":131200},
     {"type":"file","name":"petselect_preview_shadow.dat","size":262272},
     {"type":"file","name":"platebg_10.dat","size":65664},
+    {"type":"file","name":"platebg_11.dat","size":65664},
+    {"type":"file","name":"platebg_12.dat","size":65664},
+    {"type":"file","name":"platebg_13.dat","size":65664},
+    {"type":"file","name":"platebg_14.dat","size":65664},
+    {"type":"file","name":"platebg_15.dat","size":65664},
+    {"type":"file","name":"platebg_16.dat","size":65664},
+    {"type":"file","name":"platebg_17.dat","size":65664},
+    {"type":"file","name":"platebg_18.dat","size":65664},
+    {"type":"file","name":"platebg_19.dat","size":65664},
     {"type":"file","name":"platebg_1.dat","size":65664},
+    {"type":"file","name":"platebg_20.dat","size":65664},
+    {"type":"file","name":"platebg_21.dat","size":65664},
+    {"type":"file","name":"platebg_22.dat","size":65664},
+    {"type":"file","name":"platebg_23.dat","size":65664},
+    {"type":"file","name":"platebg_24.dat","size":65664},
+    {"type":"file","name":"platebg_25.dat","size":65664},
+    {"type":"file","name":"platebg_26.dat","size":65664},
+    {"type":"file","name":"platebg_27.dat","size":65664},
+    {"type":"file","name":"platebg_28.dat","size":65664},
     {"type":"file","name":"platebg_2.dat","size":65664},
     {"type":"file","name":"platebg_3.dat","size":65664},
     {"type":"file","name":"platebg_4.dat","size":65664},
@@ -705,5 +725,5 @@
     {"type":"file","name":"re_beachparty.dat","size":262272}
   ]}
 ,
-  {"type":"report","directories":1,"files":703}
+  {"type":"report","directories":1,"files":723}
 ]

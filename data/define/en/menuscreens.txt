@@ -916,6 +916,9 @@ Connecting...
 < PLAYMENU_INVENTORY_STACKING_TEXT >
 Stacking inventory items...
 
+< PLAYMENU_2MDOWNLOADS_MESSAGE >
+Thank you for over 2 million downloads!\nNew Extra mission available!\nWhat is Mio up to...?
+
 < MENU_BOSS_DIFFICULTY_CASUAL >
 Casual
 
@@ -975,7 +978,7 @@ Event rewards for %s have been added to the shop!
 FREE THIS WEEK
 
 < MENU_WEEKLY_FREE_TOOLTIP >
-You may play using these 2 DLC or bonus characters for free this week.\nCharacter and announcer voices for them can also be used.
+You may play using these 2 DLC or bonus characters for free this week.\nAnnouncer voices for them can also be used.
 
 < MENU_WORKSHOP_THUMBNAIL_REQUIRED >
 A custom thumbnail is required for publishing your mod.\n\nRefer to the modding documentation for more information.

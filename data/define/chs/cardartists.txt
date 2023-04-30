@@ -9,7 +9,7 @@ Art :
 Junpyon
 
 < CARD_ARTIST_YUUNANASE >
-七瀬祐
+七濑祐
 
 < CARD_ARTIST_NERIUME >
 ねりうめ
@@ -21,7 +21,7 @@ Junpyon
 めがね
 
 < CARD_ARTIST_MIZUKISEO >
-瀬生瑞樹
+濑生瑞树
 
 < CARD_ARTIST_ERINA >
 えりな
@@ -30,7 +30,7 @@ Junpyon
 橘音
 
 < CARD_ARTIST_TAMAKISEO >
-瀬生珠希
+濑生珠希
 
 < CARD_ARTIST_KULAS >
 Kulas
@@ -69,7 +69,7 @@ Lendo Khar
 Yulay Devlet
 
 < CARD_ARTIST_FUKA_MIZNO >
-fuka mizno
+ふか
 
 < CARD_ARTIST_AKISAKI >
 akisaki
@@ -90,7 +90,7 @@ Axes
 Airie
 
 < CARD_ARTIST_AME >
-宮崎しゆり
+宫崎しゆり
 
 < CARD_ARTIST_KAGAWA_YUSAKU >
 香川悠作
@@ -124,5 +124,8 @@ tian nya
 
 < CARD_ARTIST_KOKOROTEN >
 心太
+
+< CARD_ARTIST_SENCA >
+泉桦
 
 [EOF]

@@ -538,4 +538,9 @@ descr=
 < CARD_UNIT_BOSSCOACH_CHAOS >
 name=游泳教练
 descr=如果召唤了浮标：ATK+2。\n如果召唤了沙滩球力士：DEF+2。\n如果召唤了游泳圈套：每回合获得3个STAR。
+
+< CARD_UNIT_MIOFESTIVE >
+name=节庆魅樱
+descr=
+
 [EOF]

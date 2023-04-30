@@ -308,6 +308,16 @@ name=甜点纵溺
 descr=获得3张随机的非Hyper甜点类卡片。\n甜点天堂只会被友方触发。
 flavor=「我想用甜点填满你。」—甜点创造者
 
+< CARD_HYPER_COOP_MIOFESTIVE >
+name=圣诞狱火
+descr=HP降为1。\nBOSS受到等同于你失去HP数量的伤害。\n其它敌人受到你失去HP数量一半的伤害\n（向上取整）。\n每有1名倒下的队友获得一张「魅樱的圣诞\n蛋糕」。
+flavor=「给各位展示一下地狱之景。」—节庆魅樱
+
+< CARD_BOOST_COOP_XMASCAKE >
+name=魅樱的圣诞蛋糕
+descr=选择以下一种效果：\n·吃掉获得2点HP。\n·与指定玩家分享，为其恢复2点HP，再为你\n恢复相同数量的HP。
+flavor=「这是我的得意之作，请慢用♡」—节庆魅樱
+
 < CARD_BOSS_COOP_DOZE >
 name=打盹
 descr=没有效果。
@@ -645,7 +655,7 @@ flavor=
 
 < CARD_BOSS_COOP_BIRDS >
 name=鸟群
-descr=所有玩家受到1点伤害。每有1名玩家因\n这个效果而倒下时获得1点兴奋。
+descr=所有玩家受到1点伤害。\n每因此击倒1名玩家获得1点兴奋。
 flavor=
 
 < CARD_BOSS_COOP_SEAGULL_FRIEND >
@@ -715,7 +725,7 @@ flavor=
 
 < CARD_BOSS_COOP_SANDWICH_THIEVES >
 name=三明治小偷
-descr=所有玩家受到1～3点伤害。\n每击倒1名玩家获得1点兴奋。
+descr=所有玩家受到1～3点伤害。\n每因此击倒1名玩家获得1点兴奋。
 flavor=
 
 < CARD_BOSS_COOP_HYPE_MODE >
@@ -825,7 +835,7 @@ flavor=
 
 < CARD_BOSS_COOP_AURA_OF_TERROR >
 name=恐惧蔓延
-descr=对所有玩家造成1点伤害。\n如果至少有1名玩家因这个效果而倒下，\n重复此行为。
+descr=对所有玩家造成1点伤害。\n如果至少有1名玩家因此倒下，重复此行为。
 flavor=
 
 < CARD_BOSS_COOP_LAUNCH >

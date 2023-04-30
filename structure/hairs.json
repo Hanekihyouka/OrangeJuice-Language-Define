@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/hairs.pak","size":167936,"contents":[
+  {"type":"directory","name":"./instance/hairs.pak","size":180224,"contents":[
     {"type":"file","name":"alicianrone_b00_00.dat","size":262272},
     {"type":"file","name":"alicianrone_b00_01.dat","size":262272},
     {"type":"file","name":"alicianrone_b00_02.dat","size":262272},
@@ -1980,6 +1980,30 @@
     {"type":"file","name":"mio_b00_03.dat","size":262272},
     {"type":"file","name":"mio_b00_04.dat","size":262272},
     {"type":"file","name":"mio_b00_05.dat","size":262272},
+    {"type":"file","name":"miof_b00_00.dat","size":262272},
+    {"type":"file","name":"miof_b00_01.dat","size":262272},
+    {"type":"file","name":"miof_b00_02.dat","size":262272},
+    {"type":"file","name":"miof_b00_03.dat","size":262272},
+    {"type":"file","name":"miof_b00_04.dat","size":262272},
+    {"type":"file","name":"miof_b00_05.dat","size":262272},
+    {"type":"file","name":"miof_h00_00.dat","size":262272},
+    {"type":"file","name":"miof_h00_01.dat","size":262272},
+    {"type":"file","name":"miof_h00_02.dat","size":262272},
+    {"type":"file","name":"miof_h00_03.dat","size":262272},
+    {"type":"file","name":"miof_h00_04.dat","size":262272},
+    {"type":"file","name":"miof_h00_05.dat","size":262272},
+    {"type":"file","name":"miof_m00_00.dat","size":262272},
+    {"type":"file","name":"miof_m00_01.dat","size":262272},
+    {"type":"file","name":"miof_m00_02.dat","size":262272},
+    {"type":"file","name":"miof_m00_03.dat","size":262272},
+    {"type":"file","name":"miof_m00_04.dat","size":262272},
+    {"type":"file","name":"miof_m00_05.dat","size":262272},
+    {"type":"file","name":"miof_s00_00.dat","size":262272},
+    {"type":"file","name":"miof_s00_01.dat","size":262272},
+    {"type":"file","name":"miof_s00_02.dat","size":262272},
+    {"type":"file","name":"miof_s00_03.dat","size":262272},
+    {"type":"file","name":"miof_s00_04.dat","size":262272},
+    {"type":"file","name":"miof_s00_05.dat","size":262272},
     {"type":"file","name":"mio_h00_00.dat","size":262272},
     {"type":"file","name":"mio_h00_01.dat","size":262272},
     {"type":"file","name":"mio_h00_02.dat","size":262272},
@@ -4738,5 +4762,5 @@
     {"type":"file","name":"yuuki_s00_05.dat","size":262272}
   ]}
 ,
-  {"type":"report","directories":1,"files":4736}
+  {"type":"report","directories":1,"files":4760}
 ]
