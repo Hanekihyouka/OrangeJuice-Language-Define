@@ -310,7 +310,7 @@ flavor=「我想用甜点填满你。」—甜点创造者
 
 < CARD_HYPER_COOP_MIOFESTIVE >
 name=圣诞狱火
-descr=HP降为1。\nBOSS受到等同于你失去HP数量的伤害。\n其它敌人受到你失去HP数量一半的伤害\n（向上取整）。\n每有1名倒下的队友获得一张「魅樱的圣诞\n蛋糕」。
+descr=HP降为1。\n对BOSS造成等同于你失去HP数量的伤害。\n其它敌人受到你失去HP数量一半的伤害\n（向上取整）。\n每有1名倒下的队友获得一张「魅樱的圣诞\n蛋糕」。
 flavor=「给各位展示一下地狱之景。」—节庆魅樱
 
 < CARD_BOOST_COOP_XMASCAKE >

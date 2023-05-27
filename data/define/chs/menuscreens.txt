@@ -916,7 +916,7 @@ QP还想多玩一会！夏日野兽复活了！
 正在堆叠库存物品……
 
 < PLAYMENU_2MDOWNLOADS_MESSAGE >
-为庆祝200万下载量，游戏更新了全新的额外关卡！\n魅樱这次又会有什么打算……？
+为庆祝200万下载量，游戏更新了全新的额外\n关卡！\n魅樱这次又会有什么打算……？
 
 < MENU_BOSS_DIFFICULTY_CASUAL >
 休闲
@@ -977,7 +977,7 @@ HYPER
 本周免费
 
 < MENU_WEEKLY_FREE_TOOLTIP >
-本周你可以免费使用这两名DLC/奖励角色。\n同时角色语音和播音员语音也可免费使用。
+本周你可以免费使用这两名DLC/奖励角色。\n同时播音员语音也可免费使用。
 
 < MENU_WORKSHOP_THUMBNAIL_REQUIRED >
 需要拥有缩略图才能发布MOD。\n\n更多信息请检查MOD制作参考文档。

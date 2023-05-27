@@ -676,7 +676,7 @@ flavor=「诶嘿嘿，尽管来吃好吃的东西吧。」\n—甜点评论者
 
 < CARD_HYPER_MIOFESTIVE >
 name=圣诞狱火
-descr=HP降为1。\n其他玩家受到等同于你失去HP数量的伤害。\n每因此击倒1名玩家获得一张「魅樱的圣诞\n蛋糕」。
+descr=HP降为1。\n对所有其他玩家造成等同于你失去HP数量\n的伤害。\n每因此击倒1名玩家获得一张「魅樱的圣诞\n蛋糕」。
 flavor=「给各位展示一下地狱之景。」—节庆魅樱
 
 < CARD_BOOST_XMASCAKE >

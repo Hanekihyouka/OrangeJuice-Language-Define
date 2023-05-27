@@ -53,6 +53,9 @@
 < COM_SHOP_NOTENOUGHCURRENCY >
 没有足够的货币。
 
+< COM_SHOP_REACHEDCURRENCYCAP >
+此种货币已达上限。
+
 < COM_SHOP_NOSTEAMCONNECTION >
 要使用这个物品必须与Steam连接。
 
