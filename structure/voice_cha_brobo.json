@@ -1,0 +1,35 @@
+[
+  {"type":"directory","name":"./instance/voice_cha_brobo.pak","size":4096,"contents":[
+    {"type":"file","name":"0_0.WAV","size":258460},
+    {"type":"file","name":"10_0.WAV","size":182894},
+    {"type":"file","name":"1_0.WAV","size":170960},
+    {"type":"file","name":"11_0.WAV","size":118910},
+    {"type":"file","name":"12_0.WAV","size":122786},
+    {"type":"file","name":"13_0.WAV","size":237250},
+    {"type":"file","name":"14_0.WAV","size":114790},
+    {"type":"file","name":"15_0.WAV","size":351998},
+    {"type":"file","name":"16_0.WAV","size":289722},
+    {"type":"file","name":"17_0.WAV","size":288838},
+    {"type":"file","name":"18_0.WAV","size":100326},
+    {"type":"file","name":"19_0.WAV","size":371248},
+    {"type":"file","name":"20_0.WAV","size":137080},
+    {"type":"file","name":"2_0.WAV","size":73810},
+    {"type":"file","name":"21_0.WAV","size":115322},
+    {"type":"file","name":"22_0.WAV","size":138414},
+    {"type":"file","name":"23_0.WAV","size":213330},
+    {"type":"file","name":"24_0.WAV","size":134956},
+    {"type":"file","name":"25_0.WAV","size":230568},
+    {"type":"file","name":"26_0.WAV","size":79082},
+    {"type":"file","name":"27_0.WAV","size":385568},
+    {"type":"file","name":"28_0.WAV","size":90202},
+    {"type":"file","name":"3_0.WAV","size":96198},
+    {"type":"file","name":"4_0.WAV","size":133834},
+    {"type":"file","name":"5_0.WAV","size":114068},
+    {"type":"file","name":"6_0.WAV","size":114188},
+    {"type":"file","name":"7_0.WAV","size":166618},
+    {"type":"file","name":"8_0.WAV","size":132880},
+    {"type":"file","name":"9_0.WAV","size":286428}
+  ]}
+,
+  {"type":"report","directories":1,"files":29}
+]

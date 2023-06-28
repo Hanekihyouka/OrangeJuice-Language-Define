@@ -173,6 +173,9 @@ This campaign can only be played by Old Guardian Pack owners.
 < COM_CAMPAIGN_WANDERERPACKONLY >
 This campaign can only be played by Wanderer Pack owners.
 
+< COM_CAMPAIGN_WARUDAPRISONBREAKPACKONLY >
+This campaign can only be played by Waruda Prison Break Pack owners.
+
 < COM_FREEBATTLE_CHOOSEGAMETYPE >
 Select a game mode.
 

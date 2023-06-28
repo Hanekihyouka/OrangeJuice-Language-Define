@@ -4,6 +4,9 @@
     {"type":"file","name":"christmas_h.dat","size":65664},
     {"type":"file","name":"christmas_l.dat","size":65664},
     {"type":"file","name":"christmas_o.dat","size":65664},
+    {"type":"file","name":"circus_h.dat","size":1048704},
+    {"type":"file","name":"circus_l.dat","size":1048704},
+    {"type":"file","name":"circus_o.dat","size":1048704},
     {"type":"file","name":"clover_l.dat","size":65664},
     {"type":"file","name":"cyberspace_l.dat","size":65664},
     {"type":"file","name":"cyberspace_o.dat","size":65664},
@@ -18,6 +21,7 @@
     {"type":"file","name":"field_beginnertown.fld","size":1352},
     {"type":"file","name":"field_christmas.fld","size":1352},
     {"type":"file","name":"field_christmasmiracle_co.fld","size":968},
+    {"type":"file","name":"field_circus.fld","size":1568},
     {"type":"file","name":"field_clover_co.fld","size":968},
     {"type":"file","name":"field_clover.fld","size":968},
     {"type":"file","name":"field_cyberspace.fld","size":1352},
@@ -174,5 +178,5 @@
     {"type":"file","name":"worldmap_summer2022_l4.dat","size":4194432}
   ]}
 ,
-  {"type":"report","directories":1,"files":172}
+  {"type":"report","directories":1,"files":176}
 ]

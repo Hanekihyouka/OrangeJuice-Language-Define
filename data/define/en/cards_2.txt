@@ -684,6 +684,21 @@ name=Mio's Christmas Cake
 descr=Choose one of the following:\n- Eat to gain 1 HP.\n- Share with target player to heal them 2 HP, then you heal the same amount.
 flavor="I'm very proud of this cake that I made. Enjoy ♡" ―Mio
 
+< CARD_HYPER_KRILAPAJAMA1 >
+name=Threats to My Slumber
+descr=When you cancel exactly 1 damage in battle while holding this card, gain a stock of Waking. (Max 4. Does not stack.)\nTransform to When My Slumber Breaks upon use.
+flavor="I suggest you keep quiet for your own safety..." ―Krilalaris
+
+< CARD_HYPER_KRILAPAJAMA2 >
+name=When My Slumber Breaks
+descr=Deal X+1 damage to all other players and the Boss, where X is your Waking count. Remove all Waking stocks. Gain 1 HP for every 2 Waking stock removed.
+flavor="The time is about to come for me to say good morning..." ―Krilalaris
+
+< CARD_HYPER_MIMYUUJAILBIRD >
+name=Make-Believe Prison Break
+descr=Move to your Home panel without activating it. Cannot be challenged or be the target of other players' Boost cards. Immune to Trap cards, instant KO effects, and card damage from other players. Roll 2 dice for movement. Effect ends after traversing 20 panels.
+flavor="Pitter-patter, pitter-patter!" ―Mimyuu
+
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=Ultimate Weapon in the Sun
 descr=During this battle, gain +3 ATK.

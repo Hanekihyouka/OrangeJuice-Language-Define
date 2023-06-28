@@ -1,0 +1,35 @@
+[
+  {"type":"directory","name":"./instance/voice_cha_castle.pak","size":4096,"contents":[
+    {"type":"file","name":"0_0.WAV","size":133164},
+    {"type":"file","name":"10_0.WAV","size":118276},
+    {"type":"file","name":"1_0.WAV","size":103736},
+    {"type":"file","name":"11_0.WAV","size":409312},
+    {"type":"file","name":"12_0.WAV","size":38768},
+    {"type":"file","name":"13_0.WAV","size":77512},
+    {"type":"file","name":"14_0.WAV","size":65188},
+    {"type":"file","name":"15_0.WAV","size":117036},
+    {"type":"file","name":"16_0.WAV","size":297004},
+    {"type":"file","name":"17_0.WAV","size":97564},
+    {"type":"file","name":"18_0.WAV","size":140064},
+    {"type":"file","name":"19_0.WAV","size":122452},
+    {"type":"file","name":"20_0.WAV","size":106548},
+    {"type":"file","name":"2_0.WAV","size":96636},
+    {"type":"file","name":"21_0.WAV","size":197504},
+    {"type":"file","name":"22_0.WAV","size":56040},
+    {"type":"file","name":"23_0.WAV","size":75980},
+    {"type":"file","name":"24_0.WAV","size":172076},
+    {"type":"file","name":"25_0.WAV","size":92368},
+    {"type":"file","name":"26_0.WAV","size":60852},
+    {"type":"file","name":"27_0.WAV","size":84664},
+    {"type":"file","name":"28_0.WAV","size":128948},
+    {"type":"file","name":"3_0.WAV","size":58980},
+    {"type":"file","name":"4_0.WAV","size":621288},
+    {"type":"file","name":"5_0.WAV","size":456680},
+    {"type":"file","name":"6_0.WAV","size":507948},
+    {"type":"file","name":"7_0.WAV","size":99088},
+    {"type":"file","name":"8_0.WAV","size":129068},
+    {"type":"file","name":"9_0.WAV","size":49768}
+  ]}
+,
+  {"type":"report","directories":1,"files":29}
+]

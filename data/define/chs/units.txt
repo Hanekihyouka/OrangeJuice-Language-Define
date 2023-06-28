@@ -441,7 +441,7 @@ descr=MOV+1。每偶数轮恢复1点自己的HP，\n或是将自己以一半HP�
 
 < CARD_UNIT_MERCENARY >
 name=佣兵
-descr=经过其他玩家时会发起挑战。\n战斗中获得的STAR的50%将给予召唤者。
+descr=经过其他玩家时会发起挑战。\n战斗中获得STAR的50%将给予召唤者。
 
 < CARD_UNIT_HALENA >
 name=哈琳娜
@@ -542,5 +542,13 @@ descr=如果召唤了浮标：ATK+2。\n如果召唤了沙滩球力士：DEF+2�
 < CARD_UNIT_MIOFESTIVE >
 name=节庆魅樱
 descr=
+
+< CARD_UNIT_KRILAPAJAMAS >
+name=睡衣克里拉拉莉丝
+descr=战斗时无法选择闪避。\n当你在使用防御时受到1点伤害，\n消除此伤害，将等级数的STAR支付给对手。
+
+< CARD_UNIT_MIMYUUJAILBIRD >
+name=囚犯米缪
+descr=被战斗击倒时，移动至自己的HOME格。
 
 [EOF]

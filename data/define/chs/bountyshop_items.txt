@@ -116,7 +116,7 @@ descr=储备效果\n在下一场战斗中，对手的ATK·DEF·EVD-1。
 
 < ITEM_MERCENARY >
 name=佣兵
-descr=将1名佣兵召唤至场上。他会攻击除召唤者外\n所有他经过的角色。当一名角色被佣兵击倒时，\n失去的STAR的50%由召唤者获得，\n其余归佣兵所有。\n无法携带STAR和卡片。
+descr=将1名佣兵召唤至场上。他会攻击除召唤者外\n所有他经过的角色。当一名角色被佣兵击倒时，\n失去STAR的50%由召唤者获得，\n其余归佣兵所有。\n无法携带STAR和卡片。
 
 < ITEM_PHILOSOPHERSTONE >
 name=贤者之石

@@ -137,3 +137,43 @@ artist=Sora
 name=飞翔的星球破坏者
 desc=授予使用星球破坏者进行过很多场游戏的玩家。\n小心爆炸。
 artist=Sora
+
+< PIN_FLYING_NATH >
+name=飞翔的娜德
+desc=授予使用娜德进行过很多场游戏的玩家。\n慵懒的生活最棒了……
+artist=Sora
+
+< PIN_FLYING_TOMATOMIMYUU >
+name=飞翔的托玛特＆米缪
+desc=授予使用托玛特与米缪进行过很多场游戏的玩家。\n最强捣蛋鬼！
+artist=Sora
+
+< PIN_FLYING_KIRIKO >
+name=飞翔的斩子
+desc=授予使用斩子进行过很多场游戏的玩家。\n健康第一。
+artist=Sora
+
+< PIN_FLYING_NONAME >
+name=飞翔的NoName
+desc=授予使用NoName进行过很多场游戏的玩家。\n毫无头绪。
+artist=Sora
+
+< PIN_FLYING_TEQUILA >
+name=飞翔的铁基拉
+desc=授予使用铁基拉进行过很多场游戏的玩家。\n天生注定是海贼！
+artist=Sora
+
+< PIN_FLYING_TSIH >
+name=飞翔的杏
+desc=授予使用杏进行过很多场游戏的玩家。\n别看丢了！
+artist=Sora
+
+< PIN_FLYING_MIUSAKI >
+name=飞翔的美羽咲
+desc=授予使用美羽咲进行过很多场游戏的玩家。\n这个挂件也是无比坚固。
+artist=Sora
+
+< PIN_FLYING_REPA >
+name=飞翔的柯欧蕾帕露可
+desc=授予使用柯欧蕾帕露可进行过很多场游戏的玩家。\n小心野发出没！
+artist=Sora

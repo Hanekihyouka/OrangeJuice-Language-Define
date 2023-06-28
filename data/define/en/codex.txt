@@ -157,3 +157,64 @@
 3=She was originally an altered human produced by a certain country in an attempt to end a stalemated war by destroying the entire planet, which was by then heavily contaminated.
 4=Star Breaker was the detonator to a bomb able to destroy the entire planet. In the operation to turn her into a living fuse, Star Breaker died and was brought back to life so many times that she completely lost her sanity. In the end, Sora stopped her.
 5=In the peaceful world of 100% Orange Juice, Star Breaker still makes threatening comments, but is considerably mellower than the original.
+
+< LORE_NATH >
+1=Nath is a physically altered human designed to fight using her own body. Her physical age is 22.
+2=Likes: Puppies, lazing around, taking shortcuts\nDislikes: Complicated clothes, hurry, failure
+3=She was another ultimate weapon hastily produced in order to replace the initial ultimate weapon, Sora, after she had gone missing. 
+4=Nath’s body remodeling was done so roughly that both of her arms had to be removed. Regardless, she doesn't harbor any hard feelings about her body modification; she simply goes with the flow.  She's so used to being armless that she's living a lazy life without any inconvenience.
+5=Nath has a big pet dog named Noopy.
+
+< LORE_TOMATO >
+1=Around 11 years old, Tomato is a junior member of the prankster team Waruda. She's best friends with her assistant Mimyuu, and they're almost always together.
+2=Likes: Tinkering, gadgets, pranking\nDislikes: Being bored, bullying
+3=She loves playing pranks, with little regard for the people around when she's having fun.
+4=Tomato's signature prank tool is the giant robot "Waruda Machine."
+
+< LORE_MIMYUU >
+1=Around 5 years old, Mimyuu is the youngest member of the prankster team Waruda. She's best friends with Tomato, whom she calls Boss.
+2=Likes: Pranking, games\nDislikes: Being bored
+3=Mimyuu loves pranking and enjoys destroying things with her huge hammer.
+4=She speaks a mix of different dialects and speech patterns because she's young and impressionable and watches a lot of weird videos.
+5=Mimyuu hides cat ears under her onesie.
+
+< LORE_KIRIKO >
+1=In her early twenties, Kiriko is the oldest member of the prankster team Waruda.
+2=Likes: Injections\nDislikes: Anything that harms health
+3=Brandishing surgical knives, Kiriko has a dark, gloomy personality, and she probably has a few screws loose.
+4=She's always on the lookout for subjects to perform involuntary experiments on, and supports Waruda with her concoctions.
+5=Kiriko is not a licensed medical practitioner but simply cosplays as a doctor. Patients beware.
+
+< LORE_NONAME >
+1=NoName is a male android modeled after the scientist Shifu, who tried to take over Earth. NoName's intelligence is way lower than the original, but he has high combat power and an ability to fly in the air instead.
+2=Likes: Self, robots\nDislikes: Malfunctions
+3=The android is as selfish and self-centered as the original and gets angry when things don't go as he wants, but he often gets fooled or convinced easily because of his lack of intelligence. 
+4=NoName has authority to command the altered humans produced by Shifu because they take commands issued in Shifu's voice, and NoName has Shifu's voice.
+5=NoName can function without a body, so he often gets his head removed from his body and planted in a pot for punishment. He has a penchant for thighs, which often lands him in this situation.
+
+< LORE_MIUSAKI >
+1=An around 15 year old girl who can repel any type of attack with magic, Miusaki is also known as the Solid Witch. 
+2=Likes: Exercise, fun\nDislikes: The cold
+3=Miusaki usually works at an inn to attract customers. She is outgoing, cheerful, kind, and into fun things.
+4=Miusaki is good with kids and is affectionately called Big Sis Miu by the kids in her neighborhood.
+
+< LORE_REPA >
+1=Ceoreparque is an about 13 year old girl who can control her own hair with magic. She is also known as the Braid Witch.
+2=Likes: Fiddling with hair\nDislikes: Humidity
+3=She prefers to be called Repa by friends.
+4=Despite looking demure on the outside, Repa is actually a fairly self-centered person. When emotional, she turns her hair into sharp needles to attack with it.
+5=Recently she has been very into a board game introduced to her by the Forest Witch.
+
+< LORE_TSIH >
+1=Tsih fought on the opposite side from Sora during the war. She looks and acts like a little girl.
+2=Likes: Juice\nDislikes: Cramped spaces
+3=Having been altered into a weapon, Tsih fights using her brute physical strength and wires to catch and throw rocks. She's also equipped with an optical camouflage system.
+4=She makes herself seem goofy by adding "nanora" at the end of her sentences, but is actually a sinister, cunning woman in her late twenties. In 100% Orange Juice, however, she's simply a carefree character with a mean streak, stripped of her usual serious nature.
+5=The cutesy, long-sleeved outfits Tsih always wears fit the image she's cultivated, but their true purpose is to hide her damaged hands.
+
+< LORE_TEQUILA >
+1=In the face of adversity almost putting an end to his pirate career, Tequila put propellers on his ship to cruise in the sky instead of the sea. However, he claims to still be a pirate of the seas.
+2=Likes: Looting, family\nDislikes: Solid ground
+3=Though an outlaw, Tequila believes in his way of life and doesn't hesitate to fight in order to protect his beliefs.
+4=The man, already as old as a grandpa, dreams of turning back to being a sea pirate one day along with his minions - some of whom look up to him, and some of whom don't.
+5=Tequila dotes on his foundling daughter Mescal.

@@ -135,23 +135,24 @@
 <0133> I shall borrow someone's darkness.
 <0134> This sealed card is called... Wait, I don't know this card.
 <0135> Huh? Is it okay to use this card?
-<0136> Dance, long-eared beasts...
-<0137> Behold my servants dance.
-<0138> Hm... My blood's telling me to take you down.
-<0139> The way you appear... I'm certain we're meant to fight.
-<0140> I feel we're connected somehow. Something must've happened to us in our former lives.
-<0141> Even with me gone, a number of other me's will keep... *mumble*mumble*.
-<0142> I'm in seventh heaven! *Cry*
-<0143> Darkness has summoned me here.
-<0144> This place pleases me... Slightly terrifies me too, though.
-<0145> Hmph, this is a sanctuary of darkness.
-<0146> This is by far the best battlefield for a decisive battle.
-<0147> Santa... does exist, it seems.
-<0148> Santa... The blood-covered one.
-<0149> I won this battle of darkness. Now, give me all the gifts you have.
-<0150> S-Santa kicked my butt...
-<0151> I never expected to fight you.
-<0152> Huh? Why do we have to fight?
-<0153> I am the master from this moment on.
-<0154> Awful...
-<0155> M-manager, why's he here...?
+<0136> Thank you...
+<0137> Dance, long-eared beasts...
+<0138> Behold my servants dance.
+<0139> Hm... My blood's telling me to take you down.
+<0140> The way you appear... I'm certain we're meant to fight.
+<0141> I feel we're connected somehow. Something must've happened to us in our former lives.
+<0142> Even with me gone, a number of other me's will keep... *mumble*mumble*.
+<0143> I'm in seventh heaven! *Cry*
+<0144> Darkness has summoned me here.
+<0145> This place pleases me... Slightly terrifies me too, though.
+<0146> Hmph, this is a sanctuary of darkness.
+<0147> This is by far the best battlefield for a decisive battle.
+<0148> Santa... does exist, it seems.
+<0149> Santa... The blood-covered one.
+<0150> I won this battle of darkness. Now, give me all the gifts you have.
+<0151> S-Santa kicked my butt...
+<0152> I never expected to fight you.
+<0153> Huh? Why do we have to fight?
+<0154> I am the master from this moment on.
+<0155> Awful...
+<0156> M-manager, why's he here...?

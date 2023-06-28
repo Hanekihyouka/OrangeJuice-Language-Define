@@ -66,6 +66,10 @@ descr=机械系角色将会代替玩家进行战斗，且此机械系\n角色将
 name=可爱到犯规的小狗狗
 descr=不会触发BOSS格。\n当你与另一名玩家在同一格，且其中一方回合\n结束时，双方皆抽取一张卡。无法发起挑战\n或受到挑战。\n玩家可以停下来摸摸你。
 
+< CARD_COOP_PRISONBREAK_EFFECT >
+name=假想越狱
+descr=无法被挑战。\n免疫BOSS的陷阱卡与卡片伤害。\n移动骰的个数为2个。\n每移动1格失去1层。
+
 < CARD_BOSS_HYPE_EFFECT >
 name=兴奋
 descr=当拥有10层储备时，BOSS将会使用\n「撒野」。

@@ -1,5 +1,6 @@
 [
   {"type":"directory","name":"./instance/gallery.pak","size":4096,"contents":[
+    {"type":"file","name":"thumb_bigfella.dat","size":262272},
     {"type":"file","name":"thumb_christmas2017.dat","size":262272},
     {"type":"file","name":"thumb_christmas2018.dat","size":262272},
     {"type":"file","name":"thumb_ellielulu.dat","size":262272},
@@ -30,6 +31,7 @@
     {"type":"file","name":"thumb_sweetbreaker.dat","size":262272},
     {"type":"file","name":"thumb_valentines2018.dat","size":262272},
     {"type":"file","name":"thumb_winter2020.dat","size":262272},
+    {"type":"file","name":"thumb_winter2022_1.dat","size":262272},
     {"type":"file","name":"thumb_winter2022_2.dat","size":262272},
     {"type":"file","name":"thumb_winter2022contest_coolness1.dat","size":262272},
     {"type":"file","name":"thumb_winter2022contest_coolness2.dat","size":262272},
@@ -43,5 +45,5 @@
     {"type":"file","name":"thumb_winter2022contest_wholesome3.dat","size":262272}
   ]}
 ,
-  {"type":"report","directories":1,"files":41}
+  {"type":"report","directories":1,"files":43}
 ]

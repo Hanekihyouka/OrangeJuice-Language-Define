@@ -137,3 +137,43 @@ artist=Sora
 name=Flying Star Breaker
 desc=Granted to the players who played as Star Breaker a lot.\nBeware of explosions.
 artist=Sora
+
+< PIN_FLYING_NATH >
+name=Flying Nath
+desc=Granted to the players who played as Nath a lot.\nLazy life is the best...
+artist=Sora
+
+< PIN_FLYING_TOMATOMIMYUU >
+name=Flying Tomato & Mimyuu
+desc=Granted to the players who played as Tomato & Mimyuu a lot.\nThe best pranksters!
+artist=Sora
+
+< PIN_FLYING_KIRIKO >
+name=Flying Kiriko
+desc=Granted to the players who played as Kiriko a lot.\nIt's probably best to stay healthy.
+artist=Sora
+
+< PIN_FLYING_NONAME >
+name=Flying NoName
+desc=Granted to the players who played as NoName a lot.\nDon't lose your head!
+artist=Sora
+
+< PIN_FLYING_TEQUILA >
+name=Flying Tequila
+desc=Granted to the players who played as Tequila a lot.\nA pirate you were meant to be!
+artist=Sora
+
+< PIN_FLYING_TSIH >
+name=Flying Tsih
+desc=Granted to the players who played as Tsih a lot.\nDon't lose sight of her!
+artist=Sora
+
+< PIN_FLYING_MIUSAKI >
+name=Flying Miusaki
+desc=Granted to the players who played as Miusaki a lot.\nThis pin cannot be broken either.
+artist=Sora
+
+< PIN_FLYING_REPA >
+name=Flying Ceoreparque
+desc=Granted to the players who played as Ceoreparque a lot.\nWatch out for wandering hair!
+artist=Sora

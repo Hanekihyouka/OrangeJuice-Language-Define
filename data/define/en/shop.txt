@@ -170,6 +170,9 @@ Watty & Pomeranius
 < SHOP_DLC_SWEETGODS >
 Sweet Gods
 
+< SHOP_DLC_KRILAMIMYUURENEWAL >
+Waruda Prison Break Pack
+
 < SHOP_TOOLTIP_HOME >
 Navigate the shop by category icons.
 

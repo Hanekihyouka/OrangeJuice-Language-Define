@@ -576,4 +576,17 @@ descr=Take no damage from bomb explosions until the beginning of next chapter.
 < CARD_HOTPOTATO_EFFECT >
 name=Hold the Gremlin
 descr=It's only a matter of time before you explode!
+
+< CARD_SLUMBERTHREATS_EFFECT >
+name=Threats to My Slumber
+descr=When you cancel exactly 1 damage in battle, gain a stock of Waking.
+
+< CARD_WAKING_EFFECT >
+name=Waking
+descr=Number of times your slumber has been threatened.
+
+< CARD_PRISONBREAK_EFFECT >
+name=Make-Believe Prison Break
+descr=Cannot be challenged or be the target of other players' Boost cards. Immune to Trap cards, instant KO effects, and card damage from other players. Roll 2 dice for movement. Lose 1 stack for each panel traversed.
+
 [EOF]

@@ -607,6 +607,8 @@
     {"type":"file","name":"kiriko256.dat","size":262272},
     {"type":"file","name":"krila128.dat","size":65664},
     {"type":"file","name":"krila256.dat","size":262272},
+    {"type":"file","name":"krilap128.dat","size":65664},
+    {"type":"file","name":"krilap256.dat","size":262272},
     {"type":"file","name":"ksuke128.dat","size":65664},
     {"type":"file","name":"ksuke256.dat","size":262272},
     {"type":"file","name":"kyoko128.dat","size":65664},
@@ -665,6 +667,8 @@
     {"type":"file","name":"mimic256.dat","size":262272},
     {"type":"file","name":"mimyuu128.dat","size":65664},
     {"type":"file","name":"mimyuu256.dat","size":262272},
+    {"type":"file","name":"mimyuuj128.dat","size":65664},
+    {"type":"file","name":"mimyuuj256.dat","size":262272},
     {"type":"file","name":"mio128.dat","size":65664},
     {"type":"file","name":"mio256.dat","size":262272},
     {"type":"file","name":"miof128.dat","size":65664},
@@ -761,6 +765,8 @@
     {"type":"file","name":"prespriv256.dat","size":262272},
     {"type":"file","name":"price128.dat","size":65664},
     {"type":"file","name":"price256.dat","size":262272},
+    {"type":"file","name":"prisonbreak128.dat","size":65664},
+    {"type":"file","name":"prisonbreak256.dat","size":262272},
     {"type":"file","name":"psnacks128.dat","size":65664},
     {"type":"file","name":"psnacks256.dat","size":262272},
     {"type":"file","name":"pudding128.dat","size":65664},
@@ -870,6 +876,10 @@
     {"type":"file","name":"shroom_ply256.dat","size":262272},
     {"type":"file","name":"sinkorswim128.dat","size":65664},
     {"type":"file","name":"sinkorswim256.dat","size":262272},
+    {"type":"file","name":"slumbera128.dat","size":65664},
+    {"type":"file","name":"slumbera256.dat","size":262272},
+    {"type":"file","name":"slumberb128.dat","size":65664},
+    {"type":"file","name":"slumberb256.dat","size":262272},
     {"type":"file","name":"snek128.dat","size":65664},
     {"type":"file","name":"snek256.dat","size":262272},
     {"type":"file","name":"snek_ply128.dat","size":65664},
@@ -1056,5 +1066,5 @@
     {"type":"file","name":"zsalesman256.dat","size":262272}
   ]}
 ,
-  {"type":"report","directories":1,"files":1054}
+  {"type":"report","directories":1,"files":1064}
 ]

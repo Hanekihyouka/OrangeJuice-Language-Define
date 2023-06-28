@@ -86,7 +86,7 @@ flavor=「把金蛋弄到手！」—QP\n「然后做出最棒的布丁吧！」
 
 < CARD_TRAP_PRESENTTHIEF >
 name=礼物小偷
-descr=把第1名踩中这张卡的玩家的所有手牌\n封印到这张卡里。\n第2名踩中这张卡的玩家\n获得封印在这张卡里的所有卡片。
+descr=从第一个踩中这个陷阱的玩家手中偷取所有\n手牌。\n第二个踩中的玩家获得所有被偷的卡片。
 flavor=「都是因为有这些东西！」—妮可
 
 < CARD_BATTLE_QUICKRESTORATION >
@@ -306,7 +306,7 @@ flavor=「你所守护的梦想，\n已经传遍了整个星球。」—须玖�
 
 < CARD_HYPER_TSIH >
 name=隐身启动
-descr=持续效果（3轮）\n无法被挑战或被增益卡指定为目标。\n不会触发遭遇格或BOSS格。\n进入战斗时效果结束，\n并且这场战斗中ATK+2。
+descr=持续效果（3轮）\n无法被挑战或被其他玩家的增益卡指定为目标。\n不会触发遭遇格或BOSS格。\n进入战斗时效果结束，\n并且这场战斗中ATK+2。
 flavor=「一下子就消失了啦！」—杏
 
 < CARD_HYPER_TEQUILA >
@@ -581,17 +581,17 @@ flavor=「帮帮我，店长！」—克丽丝
 
 < CARD_HYPER_HALENA >
 name=平安的旅途
-descr=每次回合开始时失去5个STAR。\n忽略掉落格、陷阱及卡片效果的伤害。\n当你停留在自己的HOME格或\n持有的STAR少于5个时此效果结束。
+descr=每次回合开始时失去5个STAR。\n忽略掉落格、陷阱及卡片效果的伤害。\n当你停留在自己的HOME格或\n持有的STAR少于5个时效果结束。
 flavor=「好，我们出发吧。」—哈琳娜
 
 < CARD_HYPER_COOK >
 name=风信鸡的指引
-descr=储备效果\n除战斗外，骰子个数变为2个。\n当你停留在自己的HOME格时此效果结束。\n只能在自己的HOME格进行目标检测。
+descr=储备效果\n除战斗外，骰子个数变为2个。\n当你停留在自己的HOME格时效果结束。\n只能在自己的HOME格进行目标检测。
 flavor=「叽叽，库克想去这边。」—库克
 
 < CARD_HYPER_LONERIDER >
 name=升档
-descr=★COST（10+升档层数×10）\n储备效果（2）\nMOV+1。此效果可叠加（上限为6）。\n如果你在回合结束时仍有剩余移动点数，\n你将失去一层「升档」。
+descr=★COST（10+升档层数×10）\n储备效果（2）\nMOV+1。此效果可叠加（上限为6）。\n如果你在回合结束时仍有剩余移动点数，\n你将失去1层升档。
 flavor=「……不要跟着我。」—孤独车手
 
 < CARD_HYPER_MERCHANT >
@@ -683,6 +683,21 @@ flavor=「给各位展示一下地狱之景。」—节庆魅樱
 name=魅樱的圣诞蛋糕
 descr=选择以下一种效果：\n·吃掉获得1点HP。\n·与指定玩家分享，为其恢复2点HP，再为你\n恢复相同数量的HP。
 flavor=「这是我的得意之作，请慢用♡」—节庆魅樱
+
+< CARD_HYPER_KRILAPAJAMA1 >
+name=将吾封印撼动之物
+descr=持有这张卡片时，每当你消除1点伤害，获得\n1层苏醒。（上限为4，效果无法叠加）。\n使用时将这张卡变为「当吾封印破除之时」。
+flavor=「我劝你不要太吵闹……」—克里拉拉莉丝
+
+< CARD_HYPER_KRILAPAJAMA2 >
+name=当吾封印破除之时
+descr=对所有其他玩家和BOSS造成X+1点\n伤害，X等于苏醒层数。\n移除所有苏醒层数。\n每移除2层苏醒恢复1点HP。
+flavor=「道早安的时候到了……」—克里拉拉莉丝
+
+< CARD_HYPER_MIMYUUJAILBIRD >
+name=假想越狱
+descr=移动至自己的HOME格且不对其进行触发。\n无法被挑战或被其他玩家的增益卡指定为目标。\n免疫其他玩家的陷阱卡、立即击倒效果与卡片\n伤害。\n移动骰的个数为2个。\n移动20格后效果结束。
+flavor=「赶紧赶紧！」—米缪
 
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=炎炎烈日的最终兵器

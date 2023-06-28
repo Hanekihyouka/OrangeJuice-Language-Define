@@ -601,6 +601,7 @@
     {"type":"file","name":"dlc_35.dat","size":262272},
     {"type":"file","name":"dlc_36.dat","size":262272},
     {"type":"file","name":"dlc_37.dat","size":262272},
+    {"type":"file","name":"dlc_38.dat","size":262272},
     {"type":"file","name":"field_01.dat","size":65664},
     {"type":"file","name":"field_02.dat","size":65664},
     {"type":"file","name":"field_03.dat","size":65664},
@@ -631,6 +632,7 @@
     {"type":"file","name":"field_28.dat","size":65664},
     {"type":"file","name":"field_29.dat","size":65664},
     {"type":"file","name":"field_30.dat","size":65664},
+    {"type":"file","name":"field_31.dat","size":65664},
     {"type":"file","name":"g_dark2.dat","size":150656},
     {"type":"file","name":"g_dark3.dat","size":235648},
     {"type":"file","name":"g_dark.dat","size":65664},
@@ -725,5 +727,5 @@
     {"type":"file","name":"re_beachparty.dat","size":262272}
   ]}
 ,
-  {"type":"report","directories":1,"files":723}
+  {"type":"report","directories":1,"files":725}
 ]

@@ -159,7 +159,7 @@ flavor=「等等！把礼物还给我！」—亚琉
 
 < CARD_HYPER_BOUNTY_COOK >
 name=风信鸡的指引
-descr=储备效果\n除战斗外，骰子个数变为2个。\n当你停留在HOME格时此效果结束。
+descr=储备效果\n除战斗外，骰子个数变为2个。\n当你停留在HOME格时效果结束。
 flavor=「叽叽，库克想去这边。」—库克
 
 [EOF]

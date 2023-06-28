@@ -318,6 +318,16 @@ name=Mio's Christmas Cake
 descr=Choose one of the following:\n- Eat to gain 2 HP.\n- Share with target player to heal them 2 HP, then you heal the same amount.
 flavor="I'm very proud of this cake that I made. Enjoy ♡" ―Mio
 
+< CARD_HYPER_COOP_KRILAPAJAMA2 >
+name=When My Slumber Breaks
+descr=Deal X+1 damage to the Boss, and half of that to all other enemies, rounded up, where X is your Waking count. Remove all Waking stocks. Gain 1 HP for every 2 Waking stock removed.
+flavor="The time is about to come for me to say good morning..." ―Krilalaris
+
+< CARD_HYPER_COOP_MIMYUUJAILBIRD >
+name=Make-Believe Prison Break
+descr=Move to your Home panel without activating it. Cannot be challenged. Immune to Trap cards, instant KO effects, and card damage from the Boss. Roll 2 dice for movement. Effect ends after traversing 20 panels.
+flavor="Pitter-patter, pitter-patter!" ―Mimyuu
+
 < CARD_BOSS_COOP_DOZE >
 name=Doze
 descr=No effect.

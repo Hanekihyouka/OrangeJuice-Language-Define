@@ -54,7 +54,7 @@
 没有足够的货币。
 
 < COM_SHOP_REACHEDCURRENCYCAP >
-此种货币已达上限。
+此货币已达上限。
 
 < COM_SHOP_NOSTEAMCONNECTION >
 要使用这个物品必须与Steam连接。
@@ -105,7 +105,7 @@
 购买了糖果！
 
 < COM_SHOP_BOUGHTCANDY10 >
-购买了糖果x10！
+购买了糖果×10！
 
 < COM_SHOP_BOUGHTCRATE >
 购买了木箱！
@@ -172,6 +172,9 @@
 
 < COM_CAMPAIGN_WANDERERPACKONLY >
 拥有「旅人包」才能进行这个战役。
+
+< COM_CAMPAIGN_WARUDAPRISONBREAKPACKONLY >
+拥有「阴谋组的越狱包」才能进行这个战役。
 
 < COM_FREEBATTLE_CHOOSEGAMETYPE >
 请选择游戏模式。

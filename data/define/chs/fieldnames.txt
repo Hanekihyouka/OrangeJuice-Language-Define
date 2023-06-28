@@ -113,6 +113,9 @@
 < FIELD_DESERT >
 孤寂铁路
 
+< FIELD_CIRCUS >
+马戏团
+
 < FIELD_COOP_LAGOONFLIGHT >
 环礁 合作
 

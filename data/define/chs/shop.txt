@@ -87,7 +87,7 @@ DLC
 娜德＆托玛特＋米缪
 
 < SHOP_DLC_SUGURIHIMEWINTER >
-须玖莉＆姬梦（冬服）
+须玖莉＆姬梦（冬装）
 
 < SHOP_DLC_KIRIKONONAME >
 斩子＆NoName
@@ -169,6 +169,9 @@ Ultimate Weapon Girl
 
 < SHOP_DLC_SWEETGODS >
 甜点之神
+
+< SHOP_DLC_KRILAMIMYUURENEWAL >
+阴谋组的越狱包
 
 < SHOP_TOOLTIP_HOME >
 按类别图标查看商店。

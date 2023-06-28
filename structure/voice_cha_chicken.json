@@ -1,0 +1,24 @@
+[
+  {"type":"directory","name":"./instance/voice_cha_chicken.pak","size":4096,"contents":[
+    {"type":"file","name":"0_0.WAV","size":213436},
+    {"type":"file","name":"10_0.WAV","size":135656},
+    {"type":"file","name":"1_0.WAV","size":102804},
+    {"type":"file","name":"12_0.WAV","size":207868},
+    {"type":"file","name":"13_0.WAV","size":182760},
+    {"type":"file","name":"14_0.WAV","size":174088},
+    {"type":"file","name":"15_0.WAV","size":107148},
+    {"type":"file","name":"18_0.WAV","size":168500},
+    {"type":"file","name":"19_0.WAV","size":248456},
+    {"type":"file","name":"20_0.WAV","size":305052},
+    {"type":"file","name":"2_0.WAV","size":187096},
+    {"type":"file","name":"21_0.WAV","size":302072},
+    {"type":"file","name":"3_0.WAV","size":294036},
+    {"type":"file","name":"4_0.WAV","size":262716},
+    {"type":"file","name":"5_0.WAV","size":299904},
+    {"type":"file","name":"6_0.WAV","size":217780},
+    {"type":"file","name":"8_0.WAV","size":107148},
+    {"type":"file","name":"9_0.WAV","size":64380}
+  ]}
+,
+  {"type":"report","directories":1,"files":18}
+]

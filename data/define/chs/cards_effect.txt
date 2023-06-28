@@ -152,7 +152,7 @@ descr=基础数值变为3ATK和0DEF·EVD。\n效果持续至复活。
 
 < CARD_STEALTHON_EFFECT >
 name=隐身启动
-descr=无法被挑战或被增益卡指定为目标。\n不会触发遭遇格或BOSS格。\n进入战斗时效果结束，但在这场战斗中\nATK+2。
+descr=无法被挑战或被其他玩家的增益卡指定为目标。\n不会触发遭遇格或BOSS格。\n进入战斗时效果结束，但在这场战斗中\nATK+2。
 
 < CARD_SMOKESCREEN_EFFECT >
 name=束缚的烟幕
@@ -239,7 +239,7 @@ name=艾莉的奇迹（EVD）
 descr=每层储备使EVD+1。
 
 < CARD_LUCKYLUNCH_EFFECT >
-name=幸运午餐
+name=幸运餐
 descr=ATK·DEF·EVD+1。
 
 < CARD_ALICIANRONE_ATK_EFFECT >
@@ -473,11 +473,11 @@ descr=当效果结束时，抽取储备层数的卡片。
 
 < CARD_GUIDANCE_EFFECT >
 name=风信鸡的指引
-descr=除战斗外，骰子个数变为2个。\n当你停留在自己的HOME格时此效果结束。\n只能在自己的HOME格进行目标检测。
+descr=除战斗外，骰子个数变为2个。\n当你停留在自己的HOME格时效果结束。\n只能在自己的HOME格进行目标检测。
 
 < CARD_SAFEJOURNEY_EFFECT >
 name=平安的旅途
-descr=每当回合开始时失去5个STAR。\n忽略掉落格、陷阱及卡片效果的伤害。\n当你停留在自己的HOME格或持有的STAR\n少于5个时此效果结束。
+descr=每当回合开始时失去5个STAR。\n忽略掉落格、陷阱及卡片效果的伤害。\n当你停留在自己的HOME格或持有的STAR\n少于5个时效果结束。
 
 < CARD_HUNGRY_EFFECT >
 name=饥饿
@@ -485,7 +485,7 @@ descr=拥有3层饥饿时EVD-1，直到你停留在\n自己的HOME格。
 
 < CARD_GUIDANCE_BH_EFFECT >
 name=风信鸡的指引
-descr=储备效果\n除战斗外，骰子个数变为2个。\n当你停留在HOME格时此效果结束。
+descr=储备效果\n除战斗外，骰子个数变为2个。\n当你停留在HOME格时效果结束。
 
 < CARD_UPSHIFT_EFFECT >
 name=升档
@@ -576,4 +576,17 @@ descr=不会受到炸弹的爆炸伤害，直到下一轮开始。
 < CARD_HOTPOTATO_EFFECT >
 name=烫手小精怪
 descr=早晚要炸！
+
+< CARD_SLUMBERTHREATS_EFFECT >
+name=将吾封印撼动之物
+descr=每当你消除1点伤害，获得1层苏醒。
+
+< CARD_WAKING_EFFECT >
+name=苏醒
+descr=你的睡眠遭受威胁的次数。
+
+< CARD_PRISONBREAK_EFFECT >
+name=假想越狱
+descr=无法被挑战或被其他玩家的增益卡指定为目标。\n免疫其他玩家的陷阱卡、立即击倒效果与卡片\n伤害。\n移动骰的个数为2个。\n每移动1格失去1层。
+
 [EOF]

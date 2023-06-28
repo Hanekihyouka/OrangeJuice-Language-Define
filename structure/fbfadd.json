@@ -55,6 +55,7 @@
     {"type":"file","name":"boostStat8.dat","size":16512},
     {"type":"file","name":"bossrobo128.dat","size":65664},
     {"type":"file","name":"bossrobo256.dat","size":262272},
+    {"type":"file","name":"campaign_bg_jail.dat","size":1048704},
     {"type":"file","name":"campaign_nicoarthur.dat","size":524416},
     {"type":"file","name":"campaign_roneteo_message.dat","size":262272},
     {"type":"file","name":"candy_cane1.dat","size":262272},
@@ -124,6 +125,7 @@
     {"type":"file","name":"dlc_kae.dat","size":262272},
     {"type":"file","name":"dlc_kiriko.dat","size":262272},
     {"type":"file","name":"dlc_krila.dat","size":262272},
+    {"type":"file","name":"dlc_krilap.dat","size":262272},
     {"type":"file","name":"dlc_ksuke.dat","size":262272},
     {"type":"file","name":"dlc_kyoko.dat","size":262272},
     {"type":"file","name":"dlc_kyupita.dat","size":262272},
@@ -135,6 +137,7 @@
     {"type":"file","name":"dlc_merchant.dat","size":262272},
     {"type":"file","name":"dlc_mescal.dat","size":262272},
     {"type":"file","name":"dlc_mimyuu.dat","size":262272},
+    {"type":"file","name":"dlc_mimyuuj.dat","size":262272},
     {"type":"file","name":"dlc_mira.dat","size":262272},
     {"type":"file","name":"dlc_miusaki.dat","size":262272},
     {"type":"file","name":"dlc_nanako.dat","size":262272},
@@ -528,6 +531,8 @@
     {"type":"file","name":"shot_combined.dat","size":262272},
     {"type":"file","name":"simplestar.dat","size":16512},
     {"type":"file","name":"skipturn.dat","size":65664},
+    {"type":"file","name":"slumberkrila.dat","size":65664},
+    {"type":"file","name":"slumberother.dat","size":63104},
     {"type":"file","name":"snatcher.dat","size":65664},
     {"type":"file","name":"sorapower_sheet.dat","size":2097280},
     {"type":"file","name":"sphere00.dat","size":262272},
@@ -650,5 +655,5 @@
     {"type":"file","name":"yk_devilboost.dat","size":65664}
   ]}
 ,
-  {"type":"report","directories":1,"files":648}
+  {"type":"report","directories":1,"files":653}
 ]

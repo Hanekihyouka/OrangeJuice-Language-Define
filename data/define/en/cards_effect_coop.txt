@@ -66,6 +66,10 @@ descr=Robotic units will fight in battle on behalf of the player. These robotic 
 name=Goodest Boy
 descr=Ignore Boss panels.\nWhen staying on a panel with another player at the end of either of your turns, both draw a card.\nYou can neither challenge nor be challenged.\nPlayers may stop to Pet you.
 
+< CARD_COOP_PRISONBREAK_EFFECT >
+name=Make-Believe Prison Break
+descr=Cannot be challenged. Immune to Trap cards, instant KO effects, and card damage from the Boss. Roll 2 dice for movement. Lose 1 stack for each panel traversed.
+
 < CARD_BOSS_HYPE_EFFECT >
 name=Hype
 descr=When 10 stacks are reached, boss will use "Rampage".

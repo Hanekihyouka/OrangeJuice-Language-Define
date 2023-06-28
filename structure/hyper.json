@@ -1,5 +1,11 @@
 [
   {"type":"directory","name":"./instance/hyper.pak","size":4096,"contents":[
+    {"type":"directory","name":"krilapajamas","size":4096,"contents":[
+      {"type":"file","name":"doll.dat","size":65664}
+    ]},
+    {"type":"directory","name":"mimyuujailbird","size":4096,"contents":[
+      {"type":"file","name":"mjface.dat","size":131200}
+    ]},
     {"type":"directory","name":"sweetblogger","size":4096,"contents":[
       {"type":"file","name":"background.dat","size":2097280},
       {"type":"file","name":"bubble.dat","size":65664},
@@ -29,5 +35,5 @@
     ]}
   ]}
 ,
-  {"type":"report","directories":4,"files":21}
+  {"type":"report","directories":6,"files":23}
 ]

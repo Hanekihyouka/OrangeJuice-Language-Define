@@ -17,7 +17,7 @@
     {"type":"file","name":"LightNormalFogVS.dat","size":1184},
     {"type":"file","name":"LightNormalVS.dat","size":1060},
     {"type":"file","name":"Multiply.dat","size":340},
-    {"type":"file","name":"MultiplyDiffuse.dat","size":408},
+    {"type":"file","name":"MultiplyDiffuse.dat","size":424},
     {"type":"file","name":"NoiseFade.dat","size":584},
     {"type":"file","name":"Overlay.dat","size":744},
     {"type":"file","name":"PetShader.dat","size":684},

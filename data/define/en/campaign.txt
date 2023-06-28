@@ -226,6 +226,12 @@ Wanderers Final Episode
 < CAMPAIGN_RONETEO >
 Game Night of the Witches
 
+< CAMPAIGN_WARUDAPRISONBREAK_NUMBER >
+Waruda Prison Break Episode %d
+
+< CAMPAIGN_WARUDAPRISONBREAK_FINAL >
+Waruda Prison Break Final Episode
+
 < CAMPAIGN_DIFFICULTY_CASUAL >
 Lowered performance for all CPU characters.
 

@@ -290,7 +290,7 @@ flavor=「呵呵呵，好多星星啊。」—丽华
 
 < CARD_HYPER_COOP_WATTY >
 name=魔力解放
-descr=持续效果（3轮）\nDEF+2。硬化鳞片的最大层数增加至10。\n当你获得10层硬化鳞片时，对BOSS造成\n你等级数的伤害，并对场上的所有其它敌人造成\n一半的伤害。
+descr=持续效果（3轮）\nDEF+2。硬化鳞片的最大层数增加至10。\n当你获得10层硬化鳞片时，对BOSS造成\n你等级数的伤害，对场上的其它所有敌人造成\n一半的伤害。
 flavor=「这、这很危险的……对不起。」—沃缇
 
 < CARD_HYPER_COOP_POMERANIUS >
@@ -317,6 +317,16 @@ flavor=「给各位展示一下地狱之景。」—节庆魅樱
 name=魅樱的圣诞蛋糕
 descr=选择以下一种效果：\n·吃掉获得2点HP。\n·与指定玩家分享，为其恢复2点HP，再为你\n恢复相同数量的HP。
 flavor=「这是我的得意之作，请慢用♡」—节庆魅樱
+
+< CARD_HYPER_COOP_KRILAPAJAMA2 >
+name=当吾封印破除之时
+descr=对BOSS造成X+1点伤害，对其它所有敌人\n造成一半的伤害，向上取整，X等于苏醒层数。\n移除所有苏醒层数。\n每移除2层苏醒恢复1点HP。
+flavor=「道早安的时候到了……」—克里拉拉莉丝
+
+< CARD_HYPER_COOP_MIMYUUJAILBIRD >
+name=假想越狱
+descr=移动至自己的HOME格且不对其进行触发。\n无法被挑战。\n免疫BOSS的陷阱卡与卡片伤害。\n移动骰的个数为2个。\n移动20格后效果结束。
+flavor=「赶紧赶紧！」—米缪
 
 < CARD_BOSS_COOP_DOZE >
 name=打盹
