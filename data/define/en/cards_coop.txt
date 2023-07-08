@@ -325,7 +325,7 @@ flavor="The time is about to come for me to say good morning..." ―Krilalaris
 
 < CARD_HYPER_COOP_MIMYUUJAILBIRD >
 name=Make-Believe Prison Break
-descr=Move to your Home panel without activating it. Cannot be challenged. Immune to Trap cards, instant KO effects, and card damage from the Boss. Roll 2 dice for movement. Effect ends after traversing 20 panels.
+descr=Move to your Home panel without activating it. Cannot be challenged. Immune to Trap cards and card damage from the Boss. Roll 2 dice for movement. Effect ends after traversing 20 panels.
 flavor="Pitter-patter, pitter-patter!" ―Mimyuu
 
 < CARD_BOSS_COOP_DOZE >

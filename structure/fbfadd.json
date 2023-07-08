@@ -53,6 +53,7 @@
     {"type":"file","name":"boostStat6.dat","size":16512},
     {"type":"file","name":"boostStat7.dat","size":16512},
     {"type":"file","name":"boostStat8.dat","size":16512},
+    {"type":"file","name":"boostStat9.dat","size":16512},
     {"type":"file","name":"bossrobo128.dat","size":65664},
     {"type":"file","name":"bossrobo256.dat","size":262272},
     {"type":"file","name":"campaign_bg_jail.dat","size":1048704},
@@ -126,6 +127,7 @@
     {"type":"file","name":"dlc_kiriko.dat","size":262272},
     {"type":"file","name":"dlc_krila.dat","size":262272},
     {"type":"file","name":"dlc_krilap.dat","size":262272},
+    {"type":"file","name":"dlc_krillap.dat","size":262272},
     {"type":"file","name":"dlc_ksuke.dat","size":262272},
     {"type":"file","name":"dlc_kyoko.dat","size":262272},
     {"type":"file","name":"dlc_kyupita.dat","size":262272},
@@ -655,5 +657,5 @@
     {"type":"file","name":"yk_devilboost.dat","size":65664}
   ]}
 ,
-  {"type":"report","directories":1,"files":653}
+  {"type":"report","directories":1,"files":655}
 ]

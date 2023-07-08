@@ -68,7 +68,7 @@ descr=不会触发BOSS格。\n当你与另一名玩家在同一格，且其中�
 
 < CARD_COOP_PRISONBREAK_EFFECT >
 name=假想越狱
-descr=无法被挑战。\n免疫BOSS的陷阱卡与卡片伤害。\n移动骰的个数为2个。\n每移动1格失去1层。
+descr=无法被挑战。\n免疫来自BOSS的陷阱卡与卡片伤害。\n移动骰的个数为2个。\n每移动1格失去1层。
 
 < CARD_BOSS_HYPE_EFFECT >
 name=兴奋

@@ -68,7 +68,7 @@ descr=Ignore Boss panels.\nWhen staying on a panel with another player at the en
 
 < CARD_COOP_PRISONBREAK_EFFECT >
 name=Make-Believe Prison Break
-descr=Cannot be challenged. Immune to Trap cards, instant KO effects, and card damage from the Boss. Roll 2 dice for movement. Lose 1 stack for each panel traversed.
+descr=Cannot be challenged. Immune to Trap cards and card damage from the Boss. Roll 2 dice for movement. Lose 1 stack for each panel traversed.
 
 < CARD_BOSS_HYPE_EFFECT >
 name=Hype

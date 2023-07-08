@@ -136,6 +136,7 @@
     {"type":"file","name":"message_noname_rightarm.dat","size":65664},
     {"type":"file","name":"message_noname_rightleg.dat","size":65664},
     {"type":"file","name":"message_noname_torso.dat","size":65664},
+    {"type":"file","name":"message_pbsuccess.dat","size":65664},
     {"type":"file","name":"messages_battle.dat","size":65664},
     {"type":"file","name":"messages_reverse.dat","size":65664},
     {"type":"file","name":"messages_skip.dat","size":65664},
@@ -209,5 +210,5 @@
     {"type":"file","name":"word_input.dat","size":1048704}
   ]}
 ,
-  {"type":"report","directories":1,"files":207}
+  {"type":"report","directories":1,"files":208}
 ]

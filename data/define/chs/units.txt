@@ -545,7 +545,7 @@ descr=
 
 < CARD_UNIT_KRILAPAJAMAS >
 name=睡衣克里拉拉莉丝
-descr=战斗时无法选择闪避。\n当你在使用防御时受到1点伤害，\n消除此伤害，将等级数的STAR支付给对手。
+descr=战斗时无法选择闪避。\n若你在使用防御时受到的伤害为1点，\n消除此伤害，将等级数的STAR支付给对手。
 
 < CARD_UNIT_MIMYUUJAILBIRD >
 name=囚犯米缪

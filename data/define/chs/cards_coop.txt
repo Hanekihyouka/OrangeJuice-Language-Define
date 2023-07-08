@@ -320,13 +320,13 @@ flavor=「这是我的得意之作，请慢用♡」—节庆魅樱
 
 < CARD_HYPER_COOP_KRILAPAJAMA2 >
 name=当吾封印破除之时
-descr=对BOSS造成X+1点伤害，对其它所有敌人\n造成一半的伤害，向上取整，X等于苏醒层数。\n移除所有苏醒层数。\n每移除2层苏醒恢复1点HP。
+descr=对BOSS造成X+1点伤害，对其它所有敌人\n造成一半的伤害，向上取整，X等于苏醒层数。\n移除所有苏醒层数。\n每移除2层苏醒获得1点HP。
 flavor=「道早安的时候到了……」—克里拉拉莉丝
 
 < CARD_HYPER_COOP_MIMYUUJAILBIRD >
 name=假想越狱
-descr=移动至自己的HOME格且不对其进行触发。\n无法被挑战。\n免疫BOSS的陷阱卡与卡片伤害。\n移动骰的个数为2个。\n移动20格后效果结束。
-flavor=「赶紧赶紧！」—米缪
+descr=移动至自己的HOME格且不对其进行触发。\n无法被挑战。\n免疫来自BOSS的陷阱卡与卡片伤害。\n移动骰的个数为2个。\n移动20格后效果结束。
+flavor=「撒丫子跑呀！」—米缪
 
 < CARD_BOSS_COOP_DOZE >
 name=打盹
