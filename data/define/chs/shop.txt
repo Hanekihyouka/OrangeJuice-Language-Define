@@ -57,7 +57,7 @@ DLC
 等级
 
 < SHOP_OFFLINE >
-没有与Steam连接。
+未连接至Steam。
 
 < SHOP_DLC_SYURANANAKO >
 秀拉＆奈奈子
@@ -180,10 +180,10 @@ Ultimate Weapon Girl
 购买已解锁的卡包与角色。
 
 < SHOP_TOOLTIP_CHARACTERS >
-购买变更外貌的物品。（以角色分类。）
+按角色分类购买装扮。
 
 < SHOP_TOOLTIP_CHALLENGES >
-消费橙子获得挑战限定木箱与发色。
+花费橙子购买挑战限定箱子与发色。
 
 < SHOP_TOOLTIP_FIELDS >
 解锁新的场地。
@@ -207,7 +207,7 @@ Ultimate Weapon Girl
 购买已淘汰活动的奖励。
 
 < SHOP_TOOLTIP_MISC >
-解锁多人游戏的奖励要素以及其它物品。
+解锁多人游戏的奖励与其它物品。
 
 < SHOP_TOOLTIP_EMOTES >
 购买可以在聊天时使用的表情！
@@ -225,7 +225,7 @@ Ultimate Weapon Girl
 为你的玩家面板购买背景、边框等装饰！
 
 < SHOP_TOOLTIP_ALL >
-查看商店里所有的物品。
+查看商店里的所有物品。
 
 < SHOP_CRATE_CONTENTS >
 ~所含之物~
@@ -270,7 +270,7 @@ HOME标志：
 ???
 
 < SHOP_FILTER_OWNED >
-隐藏已拥有的道具
+隐藏已拥有的物品
 
 < SHOP_ERROR_INVENTORY_PURCHASE >
 无法购买，请稍后再试。

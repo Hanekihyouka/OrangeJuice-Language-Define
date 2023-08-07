@@ -24,52 +24,52 @@
 输入玩家名称。
 
 < COM_NEWGAME_SELECTCHARACTER >
-选择开始的角色。
+选择角色。
 
 < COM_NEWGAME_CHARACTERCONFIRM >
-确定使用这个角色吗？
+确定要使用这个角色吗？
 
 < COM_LOADGAME_SELECTSLOT >
 选择继续游戏的存档位置。
 
 < COM_LOADGAME_LOADCONFIRM >
-从这个存档开始吗？
+要从这个存档开始吗？
 
 < COM_SHOP_SELECTITEM >
-请选择要买的物品。
+请选择要购买的物品。
 
 < COM_SHOP_BUYCONFIRM >
-要购买这个物品吗？
+要购买该物品吗？
 
 < COM_SHOP_BUYEVENTCONFIRM >
 要解锁%s的活动进度吗？
 
 < COM_SHOP_ITEMSOLDOUT >
-这个物品已经卖完了。
+该物品已售出。
 
 < COM_SHOP_ITEMNOTINSTOCK >
-这个物品正在等待进货中。
+该物品尚未到货。
 
 < COM_SHOP_NOTENOUGHCURRENCY >
 没有足够的货币。
 
 < COM_SHOP_REACHEDCURRENCYCAP >
-此货币已达上限。
+该货币已达上限。
 
 < COM_SHOP_NOSTEAMCONNECTION >
-要使用这个物品必须与Steam连接。
+未与Steam连接时无法购买该物品。
 
 < COM_SHOP_NOSTEAMCONNECTIONDLC >
-获取DLC的拥有情况必须与Steam连接。
+未与Steam连接时无法验证DLC拥有情况。
 
 < COM_SHOP_ALREADYOWNDLC >
 已拥有该DLC。
 
 < COM_SHOP_BONUSITEM >
-这个物品会赠送给所有拥有Steam版%s的人。
+该物品会赠送给所有Steam版%s的所有者。
 
 < COM_SHOP_CHARACTERITEM >
-这个物品属于你未拥有的角色。
+该物品属于你未拥有的角色。
 
 < COM_SHOP_LEVELTOOLOW >
 购买这个物品的等级不足。
@@ -81,7 +81,7 @@
 购买了卡片！
 
 < COM_SHOP_BOUGHTDISCOUNT >
-购买了打折券！
+购买了折扣券！
 
 < COM_SHOP_BOUGHTCHARACTER >
 购买了新的角色！
@@ -108,7 +108,7 @@
 购买了糖果×10！
 
 < COM_SHOP_BOUGHTCRATE >
-购买了木箱！
+购买了箱子！
 
 < COM_SHOP_BOUGHTPET >
 购买了新的宠物！
@@ -135,7 +135,7 @@
 查看游玩情报。
 
 < COM_USERINFO_BROWSECARDS >
-阅览所持卡片。
+浏览已拥有的卡片。
 
 < COM_USERINFO_CARDSINFO >
 查看卡片收集状况。
@@ -150,7 +150,7 @@
 欣赏图片、过场、音乐与语音。
 
 < COM_USERINFO_STATS >
-查看每个角色的在线对战数据。
+查看各个角色的在线对战数据。
 
 < COM_CAMPAIGN_SELECTSCENARIO >
 请选择剧情。
@@ -189,10 +189,10 @@
 至少要设定3个场地事件。
 
 < COM_DECK_PREPARE >
-进行角色选择／卡组构成。
+角色选择并建立卡组。
 
 < COM_DECK_NOTPREPARED >
-还没准备好。
+还没有做好准备。
 
 < COM_DECK_CARDLIMITREACHED >
 已经无法再放入这种卡片了。
@@ -210,7 +210,7 @@
 游戏暂停。
 
 < COM_GAME_QUITCONFIRM >
-真的要退出这场游戏吗？
+真的要退出游戏吗？
 
 < COM_RESULT_STARSGAINED >
 显示这场游戏中获得的星星。
@@ -219,7 +219,7 @@
 进行房间设定。
 
 < COM_CREATELOBBY_CREATING >
-建立Steam房间中……
+正在建立Steam房间……
 
 < COM_CREATELOBBY_FAILED >
 建立Steam房间失败。
@@ -231,7 +231,7 @@
 请选择房间。Steam好友将会以绿星表示。
 
 < COM_LOBBYLIST_JOINLOBBY >
-进入选择的房间 或者 与房间的主人进行对话。
+加入已选择的房间，或是与房间的拥有者进行联络。
 
 < COM_LOBBYLIST_PASSWORDEMPTY >
 密码不能为空。
@@ -243,13 +243,13 @@
 无法连接房间。
 
 < COM_LOBBYLIST_DATANOTRETRIEVED_NOSELECT >
-无法选择房间。不能取得房间数据。
+无法选择房间。未能取得房间数据。
 
 < COM_LOBBYLIST_DATANOTRETRIEVED_NOCONTACT >
-无法进行对话。不能取得房间数据。
+无法进行联络。未能取得房间数据。
 
 < COM_LOBBYLIST_DATANOTRETRIEVED_NOJOIN >
-无法加入房间。不能取得房间数据。
+无法加入房间。未能取得房间数据。
 
 < COM_LOBBY_WAITINGFORPARTICIPANTS >
 等待其他参加者。
@@ -258,19 +258,19 @@
 等待其他玩家。
 
 < COM_LOBBY_PLAYERSNOTREADY >
-在所有人准备完毕前不能开始游戏。
+在所有人都准备完毕前无法开始游戏。
 
 < COM_LOBBY_KICKREADYPLAYER >
-不能踢走已经准备好的玩家。
+不能驱逐已经准备好的玩家。
 
 < COM_LOBBY_KICKNOTREADY >
-这个玩家现在还无法踢走。
+现在还无法驱逐该玩家。
 
 < COM_LOBBY_MIDGAME_JOINED >
 已加入游戏！你能在下一轮开始时进入游戏。
 
 < COM_LOBBY_SPECTATOR_WAITINGDECKS >
-游戏开始了！各玩家卡组构筑中……
+游戏开始了！等待玩家建立卡组……
 
 [EOF]
 

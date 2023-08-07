@@ -325,15 +325,15 @@ descr=Revive as Mimyuu and act on revival.\nDraw Evil Spy Work - Execution cards
 
 < CARD_UNIT_TEQUILA >
 name=Tequila
-descr=A Pirate Crew Member appears as an enemy unit.\nGain +1 ATK for every HP lost during a battle.
+descr=A Pirate Crew Member appears as a wild unit.\nGain +1 ATK for every HP lost during a battle.
 
 < CARD_UNIT_TEQUILA_BH >
 name=Tequila
-descr=A Pirate Crew Member appears as an enemy unit.\nGain +1 ATK in a battle where you lose HP.
+descr=A Pirate Crew Member appears as a wild unit.\nGain +1 ATK in a battle where you lose HP.
 
 < CARD_UNIT_TEQMINION >
 name=Pirate Crew Member
-descr=Opponent loses Lvl x10 stars if defeated.\nThe player who summoned this unit gain the stars.\nDoes not appear as Encounter to the summoner. 
+descr=Opponent loses Lvl x10 stars if defeated.\nThe player who summoned this unit gains the stars.\nDoes not appear as Encounter to the summoner. 
 
 < CARD_UNIT_TOMOMO >
 name=Tomomo

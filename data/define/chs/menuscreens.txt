@@ -19,7 +19,6 @@
 < MAINMENU_EXIT >
 离开游戏
 
-
 < MENU_BUTTON_OK >
 确定
 
@@ -262,13 +261,13 @@
 在线与其他玩家进行对战。
 
 < PLAYMENU_TOOLTIP_SHOP >
-购入卡包、角色、外貌变更道具之类。
+购买卡包、角色、装扮等物品。
 
 < PLAYMENU_TOOLTIP_CAMPAIGN >
-选择一个角色进行单人游戏游玩剧情模式。
+选择角色，并以单人游戏体验他们的故事。
 
 < PLAYMENU_TOOLTIP_PROFILE >
-确认玩家情报、阅览卡片、定制个人形象。
+查看玩家信息、浏览卡片、修改个人形象。
 
 < PLAYMENU_TOOLTIP_CODEX >
 浏览角色简介等内容。
@@ -277,16 +276,16 @@
 打开游戏手册。
 
 < PLAYMENU_TOOLTIP_WIKI >
-访问由粉丝维护的维基页面获取更深入的信息。
+访问由粉丝维护的维基页面，获取更深入的游戏信息。
 
 < PLAYMENU_TOOLTIP_CHALLENGES >
-确认多人游戏的挑战内容。
+查看多人游戏的每日挑战内容。
 
 < PLAYMENU_TOOLTIP_CONFIGMENU >
-打开设置画面。
+打开设置界面。
 
 < PLAYMENU_TOOLTIP_EXIT >
-回到标题画面。
+返回标题界面。
 
 < PLAYMENU_EVENT_XMAS2017_INSTRUCTION_01 >
 在挑战板上查看小驯鹿给你的任务，\n完成它们来获得礼物吧！
@@ -304,7 +303,7 @@
 将礼物送给好孩子们（%d/%d）。
 
 < PLAYMENU_EVENT_XMAS2017_STAGEPROGRESS >
-完成附加剧情战役 %s。
+完成额外剧情战役 %s。
 
 < PLAYMENU_EVENT_XMAS2017_COMPLETE >
 圣诞节被拯救了！\n（但还不清楚阴谋组是否有所反省……）
@@ -887,7 +886,6 @@ QP还想多玩一会！夏日野兽复活了！
 < PLAYMENU_EVENT_WINTER2022_COMPLETE_02 >
 蛋糕的新潮流席卷而来！大家都可以尽情享受\n魅樱的新潮杰作了！\n如果你没吃够，你还能继续搜寻更多蛋糕。
 
-
 < PLAYMENU_EVENT_NEXT_GOAL >
 下一个目标：
 
@@ -1032,10 +1030,10 @@ Steam创意工坊返回了一个错误。\n\n %s
 无法找到文件。\n请尝试删除mod文件夹下的workshop.dat后再试。
 
 < MENU_WORKSHOP_ERROR_9 >
-该物品已被提交。\n请刷新你的已提交物品。
+该项目已被提交。\n请刷新你的已提交项目。
 
 < MENU_WORKSHOP_ERROR_10 >
-一个物品已经使用了这个名称。\n请确保你的物品名称未被占用。
+一个项目已经使用了这个名称。\n请确保你的项目名称未被占用。
 
 < MENU_WORKSHOP_ERROR_11 >
 由于最近发生过密码或邮箱更改，你暂时无法上传新内容。
