@@ -1,8 +1,8 @@
 [
   {"type":"directory","name":"audio/bgmpackydtmsw.pak","size":4096,"contents":[
-    {"type":"file","name":"0.ogg","size":2333553},
-    {"type":"file","name":"1.ogg","size":1762246},
-    {"type":"file","name":"2.ogg","size":3724855}
+    {"type":"file","name":"0.ogg","size":2333553,"md5":"b3d670b826c26b6f53bfefe6b4419162"},
+    {"type":"file","name":"1.ogg","size":1762246,"md5":"facf9275b6cf76e79212f2fc6db974c2"},
+    {"type":"file","name":"2.ogg","size":3724855,"md5":"510e23a9805a9ab32d2e6b5fbdd1a1fc"}
   ]}
 ,
   {"type":"report","directories":1,"files":3}

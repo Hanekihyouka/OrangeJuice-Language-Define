@@ -1,6 +1,6 @@
 [
   {"type":"directory","name":"audio/bgmpackqpd.pak","size":4096,"contents":[
-    {"type":"file","name":"0.ogg","size":2050698}
+    {"type":"file","name":"0.ogg","size":2050698,"md5":"877c829eea5705ca181b55ac62eabde1"}
   ]}
 ,
   {"type":"report","directories":1,"files":1}

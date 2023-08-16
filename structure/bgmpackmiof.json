@@ -1,6 +1,6 @@
 [
   {"type":"directory","name":"audio/bgmpackmiof.pak","size":4096,"contents":[
-    {"type":"file","name":"0.ogg","size":2152576}
+    {"type":"file","name":"0.ogg","size":2152576,"md5":"ca7da7ee680632aadbfd9ed0412c7fc1"}
   ]}
 ,
   {"type":"report","directories":1,"files":1}

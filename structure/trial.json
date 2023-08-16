@@ -1,8 +1,8 @@
 [
   {"type":"directory","name":"unzip/trial.pak","size":4096,"contents":[
-    {"type":"file","name":"fullgameonly.dat","size":7378},
-    {"type":"file","name":"getfullgame.dat","size":40657},
-    {"type":"file","name":"triallogo.dat","size":60395}
+    {"type":"file","name":"fullgameonly.dat","size":7378,"md5":"8f8b374dc29cf422491c7db4843341ba"},
+    {"type":"file","name":"getfullgame.dat","size":40657,"md5":"dc65a4363f5e6caae5c4477bad11ae4f"},
+    {"type":"file","name":"triallogo.dat","size":60395,"md5":"003feb5bf6d6c7174987a38c2b7e7699"}
   ]}
 ,
   {"type":"report","directories":1,"files":3}

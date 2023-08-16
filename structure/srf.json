@@ -1,8 +1,8 @@
 [
   {"type":"directory","name":"unzip/srf.pak","size":4096,"contents":[
-    {"type":"file","name":"caution.dat","size":4194432},
-    {"type":"file","name":"daidai.dat","size":4194432},
-    {"type":"file","name":"shinden.dat","size":4194432}
+    {"type":"file","name":"caution.dat","size":4194432,"md5":"37617dec5ed63a59146dc86b6beecc1c"},
+    {"type":"file","name":"daidai.dat","size":4194432,"md5":"dbf84da8a9acd672232c950d00aab35f"},
+    {"type":"file","name":"shinden.dat","size":4194432,"md5":"3c8ce48a57cda372903aef4fed00087f"}
   ]}
 ,
   {"type":"report","directories":1,"files":3}

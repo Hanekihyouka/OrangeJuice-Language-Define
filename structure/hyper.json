@@ -1,37 +1,37 @@
 [
   {"type":"directory","name":"unzip/hyper.pak","size":4096,"contents":[
     {"type":"directory","name":"krilapajamas","size":4096,"contents":[
-      {"type":"file","name":"doll.dat","size":65664}
+      {"type":"file","name":"doll.dat","size":65664,"md5":"bd55045cf6a4288b234f2069d920f1cc"}
     ]},
     {"type":"directory","name":"mimyuujailbird","size":4096,"contents":[
-      {"type":"file","name":"mjface.dat","size":131200}
+      {"type":"file","name":"mjface.dat","size":131200,"md5":"30ce6f9e38a8f6fe98e87f0ea41493a5"}
     ]},
     {"type":"directory","name":"sweetblogger","size":4096,"contents":[
-      {"type":"file","name":"background.dat","size":2097280},
-      {"type":"file","name":"bubble.dat","size":65664},
-      {"type":"file","name":"cloud.dat","size":262272},
-      {"type":"file","name":"mountain.dat","size":1048704},
-      {"type":"file","name":"platter.dat","size":262272},
-      {"type":"file","name":"sweet01.dat","size":65664},
-      {"type":"file","name":"sweet02.dat","size":65664},
-      {"type":"file","name":"sweet03.dat","size":65664},
-      {"type":"file","name":"sweet04.dat","size":65664},
-      {"type":"file","name":"sweet05.dat","size":65664},
-      {"type":"file","name":"sweet06.dat","size":65664}
+      {"type":"file","name":"background.dat","size":2097280,"md5":"7e692c5a1d19c2c1cb62c04c35672ce3"},
+      {"type":"file","name":"bubble.dat","size":65664,"md5":"5c5241f1c23be20b6887b2167bcbda80"},
+      {"type":"file","name":"cloud.dat","size":262272,"md5":"fa2c81ef1ee84ca4364d28efe8ebdd47"},
+      {"type":"file","name":"mountain.dat","size":1048704,"md5":"e9e1cc6cfb011eabd5616595659b550f"},
+      {"type":"file","name":"platter.dat","size":262272,"md5":"4118ee4c06d40fbdb05841adfceb7b7a"},
+      {"type":"file","name":"sweet01.dat","size":65664,"md5":"894ab97d431836a321e8bc95bce27519"},
+      {"type":"file","name":"sweet02.dat","size":65664,"md5":"e24a87e1286fa803910ab8a661f7c5f4"},
+      {"type":"file","name":"sweet03.dat","size":65664,"md5":"e2b78315c1e213e7117b51d4fa5ced88"},
+      {"type":"file","name":"sweet04.dat","size":65664,"md5":"649c5d8c1db9a224d4ba679d89f78b4c"},
+      {"type":"file","name":"sweet05.dat","size":65664,"md5":"746deb78343d6db7a1aa072cd1d21e37"},
+      {"type":"file","name":"sweet06.dat","size":65664,"md5":"a86e2eb7a7b0fd2baed2b1ba3226aae4"}
     ]},
     {"type":"directory","name":"sweetcreator","size":4096,"contents":[
-      {"type":"file","name":"butterflies.dat","size":1048704},
-      {"type":"file","name":"sweetcreatorbutterfly_front.dat","size":4194432},
-      {"type":"file","name":"trail.dat","size":524416}
+      {"type":"file","name":"butterflies.dat","size":1048704,"md5":"e3cfe9d6f324c68ccdfa0190d5366d43"},
+      {"type":"file","name":"sweetcreatorbutterfly_front.dat","size":4194432,"md5":"71bdb6e9801ba5249e0c39e97b4c0639"},
+      {"type":"file","name":"trail.dat","size":524416,"md5":"b94598ed2f5f7810ba27e257cf49de79"}
     ]},
     {"type":"directory","name":"sweetmaker","size":4096,"contents":[
-      {"type":"file","name":"card.dat","size":65664},
-      {"type":"file","name":"sweet01.dat","size":65664},
-      {"type":"file","name":"sweet02.dat","size":65664},
-      {"type":"file","name":"sweet03.dat","size":65664},
-      {"type":"file","name":"sweet04.dat","size":65664},
-      {"type":"file","name":"sweet05.dat","size":65664},
-      {"type":"file","name":"sweet06.dat","size":65664}
+      {"type":"file","name":"card.dat","size":65664,"md5":"0195c398ed6037d9d6ec6764ee72d4b7"},
+      {"type":"file","name":"sweet01.dat","size":65664,"md5":"894ab97d431836a321e8bc95bce27519"},
+      {"type":"file","name":"sweet02.dat","size":65664,"md5":"e24a87e1286fa803910ab8a661f7c5f4"},
+      {"type":"file","name":"sweet03.dat","size":65664,"md5":"e2b78315c1e213e7117b51d4fa5ced88"},
+      {"type":"file","name":"sweet04.dat","size":65664,"md5":"649c5d8c1db9a224d4ba679d89f78b4c"},
+      {"type":"file","name":"sweet05.dat","size":65664,"md5":"746deb78343d6db7a1aa072cd1d21e37"},
+      {"type":"file","name":"sweet06.dat","size":65664,"md5":"a86e2eb7a7b0fd2baed2b1ba3226aae4"}
     ]}
   ]}
 ,

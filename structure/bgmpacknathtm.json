@@ -1,7 +1,7 @@
 [
   {"type":"directory","name":"audio/bgmpacknathtm.pak","size":4096,"contents":[
-    {"type":"file","name":"0.ogg","size":6524814},
-    {"type":"file","name":"1.ogg","size":2293631}
+    {"type":"file","name":"0.ogg","size":6524814,"md5":"e12ca3be46838c5f69a5cee0acbe3e84"},
+    {"type":"file","name":"1.ogg","size":2293631,"md5":"e3e1548a9633611e91393b6cb2c4069c"}
   ]}
 ,
   {"type":"report","directories":1,"files":2}

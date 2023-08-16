@@ -1,9 +1,9 @@
 [
   {"type":"directory","name":"audio/bgmpackcuties.pak","size":4096,"contents":[
-    {"type":"file","name":"0.ogg","size":4341857},
-    {"type":"file","name":"1.ogg","size":6496510},
-    {"type":"file","name":"2.ogg","size":6930565},
-    {"type":"file","name":"3.ogg","size":6191604}
+    {"type":"file","name":"0.ogg","size":4341857,"md5":"6e92355b4d2c2e82143692d36208dd70"},
+    {"type":"file","name":"1.ogg","size":6496510,"md5":"c8ac6748cc8ae5f075240f65d2ef8f81"},
+    {"type":"file","name":"2.ogg","size":6930565,"md5":"6b16445783d6de913a851301b5eddd4a"},
+    {"type":"file","name":"3.ogg","size":6191604,"md5":"7c0483f308f8bf48c957469d7e612148"}
   ]}
 ,
   {"type":"report","directories":1,"files":4}
