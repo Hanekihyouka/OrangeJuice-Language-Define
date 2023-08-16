@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/gallery.pak","size":4096,"contents":[
+  {"type":"directory","name":"unzip/gallery.pak","size":4096,"contents":[
     {"type":"file","name":"thumb_bigfella.dat","size":262272},
     {"type":"file","name":"thumb_christmas2017.dat","size":262272},
     {"type":"file","name":"thumb_christmas2018.dat","size":262272},

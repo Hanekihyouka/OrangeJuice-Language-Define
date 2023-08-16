@@ -1,7 +1,7 @@
 [
-  {"type":"directory","name":"./instance/bgmpackkn.pak","size":4096,"contents":[
-    {"type":"file","name":"001.ogg","size":3041489},
-    {"type":"file","name":"002.ogg","size":2627832}
+  {"type":"directory","name":"audio/bgmpackkn.pak","size":4096,"contents":[
+    {"type":"file","name":"0.ogg","size":3041489},
+    {"type":"file","name":"1.ogg","size":2627832}
   ]}
 ,
   {"type":"report","directories":1,"files":2}

@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/shader.pak","size":4096,"contents":[
+  {"type":"directory","name":"unzip/shader.pak","size":4096,"contents":[
     {"type":"file","name":"AlphaMask2.dat","size":420},
     {"type":"file","name":"AlphaMaskColorAdd2.dat","size":708},
     {"type":"file","name":"AlphaMaskColorAdd.dat","size":612},

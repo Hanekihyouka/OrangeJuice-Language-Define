@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/field.pak","size":12288,"contents":[
+  {"type":"directory","name":"unzip/field.pak","size":12288,"contents":[
     {"type":"file","name":"arrow2_0.dat","size":262272},
     {"type":"file","name":"arrow2_1.dat","size":262272},
     {"type":"file","name":"arrow2_2.dat","size":262272},

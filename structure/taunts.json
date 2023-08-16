@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/taunts.pak","size":4096,"contents":[
+  {"type":"directory","name":"unzip/taunts.pak","size":4096,"contents":[
     {"type":"file","name":"taunt_emotion_bubble.dat","size":262272},
     {"type":"file","name":"taunt_emotion_sheet.dat","size":4194432},
     {"type":"file","name":"taunt_mask00_00.dat","size":262272},

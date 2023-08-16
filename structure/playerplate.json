@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/playerplate.pak","size":4096,"contents":[
+  {"type":"directory","name":"unzip/playerplate.pak","size":4096,"contents":[
     {"type":"file","name":"bg_0.dat","size":1048704},
     {"type":"file","name":"bg_100.dat","size":1048704},
     {"type":"file","name":"bg_101.dat","size":1048704},
@@ -13,9 +13,6 @@
     {"type":"file","name":"bg_109.dat","size":1048704},
     {"type":"file","name":"bg_10.dat","size":1048704},
     {"type":"file","name":"bg_110.dat","size":1048704},
-    {"type":"file","name":"bg_111.dat","size":1048704},
-    {"type":"file","name":"bg_112.dat","size":1048704},
-    {"type":"file","name":"bg_113.dat","size":1048704},
     {"type":"file","name":"bg_114.dat","size":1048704},
     {"type":"file","name":"bg_115.dat","size":1048704},
     {"type":"file","name":"bg_116.dat","size":1048704},
@@ -255,5 +252,5 @@
     ]}
   ]}
 ,
-  {"type":"report","directories":2,"files":251}
+  {"type":"report","directories":2,"files":248}
 ]

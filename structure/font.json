@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/font.pak","size":4096,"contents":[
+  {"type":"directory","name":"unzip/font.pak","size":4096,"contents":[
     {"type":"file","name":"chat_cjk_00.dat","size":1048704},
     {"type":"file","name":"chat_cjk_01.dat","size":1048704},
     {"type":"file","name":"chat_cjk_02.dat","size":1048704},

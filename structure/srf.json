@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/srf.pak","size":4096,"contents":[
+  {"type":"directory","name":"unzip/srf.pak","size":4096,"contents":[
     {"type":"file","name":"caution.dat","size":4194432},
     {"type":"file","name":"daidai.dat","size":4194432},
     {"type":"file","name":"shinden.dat","size":4194432}

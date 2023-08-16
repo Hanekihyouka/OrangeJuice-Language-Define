@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/face.pak","size":36864,"contents":[
+  {"type":"directory","name":"unzip/face.pak","size":36864,"contents":[
     {"type":"file","name":"alicianrone_00_00.dat","size":262272},
     {"type":"file","name":"alicianrone_00_01.dat","size":262272},
     {"type":"file","name":"alicianrone_00_02.dat","size":262272},
@@ -368,12 +368,6 @@
     {"type":"file","name":"mio_00_03.dat","size":262272},
     {"type":"file","name":"mio_00_04.dat","size":262272},
     {"type":"file","name":"mio_00_05.dat","size":262272},
-    {"type":"file","name":"mio2_00_00.dat","size":262272},
-    {"type":"file","name":"mio2_00_01.dat","size":262272},
-    {"type":"file","name":"mio2_00_02.dat","size":262272},
-    {"type":"file","name":"mio2_00_03.dat","size":262272},
-    {"type":"file","name":"mio2_00_04.dat","size":262272},
-    {"type":"file","name":"mio2_00_05.dat","size":262272},
     {"type":"file","name":"miof_00_00.dat","size":262272},
     {"type":"file","name":"miof_00_01.dat","size":262272},
     {"type":"file","name":"miof_00_02.dat","size":262272},
@@ -781,5 +775,5 @@
     {"type":"file","name":"yuuki_00_01.dat","size":262272}
   ]}
 ,
-  {"type":"report","directories":1,"files":779}
+  {"type":"report","directories":1,"files":773}
 ]

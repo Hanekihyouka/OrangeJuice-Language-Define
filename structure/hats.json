@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/hats.pak","size":397312,"contents":[
+  {"type":"directory","name":"unzip/hats.pak","size":397312,"contents":[
     {"type":"file","name":"alicianrone_00_00.dat","size":262272},
     {"type":"file","name":"alicianrone_00_01.dat","size":262272},
     {"type":"file","name":"alicianrone_00_02.dat","size":262272},
@@ -2130,7 +2130,6 @@
     {"type":"file","name":"hime_01_29_03.dat","size":262272},
     {"type":"file","name":"hime_01_29_04.dat","size":262272},
     {"type":"file","name":"hime_01_29_05.dat","size":262272},
-    {"type":"file","name":"hime_01_32_02.dat","size":262272},
     {"type":"file","name":"hime_01_33_00.dat","size":262272},
     {"type":"file","name":"hime_01_33_01.dat","size":261248},
     {"type":"file","name":"hime_01_33_02.dat","size":262272},
@@ -2839,7 +2838,6 @@
     {"type":"file","name":"kiriko_29_03.dat","size":262272},
     {"type":"file","name":"kiriko_29_04.dat","size":262272},
     {"type":"file","name":"kiriko_29_05.dat","size":262272},
-    {"type":"file","name":"kiriko_32_04.dat","size":262272},
     {"type":"file","name":"kiriko_33_00.dat","size":262272},
     {"type":"file","name":"kiriko_33_01.dat","size":262272},
     {"type":"file","name":"kiriko_33_02.dat","size":262272},
@@ -10217,5 +10215,5 @@
     {"type":"file","name":"yuuki_33_05.dat","size":262272}
   ]}
 ,
-  {"type":"report","directories":1,"files":10215}
+  {"type":"report","directories":1,"files":10213}
 ]

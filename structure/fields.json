@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/fields.pak","size":12288,"contents":[
+  {"type":"directory","name":"unzip/fields.pak","size":12288,"contents":[
     {"type":"file","name":"aurora.dat","size":1048704},
     {"type":"file","name":"christmas_h.dat","size":65664},
     {"type":"file","name":"christmas_l.dat","size":65664},

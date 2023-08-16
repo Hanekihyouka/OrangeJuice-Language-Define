@@ -4,6 +4,6 @@
 
 用以对比查看游戏更新内容，方便维护一些橙汁的社区项目。
 
-未来会用于实现自动化的社区资料更新，计划内容包括但不限于橙汁中文 wiki、SumikaSystem、机器人 Sora。
+用于实现自动化的社区资料更新，计划内容包括但不限于橙汁中文 wiki、SumikaSystem、机器人 Sora。
 
-因为工作原因，本项目无法及时更新，/structure 更新严重滞后。
+详细的解包项目请见[OrangeJuice-Data-Structure-2](http://hime.100oj.com:8137/haneki/orangejuice-data-structure-2)。

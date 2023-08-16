@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/system.pak","size":12288,"contents":[
+  {"type":"directory","name":"unzip/system.pak","size":12288,"contents":[
     {"type":"file","name":"arrow.dat","size":16512},
     {"type":"file","name":"battle_pic.dat","size":262272},
     {"type":"file","name":"campaign_system.dat","size":1048704},

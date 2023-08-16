@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/animation.pak","size":12288,"contents":[
+  {"type":"directory","name":"unzip/animation.pak","size":12288,"contents":[
     {"type":"file","name":"confetti_01.dat","size":65664},
     {"type":"file","name":"confetti_02.dat","size":65664},
     {"type":"file","name":"confetti_03.dat","size":65664},

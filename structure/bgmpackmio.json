@@ -1,9 +1,9 @@
 [
-  {"type":"directory","name":"./instance/bgmpackmio.pak","size":4096,"contents":[
-    {"type":"file","name":"001.ogg","size":10005127},
-    {"type":"file","name":"002.ogg","size":4425888},
-    {"type":"file","name":"003.ogg","size":5098601},
-    {"type":"file","name":"004.ogg","size":6764434}
+  {"type":"directory","name":"audio/bgmpackmio.pak","size":4096,"contents":[
+    {"type":"file","name":"0.ogg","size":10005127},
+    {"type":"file","name":"1.ogg","size":4425888},
+    {"type":"file","name":"2.ogg","size":5098601},
+    {"type":"file","name":"3.ogg","size":6764434}
   ]}
 ,
   {"type":"report","directories":1,"files":4}

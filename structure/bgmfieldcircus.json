@@ -1,6 +1,6 @@
 [
-  {"type":"directory","name":"./instance/bgmfieldcircus.pak","size":4096,"contents":[
-    {"type":"file","name":"001.ogg","size":2012064}
+  {"type":"directory","name":"audio/bgmfieldcircus.pak","size":4096,"contents":[
+    {"type":"file","name":"0.ogg","size":2012064}
   ]}
 ,
   {"type":"report","directories":1,"files":1}

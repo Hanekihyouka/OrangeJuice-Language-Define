@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/define.pak","size":4096,"contents":[
+  {"type":"directory","name":"unzip/define.pak","size":4096,"contents":[
     {"type":"directory","name":"chs","size":12288,"contents":[
       {"type":"file","name":"abilities.txt","size":877},
       {"type":"file","name":"arcade_rules.txt","size":1089},

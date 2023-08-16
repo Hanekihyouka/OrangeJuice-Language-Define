@@ -1,23 +1,23 @@
 [
-  {"type":"directory","name":"./instance/voice2.pak","size":4096,"contents":[
-    {"type":"file","name":"BATTLE.WAV","size":198494},
-    {"type":"file","name":"BONUS.WAV","size":121320},
-    {"type":"file","name":"CHECK.WAV","size":99270},
-    {"type":"file","name":"DRAW.WAV","size":110294},
-    {"type":"file","name":"DROP.WAV","size":110294},
-    {"type":"file","name":"NORMA1.WAV","size":198494},
-    {"type":"file","name":"NORMA2.WAV","size":209520},
-    {"type":"file","name":"NORMA3.WAV","size":209520},
-    {"type":"file","name":"NORMA4.WAV","size":209520},
-    {"type":"file","name":"NORMA5.WAV","size":220544},
-    {"type":"file","name":"NORMA6.WAV","size":209520},
-    {"type":"file","name":"PLAYER1.WAV","size":99270},
-    {"type":"file","name":"PLAYER2.WAV","size":99270},
-    {"type":"file","name":"PLAYER3.WAV","size":99270},
-    {"type":"file","name":"PLAYER4.WAV","size":110294},
-    {"type":"file","name":"TITLE.WAV","size":275670},
-    {"type":"file","name":"TRAP.WAV","size":187470},
-    {"type":"file","name":"WIN.WAV","size":33120}
+  {"type":"directory","name":"audio/voice2.pak","size":4096,"contents":[
+    {"type":"file","name":"BATTLE.wav","size":198494},
+    {"type":"file","name":"BONUS.wav","size":121320},
+    {"type":"file","name":"CHECK.wav","size":99270},
+    {"type":"file","name":"DRAW.wav","size":110294},
+    {"type":"file","name":"DROP.wav","size":110294},
+    {"type":"file","name":"NORMA1.wav","size":198494},
+    {"type":"file","name":"NORMA2.wav","size":209520},
+    {"type":"file","name":"NORMA3.wav","size":209520},
+    {"type":"file","name":"NORMA4.wav","size":209520},
+    {"type":"file","name":"NORMA5.wav","size":220544},
+    {"type":"file","name":"NORMA6.wav","size":209520},
+    {"type":"file","name":"PLAYER1.wav","size":99270},
+    {"type":"file","name":"PLAYER2.wav","size":99270},
+    {"type":"file","name":"PLAYER3.wav","size":99270},
+    {"type":"file","name":"PLAYER4.wav","size":110294},
+    {"type":"file","name":"TITLE.wav","size":275670},
+    {"type":"file","name":"TRAP.wav","size":187470},
+    {"type":"file","name":"WIN.wav","size":33120}
   ]}
 ,
   {"type":"report","directories":1,"files":18}

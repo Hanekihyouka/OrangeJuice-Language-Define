@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/ending.pak","size":4096,"contents":[
+  {"type":"directory","name":"unzip/ending.pak","size":4096,"contents":[
     {"type":"file","name":"bigfella.dat","size":16777344},
     {"type":"file","name":"christmas2017.dat","size":16777344},
     {"type":"file","name":"christmas2018.dat","size":16777344},

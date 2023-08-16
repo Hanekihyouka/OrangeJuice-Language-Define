@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/codex.pak","size":4096,"contents":[
+  {"type":"directory","name":"unzip/codex.pak","size":4096,"contents":[
     {"type":"file","name":"alte.dat","size":4194432},
     {"type":"file","name":"aru.dat","size":4194432},
     {"type":"file","name":"ceor.dat","size":4194432},
@@ -24,7 +24,6 @@
     {"type":"file","name":"saki.dat","size":4194432},
     {"type":"file","name":"sham.dat","size":4194432},
     {"type":"file","name":"sherry.dat","size":4194432},
-    {"type":"file","name":"sora - Copy.dat","size":4194432},
     {"type":"file","name":"sora.dat","size":4194432},
     {"type":"file","name":"starb.dat","size":4194432},
     {"type":"file","name":"suguri.dat","size":4194432},
@@ -32,11 +31,10 @@
     {"type":"file","name":"syura.dat","size":4194432},
     {"type":"file","name":"tequila.dat","size":4194432},
     {"type":"file","name":"tomato.dat","size":4194432},
-    {"type":"file","name":"tomomo - Copy.dat","size":4194432},
     {"type":"file","name":"tomomo.dat","size":4194432},
     {"type":"file","name":"tsih.dat","size":4194432},
     {"type":"file","name":"yuki.dat","size":4194432}
   ]}
 ,
-  {"type":"report","directories":1,"files":36}
+  {"type":"report","directories":1,"files":34}
 ]

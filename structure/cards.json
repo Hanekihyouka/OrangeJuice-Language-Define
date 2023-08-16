@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"./instance/cards.pak","size":45056,"contents":[
+  {"type":"directory","name":"unzip/cards.pak","size":45056,"contents":[
     {"type":"file","name":"accel128.dat","size":65664},
     {"type":"file","name":"accel256.dat","size":262272},
     {"type":"file","name":"accelhyper128.dat","size":65664},
@@ -858,7 +858,6 @@
     {"type":"file","name":"seriousbattle128.dat","size":65664},
     {"type":"file","name":"seriousbattle256.dat","size":262272},
     {"type":"file","name":"shadymerchant128.dat","size":65664},
-    {"type":"file","name":"shady_merchant256.dat","size":262272},
     {"type":"file","name":"shadymerchant256.dat","size":262272},
     {"type":"file","name":"sham128.dat","size":65664},
     {"type":"file","name":"sham256.dat","size":262272},
@@ -1066,5 +1065,5 @@
     {"type":"file","name":"zsalesman256.dat","size":262272}
   ]}
 ,
-  {"type":"report","directories":1,"files":1064}
+  {"type":"report","directories":1,"files":1063}
 ]

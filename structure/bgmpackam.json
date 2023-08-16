@@ -1,8 +1,8 @@
 [
-  {"type":"directory","name":"./instance/bgmpackam.pak","size":4096,"contents":[
-    {"type":"file","name":"001.ogg","size":3608117},
-    {"type":"file","name":"002.ogg","size":3711927},
-    {"type":"file","name":"003.ogg","size":3391186}
+  {"type":"directory","name":"audio/bgmpackam.pak","size":4096,"contents":[
+    {"type":"file","name":"0.ogg","size":3608117},
+    {"type":"file","name":"1.ogg","size":3711927},
+    {"type":"file","name":"2.ogg","size":3391186}
   ]}
 ,
   {"type":"report","directories":1,"files":3}
