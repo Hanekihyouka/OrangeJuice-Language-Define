@@ -1,12 +1,12 @@
 [
   {"type":"directory","name":"audio/bgmpackcoopbosses.pak","size":4096,"contents":[
-    {"type":"file","name":"0.ogg","size":2583355},
-    {"type":"file","name":"1.ogg","size":1959391},
-    {"type":"file","name":"2.ogg","size":2416184},
-    {"type":"file","name":"3.ogg","size":3528702},
-    {"type":"file","name":"4.ogg","size":2173431},
-    {"type":"file","name":"5.ogg","size":2135953},
-    {"type":"file","name":"6.ogg","size":4599063}
+    {"type":"file","name":"0.ogg","size":2583355,"md5":"559940da7e787832482a2edd63fcb86d"},
+    {"type":"file","name":"1.ogg","size":1959391,"md5":"81a1bba9cc32734ab8eddf14e1446a3f"},
+    {"type":"file","name":"2.ogg","size":2416184,"md5":"8556d730de90e5581ed45664326ab726"},
+    {"type":"file","name":"3.ogg","size":3528702,"md5":"21ebc5d2deaf758ffcddf79ca655fb4c"},
+    {"type":"file","name":"4.ogg","size":2173431,"md5":"d504266ee39bd196a4e3a18e4d00a55b"},
+    {"type":"file","name":"5.ogg","size":2135953,"md5":"5428ddb1de2b616e97d1adcfd38dc699"},
+    {"type":"file","name":"6.ogg","size":4599063,"md5":"c64da7b574e7d8223737c598635b5e6d"}
   ]}
 ,
   {"type":"report","directories":1,"files":7}

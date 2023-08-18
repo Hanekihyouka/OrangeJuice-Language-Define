@@ -1,6 +1,6 @@
 [
   {"type":"directory","name":"audio/bgmpacksugbonus.pak","size":4096,"contents":[
-    {"type":"file","name":"0.ogg","size":7570994}
+    {"type":"file","name":"0.ogg","size":7570994,"md5":"a21df258fe089bf2f7cbfba820b6e123"}
   ]}
 ,
   {"type":"report","directories":1,"files":1}

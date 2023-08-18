@@ -1,6 +1,6 @@
 [
   {"type":"directory","name":"audio/bgmfielddesert.pak","size":4096,"contents":[
-    {"type":"file","name":"0.ogg","size":2944461}
+    {"type":"file","name":"0.ogg","size":2944461,"md5":"a1e09eb827f289c35d9a1fba9f722c83"}
   ]}
 ,
   {"type":"report","directories":1,"files":1}

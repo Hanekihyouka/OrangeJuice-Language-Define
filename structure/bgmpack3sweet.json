@@ -1,8 +1,8 @@
 [
   {"type":"directory","name":"audio/bgmpack3sweet.pak","size":4096,"contents":[
-    {"type":"file","name":"0.ogg","size":3378975},
-    {"type":"file","name":"1.ogg","size":1910450},
-    {"type":"file","name":"2.ogg","size":2536068}
+    {"type":"file","name":"0.ogg","size":3378975,"md5":"060807c0d7e66136f4eff73b8c4298e0"},
+    {"type":"file","name":"1.ogg","size":1910450,"md5":"4ce40c9d3e0dc9906411c767a3186995"},
+    {"type":"file","name":"2.ogg","size":2536068,"md5":"ccf3e9852226e6d002ab1990c11197ef"}
   ]}
 ,
   {"type":"report","directories":1,"files":3}

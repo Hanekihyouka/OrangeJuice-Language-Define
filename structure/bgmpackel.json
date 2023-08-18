@@ -1,7 +1,7 @@
 [
   {"type":"directory","name":"audio/bgmpackel.pak","size":4096,"contents":[
-    {"type":"file","name":"0.ogg","size":1809672},
-    {"type":"file","name":"1.ogg","size":5325421}
+    {"type":"file","name":"0.ogg","size":1809672,"md5":"f225e63c893ce096c69f499f6aac1f9c"},
+    {"type":"file","name":"1.ogg","size":5325421,"md5":"4f4f2cd27ee3724b83c048108ac60b09"}
   ]}
 ,
   {"type":"report","directories":1,"files":2}

@@ -1,6 +1,6 @@
 [
   {"type":"directory","name":"audio/bgmharbinger.pak","size":4096,"contents":[
-    {"type":"file","name":"0.ogg","size":1431727}
+    {"type":"file","name":"0.ogg","size":1431727,"md5":"f11cef1cbe0ee1e6daa14496fed9f87b"}
   ]}
 ,
   {"type":"report","directories":1,"files":1}

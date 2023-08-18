@@ -1,7 +1,7 @@
 [
   {"type":"directory","name":"audio/bgmpackstsw.pak","size":4096,"contents":[
-    {"type":"file","name":"0.ogg","size":5942038},
-    {"type":"file","name":"1.ogg","size":6436074}
+    {"type":"file","name":"0.ogg","size":5942038,"md5":"d3473aec9f34bddb9e7a1be250980892"},
+    {"type":"file","name":"1.ogg","size":6436074,"md5":"8cf27f6fd48de696cc13417a7e4dcf15"}
   ]}
 ,
   {"type":"report","directories":1,"files":2}
