@@ -32,11 +32,11 @@ descr=在回合结束时恢复2点HP。
 
 < CARD_COOP_BANNEDFORLIFE_GIFT_EFFECT >
 name=永久流放
-descr=能使BOSS跳过下一次行动。
+descr=能使BOSS跳过下次行动。
 
 < CARD_COOP_BANNEDFORLIFE_EFFECT >
 name=永久流放
-descr=跳过下一次行动。
+descr=跳过下次行动。
 
 < CARD_COOP_GUIDANCE_EFFECT >
 name=风信鸡的指引
@@ -184,7 +184,7 @@ descr=每层储备使DEF+1。
 
 < CARD_BOSS_HIGHWAYROBBERY_EFFECT >
 name=拦路抢劫
-descr=ATK+3。\n反向移动，在挑战敌人时不会停步。\n造成的每点伤害由偷取10个STAR替代。
+descr=ATK+3。\n反向移动，在挑战敌人时不会停步。\nBOSS造成的每点伤害改为偷取10个STAR。
 
 < CARD_BOSS_GREED_EFFECT >
 name=贪婪
@@ -196,11 +196,11 @@ descr=移动时的骰子个数变为2倍，每与1名玩家\n战斗过，获得1
 
 < CARD_BOSS_TIRED_EFFECT >
 name=疲劳
-descr=下一次被击倒时的REC+1。
+descr=下次倒下时的REC+1。
 
 < CARD_BOSS_EXHAUSTED_EFFECT >
 name=疲惫不堪
-descr=下一次被击倒时的REC+2。
+descr=下次倒下时的REC+2。
 
 < CARD_BOSS_PLAYTAG_EFFECT >
 name=鬼抓人
@@ -232,7 +232,7 @@ descr=每层储备使ATK+1。\n每层储备使撒野的伤害+1。
 
 < CARD_BOSS_HYPEMODE_EFFECT >
 name=兴奋模式
-descr=ATK+2、DEF+1。\n被击倒时在下一个回合复活。
+descr=ATK+2、DEF+1。\n倒下时在下一个回合复活。
 
 < CARD_BOSS_QUAKE_EFFECT >
 name=地震
@@ -260,7 +260,7 @@ descr=战斗中造成的伤害+3。
 
 < CARD_COOP_PROTECT_EFFECT >
 name=保护
-descr=每层储备使下次受到的伤害-1。\n效果持续至抵挡伤害或战斗结束。
+descr=每层储备使下次受到的伤害-1。\n效果持续至抵挡伤害。
 
 < CARD_SKILL_COOP_GUARDIANSPIRIT_EFFECT >
 name=守护灵

@@ -751,7 +751,7 @@ flavor=
 
 < CARD_CHAOS_ABYSS >
 name=From the Chaotic Abyss
-descr=Summon Chaos Poppo minion into the field. Chaos Poppo deals no combat damage, but will steal 2 stars per damage dealt. Gives 10 stars from the summoner and 2 wins on KO. Only one summon can be on the field at a time.
+descr=Summon Chaos Poppo minion into the field. For every point of damage Chaos Poppo would deal, steal 2 stars instead. When KO'd, gives 10 Stars from the summoner and 2 Wins. Only one summon can be on the field at a time.
 flavor=
 
 < CARD_CHAOS_RAMPAGE >

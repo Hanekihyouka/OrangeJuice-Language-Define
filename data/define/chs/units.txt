@@ -17,11 +17,11 @@ descr=手牌上限为4张。
 
 < CARD_UNIT_BIG_THE_JONATHAN >
 name=大乔纳桑
-descr=玩家被击倒时，1轮内ATK+1。\n每4轮，在BOSS的回合结束时使用「发射」。\n每10轮，获得永久ATK+1、DEF·EVD-1。
+descr=玩家倒下时，1轮内ATK+1。\n每4轮，在BOSS的回合结束时使用「发射」。\n每10轮，获得永久ATK+1、DEF·EVD-1。
 
 < CARD_UNIT_BIG_THE_JONATHAN_HYPER >
 name=大乔纳桑
-descr=玩家被击倒时，1轮内ATK+1。\n每3轮，在BOSS的回合结束时使用「发射」。\n每10轮，获得永久ATK+1、DEF·EVD-1。
+descr=玩家倒下时，1轮内ATK+1。\n每3轮，在BOSS的回合结束时使用「发射」。\n每10轮，获得永久ATK+1、DEF·EVD-1。
 
 < CARD_UNIT_BOSS_CHICKEN >
 name=大春夫
@@ -41,7 +41,7 @@ descr=玩家的轮初奖励STAR双倍。\n受到伤害时，DEF+1直到该轮结
 
 < CARD_UNIT_BIG_POPPO >
 name=大啵噗
-descr=造成的每点伤害由偷取3个STAR替代。\n被击倒时REC为10，\n给予100个STAR和3WIN。
+descr=造成的每点伤害改为偷取3个STAR。\n与BOSS共享STAR。\n倒下时给予100个BOSS的STAR和3WIN。\nREC为10。
 
 < CARD_UNIT_BIG_POPPO_NM >
 name=大啵噗
@@ -53,7 +53,7 @@ descr=在BOSS的回合内，挑战玩家不会停步。\n在没有受到保护�
 
 < CARD_UNIT_BOSS_QP >
 name=夏日野兽
-descr=每回合召唤海鸥手下（直到BOSS等级数）。\n手下被击倒时失去1点兴奋。玩家被击倒时\n获得1点兴奋。\n如果在BOSS的回合开始时拥有10+兴奋，\n开始撒野。
+descr=每回合召唤海鸥手下（直到BOSS等级数）。\n手下倒下时失去1点兴奋。玩家倒下时获得\n1点兴奋。\n如果在BOSS的回合开始时拥有10+兴奋，\n开始撒野。
 
 < CARD_UNIT_BOSS_ROPOCHI >
 name=萝啵鸡
@@ -173,7 +173,7 @@ descr=如果在你的回合结束时没有手牌，\n获得1张「小红＆小�
 
 < CARD_UNIT_MESCAL >
 name=梅丝卡尔
-descr=在受到挑战时，有50%几率「海贼小弟」将会\n代替你进行战斗。\n如果这名「海贼小弟」在战斗中被击倒，他将在3轮时间内无法再为你战斗。\n其在被击倒时给予对方1WIN，\n其在战斗中获得的STAR将给予你的角色。
+descr=在受到挑战时，有50%几率「海贼小弟」将会\n代替你进行战斗。\n如果这名「海贼小弟」在战斗中被击倒，他将在3轮时间内无法再为你战斗。\n其在倒下时给予对方1WIN，\n其在战斗中获得的STAR将给予你的角色。
 
 < CARD_UNIT_MIMYUU >
 name=米缪
@@ -525,11 +525,11 @@ descr=战斗中，每造成1点伤害偷取1个STAR，\n每受到1点伤害交�
 
 < CARD_UNIT_POPPO_CHAOS >
 name=混沌啵噗
-descr=造成的每点伤害由偷取2个STAR替代，并将\n直接给予召唤者。\n在被战斗击倒时给予2WIN，并由召唤者给予\n10个STAR。
+descr=造成的每点伤害改为偷取2个STAR，并\n直接给予召唤者。\n倒下时给予2WIN，和10个召唤者的\nSTAR。
 
 < CARD_UNIT_BOSSQP_CHAOS >
 name=夏日野兽
-descr=战斗中，每当造成/受到伤害时获得1点兴奋。\n其他玩家被击倒时获得2点兴奋。上限为10。\n当你拥有4点以上的兴奋时，自动以最大HP\n复活，并将其全部消耗。
+descr=战斗中，每当造成/受到伤害时获得1点兴奋。\n其他玩家倒下时获得2点兴奋。上限为10。\n当你拥有4点以上的兴奋时，自动以最大HP\n复活，并将其全部消耗。
 
 < CARD_UNIT_BOSSROPOCHI_CHAOS >
 name=萝啵鸡

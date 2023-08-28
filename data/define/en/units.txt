@@ -41,7 +41,7 @@ descr=Players gain 2x chapter star bonus. When damaged, gain +1 DEF until end of
 
 < CARD_UNIT_BIG_POPPO >
 name=Big Poppo
-descr=Deal no combat damage but steal 3 stars per damage dealt. When defeated, gain REC 10 and give 100 stars and 3 Wins.
+descr=For every point of damage Big Poppo would deal, steal 3 stars instead. Shares stars with the Boss. Gives 100 stars from the Boss and 3 Wins on KO.\nREC 10.
 
 < CARD_UNIT_BIG_POPPO_NM >
 name=Big Poppo
@@ -525,7 +525,7 @@ descr=Steal 1 star per damage given to enemies in battle, and give 1 star per da
 
 < CARD_UNIT_POPPO_CHAOS >
 name=Chaos Poppo
-descr=Deal no combat damage but steal 2 stars per damage dealt that is given directly to the summoner. When KO in battle, gives 10 Stars from the summoner and 2 Wins.
+descr=For every point of damage Chaos Poppo would deal, steal 2 stars instead and give them to the summoner. When KO'd, gives 10 Stars from the summoner and 2 Wins.
 
 < CARD_UNIT_BOSSQP_CHAOS >
 name=Summer Beast
@@ -545,7 +545,7 @@ descr=
 
 < CARD_UNIT_KRILAPAJAMAS >
 name=Krilalaris (Pajamas)
-descr=Cannot use the Evade command in battle. If you would suffer 1 damage while using the Defend command, cancel that damage and pay your Lvl x stars to the opponent.
+descr=Cannot use the Evade command in battle. If you would take 1 damage while using the Defend command, cancel that damage and pay your Lvl x stars to the opponent.
 
 < CARD_UNIT_MIMYUUJAILBIRD >
 name=Mimyuu (Jailbird)

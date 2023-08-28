@@ -30,7 +30,7 @@ flavor=「……」—优空
 
 < CARD_BATTLE_COOP_DECEPTIVEDISARMING >
 name=虚假除械
-descr=如果你未在这场战斗中被击倒，取消\nBOSS下一次的卡片激活。\n只能对BOSS使用。
+descr=如果你未在这场战斗中被击倒，取消\nBOSS下次的卡片激活。\n只能对BOSS使用。
 flavor=「里面竟然都是危险品！」—托玛特
 
 < CARD_EVENT_COOP_PETSNACKS >
@@ -42,6 +42,11 @@ flavor=「快过来，点心时间到啦！吃吧吃吧！」—秀拉
 name=货物
 descr=当你停留在自己的HOME格时，\n此卡将被丢弃，并获得5个STAR。\n使用将丢弃这张卡。
 flavor=「那个货物就让给你了。是的，让给你了。」\n—商人
+
+< CARD_EVENT_COOP_FORCEDREVIVAL >
+name=强制复活
+descr=所有倒下的角色以一半的HP复活，向上取整。
+flavor=「我这就给你治疗。」—斩子
 
 < CARD_HYPER_COOP_ALTE >
 name=自爆
@@ -115,7 +120,7 @@ flavor=「天空中飞舞着无数的飞翼。\n你不觉得这简直就是梦�
 
 < CARD_HYPER_COOP_MASTER >
 name=永久流放
-descr=★COST（所持STAR÷10）\n使用这张卡后，BOSS跳过下一次行动。
+descr=★COST（所持STAR÷10）\n使用这张卡后，BOSS跳过下次行动。
 flavor=「拜托您了店长——！！」—克丽丝
 
 < CARD_HYPER_COOP_MARC >
@@ -525,7 +530,7 @@ flavor=
 
 < CARD_BOSS_COOP_BIG_POPPO >
 name=来自深渊
-descr=召唤1名大啵噗手下至场上。\n大啵噗造成的每点伤害由偷取3个STAR替代。\n与BOSS共享STAR。\n被击倒时REC为10，\n给予100个STAR和3WIN。
+descr=召唤1名大啵噗手下至场上。\n大啵噗造成的每点伤害改为偷取3个STAR。\n与BOSS共享STAR。\n倒下时给予100个BOSS的STAR和3WIN。\nREC为10。
 flavor=
 
 < CARD_BOSS_COOP_NAP >
@@ -575,7 +580,7 @@ flavor=
 
 < CARD_BOSS_COOP_HIGHWAY_ROBBERY >
 name=拦路抢劫
-descr=在这个回合，\nBOSS的ATK+3，反向移动，\n在挑战玩家时不会停步。\n造成的每点伤害由偷取10个STAR替代。
+descr=在这个回合，\nBOSS的ATK+3，反向移动，\n在挑战玩家时不会停步。\nBOSS造成的每点伤害改为偷取10个STAR。
 flavor=
 
 < CARD_BOSS_COOP_GREED >
@@ -650,12 +655,12 @@ flavor=
 
 < CARD_BOSS_COOP_TIRE_OUT >
 name=消耗
-descr=所有存活的玩家变得疲劳。\n持续效果（2轮）\n下一次被击倒时的REC+1。
+descr=所有存活的玩家变得疲劳。\n持续效果（2轮）\n下次倒下时的REC+1。
 flavor=
 
 < CARD_BOSS_COOP_TIRED >
 name=疲劳
-descr=持续效果（2轮）\n下一次被击倒时的REC+1。
+descr=持续效果（2轮）\n下次倒下时的REC+1。
 flavor=
 
 < CARD_BOSS_COOP_PUDDING_SEEKER >
@@ -715,12 +720,12 @@ flavor=
 
 < CARD_BOSS_COOP_EXHAUSTION >
 name=耗尽
-descr=获得1点兴奋。\n所有存活的玩家变得疲惫不堪。\n持续效果（2轮）\n下一次被击倒时的REC+2。
+descr=获得1点兴奋。\n所有存活的玩家变得疲惫不堪。\n持续效果（2轮）\n下次倒下时的REC+2。
 flavor=
 
 < CARD_BOSS_COOP_EXHAUSTED >
 name=疲惫不堪
-descr=持续效果（2轮）\n下一次被击倒时的REC+2。
+descr=持续效果（2轮）\n下次倒下时的REC+2。
 flavor=
 
 < CARD_BOSS_COOP_PUDDING_BREAK >
@@ -740,7 +745,7 @@ flavor=
 
 < CARD_BOSS_COOP_HYPE_MODE >
 name=兴奋模式
-descr=在战斗中ATK+2·DEF+1。当BOSS被击倒时，在下一个BOSS的回合复活。
+descr=在战斗中ATK+2·DEF+1。当BOSS倒下时，在下一个BOSS的回合复活。
 flavor=
 
 < CARD_BOSS_COOP_RAMPAGE >

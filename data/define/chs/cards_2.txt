@@ -246,7 +246,7 @@ flavor=「无论怎样的攻击都不会觉得疼！」—美羽咲
 
 < CARD_BATTLE_DARKSIDEOFBUSINESS >
 name=阴谋的资金筹集
-descr=ATK+2，对方DEF-2。这场战斗中给对手造成的伤害不影响HP，作为替代，从对方手中夺取\n伤害值×5的STAR。
+descr=ATK+2，对方DEF-2。造成的每点伤害改为偷取5个STAR。
 flavor=「勒索」—指使用暴力从弱者手中榨取资金，\n也就是恶人的资金筹集。
 
 < CARD_EVENT_PARTYTIME >
@@ -751,7 +751,7 @@ flavor=
 
 < CARD_CHAOS_ABYSS >
 name=来自混沌之渊
-descr=将混沌啵噗手下召唤至场上。\n造成的每点伤害由偷取2个STAR替代。\n被击倒时给予2WIN，并由召唤者给予10个\nSTAR。\n你同时只能在场上拥有一个召唤物。
+descr=将混沌啵噗手下召唤至场上。\n造成的每点伤害改为偷取2个STAR。\n倒下时给予2WIN，和10个召唤者的\nSTAR。\n你同时只能在场上拥有一个召唤物。
 flavor=
 
 < CARD_CHAOS_RAMPAGE >

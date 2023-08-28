@@ -184,7 +184,7 @@ descr=Gain +1 DEF for each stack.
 
 < CARD_BOSS_HIGHWAYROBBERY_EFFECT >
 name=Highway Robbery
-descr=Gain +3 ATK.\nMove in reverse and do not stop upon challenging a player.\nFor each damage that would be dealt, steal 10 stars instead.
+descr=Gain +3 ATK.\nMove in reverse and do not stop upon challenging a player.\nFor every point of damage the Boss would deal, steal 10 stars instead.
 
 < CARD_BOSS_GREED_EFFECT >
 name=Greed
@@ -260,7 +260,7 @@ descr=Deal 3 addtional damage in battle.
 
 < CARD_COOP_PROTECT_EFFECT >
 name=Protect
-descr=Next damage taken is reduced by 1 for each stack. Effect is removed upon blocking damage or after battle.
+descr=Next damage taken is reduced by 1 for each stack. Effect is removed upon blocking damage.
 
 < CARD_SKILL_COOP_GUARDIANSPIRIT_EFFECT >
 name=Guardian Spirit

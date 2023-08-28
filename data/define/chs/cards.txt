@@ -21,7 +21,7 @@ flavor=「无论在哪都能打中。」—依琉
 
 < CARD_BOOST_NICEJINGLE >
 name=美妙的叮铃铃
-descr=储备效果\n下一次奖励格获得的STAR变为2倍。
+descr=储备效果\n下次奖励格获得的STAR变为2倍。
 flavor=「收集了好多呢。」—亚琉
 
 < CARD_BOOST_NICEPRESENT >
@@ -106,7 +106,7 @@ flavor=「……好重。」—须玖莉\n「好清爽……」—玛儿
 
 < CARD_TRAP_FLAMETHROWER >
 name=喷射火焰
-descr=倒下。\n在手牌有1张及以上时，\n则以丢弃所有手牌作为替代。
+descr=倒下。\n在手牌有1张及以上时，\n则改为丢弃所有手牌。
 flavor=「呀——哈！」—朋克小混混
 
 < CARD_TRAP_TOYSTORE >
@@ -241,7 +241,7 @@ flavor=「谁会死去，就用这个来决定吧？」—由希
 
 < CARD_HYPER_QP >
 name=超能模式！
-descr=这场战斗中ATK+2。\n在这场战斗中被击倒时，不会将STAR\n和WIN交给对方，\n且在下一个你的回合复活。
+descr=这场战斗中ATK+2。\n在这场战斗中倒下时，不会将STAR\n和WIN交给对方，\n且在下一个你的回合复活。
 flavor=「超能模式！」—QP
 
 < CARD_HYPER_TOMOMO >

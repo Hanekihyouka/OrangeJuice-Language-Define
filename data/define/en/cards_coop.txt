@@ -43,6 +43,11 @@ name=Freight
 descr=When stopping on your Home panel, discard this card and gain 5 Stars.\nThis card is discarded upon use.
 flavor="You may keep all that freight, yes you may." ―Merchant
 
+< CARD_EVENT_COOP_FORCEDREVIVAL >
+name=Forced Revival
+descr=All units suffering KO are revived with half their max HP, rounded up.
+flavor="You'll all be up in a jiffy." ―Kiriko
+
 < CARD_HYPER_COOP_ALTE >
 name=Self-Destruct
 descr=On KO, deal your max HP as damage to the enemy. Enemy gains no stars or wins, but loses half of their stars if KO'd from this effect.
@@ -525,7 +530,7 @@ flavor=
 
 < CARD_BOSS_COOP_BIG_POPPO >
 name=From the Abyss
-descr=Summon a Big Poppo minion into the field. Big Poppo deals no combat damage but will steal 3 stars per damage dealt. Shares stars with the Boss. Gives 100 stars and 3 Wins on KO.\nAfter being KO'd, it will get 10 REC.
+descr=Summon a Big Poppo minion into the field. For every point of damage Big Poppo would deal, steal 3 stars instead. Shares stars with the Boss. Gives 100 stars from the Boss and 3 Wins on KO.\nREC 10.
 flavor=
 
 < CARD_BOSS_COOP_NAP >
@@ -575,7 +580,7 @@ flavor=
 
 < CARD_BOSS_COOP_HIGHWAY_ROBBERY >
 name=Highway Robbery
-descr=On this turn, the Boss will gain +3 ATK, move in reverse and not stop upon challenging a player.\nFor each damage that would be dealt, steal 10 stars instead.
+descr=On this turn, the Boss will gain +3 ATK, move in reverse and not stop upon challenging a player.\nFor every point of damage the Boss would deal, steal 10 stars instead.
 flavor=
 
 < CARD_BOSS_COOP_GREED >
