@@ -38,42 +38,32 @@
         {"type":"directory","name":"heavenlykings","size":4096,"contents":[
           {"type":"file","name":"coach0.dat","size":1048704,"md5":"a390b154f9b4e8fa199afdb31342d026"},
           {"type":"file","name":"coach1.dat","size":1048704,"md5":"a358c96137beb972cba415822627ba66"},
-          {"type":"file","name":"coach.dat","size":262272,"md5":"7e4123888fc4740655bdc531c5a7d7e2"},
           {"type":"file","name":"haruo0.dat","size":1048704,"md5":"1eaa88f2171f4e8e624c14d64fb50f7f"},
           {"type":"file","name":"haruo1.dat","size":1048704,"md5":"ece4a0faaed9c06d82b334f64d9e0786"},
-          {"type":"file","name":"haruo.dat","size":262272,"md5":"7185a8338fa6534486aac718c92479d5"},
-          {"type":"file","name":"jonathan.dat","size":262272,"md5":"6428467a10eabaacee63b51d49c89f46"},
           {"type":"file","name":"m100.dat","size":1048704,"md5":"b30578e67a91e245d94926cb57069ac2"},
           {"type":"file","name":"m101.dat","size":1048704,"md5":"7cf53e313e3dc95b80b407880814788a"},
-          {"type":"file","name":"m10.dat","size":262272,"md5":"bbb9d9f12221ea6d42f9d656007168c2"},
           {"type":"file","name":"ropochi0.dat","size":1048704,"md5":"c51066be3863822b6ae8d9b36cee8ef4"},
           {"type":"file","name":"ropochi1.dat","size":1048704,"md5":"12e09145ebe6b5f93f4ce179d14d3485"},
-          {"type":"file","name":"ropochi.dat","size":262272,"md5":"3dfcf3a72d2426aaacb5b196b3df19a7"},
           {"type":"file","name":"sbeast0.dat","size":1048704,"md5":"b0d3275854699a53e1f217c5a84e9bb8"},
           {"type":"file","name":"sbeast1.dat","size":1048704,"md5":"463b21d0073d359cc96a2ddf6d07e288"},
           {"type":"file","name":"seagull0.dat","size":1048704,"md5":"d66328d1245bcbb7fcefc2b49b3dd5ba"},
           {"type":"file","name":"seagull1.dat","size":1048704,"md5":"f1c28cfd04ca2ea934b01b0cd9d4956d"},
           {"type":"file","name":"stardev0.dat","size":1048704,"md5":"5f945482259a6b00caa0059961736989"},
-          {"type":"file","name":"stardev1.dat","size":1048704,"md5":"634ca7430df92bf07e3511d416f7e7d2"},
-          {"type":"file","name":"stardev.dat","size":262272,"md5":"fdfb64461f679b4789a53edc532ba0e8"},
-          {"type":"file","name":"summerbeast.dat","size":262272,"md5":"841e460dd6cbd7ea69e0ce2aeef6de02"}
+          {"type":"file","name":"stardev1.dat","size":1048704,"md5":"634ca7430df92bf07e3511d416f7e7d2"}
         ]},
         {"type":"directory","name":"hotpotato","size":4096,"contents":[
           {"type":"file","name":"boom.dat","size":262272,"md5":"e03eded78323eff39dbe4d8fca768fe8"},
-          {"type":"file","name":"hotpotato.dat","size":65664,"md5":"33e0aaefb6bedc1700f0f4262b33a52a"},
           {"type":"file","name":"tantmim01.dat","size":160128,"md5":"a12159db0a10c67c2edfe28d6af2cfe2"},
           {"type":"file","name":"tantmim02.dat","size":160128,"md5":"ff5daf16e4fd2b86c6e1a29af04de543"},
           {"type":"file","name":"tantmim03.dat","size":160128,"md5":"8ed850b95379dc3e4d3217126b907494"},
           {"type":"file","name":"tantmim04.dat","size":160128,"md5":"ff5daf16e4fd2b86c6e1a29af04de543"}
         ]},
         {"type":"directory","name":"knightsfaeries","size":4096,"contents":[
-          {"type":"file","name":"aurora.dat","size":1048704,"md5":"f9989c269362141713388aa864e87e0f"},
           {"type":"file","name":"BG_00.dat","size":1048704,"md5":"8c38291f22e74e241b76c9984cc5ee0f"},
           {"type":"file","name":"BG_01.dat","size":1048704,"md5":"0fc010d10f5a932afa7c13d0546e26cd"},
           {"type":"file","name":"fae_00.dat","size":262272,"md5":"0c0feccf803fa6f95de21183af2d09eb"},
           {"type":"file","name":"fae_01.dat","size":262272,"md5":"88a228ff6d0b270ff9d82f06d98f0943"},
           {"type":"file","name":"fae_banner.dat","size":262272,"md5":"6773d6538baf50235edb9aee9c5b74ab"},
-          {"type":"file","name":"guardian.dat","size":1048704,"md5":"67bd801c7097f7003679413de2972aac"},
           {"type":"file","name":"knight_00.dat","size":262272,"md5":"c0b78831345cfa90831cbde66000a96e"},
           {"type":"file","name":"knight_01.dat","size":262272,"md5":"2af1c710405784a7d377af933efa53dd"},
           {"type":"file","name":"knight_banner.dat","size":262272,"md5":"a0848d0f3564ee746943db4bbc2b5622"}
@@ -611,6 +601,17 @@
       {"type":"file","name":"tutorial_00.dat","size":262272,"md5":"51db6487df48ac59b41a2fb33dc4ea47"},
       {"type":"file","name":"tutorial_01.dat","size":262272,"md5":"5de2467b61f5b4d302495688abda8963"}
     ]},
+    {"type":"directory","name":"summer2023","size":4096,"contents":[
+      {"type":"file","name":"extra1.dat","size":262272,"md5":"3755ba11065ac13171f071073f378879"},
+      {"type":"file","name":"extra2.dat","size":262272,"md5":"2e80170cb10eb92b8d3cc5b8bde64973"},
+      {"type":"file","name":"logo.dat","size":524416,"md5":"05728af3c1f924bc4e35f84f6ee81909"},
+      {"type":"file","name":"points.dat","size":65664,"md5":"fcc98c33c348d3dc7fdfdeabef9b3b55"},
+      {"type":"file","name":"tutorial_00.dat","size":262272,"md5":"e0864aabfcc218de827c95e0960e445d"},
+      {"type":"file","name":"tutorial_01.dat","size":262272,"md5":"157195a7416e6cc2431f910d1ba1cc4c"},
+      {"type":"file","name":"tutorial_02.dat","size":262272,"md5":"d0e7c475dba58f1685c2e1766740515f"},
+      {"type":"file","name":"tutorial_03.dat","size":262272,"md5":"1f7b4e8a31a87608214cef6a838112b6"},
+      {"type":"file","name":"tutorial_04.dat","size":262272,"md5":"783ba1bb30d256b7fc5cfc52a3492472"}
+    ]},
     {"type":"directory","name":"winter2020","size":4096,"contents":[
       {"type":"file","name":"counter.dat","size":1048704,"md5":"f8b192331e1095878d1afb76cb7ed680"},
       {"type":"file","name":"logo.dat","size":524416,"md5":"626fd7532e4673f146055e8ffaf6c6ae"},
@@ -993,5 +994,5 @@
     ]}
   ]}
 ,
-  {"type":"report","directories":44,"files":905}
+  {"type":"report","directories":45,"files":904}
 ]

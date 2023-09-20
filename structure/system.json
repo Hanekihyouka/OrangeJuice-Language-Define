@@ -199,8 +199,7 @@
     {"type":"file","name":"title_logo.dat","size":1048704,"md5":"579648e668fb046f659bbf4640c40164"},
     {"type":"file","name":"title_system.dat","size":262272,"md5":"f985b204d98057edee9b944f9fb0ba17"},
     {"type":"file","name":"tony_menu.dat","size":262272,"md5":"f1ef2a936e10290add071b387add39ed"},
-    {"type":"file","name":"tPlateBackgrounds-20930.dat","size":4194432,"md5":"92b2cc002d1efe0a7a9df6d1799f4ebc"},
-    {"type":"file","name":"tPlateBackgrounds.dat","size":4194432,"md5":"7ef1f555be70de9b974ff7c09850db24"},
+    {"type":"file","name":"tPlateBackgrounds.dat","size":4194432,"md5":"185dc3692b29738ecff5bd332650331d"},
     {"type":"file","name":"tPlatePins.dat","size":1048704,"md5":"5ec2c9d2a46b5edbcaea68d749e77c21"},
     {"type":"file","name":"ui_buttons.dat","size":1048704,"md5":"56d43e6757d1accf3038243d02853382"},
     {"type":"file","name":"user_system.dat","size":1048704,"md5":"0d955b9898c31545d2b6513f9898f661"},
@@ -210,5 +209,5 @@
     {"type":"file","name":"word_input.dat","size":1048704,"md5":"d14e7461e05386cdd1084dafba891c05"}
   ]}
 ,
-  {"type":"report","directories":1,"files":208}
+  {"type":"report","directories":1,"files":207}
 ]

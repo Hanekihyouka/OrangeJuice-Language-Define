@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"unzip/cards.pak","size":45056,"contents":[
+  {"type":"directory","name":"unzip/cards.pak","size":49152,"contents":[
     {"type":"file","name":"accel128.dat","size":65664,"md5":"dccb5d7f0716ca1cf754e8acc209e6fc"},
     {"type":"file","name":"accel256.dat","size":262272,"md5":"b8ed48f53628b2437f3eae9900819efb"},
     {"type":"file","name":"accelhyper128.dat","size":65664,"md5":"b213a72be1c993a65005014daea5559b"},
@@ -493,6 +493,8 @@
     {"type":"file","name":"evilguardian256.dat","size":262272,"md5":"100ba445213936489fd76701d508c160"},
     {"type":"file","name":"evilm128.dat","size":65664,"md5":"d3dd4d211896fc1b303f4bba1079fc54"},
     {"type":"file","name":"evilm256.dat","size":262272,"md5":"db498a4e44d4532cf312edc806383d51"},
+    {"type":"file","name":"evilmousse128.dat","size":65664,"md5":"60d6e12e727fbc957c6d3b7d5636e509"},
+    {"type":"file","name":"evilmousse256.dat","size":262272,"md5":"0fed575ac597ba766bf62323f4147c63"},
     {"type":"file","name":"evilspyexec128.dat","size":65664,"md5":"89f164c4fee4d36bbc0ddab77e1063fc"},
     {"type":"file","name":"evilspyexec256.dat","size":262272,"md5":"f4c9a8aa32a8b266acf4b05a0efdef86"},
     {"type":"file","name":"evilspyprep128.dat","size":65664,"md5":"6355f2723bf6981c8fe44f277690fc37"},
@@ -689,6 +691,14 @@
     {"type":"file","name":"monocoque256.dat","size":262272,"md5":"694fc3fdd0d4c64a35be3f4bbf0db114"},
     {"type":"file","name":"mpoppo128.dat","size":65664,"md5":"a7d06b9514b265b49cc4230ed5d8297c"},
     {"type":"file","name":"mpoppo256.dat","size":262272,"md5":"9b764c0eb68bb9d3915110d5647ba15c"},
+    {"type":"file","name":"mpoppohard128.dat","size":65664,"md5":"ba034b8443f74199534b3b2fecc09189"},
+    {"type":"file","name":"mpoppohard256.dat","size":262272,"md5":"4e8828b45265526715cb074ef6fbe267"},
+    {"type":"file","name":"mpoppohard_unt128.dat","size":65664,"md5":"e6b53b264ce0fc0dd01be0e0d1c8863b"},
+    {"type":"file","name":"mpoppohard_unt256.dat","size":262272,"md5":"7ccc81a2bde328c3f79293eaa595d604"},
+    {"type":"file","name":"mpoppomed128.dat","size":65664,"md5":"53073c589fb2b160c72028555bd0b493"},
+    {"type":"file","name":"mpoppomed256.dat","size":262272,"md5":"b249494e3dc78087cb97e6a1e3727a0c"},
+    {"type":"file","name":"mpoppomed_unt128.dat","size":65664,"md5":"01773efdfdb2cb37d6cb5ec6b4e99aee"},
+    {"type":"file","name":"mpoppomed_unt256.dat","size":262272,"md5":"3ef7ee98381aef6434baf0dfa2a80944"},
     {"type":"file","name":"mpoppo_ply128.dat","size":65664,"md5":"f0930ccee46ff8ca638e4b8aa6717236"},
     {"type":"file","name":"mpoppo_ply256.dat","size":262272,"md5":"ac8f7faa9c2447efd653915f288acfd3"},
     {"type":"file","name":"mrevenge128.dat","size":65664,"md5":"7e9d58cf50479f7bfb994d724ada71d7"},
@@ -1065,5 +1075,5 @@
     {"type":"file","name":"zsalesman256.dat","size":262272,"md5":"45ff606cfaf11957751930da225a600a"}
   ]}
 ,
-  {"type":"report","directories":1,"files":1063}
+  {"type":"report","directories":1,"files":1073}
 ]
