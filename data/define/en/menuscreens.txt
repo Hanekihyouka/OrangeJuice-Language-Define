@@ -889,6 +889,30 @@ To unlock the event's ending, you must reach your personal goal of event games p
 < PLAYMENU_EVENT_WINTER2022_COMPLETE_02 >
 A new cake trend is here! Everyone can enjoy Mio's fashionable creations around the world! You can still keep searching for more cakes if you haven't had your fill. 
 
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_MAIN >
+We're surrounded! Help Ellie and Lulu fight off hordes of aggressive Mousse to get your hands on the promised treasure!
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_01 >
+Play games in the Treasure Tails event mode or Bounty Hunt mode to fight Mousse!
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_02 >
+Treasure Tails is an adjusted version of Bounty Hunt game mode with several key differences including lower Norma, 50% cheaper shop prices, and extra +1 hand size.
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_03 >
+The 3 Bounties available are always Mousse (easy), Key Lime Mousse (medium) and Strawberry Mousse (hard).\nDefeat any of them to progress in the event!
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_04 >
+In addition, completing a Quest will trigger a bounty fight against a 2 HP Mousse instead of granting 2 fame immediately. 
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_05 >
+Finally, a new invader, Dark Chocolate Mousse, will doom players' stars instead of their lives...\nDefeating Dark Chocolate Mousse grants 3 points of progress in the event.
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_06 >
+What are the Mousse guarding, and why...?
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_COMPLETE >
+You have found the "treasure" Ellie was seeking for... but what is going on now?
+
 < PLAYMENU_EVENT_NEXT_GOAL >
 Next goal:
 

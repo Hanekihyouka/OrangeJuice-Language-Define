@@ -13,6 +13,16 @@ name=Mousse
 descr=Mousse will take your Lvl x stars every time it damages you.
 flavor=
 
+< CARD_BOUNTY_STRANGEMOUSSE_HUNT >
+name=Key Lime Mousse
+descr=Key Lime Mousse will take your Lvl x stars every time it damages you.
+flavor=
+
+< CARD_BOUNTY_POWERMOUSSE_HUNT >
+name=Strawberry Mousse
+descr=Strawberry Mousse will take your Lvl x stars every time it damages you.
+flavor=
+
 < CARD_BOUNTY_DOLL_HUNT >
 name=Haunted Doll
 descr=Haunted Doll will spook you out of 1 HP at the end of each round of battle.

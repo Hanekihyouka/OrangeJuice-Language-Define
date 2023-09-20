@@ -435,6 +435,18 @@ descr=永久HP上限+1，ATK+1、DEF-1。
 name=灾厄
 descr=如在回合开始时持续时间到达0，将会直接造成\n击倒。\n击败效果来源或倒下时移除效果。若在拥有\n此效果时倒下，给予噩兆1层噬魂者。
 
+< CARD_DARKCHOCOMOUSSE_STAREATER >
+name=噬星者
+descr=当储备达到3层时，完全恢复自己的HP，\n并对所有角色降下灾厄。
+
+< CARD_DARKCHOCOMOUSSE_AWAKENED >
+name=觉醒的噬星者
+descr=永久HP上限+1，ATK+1、DEF-1。
+
+< CARD_CHOCOLATEDOOM_EFFECT >
+name=灾厄
+descr=如在回合开始时持续时间到达0，\n黑暗巧克力唠鼠将会偷取你等级×10的STAR\n并获得1层噬星者。\n击败效果来源或倒下时移除效果。
+
 < CARD_SPIKEDSHIELD_EFFECT >
 name=刺盾
 descr=受到的伤害减少1点。\n当你的防御骰数值大于对方的攻击骰数值时，\n将攻击数值一半的伤害返还给对方。

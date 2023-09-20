@@ -856,7 +856,7 @@ QP还想多玩一会！夏日野兽复活了！
 经过某些格子时将获得星星、橙子、随机装扮\n甚至活动奖励！
 
 < PLAYMENU_EVENT_PTS_INSTRUCTION_06 >
-谁将获得传说中的宝物？让我们拭目以待吧……
+谁将获得传说中的宝藏？让我们拭目以待吧……
 
 < PLAYMENU_EVENT_PTS_INSTRUCTION_COMPLETE >
 你已经到达了神殿！但你还可以重复这次旅程\n以获得更多奖励。
@@ -885,6 +885,30 @@ QP还想多玩一会！夏日野兽复活了！
 
 < PLAYMENU_EVENT_WINTER2022_COMPLETE_02 >
 蛋糕的新潮流席卷而来！大家都可以尽情享受\n魅樱的新潮杰作了！\n如果你没吃够，你还能继续搜寻更多蛋糕。
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_MAIN >
+我们被包围了！\n帮助艾莉和露露击退汹涌而来的唠鼠，拿到她们\n应得的宝藏吧！
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_01 >
+通过进行探宝之末活动模式或赏金猎人模式的\n游戏来击退唠鼠！
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_02 >
+探宝之末模式在赏金猎人模式的基础上存在一些\n关键差异，其中包括了：降低目标需求、\n商店半价和手牌上限+1。
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_03 >
+活动具有三种悬赏目标：唠鼠（简单）、\n青柠唠鼠（中等）和草莓唠鼠（困难）。\n击败它们可以获取活动进度！
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_04 >
+此外，完成委托将会与一只2HP的唠鼠\n展开战斗，而不是直接获得2声望。
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_05 >
+最后，全新的入侵者，黑暗巧克力唠鼠将会\n对玩家的STAR降下灾厄……\n击败黑暗巧克力唠鼠可以获得3点活动进度！
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_06 >
+唠鼠们究竟在把守着什么东西……？\n它们又为何要这么做？
+
+< PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_COMPLETE >
+你发现了艾莉所寻找的“宝藏”……\n可现在这又是怎么一回事呢？
 
 < PLAYMENU_EVENT_NEXT_GOAL >
 下一个目标：

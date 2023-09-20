@@ -435,6 +435,18 @@ descr=Permanent +1 Max HP, +1 ATK, -1 DEF.
 name=Doom
 descr=Suffer KO at the start of turn when the duration reaches zero. Removed upon defeating the source of the effect or by getting KO'd. Give a stack of Soul Eater to the Harbinger if KO'd while having this effect.
 
+< CARD_DARKCHOCOMOUSSE_STAREATER >
+name=Star Eater
+descr=Upon reaching 3 stacks, fully heal self, and inflict IOU to all units.
+
+< CARD_DARKCHOCOMOUSSE_AWAKENED >
+name=Awakened Star Eater
+descr=Permanent +1 Max HP, +1 ATK, -1 DEF.
+
+< CARD_CHOCOLATEDOOM_EFFECT >
+name=IOU
+descr=Dark Chocolate Mousse steals your Lvl x 10 stars and gains a stack of Star Eater at the start of turn when the duration reaches zero. Removed upon defeating the source of the effect or by getting KO'd.
+
 < CARD_SPIKEDSHIELD_EFFECT >
 name=Spiked Shield
 descr=Reduce incoming damage by 1. If your defense roll is greater than the opponent's attack roll, reflect damage equal to half of the attack value back to the opponent

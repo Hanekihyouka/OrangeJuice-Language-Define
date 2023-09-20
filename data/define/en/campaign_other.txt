@@ -81,6 +81,12 @@ Other Sweet Gods
 < CAMPAIGN_CHARACTER_ALLSWEETGODS >
 Sweet Gods
 
+< CAMPAIGN_CHARACTER_MOTHERPOPPO >
+Mother Poppo
+
+< CAMPAIGN_CHARACTER_DARKLULU >
+Dark Lulu
+
 < CAMPAIGN_PRESENTCONFIRM >
 Really select this present?
 
