@@ -63,7 +63,7 @@
     {"type":"file","name":"candy_cane2.dat","size":262272,"md5":"c24764c35532224ae1003546881d2907"},
     {"type":"file","name":"castle128.dat","size":65664,"md5":"41f51219bdce76f70e70f7d14394d86a"},
     {"type":"file","name":"castle256.dat","size":262272,"md5":"cb1ace874600907140c057ebe743d3e7"},
-    {"type":"file","name":"CCustomization.dat","size":1048704,"md5":"5775d607c1148723a881ffb08ab599fc"},
+    {"type":"file","name":"CCustomization.dat","size":1048704,"md5":"1bad71cd74672bd3cbd3f2ecbd7a1e4c"},
     {"type":"file","name":"christsmasherdust.dat","size":65664,"md5":"b1b15a516c3e8166a78fd976123deadc"},
     {"type":"file","name":"christsmashersnowflake.dat","size":16512,"md5":"4c6b9f298914ea3b5011b715c05c8dce"},
     {"type":"file","name":"cloud_00.dat","size":262272,"md5":"3d114bd4e283554868ad86f7e66cf60e"},
@@ -102,8 +102,8 @@
     {"type":"file","name":"cos_pose.dat","size":16512,"md5":"bf0aa0a570c27cf6e9a1eda2931b7bde"},
     {"type":"file","name":"costume_button.dat","size":131200,"md5":"cacbe512b1dc81948b1528a75a2bacdf"},
     {"type":"file","name":"costume_mask.dat","size":65664,"md5":"c0ceff3b47e627d54ff697dfc6572ad0"},
-    {"type":"file","name":"CSelect_a.dat","size":16777344,"md5":"bc2ab0f8c64a23f330eaeb05d2a0327c"},
-    {"type":"file","name":"CSelect.dat","size":16777344,"md5":"80b89296b826f1fbcc6552627a7945f5"},
+    {"type":"file","name":"CSelect_a.dat","size":16777344,"md5":"f0debd3dbbe17275e0cde97f9fbfa3e9"},
+    {"type":"file","name":"CSelect.dat","size":16777344,"md5":"1ab4cdc78d2715a57b7639f9bd0159a6"},
     {"type":"file","name":"dice_big.dat","size":262272,"md5":"8a60db87652e69a56b05a93996b14e86"},
     {"type":"file","name":"dice_blur.dat","size":524416,"md5":"8d472cf7a5dc6874e864db91c089c624"},
     {"type":"file","name":"die8.dat","size":65664,"md5":"5ab50f7b0e2018d5fa396ed93a570a39"},
@@ -131,6 +131,7 @@
     {"type":"file","name":"dlc_kyoko.dat","size":262272,"md5":"42783b69d20f7c016441294d94a06a89"},
     {"type":"file","name":"dlc_kyupita.dat","size":262272,"md5":"8b380414069054b1686faa51a4d82e04"},
     {"type":"file","name":"dlc_lonerider.dat","size":262272,"md5":"e5b841a64660a727f9c488f6cd9445a0"},
+    {"type":"file","name":"dlc_luludark.dat","size":262272,"md5":"a51a70b524a53cc4bb82c23d4b970124"},
     {"type":"file","name":"dlc_lulu.dat","size":262272,"md5":"9b283dbb732b288bb6635dd42de481c0"},
     {"type":"file","name":"dlc_malt.dat","size":524416,"md5":"0e366127296d432c0a0c23a7e7339cef"},
     {"type":"file","name":"dlc_maynie.dat","size":262272,"md5":"6869b43d71ab880a75eb834dda52eb16"},
@@ -147,6 +148,7 @@
     {"type":"file","name":"dlc_nico.dat","size":262272,"md5":"f1cb6faeb9ff9295f4628902a16d523c"},
     {"type":"file","name":"dlc_non.dat","size":262272,"md5":"64704e1c6f1e44c4aed4f3c2a44bb84f"},
     {"type":"file","name":"dlc_pomeranius.dat","size":262272,"md5":"d909dc1f9f8cff6156ba47ca916669c8"},
+    {"type":"file","name":"dlc_poppomama.dat","size":262272,"md5":"3f5aca66d85a821d6efc1f75a6ee6545"},
     {"type":"file","name":"dlc_reika.dat","size":262272,"md5":"599a20b6f261f3ac48c7f4010131a315"},
     {"type":"file","name":"dlc_saki.dat","size":262272,"md5":"51f283a5aa2b85164045e960b0265337"},
     {"type":"file","name":"dlc_sham.dat","size":262272,"md5":"04922d1921af62b8e3c8352219e49540"},
@@ -421,6 +423,7 @@
     {"type":"file","name":"mods_thumbnail_frame.dat","size":131200,"md5":"b76660427e377ba836afd5d20be49d36"},
     {"type":"file","name":"monocoque.dat","size":65664,"md5":"efd15e720be524d5bde1cefbbba6b2cb"},
     {"type":"file","name":"music_note.dat","size":65664,"md5":"4798471974d4e6c2d2e3d5b74f3d61f0"},
+    {"type":"file","name":"nanakobit.dat","size":65664,"md5":"fe447bd551d0341d73ab1c1d38e88c9d"},
     {"type":"file","name":"newfont_a2.dat","size":1048704,"md5":"115754e2019da87d7389fc9f4cafa397"},
     {"type":"file","name":"newfont.dat","size":1048704,"md5":"8994e68c0e9f70c547e0f4388c87d193"},
     {"type":"file","name":"observorb.dat","size":1048704,"md5":"513812d7a439f0d1606700cf3c79a5d4"},
@@ -657,5 +660,5 @@
     {"type":"file","name":"yk_devilboost.dat","size":65664,"md5":"7df62d9f041225179ccce7ed6e678a89"}
   ]}
 ,
-  {"type":"report","directories":1,"files":655}
+  {"type":"report","directories":1,"files":658}
 ]

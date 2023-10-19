@@ -128,4 +128,7 @@ Kokoroten
 < CARD_ARTIST_SENCA >
 Senca
 
+< CARD_ARTIST_USANEKORIN >
+Usanekorin
+
 [EOF]

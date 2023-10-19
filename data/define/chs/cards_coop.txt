@@ -333,6 +333,11 @@ name=假想越狱
 descr=移动至自己的HOME格且不对其进行触发。\n无法被挑战。\n免疫来自BOSS的陷阱卡与卡片伤害。\n移动骰的个数为2个。\n移动20格后效果结束。
 flavor=「撒丫子跑呀！」—米缪
 
+< CARD_HYPER_COOP_DARKL >
+name=露露是厄运之龙
+descr=只能在2HP及以下使用。\n随机获得以下一种效果：\n・投掷一枚骰子，所有敌人失去骰子点数×\n　你的等级×2的STAR，然后你获得相同\n　数量的STAR。\n・BOSS跳过下次行动。\n・所有敌人失去3点HP。
+flavor=「露露是……厄运之龙……」—黑暗露露
+
 < CARD_BOSS_COOP_DOZE >
 name=打盹
 descr=没有效果。

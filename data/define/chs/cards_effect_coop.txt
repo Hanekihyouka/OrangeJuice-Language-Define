@@ -2,6 +2,10 @@
 name=虚假除械
 descr=跳过下次行动。
 
+< CARD_UNLUCKYBEAST_EFFECT >
+name=不幸的野兽
+descr=跳过下次行动。
+
 < CARD_STUFFED_EFFECT >
 name=吃饱
 descr=在下一场战斗中ATK-1。

@@ -1,10 +1,30 @@
 [
   {"type":"directory","name":"unzip/hyper.pak","size":4096,"contents":[
+    {"type":"directory","name":"darkl","size":4096,"contents":[
+      {"type":"file","name":"gen_glow.dat","size":262272,"md5":"df0b67f4f06a4b0910f456ce86cf4fa5"},
+      {"type":"file","name":"gen_glowg.dat","size":262272,"md5":"5359a9b41bb359587ea944c142f9a5ca"},
+      {"type":"file","name":"gen_glowr.dat","size":262272,"md5":"0fc7857d7a2864294c5b1b3bc02c9f92"},
+      {"type":"file","name":"luckyegg_0.dat","size":65664,"md5":"e8ac1b9f30d272850716caad82a32949"},
+      {"type":"file","name":"luckyegg_1.dat","size":65664,"md5":"2e00cb5357772a68465c1e11aada99bf"},
+      {"type":"file","name":"luckyegg_2.dat","size":65664,"md5":"469c9a5d9b0463519c0a77c680f10c0f"},
+      {"type":"file","name":"luckyegg_3.dat","size":65664,"md5":"c3bb76fd803fdad57905140cbe058e7c"},
+      {"type":"file","name":"luckyegg_4.dat","size":65664,"md5":"d5ee2f1aad5532000b8d09d8f3a97822"},
+      {"type":"file","name":"luckylunch.dat","size":65664,"md5":"c3bb76fd803fdad57905140cbe058e7c"},
+      {"type":"file","name":"star00.dat","size":65664,"md5":"88e85949cbf97d30acfddab81988bd3b"},
+      {"type":"file","name":"unluckyegg_0.dat","size":65664,"md5":"7484db538e29b5eefac734289cbde493"},
+      {"type":"file","name":"unluckyegg_1.dat","size":65664,"md5":"88a1d3d3a89d63ff0b70b82d1dc841c9"},
+      {"type":"file","name":"unluckyegg_2.dat","size":65664,"md5":"9f995ae9a8df8964f9c5e62e6056c30b"},
+      {"type":"file","name":"unluckyegg_3.dat","size":65664,"md5":"d17806af33ec7101ff9b68f0d4c33638"},
+      {"type":"file","name":"unluckyegg_4.dat","size":65664,"md5":"d5ee2f1aad5532000b8d09d8f3a97822"}
+    ]},
     {"type":"directory","name":"krilapajamas","size":4096,"contents":[
       {"type":"file","name":"doll.dat","size":65664,"md5":"bd55045cf6a4288b234f2069d920f1cc"}
     ]},
     {"type":"directory","name":"mimyuujailbird","size":4096,"contents":[
-      {"type":"file","name":"mjface.dat","size":131200,"md5":"30ce6f9e38a8f6fe98e87f0ea41493a5"}
+      {"type":"file","name":"mjface.dat","size":131200,"md5":"880e131143ad0a1a2c4ca7566f198b8d"}
+    ]},
+    {"type":"directory","name":"motherpoppo","size":4096,"contents":[
+      {"type":"file","name":"eff_motherpower.dat","size":262272,"md5":"7de9fcc92049d68a68a3a8d52dc6fdad"}
     ]},
     {"type":"directory","name":"sweetblogger","size":4096,"contents":[
       {"type":"file","name":"background.dat","size":2097280,"md5":"7e692c5a1d19c2c1cb62c04c35672ce3"},
@@ -35,5 +55,5 @@
     ]}
   ]}
 ,
-  {"type":"report","directories":6,"files":23}
+  {"type":"report","directories":8,"files":39}
 ]

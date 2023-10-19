@@ -177,3 +177,39 @@ artist=Sora
 name=Flying Ceoreparque
 desc=Granted to the players who played as Ceoreparque a lot.\nWatch out for wandering hair!
 artist=Sora
+
+< PIN_IDLE_MEI >
+name=Idle Mei
+desc=Granted to the players who played as Mei a lot.\nLet's get rowdy!
+artist=Sora
+
+< PIN_IDLE_NATSUMI >
+name=Idle Natsumi
+desc=Granted to the players who played as Natsumi a lot.\nWould you like to come over for dinner?
+artist=Sora
+
+< PIN_IDLE_ARTHUR >
+name=Idle Arthur
+desc=Granted to the players who played as Arthur a lot.\nThanks for your patronage!
+artist=Sora
+
+< PIN_IDLE_NICO >
+name=Idle Nico
+desc=Granted to the players who played as Nico a lot.\nShe will always try her best!
+artist=Sora
+
+< PIN_FLYING_CUTIES >
+name=Flying Cuties
+desc=Granted to the players who played as the Cuties a lot.\nA career on the stage awaits!
+artist=Sora
+
+< PIN_FLYING_IRU >
+name=Flying Iru
+desc=Granted to the players who played as Iru a lot.\nHow about some exercise?
+artist=Sora
+
+< PIN_FLYING_MIRA >
+name=Flying Mira
+desc=Granted to the players who played as Mira a lot.\nThis pin is the mark of a hero.
+artist=Sora
+

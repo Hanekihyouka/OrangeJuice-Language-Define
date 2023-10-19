@@ -177,3 +177,39 @@ artist=Sora
 name=飞翔的柯欧蕾帕露可
 desc=授予使用柯欧蕾帕露可进行过很多场游戏的玩家。\n小心野发出没！
 artist=Sora
+
+< PIN_IDLE_MEI >
+name=待机的梅依
+desc=授予使用梅依进行过很多场游戏的玩家。\n一起来大闹一场吧！
+artist=Sora
+
+< PIN_IDLE_NATSUMI >
+name=待机的夏美
+desc=授予使用夏美进行过很多场游戏的玩家。\n要来吃晚餐吗？
+artist=Sora
+
+< PIN_IDLE_ARTHUR >
+name=待机的亚瑟
+desc=授予使用亚瑟进行过很多场游戏的玩家。\n谢谢惠顾！
+artist=Sora
+
+< PIN_IDLE_NICO >
+name=待机的妮可
+desc=授予使用妮可进行过很多场游戏的玩家。\n总是全力以赴！
+artist=Sora
+
+< PIN_FLYING_CUTIES >
+name=飞翔的可爱者
+desc=授予使用可爱者进行过很多场游戏的玩家。\n演艺生涯前途无量！
+artist=Sora
+
+< PIN_FLYING_IRU >
+name=飞翔的依琉
+desc=授予使用依琉进行过很多场游戏的玩家。\n想要运动一下吗？
+artist=Sora
+
+< PIN_FLYING_MIRA >
+name=飞翔的米拉
+desc=授予使用米拉进行过很多场游戏的玩家。\n这个挂件就是英雄的象征。
+artist=Sora
+

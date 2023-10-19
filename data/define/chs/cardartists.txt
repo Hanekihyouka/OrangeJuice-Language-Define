@@ -123,9 +123,12 @@ EOkami
 tian nya
 
 < CARD_ARTIST_KOKOROTEN >
-心太
+ココロテン
 
 < CARD_ARTIST_SENCA >
 泉桦
+
+< CARD_ARTIST_USANEKORIN >
+UsanekoRin
 
 [EOF]

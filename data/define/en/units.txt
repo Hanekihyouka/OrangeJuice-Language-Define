@@ -555,4 +555,16 @@ descr=Cannot use the Evade command in battle. If you would take 1 damage while u
 name=Mimyuu (Jailbird)
 descr=When KO’d in battle, move to your Home panel.
 
+< CARD_UNIT_MOTHERP >
+name=Mother Poppo
+descr=When warping, take 1 damage. If active after warping, draw a card and gain Lvl x1 stars.
+
+< CARD_UNIT_DARKL >
+name=Dark Lulu
+descr=Lose your Lvl x2 stars when declining a challenge.
+
+< CARD_COOP_UNIT_DARKL >
+name=Dark Lulu
+descr=Lose your Lvl x1 stars when declining a challenge.
+
 [EOF]

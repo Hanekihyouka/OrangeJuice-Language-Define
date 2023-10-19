@@ -2,6 +2,10 @@
 name=Deceptively Disarmed
 descr=Skip next action.
 
+< CARD_UNLUCKYBEAST_EFFECT >
+name=Unlucky Beast
+descr=Skip next action.
+
 < CARD_STUFFED_EFFECT >
 name=Stuffed
 descr=Gain -1 ATK on next battle.

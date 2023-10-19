@@ -173,6 +173,9 @@ Ultimate Weapon Girl
 < SHOP_DLC_KRILAMIMYUURENEWAL >
 阴谋组的越狱包
 
+< SHOP_DLC_ALTEREGOPACK >
+一体两面包
+
 < SHOP_TOOLTIP_HOME >
 按类别图标查看商店。
 

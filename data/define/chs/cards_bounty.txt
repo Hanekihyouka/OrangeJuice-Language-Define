@@ -15,12 +15,12 @@ flavor=
 
 < CARD_BOUNTY_STRANGEMOUSSE_HUNT >
 name=青柠唠鼠
-descr=青柠唠鼠每次造成伤害都能偷取等级数的STAR。
+descr=青柠唠鼠每次造成伤害都能偷取等级数\n的STAR。
 flavor=
 
 < CARD_BOUNTY_POWERMOUSSE_HUNT >
 name=草莓唠鼠
-descr=草莓唠鼠每次造成伤害都能偷取等级数的STAR。
+descr=草莓唠鼠每次造成伤害都能偷取等级数\n的STAR。
 flavor=
 
 < CARD_BOUNTY_DOLL_HUNT >

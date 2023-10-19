@@ -555,4 +555,16 @@ descr=战斗时无法选择闪避。\n若你在使用防御时受到的伤害为
 name=囚犯米缪
 descr=被战斗击倒时，移动至自己的HOME格。
 
+< CARD_UNIT_MOTHERP >
+name=母亲啵噗
+descr=传送时受到1点伤害。\n若在传送后依然存活，抽取1张卡，获得\n等级数的STAR。
+
+< CARD_UNIT_DARKL >
+name=黑暗露露
+descr=拒绝进行挑战时失去你等级数×2的STAR。
+
+< CARD_COOP_UNIT_DARKL >
+name=黑暗露露
+descr=拒绝进行挑战时失去你等级数×1的STAR。
+
 [EOF]

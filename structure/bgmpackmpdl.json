@@ -1,0 +1,8 @@
+[
+  {"type":"directory","name":"audio/bgmpackmpdl.pak","size":4096,"contents":[
+    {"type":"file","name":"0.ogg","size":5333994,"md5":"8979794f75278d70ddf2fa01d57b551d"},
+    {"type":"file","name":"1.ogg","size":9301779,"md5":"8527e663c13df70ba14e4df3b51eabbc"}
+  ]}
+,
+  {"type":"report","directories":1,"files":2}
+]

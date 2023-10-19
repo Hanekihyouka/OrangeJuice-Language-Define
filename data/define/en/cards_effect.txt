@@ -601,4 +601,8 @@ descr=Number of times your slumber has been threatened.
 name=Make-Believe Prison Break
 descr=Cannot be challenged or be the target of other players' Boost cards. Immune to Trap cards, instant KO effects, and card damage from other players. Roll 2 dice for movement. Lose 1 stack for each panel traversed.
 
+< CARD_MOTHERPOWER_EFFECT >
+name=Mother Power
+descr=Gain Lvl x1 stars for every point of damage you take. If the effect ends or is replaced while active, heal all damage taken during the effect. Effect ends on KO.
+
 [EOF]

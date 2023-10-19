@@ -699,6 +699,16 @@ name=Make-Believe Prison Break
 descr=Move to your Home panel without activating it. Cannot be challenged or be the target of other players' Boost cards. Immune to Trap cards, instant KO effects, and card damage from other players. Roll 2 dice for movement. Effect ends after traveling 20 panels.
 flavor="Pitter-patter, pitter-patter!" ―Mimyuu
 
+< CARD_HYPER_MOTHERP >
+name=Mother Power
+descr=★Cost: Level x2\nEffect Duration: Player level.\nGain Lvl x1 stars for every point of damage you take. If the effect ends or is replaced while active, heal all damage taken during the effect.\nEffect ends on KO.
+flavor="This is a Mother's love, poppo." ―Mother Poppo
+
+< CARD_HYPER_DARKL >
+name=Lulu is an Unlucky Dragon
+descr=Can only be played with 2 HP or less. Trigger one of the following effects at random:\n-Roll a die. All other players lose the die number x (their Lvl) stars.\n-All other players discard a card at random.\n-All other players' HP is lowered to 2.
+flavor="Lulu is... an unlucky dragon..." ―Dark Lulu
+
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=Ultimate Weapon in the Sun
 descr=During this battle, gain +3 ATK.

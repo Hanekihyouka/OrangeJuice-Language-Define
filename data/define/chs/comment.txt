@@ -45,7 +45,7 @@
 要解锁%s的活动进度吗？
 
 < COM_SHOP_ITEMSOLDOUT >
-该物品已售出。
+该物品已售罄。
 
 < COM_SHOP_ITEMNOTINSTOCK >
 该物品尚未到货。

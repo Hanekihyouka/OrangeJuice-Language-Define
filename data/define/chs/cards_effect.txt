@@ -437,14 +437,14 @@ descr=如在回合开始时持续时间到达0，将会直接造成\n击倒。\n
 
 < CARD_DARKCHOCOMOUSSE_STAREATER >
 name=噬星者
-descr=当储备达到3层时，完全恢复自己的HP，\n并对所有角色降下灾厄。
+descr=当储备达到3层时，完全恢复自己的HP，\n并对所有角色降下欠条。
 
 < CARD_DARKCHOCOMOUSSE_AWAKENED >
 name=觉醒的噬星者
 descr=永久HP上限+1，ATK+1、DEF-1。
 
 < CARD_CHOCOLATEDOOM_EFFECT >
-name=灾厄
+name=欠条
 descr=如在回合开始时持续时间到达0，\n黑暗巧克力唠鼠将会偷取你等级×10的STAR\n并获得1层噬星者。\n击败效果来源或倒下时移除效果。
 
 < CARD_SPIKEDSHIELD_EFFECT >
@@ -600,5 +600,9 @@ descr=你的睡眠遭受威胁的次数。
 < CARD_PRISONBREAK_EFFECT >
 name=假想越狱
 descr=无法被挑战或被其他玩家的增益卡指定为目标。\n免疫来自其他玩家的陷阱卡、立即击倒效果与\n卡片伤害。\n移动骰的个数为2个。\n每移动1格失去1层。
+
+< CARD_MOTHERPOWER_EFFECT >
+name=母亲之力
+descr=你受到的每点伤害使你获得等级数的STAR。\n当效果在存活时结束或被刷新，恢复效果期间\n受到的所有伤害。\n倒下时效果结束。
 
 [EOF]
