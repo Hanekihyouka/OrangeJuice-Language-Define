@@ -87,6 +87,15 @@
       {"type":"file","name":"tutorial_02.dat","size":262272,"md5":"fe898628df5d70b3df8543ced914b2b7"},
       {"type":"file","name":"whatsthis.dat","size":262272,"md5":"357fbc0e801fe0bdfdc56cd14e403051"}
     ]},
+    {"type":"directory","name":"halloween2018","size":4096,"contents":[
+      {"type":"file","name":"logo.dat","size":524416,"md5":"9de81af3e275840573cf182d9c5c0e84"},
+      {"type":"file","name":"pumpkin.dat","size":1048704,"md5":"846729eec588c0f70ad837ab0b1192e9"},
+      {"type":"file","name":"tutorial_01.dat","size":262272,"md5":"5e3794a7739bf3574361d43d98e9fec3"},
+      {"type":"file","name":"tutorial_02.dat","size":262272,"md5":"78c623370e7e540dbe0e14276a83b6e5"},
+      {"type":"file","name":"tutorial_03.dat","size":262272,"md5":"69de3002cebd1eeab198b84e0c3f03e1"},
+      {"type":"file","name":"tutorial_04.dat","size":262272,"md5":"bf8757056d4b9d47e8873ca9162ae5ad"},
+      {"type":"file","name":"tutorial_05.dat","size":262272,"md5":"0f0243753cc2cebfb4adc498adc54c69"}
+    ]},
     {"type":"directory","name":"halloween2019","size":4096,"contents":[
       {"type":"file","name":"candy00.dat","size":4224,"md5":"64b2a6832dcdf7bde1f13c01caf04679"},
       {"type":"file","name":"candy01.dat","size":4224,"md5":"72509251597435ad72460c4565834758"},
@@ -994,5 +1003,5 @@
     ]}
   ]}
 ,
-  {"type":"report","directories":45,"files":904}
+  {"type":"report","directories":46,"files":911}
 ]
