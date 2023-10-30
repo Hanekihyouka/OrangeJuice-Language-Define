@@ -112,7 +112,7 @@ descr=永久ATK+1，但DEF-1。只能购买一次。
 
 < ITEM_SMOKEBOMB >
 name=烟雾炸弹
-descr=储备效果\n在下一场战斗中，对手的ATK·DEF·EVD-1。
+descr=储备效果\n在下一场战斗中，对方的ATK·DEF·EVD-1。
 
 < ITEM_MERCENARY >
 name=佣兵

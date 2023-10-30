@@ -561,10 +561,10 @@ descr=传送时受到1点伤害。\n若在传送后依然存活，抽取1张卡�
 
 < CARD_UNIT_DARKL >
 name=黑暗露露
-descr=拒绝进行挑战时失去你等级数×2的STAR。
+descr=放弃挑战时失去你等级数×2的STAR。
 
 < CARD_COOP_UNIT_DARKL >
 name=黑暗露露
-descr=拒绝进行挑战时失去你等级数×1的STAR。
+descr=放弃挑战时失去你等级数×1的STAR。
 
 [EOF]

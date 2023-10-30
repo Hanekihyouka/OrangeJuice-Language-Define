@@ -105,7 +105,7 @@
 5=Having romantic feelings for a boy named Kyupita, Kyousuke is in persistent pursuit of QP who's the spitting image of the boy he's in love with.
 
 < LORE_KRILA >
-1=Krilalaris is a 13-year old girl living in abject poverty, often seen suffering from pangs of hunger and carrying around plush toys. She's a member of the prankster team Waruda.
+1=Krilalaris is a 13-year old girl living in abject poverty, often seen suffering from pangs of hunger and carrying around plush toys. Member of the prankster team Waruda.
 2=Likes: Stew\nDislikes: Pickled food
 3=She is blessed with a strong case of chuunibyou, AKA eighth-grade syndrome, and you can always find her garbed in a gothic lolita style dress.
 4=Krilalaris believes using words like "blood" and "darkness" makes her look cool. Her true self is just a goofy and awkward girl.

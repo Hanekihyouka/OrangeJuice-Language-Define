@@ -45,7 +45,7 @@ BOSS出现了！
 %s发怒了！
 
 < GAME_MESSAGE_COOP_TERROR_EVENT >
-可以用格子挑战%s了！
+可以通过格子挑战%s了！
 
 < GAME_MESSAGE_COOP_ANNOUNCE_ABILITY >
 %s要在下一个回合使用%s了！
@@ -72,7 +72,7 @@ BOSS出现了！
 陷阱卡发动。
 
 < GAME_MESSAGE_CARDEFFECTSTOCKED >
-卡片效果已储备。
+已储备卡片效果。
 
 < GAME_MESSAGE_STOCKEFFECT >
 储备效果发动。
@@ -84,7 +84,7 @@ BOSS出现了！
 复活！
 
 < GAME_MESSAGE_REVIVEFAIL >
-复活失败了……
+复活失败……
 
 < GAME_MESSAGE_CHOOSETARGET >
 选择目标玩家。
@@ -107,10 +107,10 @@ BOSS出现了！
 巧克力狂热！
 
 < GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_SUCCESS >
-巧克力成功储备！
+成功存放巧克力！
 
 < GAME_MESSAGE_VALENTINE2018_CHOCOLATESTORE_FAIL >
-没有足够的巧克力可以储备……
+巧克力不足，无法存放……
 
 < GAME_MESSAGE_HLWN2018_CHOOSECANDY >
 选择一个糖果。
@@ -125,7 +125,7 @@ BOSS出现了！
 选择想要投掷的格子。
 
 < GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_SINGLE_CARD >
-选择想要投掷的目标格或使用卡片。
+选择想要投掷的格子或使用卡片。
 
 < GAME_MESSAGE_XMAS2018_SNOWFIGHT_ATTACK_MULTIPLE >
 选择想要投掷哪些格子。
@@ -143,10 +143,10 @@ BOSS出现了！
 顺时针旋转
 
 < GAME_MESSAGE_XMAS2018_CASTLE_PLACE >
-放置碎片
+放置图块
 
 < GAME_MESSAGE_XMAS2018_CASTLE_CHANGE >
-更换碎片
+更换图块
 
 < GAME_MESSAGE_SHOPSTOP >
 要停在商店吗？
@@ -158,7 +158,7 @@ BOSS出现了！
 速度加快！
 
 < GAME_MESSAGE_TELEPORT >
-选择你想要传送到的格子。
+选择你想要传送至的格子。
 
 < GAME_MESSAGE_SELECT_PANEL >
 选择一个格子。

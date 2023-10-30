@@ -318,7 +318,7 @@
 打倒敌方玩家可偷取他们手中一半的\n巧克力。
 
 < PLAYMENU_EVENT_VALENTINE2018_INSTRUCTION_03 >
-当持有不少于500个巧克力时，将其储备于HOME格以防止被盗。
+当持有至少500个巧克力时，可以将其存放于\nHOME格以避免被盗。
 
 < PLAYMENU_EVENT_VALENTINE2018_COMPLETE >
 全世界的甜点被拯救了！\n（至少这一次……）

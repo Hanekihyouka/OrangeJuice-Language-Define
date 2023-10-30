@@ -150,7 +150,7 @@ flavor=「因为你不在了，\n所以我代替你成为了最终兵器。」�
 
 < CARD_HYPER_COOP_NONAME >
 name=统治者
-descr=战斗结束，对手转而与希夫机器人战斗。\n只能在对手是BOSS时使用。
+descr=战斗结束，对方转而与希夫机器人战斗。\n只能在对方是BOSS时使用。
 flavor=「哈哈哈，我的朋友来啦！」—NoName
 
 < CARD_HYPER_COOP_POPPO >
@@ -170,12 +170,12 @@ flavor=「嘛呜呜呜哩呀呀呀呀呀！！」—纱季
 
 < CARD_HYPER_COOP_SHAM >
 name=三角力场
-descr=这场战斗中对手受到以下效果：\n骰子投出的数值为1。
+descr=这场战斗中对方受到以下效果：\n骰子投出的数值为1。
 flavor=「既然你无论如何都不肯回去，\n那我就只好不择手段把你带回去了！」—夏姆
 
 < CARD_HYPER_COOP_SHERRY >
 name=变化无常的风车
-descr=与BOSS进行对手先攻的战斗。\n战斗中EVD+1。
+descr=与BOSS进行对方先攻的战斗。\n战斗中EVD+1。
 flavor=「我们只是，想要自由地飞翔而已。」—雪莉
 
 < CARD_HYPER_COOP_STARBREAKER >
@@ -380,7 +380,7 @@ flavor=
 
 < CARD_BOSS_COOP_HEADLESS_CHICKEN >
 name=群鸡无首
-descr=BOSS的ATK+2直到它的回合结束。\n如果BOSS的HP少于50%，\n所有其他敌人ATK·EVD+2，并攻击\n3×3范围内的所有玩家。
+descr=BOSS的ATK+2直到它的回合结束。\n如果BOSS的HP少于50%，\n其他所有敌人ATK·EVD+2，并攻击\n3×3范围内的所有玩家。
 flavor=
 
 < CARD_BOSS_COOP_CALL_OF_CHICKEN >
@@ -900,7 +900,7 @@ flavor=
 
 < CARD_BOSS_COOP_WIRELESS_CHICKEN >
 name=遥控鸡
-descr=如果BOSS的HP少于50%，\nBOSS和所有其他敌人ATK+2，直到BOSS的\n回合结束，并攻击所有3×3范围内的玩家。\nBOSS获得受影响的玩家数×10的STAR。
+descr=如果BOSS的HP少于50%，\nBOSS和其他所有敌人ATK+2，直到BOSS的\n回合结束，并攻击所有3×3范围内的玩家。\nBOSS获得受影响的玩家数×10的STAR。
 flavor=
 
 < CARD_BOSS_COOP_ROPO_BARRAGE >

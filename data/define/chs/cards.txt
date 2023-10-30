@@ -86,7 +86,7 @@ flavor=「最重要的是，要活着回来。」—夏姆
 
 < CARD_TRAP_ASSAULT >
 name=突击
-descr=与设置这张卡的玩家进行战斗，\n对手先攻。
+descr=与设置这张卡的玩家进行战斗，\n对方先攻。
 flavor=「今天我一定要让你离开公会！」—彼特
 
 < CARD_TRAP_BADPUDDING >
@@ -186,8 +186,8 @@ flavor=「应该能阻止的……凭我的力量……」—须玖莉
 
 < CARD_EVENT_OHMYFRIEND >
 name=我的朋友呀
-descr=BOSS出现。
-flavor=「就算是机器也是有友情的。」—NoName
+descr=BOSS现身。
+flavor=「机械也是有友情的。」—NoName
 
 < CARD_EVENT_OUTOFAMMO >
 name=弹药用尽
@@ -296,7 +296,7 @@ flavor=「发 现 敌 人　　消 灭」—机器球
 
 < CARD_HYPER_SEAGULL >
 name=乔纳桑·速袭
-descr=移动至指定敌人所在的格子并与其进行战斗。\n战斗中对手的DEF-1。\n战斗结束后回合结束。
+descr=移动至指定敌人所在的格子并与其进行战斗。\n战斗中对方的DEF-1。\n战斗结束后回合结束。
 flavor=「咕哇啊啊啊！」—海鸥
 
 [EOF]

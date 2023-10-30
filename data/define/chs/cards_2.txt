@@ -1,7 +1,7 @@
 ﻿
 < CARD_BOOST_AMBUSH >
 name=偷袭
-descr=与同一格的所有其他角色进行战斗。\n战斗结束后回合结束。
+descr=与同一格的其他所有角色进行战斗。\n战斗结束后回合结束。
 flavor=「咕啊！」—夏姆
 
 < CARD_BOOST_LONELYCHARIOT >
@@ -166,7 +166,7 @@ flavor=「既然你无论如何都不肯回去，\n那我就只好不择手段�
 
 < CARD_HYPER_SHERRY >
 name=变化无常的风车
-descr=与所有玩家按顺序进行对手先攻的战斗。\n战斗中EVD+1。
+descr=按顺序与其他所有玩家进行对方先攻的战斗。\n战斗中EVD+1。
 flavor=「我们只是，想要自由地飞翔而已。」—雪莉
 
 < CARD_HYPER_STARBREAKER >
@@ -231,7 +231,7 @@ flavor=「我这就给你治疗，\n所以你就老实点吧。」—斩子
 
 < CARD_HYPER_NONAME >
 name=统治者
-descr=BOSS出现。\n当BOSS已经出现在场地上时，\n将此卡视为战斗卡：\n取消对手所选择的任何战斗卡。\n战斗结束，对手转而与BOSS战斗。\n只能在对手是玩家时使用。
+descr=BOSS现身。\n当BOSS已经出现在场地上时，\n将此卡视为战斗卡：\n取消对方所选择的任何战斗卡。\n战斗结束，对方转而与BOSS战斗。\n只能在对方是玩家时使用。
 flavor=「哈哈哈，我的朋友来啦！」—NoName
 
 < CARD_HYPER_CEOREPARQUE >
@@ -266,7 +266,7 @@ flavor=「这里是哪啦？」—杏
 
 < CARD_TRAP_WANTED >
 name=通缉令
-descr=储备效果\n被战斗击倒时对手获得双倍WIN。\n倒下时效果结束。
+descr=储备效果\n被战斗击倒时对方获得双倍WIN。\n倒下时效果结束。
 flavor=「在这边！我的鼻子是不会错的！」—QP
 
 < CARD_GIFT_PRICEOFPOWER >
@@ -316,7 +316,7 @@ flavor=「又没有不让海贼在天上飞的法律！」—铁基拉
 
 < CARD_HYPER_TEQUILA2 >
 name=飞天海贼
-descr=与设置这张卡的玩家\n所召唤的「海贼小弟」战斗。\n对手先攻。\n这张卡对设置它的玩家不会起效。
+descr=与设置这张卡的玩家\n所召唤的「海贼小弟」战斗。\n对方先攻。\n这张卡对设置它的玩家不会起效。
 flavor=「老大——！」—海贼小弟
 
 < CARD_HYPER_MEI >
@@ -426,7 +426,7 @@ flavor=「我的野兽的真实力量……\n如果是这样的就好了。」�
 
 < CARD_BATTLE_SINKORSWIM >
 name=赌命一搏
-descr=ATK·DEF·EVD-1。\n如果你在这场战斗中取得胜利，\n从对手手中夺取的STAR增加50%。
+descr=ATK·DEF·EVD-1。\n如果你在这场战斗中取得胜利，\n从对方手中夺取的STAR增加50%。
 flavor=「好了，来赌波大的吧！」—由希
 
 < CARD_BATTLE_SERIOUSBATTLE >
@@ -491,7 +491,7 @@ flavor=「只、只要能有加班费拿我也就\n不会抱怨什么……」�
 
 < CARD_BATTLE_DECEPTIVEDISARMING >
 name=虚假除械
-descr=这场战斗中，对手在使用战斗卡时，如果卡片\n不受行动顺序限制，其效果将变为对你起效。\n若成功发动，对手无需支付卡片COST。
+descr=这场战斗中，对方在使用战斗卡时，如果卡片\n不受行动顺序限制，其效果将变为对你起效。\n若成功发动，对方无需支付卡片COST。
 flavor=「里面竟然都是危险品！」—托玛特
 
 < CARD_EVENT_PETSNACKS >
@@ -606,7 +606,7 @@ flavor=「那个货物就让给你了。是的，让给你了。」\n—商人
 
 < CARD_HYPER_HIMEV2 >
 name=月夜之舞
-descr=成功闪避时，向对手造成你原本会受到的伤害。\n由月夜姬梦在满月期间（每5轮）使用时，\n可以造成双倍伤害，但无法使用防御。
+descr=成功闪避时，向对方造成你原本会受到的伤害。\n由月夜姬梦在满月期间（每5轮）使用时，\n可以造成双倍伤害，但无法使用防御。
 flavor=「来，一起跳舞吧。」—姬梦
 
 < CARD_HYPER_FERNET_NOBILITY >
@@ -646,7 +646,7 @@ flavor=「呵呵呵，好多星星啊。」—丽华
 
 < CARD_HYPER_WATTY >
 name=魔力解放
-descr=持续效果（3轮）\nDEF+2。硬化鳞片的最大层数增加至10。\n当你获得10层硬化鳞片时，击倒所有其他\n玩家。
+descr=持续效果（3轮）\nDEF+2。硬化鳞片的最大层数增加至10。\n当你获得10层硬化鳞片时，击倒其他所有\n玩家。
 flavor=「这、这很危险的……对不起。」—沃缇
 
 < CARD_HYPER_POMERANIUS >
@@ -676,7 +676,7 @@ flavor=「诶嘿嘿，尽管来吃好吃的东西吧。」\n—甜点评论者
 
 < CARD_HYPER_MIOFESTIVE >
 name=圣诞狱火
-descr=HP降为1。\n对所有其他玩家造成等同于你失去HP数量\n的伤害。\n每因此击倒1名玩家获得一张「魅樱的圣诞\n蛋糕」。
+descr=HP降为1。\n对其他所有玩家造成等同于你失去HP数量\n的伤害。\n每因此击倒1名玩家获得一张「魅樱的圣诞\n蛋糕」。
 flavor=「给各位展示一下地狱之景。」—节庆魅樱
 
 < CARD_BOOST_XMASCAKE >
@@ -691,7 +691,7 @@ flavor=「我劝你不要太吵闹……」—克里拉拉莉丝
 
 < CARD_HYPER_KRILAPAJAMA2 >
 name=当吾封印破除之时
-descr=对所有其他玩家和BOSS造成X+1点\n伤害，X等于苏醒层数。\n移除所有苏醒层数。\n每移除2层苏醒获得1点HP。
+descr=对其他所有玩家和BOSS造成X+1点\n伤害，X等于苏醒层数。\n移除所有苏醒层数。\n每移除2层苏醒获得1点HP。
 flavor=「道早安的时候到了……」—克里拉拉莉丝
 
 < CARD_HYPER_MIMYUUJAILBIRD >
@@ -706,7 +706,7 @@ flavor=「这就是母亲的包容力啵噗。」—母亲啵噗
 
 < CARD_HYPER_DARKL >
 name=露露是厄运之龙
-descr=只能在2HP及以下使用。\n随机获得以下一种效果：\n・投掷一枚骰子，所有其他玩家失去\n　骰子点数×其等级数的STAR。\n・所有其他玩家随机丢弃1张卡。\n・所有其他玩家HP降至2。
+descr=只能在2HP及以下使用。\n随机获得以下一种效果：\n・投掷一枚骰子，其他所有玩家失去\n　骰子点数×其等级数的STAR。\n・其他所有玩家随机丢弃1张卡。\n・其他所有玩家HP降至2。
 flavor=「露露是……厄运之龙……」—黑暗露露
 
 < CARD_HYPER_SUMMER2018_ATTACKER >

@@ -23,7 +23,7 @@
 <0022> Poh dear...
 <0023> This is going to affect my po-lans.
 <0024> *Yawn* This means Mother gets to rest a little longer.
-<0025> Mother's going on the poppensive.
+<0025> Mother's going on the poffensive.
 <0026> Mother'll unleash her fists now.
 <0027> Here's Mother's love for you.
 <0028> Take Mother's attack.
@@ -34,18 +34,18 @@
 <0033> Talk about healing.
 <0034> Mother heals herself whenever she can.
 <0035> Mother can't afford to po down here.
-<0036> Mother feels po-live again.
+<0036> Mother feels alive again.
 <0037> Between time and space...
 <0038> Mother simultaneously exists and does not exist.
 <0039> Mother is the universe.
 <0040> As far as this can take Mother...
-<0041> Poh no...
+<0041> Oh no...
 <0042> Mother's feet are not working.
 <0043> Maybe Mother's done for.
 <0044> Mother doesn't have time to be lying down.
 <0045> Mother's being very aggressive.
 <0046> Mother sometimes chooses violence...
-<0047> Mother'll po-resent her power to you...
+<0047> Mother'll present her power to you...
 <0048> No one can get in Mother's way.
 <0049> Violence is a no-po.
 <0050> Poh dear, your eyes look terrifying.
@@ -106,7 +106,7 @@
 <0105> It's begun now.
 <0106> This is the game Mother's most familiar with.
 <0107> Fufu, let's have some fun, everyone.
-<0108> Another po-ttle is about to start...
+<0108> Another battle is about to start...
 <0109> Mother of victory.
 <0110> No one can beat the smile of Mother.
 <0111> It's absurd to even think about beating Mother.

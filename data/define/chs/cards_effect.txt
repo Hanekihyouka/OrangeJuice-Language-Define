@@ -220,7 +220,7 @@ descr=永久DEF·EVD+1，但ATK-1。
 
 < CARD_SMOKEBOMB_EFFECT >
 name=烟雾炸弹
-descr=在下一场战斗中，对手的ATK·DEF·EVD-1。
+descr=在下一场战斗中，对方的ATK·DEF·EVD-1。
 
 < CARD_SHIELD_EFFECT >
 name=盾
@@ -301,7 +301,7 @@ flavor=
 
 < CARD_WANTED_EFFECT >
 name=通缉
-descr=被战斗击倒时对手获得双倍WIN。\n倒下时效果结束。
+descr=被战斗击倒时对方获得双倍WIN。\n倒下时效果结束。
 
 < CARD_SWEETDESTROYER_EFFECT >
 name=甜点的破坏者
