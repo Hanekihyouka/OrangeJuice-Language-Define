@@ -63,6 +63,8 @@
     {"type":"file","name":"candy_cane2.dat","size":262272,"md5":"c24764c35532224ae1003546881d2907"},
     {"type":"file","name":"castle128.dat","size":65664,"md5":"41f51219bdce76f70e70f7d14394d86a"},
     {"type":"file","name":"castle256.dat","size":262272,"md5":"cb1ace874600907140c057ebe743d3e7"},
+    {"type":"file","name":"ccp4heart00.dat","size":262272,"md5":"6d28a56f1d7062232470d1281e4584e4"},
+    {"type":"file","name":"ccp4heart01.dat","size":262272,"md5":"fb7c141ed50cee558965e7da25d46c72"},
     {"type":"file","name":"CCustomization.dat","size":1048704,"md5":"529f6d23766e866543763ed1e8e0b27d"},
     {"type":"file","name":"christsmasherdust.dat","size":65664,"md5":"b1b15a516c3e8166a78fd976123deadc"},
     {"type":"file","name":"christsmashersnowflake.dat","size":16512,"md5":"4c6b9f298914ea3b5011b715c05c8dce"},
@@ -328,13 +330,6 @@
     {"type":"file","name":"hairWall02.dat","size":262272,"md5":"ab4fad75aba52ca4bbe5cbc0440e5f76"},
     {"type":"file","name":"hairWall03.dat","size":262272,"md5":"fca28a333706a5f793c24664c39348fa"},
     {"type":"file","name":"hairWall04.dat","size":262272,"md5":"a6e8a48695c570e3c151f834db93570f"},
-    {"type":"file","name":"halloween2018_logo.dat","size":524416,"md5":"9de81af3e275840573cf182d9c5c0e84"},
-    {"type":"file","name":"halloween2018_pumpkin.dat","size":1048704,"md5":"846729eec588c0f70ad837ab0b1192e9"},
-    {"type":"file","name":"halloween2018_tutorial_01.dat","size":262272,"md5":"5e3794a7739bf3574361d43d98e9fec3"},
-    {"type":"file","name":"halloween2018_tutorial_02.dat","size":262272,"md5":"78c623370e7e540dbe0e14276a83b6e5"},
-    {"type":"file","name":"halloween2018_tutorial_03.dat","size":262272,"md5":"69de3002cebd1eeab198b84e0c3f03e1"},
-    {"type":"file","name":"halloween2018_tutorial_04.dat","size":262272,"md5":"bf8757056d4b9d47e8873ca9162ae5ad"},
-    {"type":"file","name":"halloween2018_tutorial_05.dat","size":262272,"md5":"0f0243753cc2cebfb4adc498adc54c69"},
     {"type":"file","name":"hammer.dat","size":65664,"md5":"97dae0b89895d348d462a53bbaa63b80"},
     {"type":"file","name":"hand_closed.dat","size":262272,"md5":"fbbeaf753cc4d29897d63d22ed4a73b8"},
     {"type":"file","name":"hand_open.dat","size":262272,"md5":"69cc0f5d9958d0afabbdd174c061495a"},
@@ -660,5 +655,5 @@
     {"type":"file","name":"yk_devilboost.dat","size":65664,"md5":"7df62d9f041225179ccce7ed6e678a89"}
   ]}
 ,
-  {"type":"report","directories":1,"files":658}
+  {"type":"report","directories":1,"files":653}
 ]

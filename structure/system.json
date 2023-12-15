@@ -89,7 +89,7 @@
     {"type":"file","name":"game_diceroll.dat","size":262272,"md5":"b8a4278f19e395245d40fedaf13e7ef0"},
     {"type":"file","name":"game_sys_efct.dat","size":65664,"md5":"a70026f9b57a28340fc201cf23ee769c"},
     {"type":"file","name":"game_sys_fld.dat","size":524416,"md5":"c349f7d5c9d87442b68fd7533ace8fba"},
-    {"type":"file","name":"game_sys_info.dat","size":1048704,"md5":"d3357fb804f2b284c275c40c7c4bda5c"},
+    {"type":"file","name":"game_sys_info.dat","size":1048704,"md5":"6781453bdf5d36146ca561d142e89ed6"},
     {"type":"file","name":"game_sys_menu.dat","size":1048704,"md5":"d1fa62ad5ee22dd0ae0ba85fca5473bd"},
     {"type":"file","name":"game_sys_ply2.dat","size":524416,"md5":"d46e1d50aaf1c321c45b713b8871e32b"},
     {"type":"file","name":"game_sys_ply.dat","size":524416,"md5":"8ffc5b89cddc6c7775a832c15ea56399"},

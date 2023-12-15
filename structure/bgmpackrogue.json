@@ -1,0 +1,7 @@
+[
+  {"type":"directory","name":"audio/bgmpackrogue.pak","size":4096,"contents":[
+    {"type":"file","name":"0.ogg","size":3236590,"md5":"3de325f9a271ff3a151dbe2f05ce0b38"}
+  ]}
+,
+  {"type":"report","directories":1,"files":1}
+]
