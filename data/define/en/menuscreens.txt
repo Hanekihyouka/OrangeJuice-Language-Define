@@ -153,6 +153,12 @@ Timer
 < MENU_LOBBYSETTING_CHAOSMUTATOR >
 Chaos Mutator
 
+< MENU_LOBBYSETTING_INVADER >
+Invader
+
+< MENU_LOBBYSETTING_PVPBOUNTIES >
+Player Bounties
+
 < MENU_BUTTON_GAME_RETURN >
 RETURN
 
@@ -229,8 +235,14 @@ BOMB
 < MENU_BUTTON_GAME_DASH >
 DASH
 
+< MENU_BUTTON_GAME_FORECAST >
+FORECAST
+
 < MENU_BUTTON_GAME_EAT >
 EAT
+
+< MENU_BUTTON_GAME_BOUNTY >
+BOUNTY
 
 < MENU_GAME_MIMYUUJ_HYPER_BREAKOUT >
 Break Out!
@@ -888,6 +900,9 @@ The two event counters correspond to the method of disposing of the cakes, and e
 < PLAYMENU_EVENT_WINTER2022_INSTRUCTION_06 >
 To unlock the event's ending, you must reach your personal goal of event games played, which will also give you a prize independent of the global event progress.
 
+< PLAYMENU_EVENT_WINTER2022_COMPLETE_01 >
+The world has been saved! Everyone can happily enjoy tasty Christmas cakes again instead of whatever that was! You can still keep searching for leftover cakes. 
+
 < PLAYMENU_EVENT_WINTER2022_COMPLETE_02 >
 A new cake trend is here! Everyone can enjoy Mio's fashionable creations around the world! You can still keep searching for more cakes if you haven't had your fill. 
 
@@ -1007,7 +1022,7 @@ Event rewards for %s have been added to the shop!
 FREE THIS WEEK
 
 < MENU_WEEKLY_FREE_TOOLTIP >
-You may play using these 2 DLC or bonus characters for free this week.\nAnnouncer voices for them can also be used.
+You may play using these 2 DLC or bonus characters for free this week.\nCharacter and announcer voices for them can also be used.
 
 < MENU_WORKSHOP_THUMBNAIL_REQUIRED >
 A custom thumbnail is required for publishing your mod.\n\nRefer to the modding documentation for more information.
@@ -1146,5 +1161,8 @@ Once you reach 50 online games with a unit, you will unlock their respective pla
 
 < MENU_CODEX_INSTRUCTION_4 >
 We hope you will enjoy this new feature. Feel free to post your feedback on the Steam forums, or our Discord server!
+
+< MENU_NORMABOARD >
+Norma Upgrade
 
 [EOF]

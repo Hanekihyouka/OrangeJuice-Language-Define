@@ -495,6 +495,14 @@ descr=Ignore any Trap card landed on when your HP is full or higher.
 name=Watty
 descr=After battle, gain 1 stack of Hardened Scales for every 2 points of damage reduced by using Defend (max 5).\n(For 3 Chapters: gain +1 ATK per stack. Effect expires on KO).
 
+< CARD_UNIT_LOSTROGUE >
+name=The Lost Rogue
+descr=Cannot be damaged or KO'd outside of battle. Challenge other units when passing by them. In battle, can perform Critical Hits at a 25% rate.\nEvery 5 turns, deal 2 damage to units within 1 radius of 3 random panels.
+
+< CARD_UNIT_SHADYMERCHANT >
+name=Shady Merchant
+descr=Can sell items to players. Immune to events and card effects.
+
 < CARD_UNIT_SWEETCREATOR >
 name=Sweet Creator
 descr=When anyone else plays a Sweets type non-trap card, or activates a Sweets type trap card, gain stars equal to 2x Lvl of the card.

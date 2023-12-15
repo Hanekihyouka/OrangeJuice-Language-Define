@@ -127,17 +127,40 @@
 // (mio)
 <0041> That's lovely. Bring it on, all of you. Nobody can stop me when I'm furious ♥
 
-<0042>
-<0043>
-<0044>
-<0045>
-<0046>
-<0047>
-<0048>
-<0049>
-<0050>
-<0051>
-<0052>
+// ========= Scene:  Ending 1 (Sweet Gods win) =========
+
+// (sweetcreator)
+<0042> It's our massive victory!
+
+// (mio)
+<0043> *Sob* I just wanted to see everyone enjoy my cake...
+
+// (sweeteater)
+<0044> I don't think you're lying about loving sweets, but you need to admit you're not a very skilled pastrymaker...
+
+// (sweetblogger)
+<0045> We can teach you how to make cake.
+
+// (sweetmaker)
+<0046> You seem to know the basics, so I'll bet you'll get better quickly enough!
+
+// (mio)
+<0047> You mean it?
+
+// (sweetbreaker)
+<0048> Of course, because we're the Sweet Gods.
+
+// (sweetguardian)
+<0049> If you become a better pastry chef, you'll be happy and we will be happy too!
+
+// (mio)
+<0050> Okay...! Teach me how ♥
+
+// (sweetcreator)
+<0051> Alright, we're going to get back to my place and make some cake!
+
+// (everyone)
+<0052> Yeah!
 
 // ========= Scene:  Ending 2 (Mio wins) =========
 
