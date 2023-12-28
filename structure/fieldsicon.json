@@ -64,6 +64,8 @@
     {"type":"file","name":"field_tomomo.dat","size":1048704,"md5":"65c2c6bf12eb7e55355ad0642fe879b3"},
     {"type":"file","name":"field_training_256.dat","size":262272,"md5":"9502e6aba65dbe6e4c7b6e02b5108ade"},
     {"type":"file","name":"field_training.dat","size":1048704,"md5":"7bd3b0451c930e4bff75feba4d8b58d2"},
+    {"type":"file","name":"field_void_256.dat","size":262272,"md5":"4d597f48b0301a0bb1e9c61ecad61433"},
+    {"type":"file","name":"field_void.dat","size":1048704,"md5":"3a8d03ad6c7a07b8b333de965a2b1b55"},
     {"type":"file","name":"field_vortex_256.dat","size":262272,"md5":"2d5ec14effb39be0f3c5758f094592b6"},
     {"type":"file","name":"field_vortex.dat","size":1048704,"md5":"a1bfaba5b4bbdae6af02e225b7139ed0"},
     {"type":"file","name":"field_wander_256.dat","size":262272,"md5":"ae794ba13086a738f7a655551e71cb7a"},
@@ -82,5 +84,5 @@
     {"type":"file","name":"field_workshop.dat","size":1048704,"md5":"0b83f7d8f5347d8ee8ca46f91b4a659f"}
   ]}
 ,
-  {"type":"report","directories":1,"files":80}
+  {"type":"report","directories":1,"files":82}
 ]

@@ -125,6 +125,12 @@
     {"type":"file","name":"ellie_12_03.dat","size":262272,"md5":"0f5aadde599c3d2f9066b9b90cf4fef3"},
     {"type":"file","name":"ellie_12_04.dat","size":262272,"md5":"32ec1b3c9a5ee37d52e264c06394ea8a"},
     {"type":"file","name":"ellie_12_05.dat","size":262272,"md5":"39fffe7d43c922922ca8974316c7e59e"},
+    {"type":"file","name":"elliehyper_00_00.dat","size":262272,"md5":"550916a59bf63b7f16d1e9a3c8d7c970"},
+    {"type":"file","name":"elliehyper_00_01.dat","size":262272,"md5":"b1fbd9023aa0372b93a209de485aa512"},
+    {"type":"file","name":"elliehyper_00_02.dat","size":262272,"md5":"fe61c7160e2ae5965a1c808f9eb8f3bd"},
+    {"type":"file","name":"elliehyper_00_03.dat","size":262272,"md5":"d31b1869f0edeca199d9d0816a166b0f"},
+    {"type":"file","name":"elliehyper_00_04.dat","size":262272,"md5":"8affec932b5dcb0a1ebfaea17b290435"},
+    {"type":"file","name":"elliehyper_00_05.dat","size":262272,"md5":"f5eb905be62aba64d6d842768e7e11a1"},
     {"type":"file","name":"fernet_00_00.dat","size":262272,"md5":"dbcd056e06748e4a93cac314ea3e9c2d"},
     {"type":"file","name":"fernet_00_01.dat","size":262272,"md5":"689147ebccbd18dc6f12224b0833c372"},
     {"type":"file","name":"fernet_00_02.dat","size":262272,"md5":"198e86000199c828c94e087597728b03"},
@@ -199,6 +205,12 @@
     {"type":"file","name":"kai_10_03.dat","size":262272,"md5":"e32f67c2679e45424d94d525873d165f"},
     {"type":"file","name":"kai_10_04.dat","size":262272,"md5":"850cb2ac97789bf03b8febfc27770dec"},
     {"type":"file","name":"kai_10_05.dat","size":262272,"md5":"23a5f9fb27736b4071dcc1477033ada9"},
+    {"type":"file","name":"kaihero_00_00.dat","size":262272,"md5":"bab055a2e7790722bfe7fee872a6f599"},
+    {"type":"file","name":"kaihero_00_01.dat","size":262272,"md5":"1352aa000f8e632142a3b3b56795cf7e"},
+    {"type":"file","name":"kaihero_00_02.dat","size":262272,"md5":"7a8b3b30df6fb044c3aa14f4664c09a7"},
+    {"type":"file","name":"kaihero_00_03.dat","size":262272,"md5":"330f0052ce8ddb771c441825ce2d88d8"},
+    {"type":"file","name":"kaihero_00_04.dat","size":262272,"md5":"d989a7d3fc852aa991b17f89ff029719"},
+    {"type":"file","name":"kaihero_00_05.dat","size":262272,"md5":"cdc7b76f35ecf336fb234c14f0bd8290"},
     {"type":"file","name":"kiriko_00_00.dat","size":262272,"md5":"618c7ee59cc83e873cba8b35714d7c40"},
     {"type":"file","name":"kiriko_00_01.dat","size":262272,"md5":"1554b3bad090268a3ac9582b1cc5c0d2"},
     {"type":"file","name":"kiriko_00_02.dat","size":262272,"md5":"d7b38cea716a3e82c7ff7d400a4adfff"},
@@ -787,5 +799,5 @@
     {"type":"file","name":"yuuki_00_01.dat","size":262272,"md5":"77c799cd8b24e13a9ae3659ada8fb6ee"}
   ]}
 ,
-  {"type":"report","directories":1,"files":785}
+  {"type":"report","directories":1,"files":797}
 ]

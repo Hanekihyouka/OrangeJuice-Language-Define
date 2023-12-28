@@ -43,6 +43,7 @@
     {"type":"file","name":"dice_cow.dat","size":262272,"md5":"ae39708b703fa44fb981d7cfbbd80ce4"},
     {"type":"file","name":"dice_darkcitadel.dat","size":262272,"md5":"0499089358ce040255a3a422219b4648"},
     {"type":"file","name":"dice_earth.dat","size":262272,"md5":"00166165b210f2fa333055614929f0a9"},
+    {"type":"file","name":"dice_ellielulu.dat","size":262272,"md5":"b18329a9d5aeb9b2572c68d2f79aa222"},
     {"type":"file","name":"dice_fish.dat","size":262272,"md5":"38cffac834c950f63335d097ccca7603"},
     {"type":"file","name":"dice_gingerbread.dat","size":262272,"md5":"6a122ac776350feaa5d054d6c0d0d4e6"},
     {"type":"file","name":"dice_gold.dat","size":262272,"md5":"1a9bae1a6c3fbd8bfd036c38e84d770c"},
@@ -89,7 +90,7 @@
     {"type":"file","name":"game_diceroll.dat","size":262272,"md5":"b8a4278f19e395245d40fedaf13e7ef0"},
     {"type":"file","name":"game_sys_efct.dat","size":65664,"md5":"a70026f9b57a28340fc201cf23ee769c"},
     {"type":"file","name":"game_sys_fld.dat","size":524416,"md5":"c349f7d5c9d87442b68fd7533ace8fba"},
-    {"type":"file","name":"game_sys_info.dat","size":1048704,"md5":"d3357fb804f2b284c275c40c7c4bda5c"},
+    {"type":"file","name":"game_sys_info.dat","size":1048704,"md5":"6781453bdf5d36146ca561d142e89ed6"},
     {"type":"file","name":"game_sys_menu.dat","size":1048704,"md5":"d1fa62ad5ee22dd0ae0ba85fca5473bd"},
     {"type":"file","name":"game_sys_ply2.dat","size":524416,"md5":"d46e1d50aaf1c321c45b713b8871e32b"},
     {"type":"file","name":"game_sys_ply.dat","size":524416,"md5":"8ffc5b89cddc6c7775a832c15ea56399"},
@@ -199,15 +200,15 @@
     {"type":"file","name":"title_logo.dat","size":1048704,"md5":"579648e668fb046f659bbf4640c40164"},
     {"type":"file","name":"title_system.dat","size":262272,"md5":"f985b204d98057edee9b944f9fb0ba17"},
     {"type":"file","name":"tony_menu.dat","size":262272,"md5":"f1ef2a936e10290add071b387add39ed"},
-    {"type":"file","name":"tPlateBackgrounds.dat","size":4194432,"md5":"185dc3692b29738ecff5bd332650331d"},
+    {"type":"file","name":"tPlateBackgrounds.dat","size":4194432,"md5":"af6d77489f0de3a09ac69473251f0557"},
     {"type":"file","name":"tPlatePins.dat","size":1048704,"md5":"e90a1289dde9a3935efcb3817ace196d"},
     {"type":"file","name":"ui_buttons.dat","size":1048704,"md5":"56d43e6757d1accf3038243d02853382"},
     {"type":"file","name":"user_system.dat","size":1048704,"md5":"0d955b9898c31545d2b6513f9898f661"},
     {"type":"file","name":"whitemask.dat","size":262272,"md5":"62a50dddc666e24ebe4cacca665ecf62"},
     {"type":"file","name":"windows.dat","size":262272,"md5":"06111b3dd1446d70b65f0d150fb35c3a"},
-    {"type":"file","name":"wld_pic.dat","size":65664,"md5":"b9c4d8204596d7fae3899058544c3e7a"},
+    {"type":"file","name":"wld_pic.dat","size":262272,"md5":"4dbae86586d1e72dae25cd738dcd1bb7"},
     {"type":"file","name":"word_input.dat","size":1048704,"md5":"d14e7461e05386cdd1084dafba891c05"}
   ]}
 ,
-  {"type":"report","directories":1,"files":207}
+  {"type":"report","directories":1,"files":208}
 ]

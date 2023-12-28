@@ -55,8 +55,9 @@
     {"type":"file","name":"sweetbreaker.dat","size":16777344,"md5":"234e715a644b17249e63d8be249690d0"},
     {"type":"file","name":"valentines2018.dat","size":16777344,"md5":"a7efd185a6cd00ab8bbcdc8d9f607d89"},
     {"type":"file","name":"winter2020.dat","size":16777344,"md5":"4036350b642e85ba8bb2ab836e5584ab"},
-    {"type":"file","name":"winter2022_2.dat","size":16777344,"md5":"64abafe4e13ad2d99bac6a8e46bc71e3"}
+    {"type":"file","name":"winter2022_2.dat","size":16777344,"md5":"64abafe4e13ad2d99bac6a8e46bc71e3"},
+    {"type":"file","name":"winter2023.dat","size":16777344,"md5":"82eb2725ec6be4ff780580c6b8bb7555"}
   ]}
 ,
-  {"type":"report","directories":6,"files":46}
+  {"type":"report","directories":6,"files":47}
 ]

@@ -63,7 +63,6 @@
     {"type":"file","name":"cardpack_ccp_04_4.dat","size":65664,"md5":"81de2068c9148c02916a96244c117a36"},
     {"type":"file","name":"cardpack_ccp_04_5.dat","size":65664,"md5":"a32cd8c590b0709c5e326938f6ca3241"},
     {"type":"file","name":"cardpack_ccp_04_6.dat","size":65664,"md5":"993ea094c43efe4b8d9c225d0a5a03da"},
-    {"type":"file","name":"cardpack_ccp_04.dat","size":65664,"md5":"8cb13e4934adfa7366fad2328abe4f4e"},
     {"type":"file","name":"cardpack_dlc_01.dat","size":65664,"md5":"1725a7b5e826af164588f776abb741e8"},
     {"type":"file","name":"cardpack_dlc_02.dat","size":65664,"md5":"681d4137376e9e0c68f10c0f27210ce7"},
     {"type":"file","name":"cardpack_dlc_03.dat","size":65664,"md5":"af885fe39740b5a5837492d27d1da65a"},
@@ -326,6 +325,8 @@
     {"type":"file","name":"c_npoppo_xm.dat","size":65664,"md5":"9e55458a6673427b66be96a3a743bb8c"},
     {"type":"file","name":"conv_all_pig_orange.dat","size":65664,"md5":"f9187f0f2a646bd25b09a6499177f123"},
     {"type":"file","name":"conv_all_pig_star.dat","size":65664,"md5":"ff30863cea3ee1389567436232cdba56"},
+    {"type":"file","name":"conv_cake_orange.dat","size":65664,"md5":"153cc1216fdd7b9d8074cd6de40abf26"},
+    {"type":"file","name":"conv_cake_star.dat","size":65664,"md5":"40519cd925972f1b4d0ad137c86b9bf4"},
     {"type":"file","name":"conv_candy_orange.dat","size":65664,"md5":"a3374b82ffb540c649945a6f2bcfbf52"},
     {"type":"file","name":"conv_candy_star.dat","size":65664,"md5":"2b9b6986099e31018061d7db24a68850"},
     {"type":"file","name":"conv_pig_orange.dat","size":65664,"md5":"38d0c654a080199c2fefcd3feb02c457"},
@@ -641,6 +642,7 @@
     {"type":"file","name":"field_29.dat","size":65664,"md5":"8ead2bfd8c9c55aae3b58169d85cf76a"},
     {"type":"file","name":"field_30.dat","size":65664,"md5":"742493c6a6654ccd011bf4a8d6330c22"},
     {"type":"file","name":"field_31.dat","size":65664,"md5":"1dc9db373a075f977f43b65bbae52d78"},
+    {"type":"file","name":"field_32.dat","size":65664,"md5":"455f2138a3e5cc7744dbc68a5788508a"},
     {"type":"file","name":"g_dark2.dat","size":150656,"md5":"73ff7d3c9c68bad4f63b6c3db612227c"},
     {"type":"file","name":"g_dark3.dat","size":235648,"md5":"4b568d623b8c5687f3520bd556525e1f"},
     {"type":"file","name":"g_dark.dat","size":65664,"md5":"6f5c8d9694eac6e1dc7d84d9f172ed64"},
@@ -732,7 +734,6 @@
     {"type":"file","name":"preview_cardpack_ccp_04_4.dat","size":1048704,"md5":"402a42b6078297a8740cd0d54d16106d"},
     {"type":"file","name":"preview_cardpack_ccp_04_5.dat","size":1048704,"md5":"11e87ca8b5eae1d13673d63d1080bab1"},
     {"type":"file","name":"preview_cardpack_ccp_04_6.dat","size":1048704,"md5":"e79b9008b26c85978bd49280e39bef41"},
-    {"type":"file","name":"preview_cardpack_ccp_04.dat","size":1048704,"md5":"388fa482d73974af6776a1607565533a"},
     {"type":"file","name":"preview_cardpack_dlc_01.dat","size":1048704,"md5":"eafd61d4617d5dea40b4c7b93d0675b1"},
     {"type":"file","name":"preview_cardpack_dlc_02.dat","size":1048704,"md5":"e14c7bd86fe001f72ea7b693cf39f4cf"},
     {"type":"file","name":"preview_cardpack_dlc_03.dat","size":1048704,"md5":"4ff7b8d01a6a320f5a89ff7181dadc07"},
@@ -742,5 +743,5 @@
     {"type":"file","name":"re_beachparty.dat","size":262272,"md5":"f656dbf065215ae2ced65d4d25fc76ce"}
   ]}
 ,
-  {"type":"report","directories":1,"files":740}
+  {"type":"report","directories":1,"files":741}
 ]

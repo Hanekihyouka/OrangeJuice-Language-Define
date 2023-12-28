@@ -85,6 +85,7 @@
     {"type":"file","name":"field_tomomo.fld","size":968,"md5":"fd0fe731c7b68996458d5b531fb46374"},
     {"type":"file","name":"field_training_co.fld","size":1800,"md5":"9d6c611083631741a85ed96f48ab76ee"},
     {"type":"file","name":"field_training.fld","size":1800,"md5":"549381449cb809d5482cbf6e5abfa05c"},
+    {"type":"file","name":"field_void.fld","size":1920,"md5":"3ebcca809586cc6dbc830815c5a8bf62"},
     {"type":"file","name":"field_vortex_co.fld","size":968,"md5":"74f3c5c36bb796ff57f4229a20f8ad83"},
     {"type":"file","name":"field_vortex.fld","size":968,"md5":"c44e3e9dd8ae31e62135348da89924a2"},
     {"type":"file","name":"field_wander_co.fld","size":968,"md5":"7cdb333cdbdf6d368eba5e07689ce987"},
@@ -154,6 +155,8 @@
     {"type":"file","name":"training_e.dat","size":262272,"md5":"b14075a2308be0c82f6bf81608fa69fa"},
     {"type":"file","name":"training_h.dat","size":16512,"md5":"665c427358b678fbe009189d4c7a8896"},
     {"type":"file","name":"training_l.dat","size":16512,"md5":"02316219629459ac92bb878066bf76ed"},
+    {"type":"file","name":"void_h.dat","size":1048704,"md5":"1047692dc60f00d8c35ea16d9ff5930e"},
+    {"type":"file","name":"void_l.dat","size":1048704,"md5":"9623eca19b326c4304d43b33d9f95571"},
     {"type":"file","name":"vortex_h.dat","size":262272,"md5":"4bb8edef841111becd7895dc62af2b5c"},
     {"type":"file","name":"vortex_l.dat","size":262272,"md5":"df85db95f1eae153b9ccb9477ae101c7"},
     {"type":"file","name":"wander_h.dat","size":65664,"md5":"62a7db84a552b1f4978e696a6c18063a"},
@@ -175,8 +178,11 @@
     {"type":"file","name":"worldmap_summer2022_l1.dat","size":4194432,"md5":"9fc66067303f6823d67d85471ead1a87"},
     {"type":"file","name":"worldmap_summer2022_l2.dat","size":4194432,"md5":"209ef3150142ed89b7c5a2a51b88c70b"},
     {"type":"file","name":"worldmap_summer2022_l3.dat","size":4194432,"md5":"3256a19b78194114618495a8e3936a93"},
-    {"type":"file","name":"worldmap_summer2022_l4.dat","size":4194432,"md5":"3d77172cc9fbd84e98c5bb1a1a5fab83"}
+    {"type":"file","name":"worldmap_summer2022_l4.dat","size":4194432,"md5":"3d77172cc9fbd84e98c5bb1a1a5fab83"},
+    {"type":"file","name":"worldmap_winter23.dat","size":4194432,"md5":"ce0acc834f98c074d5cbd45d706073d7"},
+    {"type":"file","name":"worldmap_winter23_l1.dat","size":4194432,"md5":"5a8b54f0523bc123ab0ee8892fb46e72"},
+    {"type":"file","name":"worldmap_winter23_l2.dat","size":4194432,"md5":"3b8e69b091c4e4a19f9e268e89e43bc9"}
   ]}
 ,
-  {"type":"report","directories":1,"files":176}
+  {"type":"report","directories":1,"files":182}
 ]
