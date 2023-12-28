@@ -92,6 +92,9 @@ QP　最终章
 < CAMPAIGN_EXTRA_SEVEN > 
 秘密的圣诞老人
 
+< CAMPAIGN_EXTRA_EIGHT >
+挑战神权
+
 < CAMPAIGN_STARBREAKER_ONE >
 星球破坏者　第1章
 
@@ -249,6 +252,9 @@ CPU角色的骰子数值较低。
 
 < CAMPAIGN_RONETEO_MESSAGE >
 已解锁附加关卡！推荐在进行此关卡前先完成「女子力」和「昔日的守护者」战役。
+
+< CAMPAIGN_WINTER2023_MESSAGE >
+已解锁附加关卡：%s！
 
 
 [EOF]

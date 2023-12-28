@@ -1,6 +1,6 @@
 < MIXER_AIR_RAID >
 name=空袭
-descr=在每轮开始时，所有角色受到\n1点伤害。
+descr=发动轮开始时，所有角色受到\n1点伤害。
 
 < MIXER_AMPLIFY >
 name=增幅
@@ -16,7 +16,7 @@ descr=在随机格子设置1个可见的\n炸弹、1～4轮后以十字爆炸。
 
 < MIXER_CHARITY >
 name=恩惠
-descr=在每轮开始时，所有玩家从卡堆\n抽取1张卡片。
+descr=发动轮开始时，所有玩家从卡堆\n抽取1张卡片。
 
 < MIXER_CONFUSION >
 name=混乱
@@ -32,19 +32,19 @@ descr=将1张陷阱卡设置在随机的格子\n上。
 
 < MIXER_MIRACLE >
 name=奇迹
-descr=奖励、掉落、移动和传送移动格\n的骰子个数变为2个。\n从遭遇格中获得2WIN。\n抽卡格抽取2张卡片。\n治疗格恢复2HP。
+descr=奖励、掉落、移动和传送移动格\n的骰子枚数变为2枚。\n从遭遇格中获得2WIN。\n抽卡格抽取2张卡片。\n治疗格恢复2HP。
 
 < MIXER_RANDOM_WARP >
 name=随机传送
-descr=在每轮开始时，所有角色传送至\n随机的格子。
+descr=发动轮开始时，所有角色传送至\n随机的格子。
 
 < MIXER_REGENERATION >
 name=恢复
-descr=在每轮开始时，所有角色恢复\n1点HP。
+descr=发动轮开始时，所有角色恢复\n1点HP。
 
 < MIXER_SPRINT >
 name=疾走
-descr=所有角色移动骰子个数变为\n2个。
+descr=所有角色移动骰枚数变为\n2枚。
 
 < MIXER_TREASURE >
 name=宝箱

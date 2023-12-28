@@ -110,3 +110,7 @@ descr=
 < FIELDEVENT_CHAOS_OVERINDULGENCE >
 name=Overindulgence
 descr=
+
+< FIELDEVENT_CONVERGENCE >
+name=Convergence
+descr=Current field will change to another random one.\n\nFrequency: Every 6th chapter.

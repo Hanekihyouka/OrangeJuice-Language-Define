@@ -58,6 +58,8 @@
 < MENU_BUTTON_STORY >
 故事
 
+< MENU_BUTTON_SKIPALL >
+全部跳过
 
 < MENU_BUTTON_REFRESH >
 刷新
@@ -850,7 +852,7 @@ QP还想多玩一会！夏日野兽复活了！
 每点移动点数都可以让你在活动地图上\n移动1格。
 
 < PLAYMENU_EVENT_PTS_INSTRUCTION_04 >
-移动点数会自动用于沿着当前的路线前进，\n直到遭遇岔路为止。\n你可以选择要从哪条路线前进。
+移动点数会自动用于沿当前的路线前进，\n直到遭遇岔路为止。\n你可以选择要从哪条路线前进。
 
 < PLAYMENU_EVENT_PTS_INSTRUCTION_05 >
 经过某些格子时将获得星星、橙子、随机装扮\n甚至活动奖励！
@@ -910,6 +912,33 @@ QP还想多玩一会！夏日野兽复活了！
 < PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_COMPLETE >
 你发现了艾莉所寻找的“宝藏”……\n可现在这又是怎么一回事呢？
 
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_MAIN >
+新的对手现身了！\n统治世界的神明想让这个世界迎来坏结局！\n快用你和露露共度的回忆来向她发起反击吧。
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_01 >
+进行任意模式游戏可获得记忆碎片，使用记忆\n碎片可以推进活动地图的进度！
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_02 >
+每日的首场游戏可以获得3个记忆碎片，之后\n每场游戏可获得1个记忆碎片。
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_03 >
+每个记忆碎片都可以让你在活动地图上\n前进1格。
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_04 >
+记忆碎片会自动用于沿当前的路线前进，\n直到遭遇岔路为止。\n你可以选择要从哪条路线前进。
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_05 >
+经过某些格子时将获得星星、橙子或随机装扮！
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_06 >
+你能回想起那些记忆，帮助露露克服心中的\n黑暗吗？
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_MAIN2 >
+最终决战正等待着你！\n前往附加关卡“挑战神权”把魅樱击败吧！
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_COMPLETE >
+你成功打破了神明设下的坏结局！\n前方还有着无尽的旅程！你可以继续前进收集\n更多奖励。
+
 < PLAYMENU_EVENT_NEXT_GOAL >
 下一个目标：
 
@@ -924,6 +953,9 @@ QP还想多玩一会！夏日野兽复活了！
 
 < PLAYMENU_EVENT_STORYREPLAYBUTTON_ENDING >
 结局
+
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_INTERLUDE >
+间歇
 
 < PLAYMENU_EVENT_BOUNTYHUNTERS_FAME > 
 声望：%d

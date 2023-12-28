@@ -92,6 +92,9 @@ Mio's Dark Citadel
 < CAMPAIGN_EXTRA_SEVEN > 
 Secret Santa
 
+< CAMPAIGN_EXTRA_EIGHT >
+Divine Punishment
+
 < CAMPAIGN_STARBREAKER_ONE >
 Star Breaker Episode 1
 
@@ -249,6 +252,9 @@ Back
 
 < CAMPAIGN_RONETEO_MESSAGE >
 Extra mission now available! We recommend finishing the Girl Power and Old Guardians campaigns before playing it.
+
+< CAMPAIGN_WINTER2023_MESSAGE >
+Extra mission now available: "%s"!
 
 
 [EOF]

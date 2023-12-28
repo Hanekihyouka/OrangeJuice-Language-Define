@@ -116,6 +116,9 @@ Lonely Railway
 < FIELD_CIRCUS >
 Circus
 
+< FIELD_VOID >
+The Void
+
 < FIELD_COOP_LAGOONFLIGHT >
 Lagoon Flight CO
 

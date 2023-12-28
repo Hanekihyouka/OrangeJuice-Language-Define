@@ -915,6 +915,33 @@ What are the Mousse guarding, and why...?
 < PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_COMPLETE >
 You have found the "treasure" Ellie was seeking for... but what is going on now?
 
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_MAIN >
+A new foe appears! The god of the world demands a bad ending! Recall those memories of the time you spent together to resist her.
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_01 >
+Play games in any game mode to receive Memory Fragments, then use them to progress on the event map!
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_02 >
+You will gain 3 Memory Fragments for your first game of the day, and an additional Memory Fragment every game.
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_03 >
+One Memory Fragment allows you to progress one panel on the event map.
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_04 >
+Memory Fragments will automatically be used to travel along the chosen path until a crossroads.\nIt's up to you which path you will take on the journey.
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_05 >
+Passing certain panels will grant you stars, oranges, or a random cosmetic!
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_06 >
+Can you recall those memories and help Lulu conquer her darkness?
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_MAIN2 >
+The final battle awaits! Defeat Mio in the Extra Mission "Divine Punishment"!
+
+< PLAYMENU_EVENT_WINTER2023_INSTRUCTION_COMPLETE >
+You have overcome the bad ending laid out by the god of the world! An endless journey lies ahead! You may continue on to collect more rewards.
+
 < PLAYMENU_EVENT_NEXT_GOAL >
 Next goal:
 
@@ -929,6 +956,9 @@ Beginning
 
 < PLAYMENU_EVENT_STORYREPLAYBUTTON_ENDING >
 Ending
+
+< PLAYMENU_EVENT_STORYREPLAYBUTTON_INTERLUDE >
+Interlude
 
 < PLAYMENU_EVENT_BOUNTYHUNTERS_FAME > 
 Fame: %d
