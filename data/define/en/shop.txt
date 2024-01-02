@@ -176,6 +176,9 @@ Waruda Prison Break Pack
 < SHOP_DLC_ALTEREGOPACK >
 Alter Ego Pack
 
+< SHOP_DLC_STARBAKERBREAKER >
+Star Baker Breaker
+
 < SHOP_TOOLTIP_HOME >
 Navigate the shop by category icons.
 
