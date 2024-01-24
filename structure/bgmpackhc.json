@@ -1,8 +1,0 @@
-[
-  {"type":"directory","name":"audio/bgmpackhc.pak","size":4096,"contents":[
-    {"type":"file","name":"0.ogg","size":2951651,"md5":"82840ecebf87a744c5d9d20b0ee4d5a0"},
-    {"type":"file","name":"1.ogg","size":3398980,"md5":"a4062e32eea142c4397dc48e1620cfb6"}
-  ]}
-,
-  {"type":"report","directories":1,"files":2}
-]

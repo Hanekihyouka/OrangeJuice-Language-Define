@@ -1,8 +1,0 @@
-[
-  {"type":"directory","name":"audio/bgmpackss.pak","size":4096,"contents":[
-    {"type":"file","name":"0.ogg","size":3099270,"md5":"e6972f6ed1ae185365f3936a3ba321c9"},
-    {"type":"file","name":"1.ogg","size":2178538,"md5":"a377c83de31c59d08bdaf52516322c0d"}
-  ]}
-,
-  {"type":"report","directories":1,"files":2}
-]

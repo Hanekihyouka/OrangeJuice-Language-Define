@@ -1,9 +1,0 @@
-[
-  {"type":"directory","name":"audio/bgmpackxmas2018.pak","size":4096,"contents":[
-    {"type":"file","name":"0.ogg","size":3345811,"md5":"25e92202fdf314fc3ffc0ed041f058e7"},
-    {"type":"file","name":"1.ogg","size":2609567,"md5":"0e763ac0d415e122f098ea63328fed8e"},
-    {"type":"file","name":"2.ogg","size":6471431,"md5":"1cd2ce6459523e9180a3a53b9d14be1a"}
-  ]}
-,
-  {"type":"report","directories":1,"files":3}
-]

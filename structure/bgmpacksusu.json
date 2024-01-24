@@ -1,8 +1,0 @@
-[
-  {"type":"directory","name":"audio/bgmpacksusu.pak","size":4096,"contents":[
-    {"type":"file","name":"0.ogg","size":16007544,"md5":"e5094b610e10d6f81b0be7e4fba31991"},
-    {"type":"file","name":"1.ogg","size":6803700,"md5":"b7cf6237bb8299b7d99785d0c790c2af"}
-  ]}
-,
-  {"type":"report","directories":1,"files":2}
-]
