@@ -262,6 +262,10 @@ descr=每层储备使MOV-1。
 name=重获新生
 descr=下次移动时骰子个数+1。
 
+< CARD_SUGURI46_ATK_EFFECT >
+name=追忆
+descr=ATK+1。
+
 < CARD_MAYNIECOUNT_EFFECT >
 name=愤怒值
 descr=在使用愤怒狂暴后，每层储备使\nATK·EVD+1。
@@ -603,6 +607,18 @@ descr=无法被挑战或被其他玩家的增益卡指定为目标。\n免疫来
 
 < CARD_MOTHERPOWER_EFFECT >
 name=母亲之力
-descr=你受到的每点伤害使你获得等级数的STAR。\n当效果在存活时结束或被刷新，恢复效果期间\n受到的所有伤害。\n倒下时效果结束。
+descr=你受到的每点伤害使你获得等级数的STAR。\n当效果在存活时结束或被刷新，恢复所有HP。\n倒下时效果结束。
+
+< CARD_HYPERMIRACLE_EFFECT >
+name=艾莉的超能奇迹
+descr=持续效果（2轮）\n在先攻的战斗中ATK+X。\n在后攻的战斗中DEF·EVD+X。\nX为完成目标的总次数。
+
+< CARD_MOMENTOFGLORY_EFFECT >
+name=前主角的光辉时刻
+descr=★COST（等级×10）\nHP降至1。\n持续效果（3轮）\nATK+4，EVD+5。
+
+< CARD_HKAIPASSIVE_EFFECT >
+name=最后一搏
+descr=因战斗外伤害使HP低于1点时，残留1点HP。\n若在下次你的回合结束时依然只有1点HP，\n则会被击倒。
 
 [EOF]

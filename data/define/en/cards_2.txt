@@ -701,13 +701,23 @@ flavor="Pitter-patter, pitter-patter!" ―Mimyuu
 
 < CARD_HYPER_MOTHERP >
 name=Mother Power
-descr=★Cost: Level x2\nEffect Duration: Player level.\nGain Lvl x1 stars for every point of damage you take. If the effect ends or is replaced while active, heal all damage taken during the effect.\nEffect ends on KO.
+descr=★Cost: Level x2\nEffect Duration: Player level.\nGain Lvl x1 stars for every point of damage you take. If the effect ends or is replaced while active, heal to full HP.\nEffect ends on KO.
 flavor="This is a Mother's love, poppo." ―Mother Poppo
 
 < CARD_HYPER_DARKL >
 name=Lulu is an Unlucky Dragon
 descr=Can only be played with 2 HP or less. Trigger one of the following effects at random:\n-Roll a die. All other players lose the die number x (their Lvl) stars.\n-All other players discard a card at random.\n-All other players' HP is lowered to 2.
 flavor="Lulu is... an unlucky dragon..." ―Dark Lulu
+
+< CARD_HYPER_HELLIE >
+name=Ellie's Hyper Miracle
+descr=Effect Duration: 2 chapters. Gain +X ATK in battle when attacker, and +X DEF and +X EVD when defender. X = your total Norma completed.
+flavor="I'll show you my strongest power ♡" ―Hyper Ellie
+
+< CARD_HYPER_HKAI >
+name=Ex-Protagonist's Moment of Glory
+descr=★Cost: Lvl x10. Lower your HP to 1. Effect Duration: 3 chapters. Gain +4 ATK and +5 EVD.
+flavor="You can't make an adult go overboard." ―Hero Kai
 
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=Ultimate Weapon in the Sun

@@ -701,13 +701,23 @@ flavor=「撒丫子跑呀！」—米缪
 
 < CARD_HYPER_MOTHERP >
 name=母亲之力
-descr=★COST（等级×2）\n持续效果（等级数轮）\n你受到的每点伤害使你获得等级数的STAR。\n当效果在存活时结束或被刷新，恢复效果期间\n受到的所有伤害。\n倒下时效果结束。
+descr=★COST（等级×2）\n持续效果（等级数轮）\n你受到的每点伤害使你获得等级数的STAR。\n当效果在存活时结束或被刷新，恢复所有HP。\n倒下时效果结束。
 flavor=「这就是母亲的包容力啵噗。」—母亲啵噗
 
 < CARD_HYPER_DARKL >
 name=露露是厄运之龙
 descr=只能在2HP及以下使用。\n随机获得以下一种效果：\n・投掷一枚骰子，其他所有玩家失去\n　骰子点数×其等级数的STAR。\n・其他所有玩家随机丢弃1张卡。\n・其他所有玩家HP降至2。
 flavor=「露露是……厄运之龙……」—黑暗露露
+
+< CARD_HYPER_HELLIE >
+name=艾莉的超能奇迹
+descr=持续效果（2轮）\n在先攻的战斗中ATK+X。\n在后攻的战斗中DEF·EVD+X。\nX为完成目标的总次数。
+flavor=「让你见识一下我的最强之力吧♡」—超能艾莉
+
+< CARD_HYPER_HKAI >
+name=前主角的光辉时刻
+descr=★COST（等级×10）\nHP降至1。\n持续效果（3轮）\nATK+4，EVD+5。
+flavor=「你可不要把大人给逼急了。」—勇者凯
 
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=炎炎烈日的最终兵器

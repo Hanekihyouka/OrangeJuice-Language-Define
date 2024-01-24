@@ -262,6 +262,10 @@ descr=MOV is increased by 1 per stack.
 name=Rejuvenation
 descr=Gain +1 die on next Movement roll.
 
+< CARD_SUGURI46_ATK_EFFECT >
+name=Reminiscence
+descr=Gain +1 ATK.
+
 < CARD_MAYNIECOUNT_EFFECT >
 name=Rage Counter
 descr=Gain +1 ATK and +1 EVD for each stack after using Raging Madness.
@@ -603,6 +607,18 @@ descr=Cannot be challenged or be the target of other players' Boost cards. Immun
 
 < CARD_MOTHERPOWER_EFFECT >
 name=Mother Power
-descr=Gain Lvl x1 stars for every point of damage you take. If the effect ends or is replaced while active, heal all damage taken during the effect. Effect ends on KO.
+descr=Gain Lvl x1 stars for every point of damage you take. If the effect ends or is replaced while active, heal to full HP. Effect ends on KO.
+
+< CARD_HYPERMIRACLE_EFFECT >
+name=Ellie's Hyper Miracle
+descr=Effect Duration: 2 chapters. Gain +X ATK in battle when attacker, and +X DEF and +X EVD when defender. X = your total Norma completed.
+
+< CARD_MOMENTOFGLORY_EFFECT >
+name=Ex-Protagonist's Moment of Glory
+descr=Cost: Lvl x10. Lower your HP to 1. Effect Duration: 3 chapters. Gain +4 ATK and +5 EVD.
+
+< CARD_HKAIPASSIVE_EFFECT >
+name=Second Wind
+descr=If you would go under 1 HP from out of battle damage, stay on 1 HP. If you are still at 1 HP at the next end of your turn, suffer KO.
 
 [EOF]

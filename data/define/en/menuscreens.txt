@@ -1128,6 +1128,9 @@ Event Clear Reward
 < MENU_PLATE_CAMPAIGNCLEAR_REWARD >
 Campaign Clear Reward
 
+< MENU_PLATE_DLCPURCHASE_REWARD >
+DLC Purchase Reward
+
 < MENU_NOW_SAVING >
 Saving...
 

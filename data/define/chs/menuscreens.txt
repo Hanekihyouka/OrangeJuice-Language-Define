@@ -1125,6 +1125,9 @@ Steam创意工坊返回了一个错误。\n\n %s
 < MENU_PLATE_CAMPAIGNCLEAR_REWARD >
 战役完成奖励
 
+< MENU_PLATE_DLCPURCHASE_REWARD >
+DLC购买奖励
+
 < MENU_NOW_SAVING >
 正在保存……
 

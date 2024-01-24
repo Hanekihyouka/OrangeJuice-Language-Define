@@ -92,6 +92,12 @@ Airie
 < CARD_ARTIST_AME >
 Miyazaki Shiyuri
 
+< CARD_ARTIST_MI3LI >
+mi3li
+
+< CARD_ARTIST_PENCILCHEWING >
+pencilchewing
+
 < CARD_ARTIST_KAGAWA_YUSAKU >
 Kagawa Yusaku
 

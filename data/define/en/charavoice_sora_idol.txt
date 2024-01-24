@@ -61,7 +61,7 @@
 <0084> Uuu... I can't believe this...
 <0085> Sham, look out!
 <0086> Huh? Wah! Wah!
-<0088> They say this this is something idols must avoid...!
+<0088> They say this is something idols must avoid...!
 <0090> Sham, what a cool thing to say...
 <0091> Something came out.
 <0092> Sham,  idols don't run away from difficulties, right?

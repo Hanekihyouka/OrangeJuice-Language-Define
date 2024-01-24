@@ -131,7 +131,24 @@
 <0129> That's awesome.
 <0130> Oh my god!
 <0131> Crap...
-<0132> Found you!
-<0133> A beautiful lady...?!
-<0134> Aren't you too old for that outfit?
-<0135> A giant robot?! I'm so hyped!
+<0132> Thank you!
+<0133> Found you!
+<0134> A beautiful lady...?!
+<0135> Aren't you too old for that outfit?
+<0136> A giant robot?! I'm so hyped!
+<0137> I have to deal with her right this moment.
+<0138> Here comes the crazy woman...!
+<0139> I managed to beat her!
+<0140> Ugh... I knew she was crazy.
+<0141> Hey hey hey, what the heck are you doing!
+<0142> My wallet feels lighter somehow.
+<0143> Where... am I?
+<0144> Woo, your ride looks pretty cool.
+<0145> Alright, let's do some swimming.
+<0146> "What happened to Poppo...?"
+<0147> "God...?"
+<0148> "Geez... get it together..."
+<0149> "Seriously? At your age...?"
+<0150> This is a real masterpiece.
+<0151> Why the heck are you singing this song!
+

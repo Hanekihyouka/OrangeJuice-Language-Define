@@ -179,6 +179,9 @@ Ultimate Weapon Girl
 < SHOP_DLC_STARBAKERBREAKER >
 星之糕点破坏者
 
+< SHOP_DLC_NEWELLIEKAI >
+主角包
+
 < SHOP_TOOLTIP_HOME >
 按类别图标查看商店。
 

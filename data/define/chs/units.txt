@@ -177,7 +177,7 @@ descr=在受到挑战时，有50%几率「海贼小弟」将会\n代替你进行
 
 < CARD_UNIT_MIMYUU >
 name=米缪
-descr=以托玛特复活并行动。\n被战斗击倒时只会给予1WIN和1/4的STAR。
+descr=以托玛特复活，此时你可以挑战同一格的敌人。\n被战斗击倒时只会给予1WIN和1/4的STAR。
 
 < CARD_UNIT_MIRA >
 name=米拉
@@ -321,7 +321,7 @@ descr=如果战斗开始时HP为1，\nATK·EVD+1，\n直到战斗结束。
 
 < CARD_UNIT_TOMATO >
 name=托玛特
-descr=以米缪复活并行动。\n抽到的「邪恶的间谍行动～执行」替换成\n「阴谋机器人出动！」。
+descr=以米缪复活并行动。\n被战斗击倒时只会给予1/3的STAR。\n抽到的「邪恶的间谍行动～执行」替换成\n「阴谋机器人出动！」。
 
 < CARD_UNIT_TEQUILA >
 name=铁基拉
@@ -369,7 +369,7 @@ descr=在奇数轮时，ATK-1·DEF+2。\n在偶数轮时，ATK+2·DEF-1。
 
 < CARD_UNIT_SUGURI46 >
 name=须玖莉（460亿年）
-descr=在使用能造成伤害的增益卡或事件卡时，\n你可以支付1.5倍COST（向上取整）使其\n造成双倍伤害。\n发动后，下次移动时骰子个数+1。
+descr=使用能造成伤害的增益卡或事件卡时，\n回合结束前ATK+1，下次移动骰枚数+1。\n你可以支付1.5倍COST（向上取整）使其\n造成双倍伤害。
 
 < CARD_UNIT_SUMIKA >
 name=栖海花
@@ -566,5 +566,14 @@ descr=放弃挑战时失去你等级数×2的STAR。
 < CARD_COOP_UNIT_DARKL >
 name=黑暗露露
 descr=放弃挑战时失去你等级数×1的STAR。
+
+< CARD_UNIT_HELLIE >
+name=超能艾莉
+descr=在先攻的战斗中，ATK+1，\nDEF·EVD-1。
+
+< CARD_UNIT_HKAI >
+name=勇者凯
+descr=因战斗外伤害使HP低于1点时，残留1点HP。\n若在下次你的回合结束时依然只有1点HP，\n则会被击倒。
+
 
 [EOF]

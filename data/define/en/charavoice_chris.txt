@@ -51,7 +51,7 @@
 <0050> Excuse me, that kind of stuff is not allowed here.
 <0051> Heeen!
 <0052> Yah!
-<0053> Take his attack!
+<0053> Take this attack!
 <0054> Slap!
 <0055> Eeey!
 <0056> Ueeh!

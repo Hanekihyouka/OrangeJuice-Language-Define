@@ -179,6 +179,9 @@ Alter Ego Pack
 < SHOP_DLC_STARBAKERBREAKER >
 Star Baker Breaker
 
+< SHOP_DLC_NEWELLIEKAI >
+Protagonist Pack
+
 < SHOP_TOOLTIP_HOME >
 Navigate the shop by category icons.
 
