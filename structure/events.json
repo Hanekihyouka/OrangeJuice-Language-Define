@@ -381,7 +381,6 @@
         {"type":"file","name":"grass.dat","size":1048704,"md5":"b46a5c9c4c060ade5b7e2e85c4e9d1a1"},
         {"type":"file","name":"mistywoods.dat","size":1048704,"md5":"a4bf4153b38a0e258c9a62573d7590b4"},
         {"type":"file","name":"mountain.dat","size":1048704,"md5":"5be2464f0dfd08b7bf31e50735f7c86c"},
-        {"type":"file","name":"mystywoods.dat","size":1048704,"md5":"987b154862a995689612fc82cb5eb1d8"},
         {"type":"file","name":"ruin.dat","size":1048704,"md5":"6552628de17d870ffcc39b4683667584"},
         {"type":"file","name":"swamp.dat","size":1048704,"md5":"722512a92613a5fef68fb0ede72ef4d4"},
         {"type":"file","name":"volcano.dat","size":1048704,"md5":"e50b4f6ec50e0d7067f35d45b66d877b"}
@@ -1016,5 +1015,5 @@
     ]}
   ]}
 ,
-  {"type":"report","directories":47,"files":922}
+  {"type":"report","directories":47,"files":921}
 ]

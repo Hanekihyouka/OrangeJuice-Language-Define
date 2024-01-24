@@ -611,6 +611,8 @@
     {"type":"file","name":"dlc_37.dat","size":262272,"md5":"7b520081fde96d3417904ec871817d6e"},
     {"type":"file","name":"dlc_38.dat","size":262272,"md5":"17b61998ad9422f4ecc0984347bd55f6"},
     {"type":"file","name":"dlc_39.dat","size":262272,"md5":"9edfbd0a5415ff7642327df4e512ec35"},
+    {"type":"file","name":"dlc_40.dat","size":262272,"md5":"b1e7590029dd5aa851bcdbae43661893"},
+    {"type":"file","name":"dlc_41.dat","size":262272,"md5":"de43a9f23264a4ef8069a5fe5b43eb15"},
     {"type":"file","name":"field_01.dat","size":65664,"md5":"bdcc55fa54b27671485fa1830ea6a74b"},
     {"type":"file","name":"field_02.dat","size":65664,"md5":"2fd53a1cfff3ac65823839ed0938913c"},
     {"type":"file","name":"field_03.dat","size":65664,"md5":"9e46c505dd869513188fe5259daa704a"},
@@ -743,5 +745,5 @@
     {"type":"file","name":"re_beachparty.dat","size":262272,"md5":"f656dbf065215ae2ced65d4d25fc76ce"}
   ]}
 ,
-  {"type":"report","directories":1,"files":741}
+  {"type":"report","directories":1,"files":743}
 ]

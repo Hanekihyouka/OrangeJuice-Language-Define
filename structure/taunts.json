@@ -1,18 +1,18 @@
 [
   {"type":"directory","name":"unzip/taunts.pak","size":4096,"contents":[
-    {"type":"file","name":"taunt_emotion_bubble.dat","size":262272,"md5":"3a7405144256eae44d37c281481c2b0b"},
-    {"type":"file","name":"taunt_emotion_sheet.dat","size":4194432,"md5":"86c60c642e53629f0d926da7cf2c6b19"},
-    {"type":"file","name":"taunt_mask00_00.dat","size":262272,"md5":"3ea8ccc962d97728235746fe800ac7e9"},
-    {"type":"file","name":"taunt_mask01_00.dat","size":262272,"md5":"942f9cf708b5463ea8c0e207da6179b1"},
-    {"type":"file","name":"taunt_mask02_00.dat","size":262272,"md5":"4361f3131f7002b042524118ba960dc1"},
-    {"type":"file","name":"taunt_mask03_00.dat","size":262272,"md5":"967f9bf4ce2f8c6d835fec4a82f1ece6"},
-    {"type":"file","name":"taunt_mask04_00.dat","size":262272,"md5":"750ba50e23cd55624ab17cb2b23a2c86"},
-    {"type":"file","name":"taunt_none.dat","size":65664,"md5":"26cfd930618e99f970669b69a272d5bd"},
-    {"type":"file","name":"taunt_shape00.dat","size":262272,"md5":"efe9931a6647f3ad270e1fecdd1f8a6a"},
-    {"type":"file","name":"taunt_shape01.dat","size":262272,"md5":"eab7a4e5ad70f6294565dff4f19d0dd4"},
-    {"type":"file","name":"taunt_shape02.dat","size":262272,"md5":"e92d49630346497051060ab435dbc015"},
-    {"type":"file","name":"taunt_shape03.dat","size":262272,"md5":"b514885ad629c312e7c8e55e880e1a99"},
-    {"type":"file","name":"taunt_shape04.dat","size":262272,"md5":"76ee4658225b2f92d9463d4952bef614"}
+    {"type":"file","name":"taunt_emotion_bubble.dat","size":262272,"md5":"4667bb318f3923c5a52b6d1c569db201"},
+    {"type":"file","name":"taunt_emotion_sheet.dat","size":4194432,"md5":"14d73f55a46c6caecce32b5bd9a8936e"},
+    {"type":"file","name":"taunt_mask00_00.dat","size":262272,"md5":"972cc9e79ee14f9a6de05f062b3aa0df"},
+    {"type":"file","name":"taunt_mask01_00.dat","size":262272,"md5":"02848cd7eb7baee3767cfd062c1929fb"},
+    {"type":"file","name":"taunt_mask02_00.dat","size":262272,"md5":"590b17a35aa15ceea1296f28a6f0222f"},
+    {"type":"file","name":"taunt_mask03_00.dat","size":262272,"md5":"39174e267d0e87236212bfdab4b05736"},
+    {"type":"file","name":"taunt_mask04_00.dat","size":262272,"md5":"e52801575371f9bb9fcf6b0489c2df8c"},
+    {"type":"file","name":"taunt_none.dat","size":65664,"md5":"b6bb5c7854b043f904f2e174a6f1bdfe"},
+    {"type":"file","name":"taunt_shape00.dat","size":262272,"md5":"26d1c21da0f0c253069a5f29ab2b0b36"},
+    {"type":"file","name":"taunt_shape01.dat","size":262272,"md5":"b74a494d23089fa3b379e2095f12f852"},
+    {"type":"file","name":"taunt_shape02.dat","size":262272,"md5":"c8a24050550ea8290a303c0d4bff0078"},
+    {"type":"file","name":"taunt_shape03.dat","size":262272,"md5":"889866e1b33026b2caeecb3165826524"},
+    {"type":"file","name":"taunt_shape04.dat","size":262272,"md5":"e1303f92309acec03ccde356bd839ac9"}
   ]}
 ,
   {"type":"report","directories":1,"files":13}
