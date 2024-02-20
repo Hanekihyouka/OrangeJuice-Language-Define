@@ -50,7 +50,7 @@
       {"type":"file","name":"cards_bounty.txt","size":6702,"md5":"95aa5df4c1749c993c78ac8ae191ac16"},
       {"type":"file","name":"cards_coop.txt","size":45659,"md5":"fea1c441c16a30cd2b4626cd0de7a033"},
       {"type":"file","name":"cards_effect_coop.txt","size":8601,"md5":"7ce2919dda919a2ba50598896dcb21dd"},
-      {"type":"file","name":"cards_effect.txt","size":18406,"md5":"01289a5ec86ff7bef9c660fd9df0d3b0"},
+      {"type":"file","name":"cards_effect.txt","size":18409,"md5":"a31a8ed682e134d8226934e55f2e0bc3"},
       {"type":"file","name":"cards_misc.txt","size":333,"md5":"cdbe8ec5c3ee84896c7b948cf140a25f"},
       {"type":"file","name":"cards_mushroom.txt","size":2552,"md5":"ca0a0c1f054ba8602d09934e5dd4437e"},
       {"type":"file","name":"cards.txt","size":10965,"md5":"9802e2cd02d3f072d05f280b2663248d"},
@@ -163,7 +163,7 @@
       {"type":"file","name":"result.txt","size":766,"md5":"40c2b2977f49e83f2b112832a6c5e996"},
       {"type":"file","name":"shop.txt","size":4614,"md5":"74925691986a75b984cfd52c9f4a7a9c"},
       {"type":"file","name":"unitgames.txt","size":732,"md5":"fcf8ef7a7a8f22f18677d493f336ddd2"},
-      {"type":"file","name":"units.txt","size":19559,"md5":"c0568298171fa6cc1687380a343cee12"},
+      {"type":"file","name":"units.txt","size":19553,"md5":"a04291f19e91f16065e64457996e55f6"},
       {"type":"file","name":"voiceactors.txt","size":2407,"md5":"a3345c9607000b8250522f9db4c1d854"}
     ]},
     {"type":"directory","name":"cht","size":12288,"contents":[
@@ -216,7 +216,7 @@
       {"type":"file","name":"cards_bounty.txt","size":6702,"md5":"689d106f863df863e570700ed15893d4"},
       {"type":"file","name":"cards_coop.txt","size":45659,"md5":"2f671cf3b5845e1597d3da610bbeb8df"},
       {"type":"file","name":"cards_effect_coop.txt","size":8601,"md5":"d91ebed0844bf0345292882e10946cee"},
-      {"type":"file","name":"cards_effect.txt","size":18406,"md5":"1dae956fbbf53fd52a87bebbcce2a767"},
+      {"type":"file","name":"cards_effect.txt","size":18409,"md5":"f31277258283bd56af3ad9c5cae28e7f"},
       {"type":"file","name":"cards_misc.txt","size":333,"md5":"59ce5fb4552d568563da645b64572dd7"},
       {"type":"file","name":"cards_mushroom.txt","size":2552,"md5":"acfc8fc3239bbcb432f36805b12825e4"},
       {"type":"file","name":"cards.txt","size":10965,"md5":"7fe2446ed798c200d84e386a17bcb138"},
@@ -329,7 +329,7 @@
       {"type":"file","name":"result.txt","size":766,"md5":"b1ce53a48f1a39649378824c12613f12"},
       {"type":"file","name":"shop.txt","size":4614,"md5":"9ab8cbf673235f2ee0977da0a053daad"},
       {"type":"file","name":"unitgames.txt","size":732,"md5":"62c631ca72988add91482ffb157c5559"},
-      {"type":"file","name":"units.txt","size":19559,"md5":"12f40552244264324c93f6e59514743e"},
+      {"type":"file","name":"units.txt","size":19553,"md5":"218db42c7aa2cb07d23b3b7c18773a5f"},
       {"type":"file","name":"voiceactors.txt","size":2407,"md5":"c0bb93a88a812613654f6228aab50bf1"}
     ]},
     {"type":"directory","name":"en","size":12288,"contents":[
@@ -407,8 +407,8 @@
       {"type":"file","name":"charavoice_iru.txt","size":4790,"md5":"e1c598628d65d77d428ec183986a2bc9"},
       {"type":"file","name":"charavoice_islay.txt","size":4547,"md5":"1fe9850f1c0146ef7733ece7672c9ac9"},
       {"type":"file","name":"charavoice_kae.txt","size":4139,"md5":"bcb10bdf035e66b571d71623f3664bee"},
-      {"type":"file","name":"charavoice_kaihero.txt","size":5068,"md5":"f4a665908046db3fc39cc5973a1dd374"},
-      {"type":"file","name":"charavoice_kai.txt","size":4188,"md5":"dd7043f4d792f0e660c93d140fcf0f96"},
+      {"type":"file","name":"charavoice_kaihero.txt","size":5067,"md5":"cf9a3d4ddc10ab12fde234b2ae8ccdd3"},
+      {"type":"file","name":"charavoice_kai.txt","size":4180,"md5":"2206561aa802ea40232aa9800aded3ff"},
       {"type":"file","name":"charavoice_kiriko.txt","size":6007,"md5":"f35c3e7816f789c161620db756a76c26"},
       {"type":"file","name":"charavoice_krilap.txt","size":6590,"md5":"d55244c0633209243a3b0c756bea823a"},
       {"type":"file","name":"charavoice_krila.txt","size":5998,"md5":"65a52b03a71cf0bf85eb920c66f5fdaa"},
@@ -713,7 +713,7 @@
       {"type":"file","name":"cards_bounty.txt","size":7694,"md5":"2a1cae393bf5e1635d4a9504273db2cd"},
       {"type":"file","name":"cards_coop.txt","size":54628,"md5":"2158c445603fd489bc74fd5586b1cb0c"},
       {"type":"file","name":"cards_effect_coop.txt","size":10225,"md5":"cf93f8d1aad4ded6d723633bc0e5aff5"},
-      {"type":"file","name":"cards_effect.txt","size":21619,"md5":"3b659d5431ab15040ce0184f5c2ce8fa"},
+      {"type":"file","name":"cards_effect.txt","size":21638,"md5":"5f2e3dffd8dc2a70f0df44ee9dcb7e6c"},
       {"type":"file","name":"cards_misc.txt","size":339,"md5":"a429fcab93f1db89902fcc7e4e3fc5da"},
       {"type":"file","name":"cards_mushroom.txt","size":3125,"md5":"e89008fafd4e4185744789ecef7fe9da"},
       {"type":"file","name":"cards.txt","size":12399,"md5":"88783cc4652384d9b632d81e839fe8d8"},
@@ -811,7 +811,7 @@
       {"type":"file","name":"error.txt","size":184,"md5":"9efa93a9e06bca2a7618e83a1acc135c"},
       {"type":"file","name":"eventnames.txt","size":520,"md5":"e87fa10fab93e9c0653320055108a712"},
       {"type":"file","name":"fieldevents.txt","size":3649,"md5":"bea7401c72615ac695e62c6bdb5ee093"},
-      {"type":"file","name":"fieldnames.txt","size":3397,"md5":"4704e467ba6fa8eda3da958a02b6fe7a"},
+      {"type":"file","name":"fieldnames.txt","size":3396,"md5":"2788e07d76343af0b329ad354f4e260b"},
       {"type":"file","name":"game_message.txt","size":4322,"md5":"45ddad5de69379b04c81a264b750e6d9"},
       {"type":"file","name":"game_norma.txt","size":976,"md5":"ecedae6aa5f6f0b3e7446b55a06e44e4"},
       {"type":"file","name":"game_system.txt","size":1377,"md5":"e146c067b1b67400d0f38ee88c89d2dd"},
@@ -826,7 +826,7 @@
       {"type":"file","name":"result.txt","size":805,"md5":"a8682cc1a9ad68eabbcf300b358f5789"},
       {"type":"file","name":"shop.txt","size":5105,"md5":"d373891017a4302542f57cec3dc61b99"},
       {"type":"file","name":"unitgames.txt","size":787,"md5":"8b6b5d5dd689a15e48bf8b59bf50e11d"},
-      {"type":"file","name":"units.txt","size":24168,"md5":"052e2ea6c7ac3f4499dfbf1e6a06d129"},
+      {"type":"file","name":"units.txt","size":24165,"md5":"79466b0e1bfd9d2814843efd5e1197e7"},
       {"type":"file","name":"voiceactors.txt","size":2811,"md5":"3a458b56e47523fb5c11bb8136971f19"}
     ]},
     {"type":"directory","name":"ptbr","size":12288,"contents":[
@@ -875,11 +875,11 @@
       {"type":"file","name":"campaign_winter2022.txt","size":4874,"md5":"ecc1c993d0dd9ce5e234b4255398ac44"},
       {"type":"file","name":"campaign_winter2023.txt","size":12328,"md5":"a3751b621b614bcad5c3c0ae272bebbe"},
       {"type":"file","name":"cardartists.txt","size":1744,"md5":"559fbfaaa5bffda0152ba090729dd7cf"},
-      {"type":"file","name":"cards_2.txt","size":46689,"md5":"c8b5011406a7eeb4116d2f28447fe3ae"},
+      {"type":"file","name":"cards_2.txt","size":46672,"md5":"93018f9ea38922387040b6890215c2f3"},
       {"type":"file","name":"cards_bounty.txt","size":7370,"md5":"5d4a4fef7239eb07a7568eb454cbb111"},
       {"type":"file","name":"cards_coop.txt","size":58905,"md5":"672591232af72e2f353ce1d658f884a0"},
       {"type":"file","name":"cards_effect_coop.txt","size":9518,"md5":"d984288937d829340b923d244f3865c0"},
-      {"type":"file","name":"cards_effect.txt","size":21333,"md5":"a66a08ad7f12e1ce31343c2565274e09"},
+      {"type":"file","name":"cards_effect.txt","size":21316,"md5":"16e629b6f4853f14f483d7fd80c3bd0d"},
       {"type":"file","name":"cards_misc.txt","size":361,"md5":"f6bd6b4cd27e95810cd52b5b2773f1bc"},
       {"type":"file","name":"cards_mushroom.txt","size":2846,"md5":"72f51943fa7d83cdb6ce030b0d658919"},
       {"type":"file","name":"cards.txt","size":12729,"md5":"1cae4aef1e4ac056ffd98eb92a63a053"},
@@ -894,7 +894,7 @@
       {"type":"file","name":"charavoice_ceor.txt","size":5574,"md5":"d69c7cef0fa5bb1e8479a2a23244c613"},
       {"type":"file","name":"charavoice_chris.txt","size":6025,"md5":"1c911c8566e1b8d62a50bc05c8ef65e1"},
       {"type":"file","name":"charavoice_cook.txt","size":4562,"md5":"d24738b8347f55da32cede0d94c32f0a"},
-      {"type":"file","name":"charavoice_elliehyper.txt","size":5176,"md5":"7f07e9095aab941f4eb95385e119b295"},
+      {"type":"file","name":"charavoice_elliehyper.txt","size":5530,"md5":"f11dbbf5d72ff9cd35df3ee02be68418"},
       {"type":"file","name":"charavoice_ellie.txt","size":6027,"md5":"85648df392f5da0a07cbe1c50bf21ddc"},
       {"type":"file","name":"charavoice_fernetnoble.txt","size":6416,"md5":"d9d9c84609806e35ac34a378d9126602"},
       {"type":"file","name":"charavoice_fernet.txt","size":4561,"md5":"51ca4f709443f3734a722e9aafaeaf66"},
@@ -992,7 +992,7 @@
       {"type":"file","name":"result.txt","size":839,"md5":"0ccd78934301d4b990f4550369da314d"},
       {"type":"file","name":"shop.txt","size":4962,"md5":"fd039a3e2f3d74af391d6d4a84817821"},
       {"type":"file","name":"unitgames.txt","size":703,"md5":"fb093048cbf32a085cb567db367785bd"},
-      {"type":"file","name":"units.txt","size":22039,"md5":"1dbfe1763ad047e1fa5133d7b8b50c82"},
+      {"type":"file","name":"units.txt","size":22136,"md5":"ff8fde966887901d4b957716aacff2aa"},
       {"type":"file","name":"voiceactors.txt","size":2475,"md5":"c9793e1824e4cc00434c1ad47dd8658e"}
     ]},
     {"type":"directory","name":"ru","size":12288,"contents":[
@@ -1216,6 +1216,7 @@
       {"type":"file","name":"charavoice_ceor.txt","size":5696,"md5":"46e930be638390536a263b8df5a41992"},
       {"type":"file","name":"charavoice_chris.txt","size":6282,"md5":"a4741f55ee22a44a33474ed4f6eba765"},
       {"type":"file","name":"charavoice_cook.txt","size":4837,"md5":"fdbfb35bb32f4fa5aa761bd9469eecb7"},
+      {"type":"file","name":"charavoice_elliehyper.txt","size":5809,"md5":"dee58bd1753c4c4ed06a62cf56188475"},
       {"type":"file","name":"charavoice_ellie.txt","size":6045,"md5":"5ed51a3f7b0bd452e06c7f0693b4c170"},
       {"type":"file","name":"charavoice_fernetnoble.txt","size":6855,"md5":"b93fc12fe60bd1825541c75ba02c6adf"},
       {"type":"file","name":"charavoice_fernet.txt","size":4617,"md5":"090c5e1fd5ba46f3659f418d5f66b074"},
@@ -1318,5 +1319,5 @@
     ]}
   ]}
 ,
-  {"type":"report","directories":9,"files":1300}
+  {"type":"report","directories":9,"files":1301}
 ]
