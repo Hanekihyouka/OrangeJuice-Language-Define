@@ -94,7 +94,7 @@
 <0093> If I pull this off, I'll be rich.
 <0094> I'm a good star finance planner.
 <0095> Peace is what I like best.
-<0096> I know for a fact how valueable these stars can be.
+<0096> I know for a fact how valuable these stars can be.
 <0097> Watch how a grown-up fights.
 <0098> I'd hate to hurt other people, but...
 <0099> Let's make this simple.

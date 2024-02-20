@@ -573,7 +573,7 @@ descr=在先攻的战斗中，ATK+1，\nDEF·EVD-1。
 
 < CARD_UNIT_HKAI >
 name=勇者凯
-descr=因战斗外伤害使HP低于1点时，残留1点HP。\n若在下次你的回合结束时依然只有1点HP，\n则会被击倒。
+descr=因战斗外伤害使HP低于1点时，残留1点HP；\n若在你的回合结束时依然只有1点HP，\n则会被击倒。
 
 
 [EOF]

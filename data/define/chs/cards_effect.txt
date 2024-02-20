@@ -619,6 +619,6 @@ descr=★COST（等级×10）\nHP降至1。\n持续效果（3轮）\nATK+4，EVD
 
 < CARD_HKAIPASSIVE_EFFECT >
 name=最后一搏
-descr=因战斗外伤害使HP低于1点时，残留1点HP。\n若在下次你的回合结束时依然只有1点HP，\n则会被击倒。
+descr=因战斗外伤害使HP低于1点时，残留1点HP；\n若下次经历你的回合结束时依然只有1点HP，\n则会被击倒。
 
 [EOF]

@@ -145,10 +145,10 @@
 <0143> Where... am I?
 <0144> Woo, your ride looks pretty cool.
 <0145> Alright, let's do some swimming.
-<0146> "What happened to Poppo...?"
-<0147> "God...?"
-<0148> "Geez... get it together..."
-<0149> "Seriously? At your age...?"
+<0146> What happened to Poppo...?
+<0147> God...?
+<0148> Geez... get it together...
+<0149> Seriously? At your age...?
 <0150> This is a real masterpiece.
 <0151> Why the heck are you singing this song!
 
