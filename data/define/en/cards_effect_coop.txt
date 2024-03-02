@@ -24,7 +24,7 @@ descr=Gain +2 DEF on next battle.
 
 < CARD_COOP_BLAZING_EFFECT >
 name=Blazing!
-descr=Gain +1 ATK (player) or -1 DEF (enemy) for each stack. Effect expires on KO.
+descr=Gain +1 ATK (ally) or -1 DEF (enemy) for each stack. Effect expires on KO.
 
 < CARD_COOP_MELTINGMEMORIES_EFFECT >
 name=Melting Memories
@@ -73,6 +73,10 @@ descr=Ignore Boss panels.\nWhen staying on a panel with another player at the en
 < CARD_COOP_PRISONBREAK_EFFECT >
 name=Make-Believe Prison Break
 descr=Cannot be challenged. Immune to Trap cards and card damage from the Boss. Roll 2 dice for movement. Lose 1 stack for each panel traversed.
+
+< CARD_COOP_POPPOSNATCHER_EFFECT >
+name=Poppo the Snatcher
+descr=Gain -1 DEF. When passing an enemy, steal your Lvl x3 stars from them. Norma checks are disabled.
 
 < CARD_BOSS_HYPE_EFFECT >
 name=Hype
@@ -188,7 +192,7 @@ descr=Gain +1 DEF for each stack.
 
 < CARD_BOSS_HIGHWAYROBBERY_EFFECT >
 name=Highway Robbery
-descr=Gain +3 ATK.\nMove in reverse and do not stop upon challenging a player.\nFor every point of damage the Boss would deal, steal 10 stars instead.
+descr=Gain +3 ATK.\nMove in reverse and do not stop upon challenging an enemy.\nFor every point of damage the Boss would deal, steal 10 stars instead.
 
 < CARD_BOSS_GREED_EFFECT >
 name=Greed
@@ -196,7 +200,7 @@ descr=Gain 5 stars for each damage dealt in battle by this unit or an active min
 
 < CARD_BOSS_CHASE_EFFECT >
 name=Chase
-descr=Roll two dice for movement and gain 1 Hype for every enemy fought.
+descr=Roll two dice for movement and gain 1 Hype for every player fought.
 
 < CARD_BOSS_TIRED_EFFECT >
 name=Tired
@@ -208,7 +212,7 @@ descr=Gain +2 REC on next KO.
 
 < CARD_BOSS_PLAYTAG_EFFECT >
 name=Play Tag
-descr=Gain +2 ATK. Gain 1 Hype for every enemy fought.
+descr=Gain +2 ATK. Gain 1 Hype for every player fought.
 
 < CARD_BOSS_HIDENSEEK_EFFECT >
 name=Hide And Seek
@@ -220,7 +224,7 @@ descr=Gain +2 MOV.
 
 < CARD_BOSS_WATERMELONSPLIT_EFFECT >
 name=Watermelon Splitting
-descr=Gain +5 ATK and do not stop when challenging an enemy. For each KO'd enemy, gain 2 Hype.
+descr=Gain +5 ATK and do not stop when challenging an enemy. For each KO'd player, gain 2 Hype.
 
 < CARD_BOSS_HYPEITUP_EFFECT >
 name=Hype It Up
@@ -248,7 +252,7 @@ descr=Gain +2 EVD.
 
 < CARD_BOSS_TURBOCHICKEN_EFFECT >
 name=Turbo Chicken
-descr=Gain an additional movement dice and do not stop when challenging an enemy.\nGain +1 ATK for each additional stack.\nGain 25 stars when fighting an enemy.
+descr=Gain an additional movement dice and do not stop when challenging an enemy.\nGain +1 ATK for each additional stack.\nGain 25 stars when fighting a player.
 
 < CARD_BOSS_SWARM_EFFECT >
 name=Swarm

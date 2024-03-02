@@ -1,7 +1,7 @@
 ﻿
 < CARD_BOOST_DASH >
 name=冲刺！
-descr=移动时的骰子个数变为2倍。
+descr=移动骰枚数变为2枚。
 flavor=「快点！」—须玖莉
 
 < CARD_BOOST_EXTEND >
@@ -81,7 +81,7 @@ flavor=「明明只是在玩，竟然还认真了！\n真幼——……不成�
 
 < CARD_BATTLE_SHIELD >
 name=护盾
-descr=这场战斗中DEF+3。\n无法攻击。\n这张卡只有后攻时才可以使用。
+descr=这场战斗中DEF+3。\n无法攻击。\n后攻时才可以使用。
 flavor=「最重要的是，要活着回来。」—夏姆
 
 < CARD_TRAP_ASSAULT >
@@ -171,7 +171,7 @@ flavor=「来交换吧，\n就这么做吧。」—小兔子、小红和小蓝
 
 < CARD_EVENT_HEREANDTHERE >
 name=到处都是
-descr=所有玩家移动至随机的格子。
+descr=所有角色移动至随机的格子。
 flavor=「向下一个世界，出发啵～！」—玛丽啵噗
 
 < CARD_EVENT_HOLYNIGHT >
@@ -211,12 +211,12 @@ flavor=「没用的没用的，\n小托玛特是无敌的！」—托玛特
 
 < CARD_HYPER_SUGURI >
 name=极速装置
-descr=持续效果（1轮）\n移动·战斗·奖励·掉落时，\n使用的骰子个数变为2倍。
+descr=持续效果（1轮）\n移动·战斗·奖励·掉落时，骰子枚数变为\n2倍。
 flavor=「要加速了。」—须玖莉
 
 < CARD_HYPER_FERNET >
 name=飞艇轰炸
-descr=除你以外的所有角色\n受到1～3点伤害。\n获得击倒角色数×15的STAR。
+descr=所有敌人受到1～3点伤害。\n获得击倒角色数×15的STAR。
 flavor=「哼，给我击坠她。」—菲尔涅特
 
 < CARD_HYPER_HIME >
@@ -261,16 +261,16 @@ flavor=「这就是，主角的特权啊！」—凯
 
 < CARD_HYPER_POPPO >
 name=神出鬼没
-descr=传送至指定角色所在的格子。\n从该角色处偷取其等级×10的STAR。
+descr=传送至指定存活敌人所在的格子。\n从该角色处偷取其等级×10的STAR。
 flavor=「啵噗！啵噗噗噗噗噗～！」—玛丽啵噗
 
 < CARD_HYPER_MARC >
 name=×16大火箭
-descr=★COST（等级×10）\n指定角色受到你等级数的伤害。\n因这个效果而倒下时获得2WIN。
+descr=★COST（等级×10）\n指定敌人受到你等级数的伤害。\n造成击倒时获得2WIN。
 flavor=「装填完毕！上吧——！」—玛儿
 
 < CARD_HYPER_MASTER >
-name=永久流放
+name=永久驱逐
 descr=★COST（所持STAR÷10）\n只能使用礼物卡。\n这张卡在使用时，会转移至除你以外的\n随机玩家手中。\n在丢弃这张卡时，丢弃所有手牌。
 flavor=「拜托您了店长——！！」—克丽丝
 
@@ -291,12 +291,12 @@ flavor=「咯咯——！」—鸡
 
 < CARD_HYPER_BALL >
 name=反射外壳
-descr=这场战斗中，原ATK变为0。\n最多能吸收2点伤害。\n每吸收1点伤害ATK+2\n只有后攻才能使用。
+descr=这场战斗中，原ATK变为0。\n最多能吸收2点伤害。\n每吸收1点伤害ATK+2\n后攻时才可以使用。
 flavor=「发 现 敌 人　　消 灭」—机器球
 
 < CARD_HYPER_SEAGULL >
 name=乔纳桑·速袭
-descr=移动至指定敌人所在的格子并与其进行战斗。\n战斗中对方的DEF-1。\n战斗结束后回合结束。
+descr=移动至指定敌人所在的格子并与其进行战斗。\n战斗中对方的DEF-1。\n战斗结束时回合结束。
 flavor=「咕哇啊啊啊！」—海鸥
 
 [EOF]

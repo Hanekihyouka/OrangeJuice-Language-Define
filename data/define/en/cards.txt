@@ -81,7 +81,7 @@ flavor="Aren't you too serious about this game? You're so da... I mean, far too 
 
 < CARD_BATTLE_SHIELD >
 name=Shield
-descr=Gain +3 DEF during this battle. However, you may not attack. This card can only be used by the player who attacks second.
+descr=Gain +3 DEF during this battle. However, you may not attack. May only be used by the defender.
 flavor="The most important thing is: make it back here alive." ―Sham
 
 < CARD_TRAP_ASSAULT >
@@ -171,7 +171,7 @@ flavor="A gift exchange? Let's do it!"\n―Rbit, Red and Blue
 
 < CARD_EVENT_HEREANDTHERE >
 name=Here and There
-descr=All players are moved to randomly chosen panels.
+descr=All units are moved to randomly chosen panels.
 flavor="To the next world!" ―Marie Poppo
 
 < CARD_EVENT_HOLYNIGHT >
@@ -216,7 +216,7 @@ flavor="I'm accelerating." ―Suguri
 
 < CARD_HYPER_FERNET >
 name=Air Strike
-descr=Every unit except your own receives 1 to 3 damage. Gain 15 stars on every KO.
+descr=All enemies take 1 to 3 damage. Gain 15 stars on every KO.
 flavor="Hmph, go down, all of you." ―Fernet
 
 < CARD_HYPER_HIME >
@@ -261,12 +261,12 @@ flavor="This is the privilege of the main character!" ―Kai
 
 < CARD_HYPER_POPPO >
 name=Ubiquitous
-descr=Move to target unit's panel. In addition, steal stars equal to 10x their level.
+descr=Warp to target active enemy's panel. In addition, steal stars equal to 10x their level.
 flavor="Poppo! Poppopopopopo!"\n―Marie Poppo
 
 < CARD_HYPER_MARC >
 name=x16 Big Rocket
-descr=★Cost: Level x10\nDeals damage equal to your level to target unit. A KO from this effect gives you 2 Wins.
+descr=★Cost: Level x10\nDeal damage equal to your level to target enemy. A KO from this effect gives you 2 Wins.
 flavor="Charged! Go!" ―Marc
 
 < CARD_HYPER_MASTER >

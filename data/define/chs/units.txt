@@ -25,19 +25,19 @@ descr=玩家倒下时，1轮内ATK+1。\n每3轮，在BOSS的回合结束时使�
 
 < CARD_UNIT_BOSS_CHICKEN >
 name=大春夫
-descr=场上每存在1只鸡手下ATK·DEF-1，\n攻击骰个数+1。每5轮召唤1只鸡手下。
+descr=场上每存在1只鸡手下ATK·DEF-1，\n攻击骰枚数+1。每5轮召唤1只鸡手下。
 
 < CARD_UNIT_BOSS_CHICKEN_HYPER >
 name=大春夫
-descr=场上每存在1只鸡手下ATK·DEF-1，\n攻击骰个数+1。每5轮召唤2只鸡手下。
+descr=场上每存在1只鸡手下ATK·DEF-1，\n攻击骰枚数+1。每5轮召唤2只鸡手下。
 
 < CARD_UNIT_BOSS_POPPO >
 name=星星吞噬者
-descr=玩家的轮初奖励STAR双倍。\n受到伤害时，DEF+1直到该轮结束。\n每拥有300个STAR战斗伤害+1，每造成/受到1点战斗伤害获得5个STAR/交出3个STAR。\n拥有1000个STAR时：BOSS获胜，没有STAR时：玩家获胜。
+descr=玩家的轮初奖励STAR翻倍。\n战斗中受到伤害时，DEF+1直到该轮结束，此效果可叠加。\n每拥有300个STAR战斗伤害+1，对玩家时每造成/受到1点战斗伤害获得5个STAR/交出3个STAR。\n拥有1000个STAR时：获胜，没有STAR时：落败。
 
 < CARD_UNIT_BOSS_POPPO_HYPER >
 name=星星吞噬者
-descr=玩家的轮初奖励STAR双倍。\n受到伤害时，DEF+1直到该轮结束。\n每拥有300个STAR战斗伤害+1，\n每造成1点战斗伤害获得5个STAR。\n拥有1000个STAR时：BOSS获胜，没有STAR时：玩家获胜。
+descr=玩家的轮初奖励STAR翻倍。\n战斗中受到伤害时，DEF+1直到该轮结束，此效果可叠加。\n每拥有300个STAR战斗伤害+1，对玩家时每造成1点战斗伤害获得5个STAR。\n拥有1000个STAR时：获胜，没有STAR时：落败。
 
 < CARD_UNIT_BIG_POPPO >
 name=大啵噗
@@ -49,7 +49,7 @@ descr=
 
 < CARD_UNIT_BOSS_ROBOBALL >
 name=M10机器人
-descr=在BOSS的回合内，挑战玩家不会停步。\n在没有受到保护或扰乱效果时，使用保护。
+descr=在BOSS的回合内，挑战敌人时不会停步。\n在没有受到保护或扰乱效果时，使用保护。
 
 < CARD_UNIT_BOSS_QP >
 name=夏日野兽
@@ -57,11 +57,11 @@ descr=每回合召唤海鸥手下（直到BOSS等级数）。\n手下倒下时�
 
 < CARD_UNIT_BOSS_ROPOCHI >
 name=萝啵鸡
-descr=在没有受到啵护或扰乱效果时，使用啵护。\n场上每存在1名手下ATK-2，攻击骰个数+1。\n每6轮使用增强鸡窝。\n每造成1点战斗伤害获得3个STAR。
+descr=在没有受到啵护或扰乱效果时，使用啵护。\n场上每存在1名手下ATK-2，攻击骰枚数+1。\n每6轮使用增强鸡窝。\n每对玩家造成1点战斗伤害获得3个STAR。
 
 < CARD_UNIT_BOSS_ROPOCHI_HYPER >
 name=萝啵鸡
-descr=在没有受到啵护或扰乱效果时，使用啵护。\n场上每存在1名手下ATK-2，攻击骰个数+1。\n每6轮使用增强鸡窝。\n每造成1点战斗伤害获得5个STAR。
+descr=在没有受到啵护或扰乱效果时，使用啵护。\n场上每存在1名手下ATK-2，攻击骰枚数+1。\n每6轮使用增强鸡窝。\n每对玩家造成1点战斗伤害获得5个STAR。
 
 < CARD_UNIT_BOSS_COACH >
 name=游泳教练
@@ -117,7 +117,7 @@ descr=
 
 < CARD_UNIT_IRU >
 name=依琉
-descr=向敌人发起挑战时，对方受到1点伤害，\n因这个效果而倒下时算作战斗击倒。
+descr=向敌人发起挑战时，对方受到1点伤害，\n因该效果而击倒时算作战斗击倒。
 
 < CARD_UNIT_ISLAY >
 name=艾拉
@@ -181,7 +181,7 @@ descr=以托玛特复活，此时你可以挑战同一格的敌人。\n被战斗
 
 < CARD_UNIT_MIRA >
 name=米拉
-descr=当你的陷阱被敌人触发时追加\n「束缚的烟幕」效果：持续效果（2轮）\n移动时骰子只能投出1、2或3。
+descr=当你的陷阱被敌人触发时追加\n「束缚的烟幕」效果：持续效果（2轮）\n移动骰只能投出1、2或3。
 
 < CARD_UNIT_MIUSAKI >
 name=美羽咲
@@ -209,11 +209,11 @@ descr=如在参与战斗时有人使用战斗卡，获得1层\n「主动·部件
 
 < CARD_UNIT_NATSUMI >
 name=夏美
-descr=当你在回合结束时没有倒下且有存活玩家在\n同一格，该格的所有存活玩家恢复1点HP。\n获得由你所恢复的其他玩家数×5的STAR。
-
-< CARD_UNIT_NATSUMI_BH >
-name=夏美
 descr=当你在回合结束时没有倒下且有存活角色在\n同一格，该格的所有存活角色恢复1点HP。\n获得由你所恢复的其他角色数×5的STAR。
+
+< CARD_COOP_UNIT_NATSUMI >
+name=夏美
+descr=当你在回合结束时没有倒下且有存活同伴在\n同一格，该格的所有存活友方恢复1点HP。\n获得由你所恢复的其他友方数×5的STAR。
 
 < CARD_UNIT_NICO >
 name=妮可
@@ -517,11 +517,11 @@ descr=
 
 < CARD_UNIT_AGGRESSIVECHICKEN_CHAOS >
 name=好斗鸡
-descr=召唤者在战斗攻击骰时额外投掷一枚骰子，\nATK·DEF-2。\n如果你的对手在战斗中拥有多于1的基础\nATK，ATK+1。
+descr=召唤者的攻击骰枚数+1，\nATK·DEF-2。\n如果你的对手在战斗中拥有多于1的基础\nATK，ATK+1。
 
 < CARD_UNIT_BOSSM10_CHAOS >
 name=M10机器人
-descr=在你的回合内，挑战玩家不会停步。
+descr=在你的回合内，挑战敌人时不会停步。
 
 < CARD_UNIT_BOSSSTARDEV_CHAOS >
 name=星星吞噬者

@@ -1,7 +1,7 @@
 ﻿
 < CARD_BOOST_AMBUSH >
 name=Ambush
-descr=Engage in battle with any other units on your panel. Once these battles are over, your turn is over.
+descr=Engage in battle with an enemy or enemies on your panel. Once these battles are over, your turn is over.
 flavor="Owwwww!!" ―Sham
 
 < CARD_BOOST_LONELYCHARIOT >
@@ -26,7 +26,7 @@ flavor="There you guys are... Come to the Student Council Office after school,\n
 
 < CARD_BATTLE_SHIELDCOUNTER >
 name=Shield Counter
-descr=Deal damage to attacker equal to their ATK - DEF (min. 1). You take no damage. No attacks take place. May only be played by the defender.
+descr=Deal damage to attacker equal to their ATK - DEF (min. 1). Then end the battle. A KO from this damage does not count as a defeat. May only be used by the defender.
 flavor="Shield, invert!" ―Sora
 
 < CARD_BATTLE_RETREAT >
@@ -86,7 +86,7 @@ flavor="We will get golden eggs!" ―QP\n"And make the best pudding out of them!
 
 < CARD_TRAP_PRESENTTHIEF >
 name=Present Thief
-descr=Steals all the cards from the first player to step on the trap. Gives all the stolen cards to the second player to step on the trap.
+descr=The first unit to activate this trap loses all their cards. If any cards were lost, the trap stays on board and the lost cards are given to the next player to trigger the trap.
 flavor="These do no good!" ―Nico
 
 < CARD_BATTLE_QUICKRESTORATION >
@@ -161,7 +161,7 @@ flavor="What a piece of junk, huh..." ―Kyoko
 
 < CARD_HYPER_SHAM >
 name=Delta Field
-descr=All other units receive the following effect until your next turn: All dice rolls will be 1.
+descr=All enemies receive the following effect until your next turn: All dice rolls will be 1.
 flavor="If you insist on staying here, I'll take you back no matter how!" ―Sham
 
 < CARD_HYPER_SHERRY >
@@ -306,7 +306,7 @@ flavor="The dream you protected has spread across the whole planet." ―Suguri
 
 < CARD_HYPER_TSIH >
 name=Stealth On
-descr=Effect Duration: 3 chapters.\nCannot be challenged to battle or targeted by Boost cards by other players.\nDo not trigger Encounter or Boss panels.\nEffect expires on entering battle.\nGain +2 ATK when entering battle.
+descr=Effect Duration: 3 chapters.\nCannot be challenged to battle, or targeted by Boost cards by other players.\nDo not trigger Encounter or Boss panels.\nEffect expires on entering battle.\nGain +2 ATK when entering battle.
 flavor="Look at me vanish!" ―Tsih
 
 < CARD_HYPER_TEQUILA >
@@ -356,7 +356,7 @@ flavor="All right, it's time to open the shop." ―Arthur
 
 < CARD_HYPER_IRU >
 name=Extended Photon Rifle
-descr=★Cost: Level x5\nDeal 1 damage to another random unit. If KO'd, gain 1 win. Repeat as many times as your current level.
+descr=★Cost: Level x5\nDeal 1 damage to a random enemy. If KO'd, gain 1 win. Repeat as many times as your current level.
 flavor="I'll shoot you all down." ―Iru
 
 < CARD_HYPER_MIRA >
@@ -391,7 +391,7 @@ flavor="Just like you... I have my battles to fight." ―Islay
 
 < CARD_HYPER_MIO >
 name=Magical Inferno
-descr=KO all units on any other panel in the same uninterrupted column or row as the panel your unit is on. You gain stars from each KO'd unit as though KO'd in battle. Then end your turn.
+descr=KO all enemies on any other panel in the same uninterrupted column or row as the panel your unit is on. You gain stars from each KO'd enemy as though KO'd in battle. Then end your turn.
 flavor="Inferno!" ―Mio
 
 < CARD_BATTLE_DESPERATEMODIFICATION >
@@ -416,7 +416,7 @@ flavor="Poppo! Poppopopo!!!" ―Everyone
 
 < CARD_GIFT_POPPOTHESNATCHER >
 name=Poppo the Snatcher
-descr=Gain -1 DEF. Whenever passing another unit on your turn, steal target Lvl x3 stars from them. Cannot Norma while holding this card. This card is discarded upon KO or use.
+descr=Gain -1 DEF. Whenever passing an enemy on your turn, steal target Lvl x3 stars from them. Cannot Norma while holding this card. This card is discarded upon KO or use.
 flavor="Pokyakya!!" ―Poppo
 
 < CARD_GIFT_BLOODLUST >
@@ -514,6 +514,36 @@ name=Lucky Sevens
 descr=While holding this card, your natural die rolls can range from 0 to 7, and the minimum roll result is 0 when rolling 0.\nCannot perform a Norma check after rolling a 0 for move on the same turn.
 flavor="I can even control my dice rolls." ―Yuki
 
+< CARD_BOOST_WARPCONTROL >
+name=Warp Control
+descr=★Cost: Lvl x5\nUpon activating the next Warp or Warp Move panel, choose another Warp or Warp Move panel to warp to.
+flavor="There's a nice wind blowing around here!" ―Cook
+
+< CARD_EVENT_REBELLION >
+name=Rebellion
+descr=Effect Duration: 3 chapters.\nAll players will receive +1 ATK, +1 DEF, and +1 EVD when fighting a player with a higher Lvl than them.
+flavor="The Guild will betray you before too long... Keep that in mind." ―Sherry
+
+< CARD_GIFT_NANAKOBIT >
+name=Nanako's Bit
+descr=Randomly gain +1 ATK, +1 DEF, or +1 EVD at the start of battle while this card is held, and lose 7 stars. This card is discarded upon KO or use.
+flavor="What the heck are you doing!" ―Nanako
+
+< CARD_TRAP_BANKOFPOPPO >
+name=Bank of Poppo
+descr=The first unit to activate this trap loses Lvl x10 stars. If any stars were lost, the trap stays on board and the lost stars are given to the next player to trigger the trap.
+flavor="My money...!" ―Kai
+
+< CARD_BOOST_MYWILDFRIENDS >
+name=My Wild Friends
+descr=Summon a random friendly unit on your panel that is an available wild unit type. It gains 1 HP.\nThe summon will challenge any enemies and gives half of the stars it gains to the summoner. Replaces any previous summon.
+flavor="It's nice to relax once in a while." ―Teotoratta
+
+< CARD_BATTLE_CONTESTOFCUTENESS >
+name=Contest of Cuteness
+descr=May only be used by the attacker. The battle is decided by a contest of cuteness.\nCuteness = 10 - Max HP - ATK + EVD, but no less than 0.\nInstead of rolling for attack, both units roll two dice and add the total to their Cuteness. If one unit has a higher Cuteness, they steal 5x the loser's Lvl stars and gain 1 Win. Then end the battle.\nCan only use against players.
+flavor="Now tell us, who is the cutest here!?" ―Saki
+
 < CARD_HYPER_SUGURI46 >
 name=Observer of Eternity
 descr=Add 2 random Boost/Event cards that deal damage to your hand.\nYou may play another card this turn.
@@ -522,7 +552,7 @@ flavor="Now then, let's see how this will turn out." ―Suguri
 < CARD_HYPER_SUMIKA >
 name=Reproduction of Records
 descr=Add a copy of the two most recent cards in the discard pile that aren't "Reproduction of Records" to your hand. Those cards will be treated as being Level 1 and having no base cost while in your hand.
-flavor="Sumika's sweet memory!" -Sumika
+flavor="Sumika's sweet memory!" ―Sumika
 
 < CARD_HYPER_ELLIE >
 name=Ellie's Miracle
@@ -546,7 +576,7 @@ flavor="Go!" ―Marc
 
 < CARD_HYPER_ALICIANRONE >
 name=Full Speed Alicianrone
-descr=Roll a die and move result x 3 panels. Deal damage equal to the result to each unit you pass during the move. If they are KO'd by the damage, gain Wins as though from a normal battle. After this effect, your turn ends.
+descr=Roll a die and move result x 3 panels. Deal damage equal to the result to each enemy you pass during the move. If they are KO'd by the damage, gain Wins as though from a normal battle. After this effect, your turn ends.
 flavor="I'll go fast and cut my way through!" ―Alicianrone
 
 < CARD_HYPER_TEOTORATTA >
@@ -561,7 +591,7 @@ flavor="I can see through everything!" ―Arnelle
 
 < CARD_HYPER_MAYNIE >
 name=Raging Madness
-descr=Gain +1 Rage Counter. Target another active unit and enter Raging Mode: gain +X ATK and +X EVD where X is the number of your Rage Counters. Raging Mode ends and Rage Counters become 0 upon target's KO. Gain +2 Wins if you KO target in battle, and -50% Stars and Wins if you KO any other unit.
+descr=Gain +1 Rage Counter. Target another active player and enter Raging Mode: gain +X ATK and +X EVD where X is the number of your Rage Counters. Raging Mode ends and Rage Counters become 0 upon target's KO. Gain +2 Wins if you KO target in battle, and -50% Stars and Wins if you KO any other unit.
 flavor="Gyaoooh!" ―Maynie
 
 < CARD_HYPER_KYUPITA >
@@ -641,7 +671,7 @@ flavor="Everything's under my control." ―Shifu
 
 < CARD_HYPER_REIKA >
 name=Star Collector
-descr=Effect Duration: 3 Chapters.\nWhenever another player gains stars from a panel or battle KO, they gain up to your Lvl fewer stars, and you gain your Lvl stars. Effect expires on KO.
+descr=Effect Duration: 3 Chapters.\nWhenever another unit gains stars from a panel or battle KO, they gain up to your Lvl fewer stars, and you gain your Lvl stars. Effect expires on KO.
 flavor="Fufufu, look how many stars I have here." ―Reika
 
 < CARD_HYPER_WATTY >

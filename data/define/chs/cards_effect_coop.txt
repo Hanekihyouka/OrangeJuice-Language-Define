@@ -24,7 +24,7 @@ descr=在下一场战斗中DEF+2。
 
 < CARD_COOP_BLAZING_EFFECT >
 name=爆燃！
-descr=每层储备使ATK+1（玩家）或\nDEF-1（敌人）。\n倒下时效果结束。
+descr=每层储备使ATK+1（友方）或\nDEF-1（敌人）。\n倒下时效果结束。
 
 < CARD_COOP_MELTINGMEMORIES_EFFECT >
 name=融化的记忆
@@ -35,16 +35,16 @@ name=阴谋的间谍行动～执行
 descr=在回合结束时恢复2点HP。
 
 < CARD_COOP_BANNEDFORLIFE_GIFT_EFFECT >
-name=永久流放
+name=永久驱逐
 descr=能使BOSS跳过下次行动。
 
 < CARD_COOP_BANNEDFORLIFE_EFFECT >
-name=永久流放
+name=永久驱逐
 descr=跳过下次行动。
 
 < CARD_COOP_GUIDANCE_EFFECT >
 name=风信鸡的指引
-descr=除战斗外，骰子个数变为2个。\n倒下时效果结束。
+descr=除战斗外，骰子枚数变为2枚。\n倒下时效果结束。
 
 < CARD_COOP_BEASTWITCH_EFFECT >
 name=兽之魔女
@@ -72,7 +72,11 @@ descr=不会触发BOSS格。\n当你与另一名玩家在同一格，且其中�
 
 < CARD_COOP_PRISONBREAK_EFFECT >
 name=假想越狱
-descr=无法被挑战。\n免疫来自BOSS的陷阱卡与卡片伤害。\n移动骰的个数为2个。\n每移动1格失去1层。
+descr=无法被挑战。\n免疫来自BOSS的陷阱卡与卡片伤害。\n移动骰枚数变为2枚。\n每移动1格失去1层。
+
+< CARD_COOP_POPPOSNATCHER_EFFECT >
+name=掠夺者啵噗
+descr=DEF-1。\n经过敌人时偷取你等级×3的STAR。\n无法进行目标检测。
 
 < CARD_BOSS_HYPE_EFFECT >
 name=兴奋
@@ -128,7 +132,7 @@ descr=每层储备使EVD-1。
 
 < CARD_BOSS_TURBO_EFFECT >
 name=涡轮
-descr=移动时的骰子个数变为3个。
+descr=移动骰枚数变为3枚。
 
 < CARD_BOSS_EMP_EFFECT >
 name=电磁脉冲
@@ -196,7 +200,7 @@ descr=这个角色和存活的手下，在战斗中造成每点\n伤害时额外
 
 < CARD_BOSS_CHASE_EFFECT >
 name=追逐
-descr=移动时的骰子个数变为2倍，每与1名玩家\n战斗过，获得1点兴奋。
+descr=移动骰枚数变为2倍，每与1名玩家\n战斗过，获得1点兴奋。
 
 < CARD_BOSS_TIRED_EFFECT >
 name=疲劳
@@ -220,7 +224,7 @@ descr=MOV+2
 
 < CARD_BOSS_WATERMELONSPLIT_EFFECT >
 name=打西瓜
-descr=ATK+5，在挑战敌人时不会停步。\n每击倒1名敌人获得2点兴奋。
+descr=ATK+5，在挑战敌人时不会停步。\n每击倒1名玩家获得2点兴奋。
 
 < CARD_BOSS_HYPEITUP_EFFECT >
 name=兴奋起来
@@ -248,7 +252,7 @@ descr=EVD+2。
 
 < CARD_BOSS_TURBOCHICKEN_EFFECT >
 name=涡轮鸡
-descr=移动时的骰子个数+1，在挑战敌人时不会停步。\n每层储备使ATK+1。\n每与1名玩家战斗过，获得25个STAR。
+descr=移动骰枚数+1，在挑战敌人时不会停步。\n每层储备使ATK+1。\n每与1名玩家战斗过，获得25个STAR。
 
 < CARD_BOSS_SWARM_EFFECT >
 name=群鸡起舞

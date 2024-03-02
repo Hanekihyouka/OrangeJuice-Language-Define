@@ -33,11 +33,11 @@ descr=Gain -1 ATK, -1 DEF and +1 die when rolling attack for each Chicken minion
 
 < CARD_UNIT_BOSS_POPPO >
 name=Star Devourer
-descr=Players gain 2x chapter star bonus. When damaged, gain +1 DEF until end of chapter. Deal +1 battle damage per 300 stars held. Gain 5 or give out 3 stars for each battle damage dealt or taken. Hold 1000 stars: win the game. 0 stars: lose the game.
+descr=Players gain 2x chapter star bonus. When damaged in battle, gain +1 DEF until end of chapter. This effect can stack. Deal +1 battle damage per 300 stars held. Gain 5 or give out 3 stars for each battle damage dealt or taken against players. Hold 1000 stars: win the game. 0 stars: lose the game.
 
 < CARD_UNIT_BOSS_POPPO_HYPER >
 name=Star Devourer
-descr=Players gain 2x chapter star bonus. When damaged, gain +1 DEF until end of chapter. Deal +1 battle damage per 300 stars held and gain 5 stars for each battle damage dealt. Hold 1000 stars: win the game. 0 stars: lose the game.
+descr=Players gain 2x chapter star bonus. When damaged in battle, gain +1 DEF until end of chapter. This effect can stack. Deal +1 battle damage per 300 stars held and gain 5 stars for each battle damage dealt against players. Hold 1000 stars: win the game. 0 stars: lose the game.
 
 < CARD_UNIT_BIG_POPPO >
 name=Big Poppo
@@ -49,7 +49,7 @@ descr=
 
 < CARD_UNIT_BOSS_ROBOBALL >
 name=M10 Robot
-descr=On Boss turn, do not stop when challenging a player. When Protect and Scrambled are not active, use Protect.
+descr=On Boss turn, do not stop when challenging an enemy. When Protect and Scrambled are not active, use Protect.
 
 < CARD_UNIT_BOSS_QP >
 name=Summer Beast
@@ -57,11 +57,11 @@ descr=Every turn, summon a seagull Minion (up to Boss Lvl). When a Minion is def
 
 < CARD_UNIT_BOSS_ROPOCHI >
 name=RoPoChi
-descr=When Po-tect and Scrambled are not active, use Po-tect. Gain -2 ATK and +1 die when rolling attack for each minion on the field. Use Roost Boost every 6 chapters. Gain 3 stars per combat damage dealt.
+descr=When Po-tect and Scrambled are not active, use Po-tect. Gain -2 ATK and +1 die when rolling attack for each minion on the field. Use Roost Boost every 6 chapters. Gain 3 stars per combat damage dealt against players.
 
 < CARD_UNIT_BOSS_ROPOCHI_HYPER >
 name=RoPoChi
-descr=When Po-tect and Scrambled are not active, use Po-tect. Gain -2 ATK and +1 die when rolling attack for each minion on the field. Use Roost Boost every 6 chapters. Gain 5 stars per combat damage dealt.
+descr=When Po-tect and Scrambled are not active, use Po-tect. Gain -2 ATK and +1 die when rolling attack for each minion on the field. Use Roost Boost every 6 chapters. Gain 5 stars per combat damage dealt against players.
 
 < CARD_UNIT_BOSS_COACH >
 name=Swimming Coach
@@ -209,11 +209,11 @@ descr=Gain 1 stack of Active Extension in each battle where a battle card is pla
 
 < CARD_UNIT_NATSUMI >
 name=Natsumi
-descr=If not KO'd and standing on the same panel with other active players at the end of your turn, each active player on the panel recovers 1 HP.\nFor each other player you heal, gain 5 stars.
-
-< CARD_UNIT_NATSUMI_BH >
-name=Natsumi
 descr=If not KO'd and standing on the same panel with other active units at the end of your turn, each active unit on the panel recovers 1 HP.\nFor each other unit you heal, gain 5 stars.
+
+< CARD_COOP_UNIT_NATSUMI >
+name=Natsumi
+descr=If not KO'd and standing on the same panel with other active allies at the end of your turn, each active ally on the panel recovers 1 HP.\nFor each other ally you heal, gain 5 stars.
 
 < CARD_UNIT_NICO >
 name=Nico
@@ -521,7 +521,7 @@ descr=Grant an additional die to the summoner when rolling attack in battle, whi
 
 < CARD_UNIT_BOSSM10_CHAOS >
 name=M10 Robot
-descr=On your turn, do not stop when challenging a player.
+descr=On your turn, do not stop when challenging an enemy.
 
 < CARD_UNIT_BOSSSTARDEV_CHAOS >
 name=Star Devourer

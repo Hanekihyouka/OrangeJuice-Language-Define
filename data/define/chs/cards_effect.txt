@@ -1,6 +1,6 @@
 ﻿< CARD_DASH_EFFECT >
 name=冲刺！
-descr=移动时的骰子个数变为2倍。
+descr=移动骰枚数变为2倍。
 
 < CARD_FLIPOUT_EFFECT >
 name=迁怒于人
@@ -36,7 +36,7 @@ descr=必定先攻。对方无法反击。\n（每场战斗只能起效1次）
 
 < CARD_ACCELERATOR_EFFECT >
 name=极速装置
-descr=移动·战斗·奖励·掉落时，使用的骰子个数\n变为2倍。
+descr=移动·战斗·奖励·掉落时，骰子枚数变为\n2倍。
 
 < CARD_BINDINGCHAIN_EFFECT >
 name=束缚之锁
@@ -156,7 +156,7 @@ descr=无法被挑战或被其他玩家的增益卡指定为目标。\n不会触
 
 < CARD_SMOKESCREEN_EFFECT >
 name=束缚的烟幕
-descr=移动时骰子数值只能是1、2或3。
+descr=移动骰只能投出1、2或3。
 
 < CARD_KIRIKO_EFFECT >
 name=奇怪的药
@@ -200,7 +200,7 @@ descr=不会受到伤害。
 
 < CARD_ACCEL_CANDY_EFFECT >
 name=极速超能糖
-descr=任何行动的骰子个数变为2倍。
+descr=任何行动的骰子枚数变为2倍。
 
 < CARD_COTTONCAKE_EFFECT >
 name=免费卡片
@@ -260,7 +260,7 @@ descr=每层储备使MOV-1。
 
 < CARD_SUGURI46_EFFECT >
 name=重获新生
-descr=下次移动时骰子个数+1。
+descr=下次移动骰枚数+1。
 
 < CARD_SUGURI46_ATK_EFFECT >
 name=追忆
@@ -290,7 +290,7 @@ flavor=
 
 < CARD_MINIGAME_DOUBLEDICE >
 name=啵噗骰子
-descr=投掷骰子时获得1个额外骰子。
+descr=投掷骰子时枚数+1。
 flavor=
 
 < CARD_MINIGAME_FROSTWALKER >
@@ -313,7 +313,7 @@ descr=抽取的所有非Hyper甜点类卡片\n随机永久变为「危险布丁�
 
 < CARD_LONELYCHARIOT_EFFECT >
 name=孤独的暴走车
-descr=移动时骰子投出的数值为5。\n在回合结束时受到1点伤害。\n倒下时效果结束。\n因这个效果而倒下时失去等级×5的STAR。
+descr=移动骰的数值为5。\n在回合结束时受到1点伤害。\n倒下时效果结束。\n因这个效果而倒下时失去等级×5的STAR。
 
 < CARD_PRESIDENTPRIVILEGE_EFFECT >
 name=学生会长的权益
@@ -324,7 +324,7 @@ name=圣诞小姐的工作
 descr=在待命时，可以选择1张可用等级的手牌转让给\n另1名随机玩家。\n获得转让卡片的等级×5的STAR。
 
 < CARD_BANNEDFORLIFE_EFFECT >
-name=永久流放
+name=永久驱逐
 descr=只能使用礼物卡。
 
 < CARD_EVILSPYWORKEXEC_EFFECT >
@@ -361,7 +361,7 @@ descr=可以使用比当前等级高1级的卡片。\n所有卡片COST+5。
 
 < CARD_POPPOSNATCHER_EFFECT >
 name=掠夺者啵噗
-descr=DEF-1。\n经过其他玩家时偷取其等级×3的STAR。\n无法进行目标检测。
+descr=DEF-1。\n经过其他角色时偷取其等级×3的STAR。\n无法进行目标检测。
 
 < CARD_BLOODLUST_EFFECT >
 name=鲜血渴望
@@ -465,7 +465,7 @@ descr=击败噩兆为你带来了勇气，在接下来储备层数\n场数的战
 
 < CARD_OVERTIME_EFFECT >
 name=加班
-descr=移动时的骰子个数变为3个。
+descr=移动骰枚数变为3枚。
 
 < CARD_CLOCKEDOUT_EFFECT >
 name=下班
@@ -489,7 +489,7 @@ descr=当效果结束时，抽取储备层数的卡片。
 
 < CARD_GUIDANCE_EFFECT >
 name=风信鸡的指引
-descr=除战斗外，骰子个数变为2个。\n当你停留在自己的HOME格时效果结束。\n只能在自己的HOME格进行目标检测。
+descr=除战斗外，骰子枚数变为2枚。\n当你停留在自己的HOME格时效果结束。\n只能在自己的HOME格进行目标检测。
 
 < CARD_SAFEJOURNEY_EFFECT >
 name=平安的旅途
@@ -501,7 +501,7 @@ descr=拥有3层饥饿时EVD-1，直到你停留在\n自己的HOME格。
 
 < CARD_GUIDANCE_BH_EFFECT >
 name=风信鸡的指引
-descr=储备效果\n除战斗外，骰子个数变为2个。\n当你停留在HOME格时效果结束。
+descr=储备效果\n除战斗外，骰子枚数变为2枚。\n当你停留在HOME格时效果结束。
 
 < CARD_UPSHIFT_EFFECT >
 name=升档
@@ -603,7 +603,7 @@ descr=你的睡眠遭受威胁的次数。
 
 < CARD_PRISONBREAK_EFFECT >
 name=假想越狱
-descr=无法被挑战或被其他玩家的增益卡指定为目标。\n免疫来自其他玩家的陷阱卡、立即击倒效果与\n卡片伤害。\n移动骰的个数为2个。\n每移动1格失去1层。
+descr=无法被挑战或被其他玩家的增益卡指定为目标。\n免疫来自其他玩家的陷阱卡、立即击倒效果与\n卡片伤害。\n移动骰枚数变为2枚。\n每移动1格失去1层。
 
 < CARD_MOTHERPOWER_EFFECT >
 name=母亲之力
@@ -620,5 +620,13 @@ descr=★COST（等级×10）\nHP降至1。\n持续效果（3轮）\nATK+4，EVD
 < CARD_HKAIPASSIVE_EFFECT >
 name=最后一搏
 descr=因战斗外伤害使HP低于1点时，残留1点HP；\n若下次经历你的回合结束时依然只有1点HP，\n则会被击倒。
+
+< CARD_WARPCONTROL_EFFECT >
+name=传送操控
+descr=下次触发传送或传送移动格时，消耗此效果，\n选择另一个传送或传送移动格作为传送目标。
+
+< CARD_NANAKOBIT_EFFECT >
+name=奈奈子的浮游炮
+descr=持有这张卡时，进入战斗随机获得\nATK+1、DEF+1或EVD+1，并失去\n7个STAR。
 
 [EOF]

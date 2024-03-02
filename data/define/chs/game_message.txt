@@ -9,10 +9,10 @@
 要发起挑战吗？
 
 < GAME_MESSAGE_HEALTEAMMATE >
-要为这名队友恢复1点HP吗？
+要为这名同伴恢复1点HP吗？
 
 < GAME_MESSAGE_REVIVETEAMMATE >
-要复活这名队友吗？（%d STAR）
+要复活这名同伴吗？（%d STAR）
 
 < GAME_MESSAGE_CHOOSECARDUSE >
 请选择想要使用的卡片。

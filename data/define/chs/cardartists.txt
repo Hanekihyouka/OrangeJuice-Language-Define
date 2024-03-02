@@ -137,4 +137,22 @@ tian nya
 < CARD_ARTIST_USANEKORIN >
 UsanekoRin
 
+< CARD_ARTIST_RITSU >
+Ritsu
+
+< CARD_ARTIST_PENCILCHEWING >
+pencilchewing
+
+< CARD_ARTIST_WOODCHIN >
+昏睡榛果
+
+< CARD_ARTIST_SCORPIONCARD >
+ScorpionCard
+
+< CARD_ARTIST_BAEDONG >
+Baedong
+
+< CARD_ARTIST_CALAMARIPOP >
+Calamari-Pop
+
 [EOF]

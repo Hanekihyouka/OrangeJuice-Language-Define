@@ -137,4 +137,22 @@ Senca
 < CARD_ARTIST_USANEKORIN >
 Usanekorin
 
+< CARD_ARTIST_RITSU >
+Ritsu
+
+< CARD_ARTIST_PENCILCHEWING >
+pencilchewing
+
+< CARD_ARTIST_WOODCHIN >
+WoodChin
+
+< CARD_ARTIST_SCORPIONCARD >
+ScorpionCard
+
+< CARD_ARTIST_BAEDONG >
+Baedong
+
+< CARD_ARTIST_CALAMARIPOP >
+Calamari-Pop
+
 [EOF]

@@ -54,7 +54,7 @@ Rich Presence（用于Steam与Discord）
 CPU随机装扮（仅限房主）
 
 < CONFIG_SYSTEM_ALT_MINIGAME_CONTROLS >
-使用备用的迷你游戏操作方式
+使用备选的小游戏操作方式
 
 < CONFIG_SYSTEM_REDUCED_CLICKS >
 减少点击

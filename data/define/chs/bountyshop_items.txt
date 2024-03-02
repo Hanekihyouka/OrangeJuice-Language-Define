@@ -74,7 +74,7 @@ descr=持续效果（3轮）\nEVD+3。相同效果无法叠加。
 
 < ITEM_ACCELCANDY >
 name=极速超能糖
-descr=持续效果（1轮）\n任何行动的骰子个数变成2倍。
+descr=持续效果（1轮）\n任何行动的骰子枚数变为2倍。
 
 < ITEM_COTTONSPONGE >
 name=海绵蛋糕

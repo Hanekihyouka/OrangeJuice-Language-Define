@@ -53,7 +53,7 @@ descr=所有玩家移动方向反转。\n\n频率：每8轮\n持续：1轮
 
 < FIELDEVENT_SPRINT >
 name=疾走
-descr=移动骰子变成2倍。（最多4个）\n\n频率：每6轮\n持续：1轮
+descr=移动骰枚数变成2倍。（最多4枚）\n\n频率：每6轮\n持续：1轮
 
 < FIELDEVENT_HOMEROULETTE >
 name=HOME轮盘

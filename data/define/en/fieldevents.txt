@@ -17,11 +17,11 @@ descr=
 
 < FIELDEVENT_REGENERATION >
 name=Regeneration
-descr=All players are healed by 1 HP.\n\nFrequency: Every 5th chapter.
+descr=All units are healed by 1 HP.\n\nFrequency: Every 5th chapter.
 
 < FIELDEVENT_RANDOMWARP >
 name=Random Warp
-descr=All players are warped to random panels.\n\nFrequency: Every 5th chapter.
+descr=All units are warped to random panels.\n\nFrequency: Every 5th chapter.
 
 < FIELDEVENT_CHARITY >
 name=Charity
@@ -29,7 +29,7 @@ descr=All players draw an extra card.\n\nFrequency: Every 5th chapter.
 
 < FIELDEVENT_AIRRAID >
 name=Air Raid
-descr=All players take 1 damage.\n\nFrequency: Every 5th chapter.
+descr=All units take 1 damage.\n\nFrequency: Every 5th chapter.
 
 < FIELDEVENT_MINELAYER >
 name=Minelayer
@@ -49,7 +49,7 @@ descr=All cards players hold are shuffled and cannot be seen by the player.\n\nF
 
 < FIELDEVENT_BACKTRACK >
 name=Backtrack
-descr=The movement direction is reversed for all players.\n\nFrequency: Every 8th chapter.\nDuration: 1 chapter.
+descr=The movement direction is reversed for all units.\n\nFrequency: Every 8th chapter.\nDuration: 1 chapter.
 
 < FIELDEVENT_SPRINT >
 name=Sprint

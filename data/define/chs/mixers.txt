@@ -4,11 +4,11 @@ descr=发动轮开始时，所有角色受到\n1点伤害。
 
 < MIXER_AMPLIFY >
 name=增幅
-descr=所有角色随机ATK、DEF或\nEVD+1。该效果持续2轮。
+descr=所有角色随机ATK、DEF或\nEVD+1。效果持续2轮。
 
 < MIXER_BACKTRACK >
 name=返回
-descr=所有角色移动方向反转。该效果\n持续1轮。
+descr=所有角色移动方向反转。效果\n持续1轮。
 
 < MIXER_BOMBER >
 name=炸弹
