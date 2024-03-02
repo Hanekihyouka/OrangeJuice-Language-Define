@@ -24,6 +24,11 @@
       {"type":"file","name":"card.dat","size":262272,"md5":"7a2371957cdeb9a77380b1ece76aaf3a"},
       {"type":"file","name":"coin.dat","size":4224,"md5":"6a2e8c5ede814d3f5fe0ca35907f0ce2"}
     ]},
+    {"type":"directory","name":"islay","size":4096,"contents":[
+      {"type":"file","name":"whitecross_00.dat","size":262272,"md5":"0f63d0d7bc5e04e0e8acc64c3bff5a4b"},
+      {"type":"file","name":"whitecross_01.dat","size":262272,"md5":"7ab937226d3fba0514fca8419203d1d2"},
+      {"type":"file","name":"whitecross_02.dat","size":262272,"md5":"c577744ff14eb51155469ae0b220082f"}
+    ]},
     {"type":"directory","name":"krilapajamas","size":4096,"contents":[
       {"type":"file","name":"doll.dat","size":65664,"md5":"bd55045cf6a4288b234f2069d920f1cc"}
     ]},
@@ -59,5 +64,5 @@
     ]}
   ]}
 ,
-  {"type":"report","directories":9,"files":41}
+  {"type":"report","directories":10,"files":44}
 ]
