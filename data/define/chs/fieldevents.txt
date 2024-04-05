@@ -17,11 +17,11 @@ descr=
 
 < FIELDEVENT_REGENERATION >
 name=恢复
-descr=所有玩家恢复1点HP。\n\n频率：每5轮
+descr=所有角色恢复1点HP。\n\n频率：每5轮
 
 < FIELDEVENT_RANDOMWARP >
 name=随机传送
-descr=所有玩家传送至随机格子。\n\n频率：每5轮
+descr=所有角色传送至随机格子。\n\n频率：每5轮
 
 < FIELDEVENT_CHARITY >
 name=恩惠
@@ -29,7 +29,7 @@ descr=所有玩家抽取1张卡。\n\n频率：每5轮
 
 < FIELDEVENT_AIRRAID >
 name=空袭
-descr=所有玩家受到1点伤害。\n\n频率：每5轮
+descr=所有角色受到1点伤害。\n\n频率：每5轮
 
 < FIELDEVENT_MINELAYER >
 name=布雷
@@ -49,7 +49,7 @@ descr=将玩家的所有手牌打乱，且卡面不可见。\n\n频率：每7轮
 
 < FIELDEVENT_BACKTRACK >
 name=返回
-descr=所有玩家移动方向反转。\n\n频率：每8轮\n持续：1轮
+descr=所有角色移动方向反转。\n\n频率：每8轮\n持续：1轮
 
 < FIELDEVENT_SPRINT >
 name=疾走

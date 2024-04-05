@@ -1177,4 +1177,10 @@ CPU自定义
 < MENU_CODEX_INSTRUCTION_4 >
 希望你能喜欢这项新功能。欢迎前往Steam论坛或我们的\nDiscord服务器进行反馈！
 
+< MENU_HIDE_UI >
+隐藏界面
+
+< MENU_SHOW_UI >
+显示界面
+
 [EOF]

@@ -211,7 +211,7 @@ flavor=「因为你不在了，\n所以我代替你成为了最终兵器。」�
 
 < CARD_HYPER_MIMYUU >
 name=阴谋的间谍行动～预备
-descr=把「邪恶的间谍行动～执行」×4张\n放入卡堆随机位置。
+descr=把「阴谋的间谍行动～执行」×4张\n放入卡堆随机位置。
 flavor=「被米缪亲的恶作剧\n吓得瑟瑟发抖吧。」—米缪
 
 < CARD_HYPER_MIMYUU2 >
@@ -356,7 +356,7 @@ flavor=「接下来该开店了。」—亚瑟
 
 < CARD_HYPER_IRU >
 name=扩散光子步枪
-descr=★COST（等级×5）\n除你以外的随机角色受到1点伤害。\n造成击倒时获得1WIN。\n该效果发动次数为你的等级数。
+descr=★COST（等级×5）\n随机1名敌人受到1点伤害。\n造成击倒时获得1WIN。\n该效果发动次数为你的等级数。
 flavor=「我要把你们都击坠。」—依琉
 
 < CARD_HYPER_MIRA >
@@ -391,7 +391,7 @@ flavor=「我也有……我自己的战斗。」—艾拉
 
 < CARD_HYPER_MIO >
 name=魔法狱火
-descr=将除你所在的格子外，与其相连通的\n十字方向的格子上的所有角色击倒。\n击倒角色时，你获得等同于在战斗中击倒的\nSTAR。\n然后回合结束。
+descr=将除你所在的格子外，与其相连通的\n十字方向的格子上的所有敌人击倒。\n击倒敌人时，你获得等同于在战斗中击倒的\nSTAR。\n然后回合结束。
 flavor=「狱火！」—魅樱
 
 < CARD_BATTLE_DESPERATEMODIFICATION >
@@ -416,7 +416,7 @@ flavor=「啵噗！啵噗噗噗！！！」—大家
 
 < CARD_GIFT_POPPOTHESNATCHER >
 name=掠夺者啵噗
-descr=DEF-1。\n在你的回合，经过其他角色时偷取\n其等级×3的STAR。\n无法进行目标检测。\n在使用或倒下时，将丢弃这张卡。
+descr=DEF-1。\n在你的回合，经过敌人时偷取\n其等级×3的STAR。\n无法进行目标检测。\n在使用或倒下时，将丢弃这张卡。
 flavor=「啵嘻嘻！！」—啵噗
 
 < CARD_GIFT_BLOODLUST >
@@ -513,6 +513,10 @@ flavor=「你以为是香蕉吗？遗憾，是我奈奈子！」\n—奈奈子
 name=幸运7
 descr=持有这张卡片时，你投掷骰子的数值范围\n变为0～7，投掷数值为0时，最小结果\n为0。\n在移动骰为0的回合无法进行目标检测。
 flavor=「让我来的话，想投几就是几。」—由希
+< CARD_TRAP_BANKOFPOPPO >
+name=啵噗银行
+descr=第一个触发此陷阱的角色失去等级×10的\nSTAR。\n当有STAR失去时，陷阱将存留至第二次\n发动，第二个触发此陷阱的玩家获得\n这些STAR。
+flavor=「我的钱竟然被……！」—凯
 
 < CARD_BOOST_WARPCONTROL >
 name=传送操控
@@ -531,12 +535,12 @@ flavor=「你在搞什么啊！」—奈奈子
 
 < CARD_TRAP_BANKOFPOPPO >
 name=啵噗银行
-descr=第一个触发此陷阱的角色失去等级×10的\nSTAR。\n当有STAR失去时，陷阱将存留至第二次\n发动，第二个触发此陷阱的玩家获得这些STAR。
+descr=第一个触发此陷阱的角色失去等级×10的\nSTAR。\n当有STAR失去时，陷阱将存留至第二次\n发动，第二个触发此陷阱的玩家获得\n这些STAR。
 flavor=「我的钱竟然被……！」—凯
 
 < CARD_BOOST_MYWILDFRIENDS >
 name=我的野生朋友们
-descr=随机将一个可能类型的友好野怪召唤至同一格，\n并让其获得1点HP。\n召唤物将自动挑战敌人，战斗中获得STAR的\n50%将给予召唤者。\n它将替代之前的召唤物。
+descr=将一个可能出现的随机野怪类型的友好角色召唤\n至同一格，并让其获得1点HP。\n召唤物将自动挑战敌人，战斗中获得STAR的\n50%将给予召唤者。\n它将替代之前的召唤物。
 flavor=「偶尔放松一下也不错啊。」—缇欧特拉塔
 
 < CARD_BATTLE_CONTESTOFCUTENESS >
@@ -576,7 +580,7 @@ flavor=「上吧——！」—玛儿
 
 < CARD_HYPER_ALICIANRONE >
 name=急速的亚莉希安罗妮
-descr=投掷一枚骰子，移动骰子点数×3的格数。\n经过其他角色时造成骰子点数的伤害。\n此伤害击倒角色时，你获得等同于战斗击倒\n的WIN。\n效果结束后，回合结束。
+descr=投掷一枚骰子，移动骰子点数×3的格数。\n经过敌人时造成骰子点数的伤害。\n此伤害造成击倒时，你获得等同于战斗击倒\n的WIN。\n效果结束后，回合结束。
 flavor=「冲过去，砍出一条路！」—亚莉希安罗妮
 
 < CARD_HYPER_TEOTORATTA >

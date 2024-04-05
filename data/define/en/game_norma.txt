@@ -47,5 +47,23 @@ Defeat 14 or more enemies.
 < GAME_NORMA_FAME >
 Reach <normaamount> or more fame.
 
+< GAME_NORMA_SELECT >
+Select your Norma
+
+< GAME_NORMA_ALREADYMET >
+Requirement already met!
+
+< GAME_NORMA_STARS_LEFT >
+%d Stars to go!
+
+< GAME_NORMA_WINS_LEFT >
+%d Wins to go!
+
+< GAME_NORMA_STARS_BUTTONDISPLAY >
+%d\nStars
+
+< GAME_NORMA_WINS_BUTTONDISPLAY >
+%d\nWins
+
 [EOF]
 

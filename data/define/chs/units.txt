@@ -321,7 +321,7 @@ descr=如果战斗开始时HP为1，\nATK·EVD+1，\n直到战斗结束。
 
 < CARD_UNIT_TOMATO >
 name=托玛特
-descr=以米缪复活并行动。\n被战斗击倒时只会给予1/3的STAR。\n抽到的「邪恶的间谍行动～执行」替换成\n「阴谋机器人出动！」。
+descr=以米缪复活并行动。\n被战斗击倒时只会给予1/3的STAR。\n抽到的「阴谋的间谍行动～执行」替换成\n「阴谋机器人出动！」。
 
 < CARD_UNIT_TEQUILA >
 name=铁基拉

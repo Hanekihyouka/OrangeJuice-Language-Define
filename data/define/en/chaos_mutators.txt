@@ -92,4 +92,12 @@ descr=Max HP is 99, but revive instantly at 1 HP. Cards in the deck will be chan
 
 < MUTATOR_UNLIKELY_ALLIANCE >
 name=Unlikely Alliance
-descr=Norma requirements are shared with a randomly given ally. Allies may not battle, but can heal and revive each other.
+descr=Norma requirements are shared with a given ally. Allies may not battle, but can heal and revive each other.
+
+< MUTATOR_TRUE_CONVERGENCE >
+name=True Convergence
+descr=Experience the original field breaker, happening every 6 chapters.
+
+< MUTATOR_CARD_MANIA >
+name=Card Mania
+descr=All cards chosen in your initial deck will be doubled. 16 hypers will be added instead of 8. Max held cards become 5 for all units, and you can play any amount of cards in your turn. Everyone draws a card every chapter.

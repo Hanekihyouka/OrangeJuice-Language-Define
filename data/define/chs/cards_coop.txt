@@ -42,6 +42,10 @@ flavor=「那个货物就让给你了。是的，让给你了。」\n—商人
 name=强制复活
 descr=所有倒下的角色以一半的HP复活，向上取整。
 flavor=「我这就给你治疗。」—斩子
+< CARD_BOOST_COOP_MYWILDFRIENDS >
+name=我的野生朋友们
+descr=将一个可能出现的随机野怪类型的友好角色召唤\n至同一格，并让其获得2点HP。\n召唤物将自动挑战敌人，战斗中获得的STAR\n将给予召唤者。\n它将替代之前的召唤物。
+flavor=「偶尔放松一下也不错啊。」—缇欧特拉塔
 
 < CARD_EVENT_COOP_REBELLION >
 name=反抗
@@ -60,7 +64,7 @@ flavor=「我的钱竟然被……！」—凯
 
 < CARD_BOOST_COOP_MYWILDFRIENDS >
 name=我的野生朋友们
-descr=随机将一个可能类型的友好野怪召唤至同一格，\n并让其获得2点HP。\n召唤物将自动挑战敌人，战斗中获得的STAR\n将给予召唤者。\n它将替代之前的召唤物。
+descr=将一个可能出现的随机野怪类型的友好角色召唤\n至同一格，并让其获得2点HP。\n召唤物将自动挑战敌人，战斗中获得的STAR\n将给予召唤者。\n它将替代之前的召唤物。
 flavor=「偶尔放松一下也不错啊。」—缇欧特拉塔
 
 < CARD_BATTLE_COOP_CONTESTOFCUTENESS >

@@ -244,7 +244,7 @@ descr=ATK·DEF·EVD+1。
 
 < CARD_ALICIANRONE_ATK_EFFECT >
 name=急速伤害
-descr=经过角色时造成储备层数的伤害。
+descr=经过敌人时造成储备层数的伤害。
 
 < CARD_BEASTWITCH_EFFECT >
 name=野兽的贡品
@@ -361,7 +361,7 @@ descr=可以使用比当前等级高1级的卡片。\n所有卡片COST+5。
 
 < CARD_POPPOSNATCHER_EFFECT >
 name=掠夺者啵噗
-descr=DEF-1。\n经过其他角色时偷取其等级×3的STAR。\n无法进行目标检测。
+descr=DEF-1。\n经过敌人时偷取其等级×3的STAR。\n无法进行目标检测。
 
 < CARD_BLOODLUST_EFFECT >
 name=鲜血渴望
