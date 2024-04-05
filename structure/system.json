@@ -87,6 +87,9 @@
     {"type":"file","name":"fade.dat","size":65664,"md5":"335a72037f19d1b39ba07e8cec1082f7"},
     {"type":"file","name":"fbfprepar_pic.dat","size":262272,"md5":"75dc5839a3118bdfa9b576fcd72a6849"},
     {"type":"file","name":"field_event.dat","size":262272,"md5":"f58e2d1f7ea7e1eaad42c1e58a07c067"},
+    {"type":"file","name":"flag_0.dat","size":16512,"md5":"9881d58c45e271b3f7d5ad9414761b3f"},
+    {"type":"file","name":"flag_1.dat","size":16512,"md5":"2c76e68a72d4fdba2e1c40403dcd9b53"},
+    {"type":"file","name":"flag_2.dat","size":16512,"md5":"96e7b71bd360d8262c5fe99ee289d431"},
     {"type":"file","name":"game_diceroll.dat","size":262272,"md5":"b8a4278f19e395245d40fedaf13e7ef0"},
     {"type":"file","name":"game_sys_efct.dat","size":65664,"md5":"a70026f9b57a28340fc201cf23ee769c"},
     {"type":"file","name":"game_sys_fld.dat","size":524416,"md5":"c349f7d5c9d87442b68fd7533ace8fba"},
@@ -151,6 +154,8 @@
     {"type":"file","name":"mouse_leftclick.dat","size":16512,"md5":"398d69a46445ac8408aea55dd88d72c1"},
     {"type":"file","name":"mouse_rightclick.dat","size":16512,"md5":"01dcba21fa5ddf04f1753a1270d71890"},
     {"type":"file","name":"norma.dat","size":262272,"md5":"3fce35e8ff09de9c7181bd8bb5ae74f9"},
+    {"type":"file","name":"norma_select.dat","size":4194432,"md5":"b5b1106d3434d8cd1988d4800e561b17"},
+    {"type":"file","name":"norma_select_stars.dat","size":262272,"md5":"10126acfe578c5e2fe367c8759129202"},
     {"type":"file","name":"noselect2.dat","size":16512,"md5":"6d2613dcc0a0f55c1d8740aa756d6717"},
     {"type":"file","name":"noselect.dat","size":16512,"md5":"0210f01183ded548176d38a0b3801205"},
     {"type":"file","name":"orange_bw.dat","size":262272,"md5":"37b1b4117b43d331b5168289de2d4835"},
@@ -210,5 +215,5 @@
     {"type":"file","name":"word_input.dat","size":1048704,"md5":"d14e7461e05386cdd1084dafba891c05"}
   ]}
 ,
-  {"type":"report","directories":1,"files":208}
+  {"type":"report","directories":1,"files":213}
 ]
