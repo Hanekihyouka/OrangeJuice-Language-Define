@@ -1,22 +1,27 @@
 [
   {"type":"directory","name":"unzip/codex.pak","size":4096,"contents":[
+    {"type":"file","name":"alicianrone.dat","size":4194432,"md5":"1e945fe6540ffbbeffac10a0fd3fc3cb"},
     {"type":"file","name":"alte.dat","size":4194432,"md5":"7287feae266a0eeb1f469f59be465f91"},
     {"type":"file","name":"arthur.dat","size":4194432,"md5":"ce3149c3a9865cdbcff787a5eb8edc60"},
     {"type":"file","name":"aru.dat","size":4194432,"md5":"21f345de36836b033e12044463280c00"},
     {"type":"file","name":"ceor.dat","size":4194432,"md5":"1eb17bce8d3d0094e62bb6c1f43c2a77"},
     {"type":"file","name":"cuties.dat","size":4194432,"md5":"fc4c04d3d4e847178e9897f325911ba9"},
+    {"type":"file","name":"ellie.dat","size":4194432,"md5":"80ffcaf9ae8f15dfd831b6afeb1cf432"},
     {"type":"file","name":"fernet.dat","size":4194432,"md5":"9cba073ba2fea1cbe76385ba1472031b"},
     {"type":"file","name":"hime.dat","size":4194432,"md5":"8a222ef22e5ac249ac12a35e31bc71a6"},
     {"type":"file","name":"iru.dat","size":4194432,"md5":"0bb84a1154bbc0bfec0a4d5cf2e1b1b7"},
+    {"type":"file","name":"islay.dat","size":4194432,"md5":"c02a8dbff5ab5fecf738ab34865bdf4a"},
     {"type":"file","name":"kae.dat","size":4194432,"md5":"5a67a26c361fd6c56b6d2c352f271798"},
     {"type":"file","name":"kai.dat","size":4194432,"md5":"43c718f41f01743e8c6239f523c7df4b"},
     {"type":"file","name":"kiriko.dat","size":4194432,"md5":"8a8bb17c7d99068d24bf57cb2094cdf2"},
     {"type":"file","name":"krila.dat","size":4194432,"md5":"5d4a2428df7dcf40e2659f078dd52999"},
     {"type":"file","name":"ksuke.dat","size":4194432,"md5":"77248be3fb2babecb5c22e6384c8d5d1"},
     {"type":"file","name":"kyoko.dat","size":4194432,"md5":"029c8996e383af057b6b34063633ff82"},
+    {"type":"file","name":"lulu.dat","size":4194432,"md5":"7f7413abc3f32dde6ce38d9216c84b12"},
     {"type":"file","name":"marc.dat","size":4194432,"md5":"f84913e2ee602a47c007a6f8dfcfc0e3"},
     {"type":"file","name":"mei.dat","size":4194432,"md5":"f5b6a14b3661d05a62ad1815ab51ce98"},
     {"type":"file","name":"mimyuu.dat","size":4194432,"md5":"dbb3ac3d2659be502907ca0bf1ac1220"},
+    {"type":"file","name":"mio.dat","size":4194432,"md5":"5e6c76704e5afad8189e5207c3666eda"},
     {"type":"file","name":"mira.dat","size":4194432,"md5":"d1f19317da18f0e8a33ba244d59342e3"},
     {"type":"file","name":"miusaki.dat","size":4194432,"md5":"cefe9f81aa3ed6a78a9550b2cea35baa"},
     {"type":"file","name":"nanako.dat","size":4194432,"md5":"5c6080618593f283fdc2fe053f5b990f"},
@@ -32,15 +37,19 @@
     {"type":"file","name":"sherry.dat","size":4194432,"md5":"793bf5ea738b4ae84583e05cfb886274"},
     {"type":"file","name":"sora.dat","size":4194432,"md5":"239c7e2e4482847bfb468dbfbd2ceb4f"},
     {"type":"file","name":"starb.dat","size":4194432,"md5":"baed111e54b27be1304774074cb6d498"},
+    {"type":"file","name":"suguri46.dat","size":4194432,"md5":"6b46058ccb6cf718fbd18c52cb2ccb9d"},
     {"type":"file","name":"suguri.dat","size":4194432,"md5":"3db2ed85458786c18aa858aaa026a00e"},
+    {"type":"file","name":"sumika.dat","size":4194432,"md5":"3834ff884369a705d794a966cb0c19eb"},
     {"type":"file","name":"sweetb.dat","size":4194432,"md5":"924a4364f2af823b3d5019135cb409eb"},
     {"type":"file","name":"syura.dat","size":4194432,"md5":"854d17ac4937b318db6f12eee1199a07"},
+    {"type":"file","name":"teotoratta.dat","size":4194432,"md5":"72a627dcd063b62015d785488b4b180e"},
     {"type":"file","name":"tequila.dat","size":4194432,"md5":"4800a3f2ef9e1186ad8e99609d1eac14"},
     {"type":"file","name":"tomato.dat","size":4194432,"md5":"2878f86ff0906e390a5980801b34ba6f"},
     {"type":"file","name":"tomomo.dat","size":4194432,"md5":"42cfe418b90c10ede79e7a7353d3045d"},
     {"type":"file","name":"tsih.dat","size":4194432,"md5":"d5b43f36515fc186ff602b4b73aa9c17"},
-    {"type":"file","name":"yuki.dat","size":4194432,"md5":"52e448074122f8989c4cbd6c6585a251"}
+    {"type":"file","name":"yuki.dat","size":4194432,"md5":"52e448074122f8989c4cbd6c6585a251"},
+    {"type":"file","name":"yuuki.dat","size":4194432,"md5":"39171fabd7e97fdc2a5bd66a63dc6cbb"}
   ]}
 ,
-  {"type":"report","directories":1,"files":40}
+  {"type":"report","directories":1,"files":49}
 ]

@@ -1,5 +1,6 @@
 [
   {"type":"directory","name":"unzip/fbfadd.pak","size":28672,"contents":[
+    {"type":"file","name":"10year_anniv_unlock.dat","size":262272,"md5":"94df2ca373d11e6c4a36f7bd875dd55a"},
     {"type":"file","name":"5year_anniv_unlock.dat","size":262272,"md5":"5e25a6a2afb6ba328421db0320438d10"},
     {"type":"file","name":"alicia_hyper_sheet_circle.dat","size":2097280,"md5":"8d60f9b6d6848c1ecb9da8018def8ef1"},
     {"type":"file","name":"alicia_hyper_sheet_slashes.dat","size":2097280,"md5":"b512f4539b22da2c8077846a24a16a1e"},
@@ -660,5 +661,5 @@
     {"type":"file","name":"yk_devilboost.dat","size":65664,"md5":"7df62d9f041225179ccce7ed6e678a89"}
   ]}
 ,
-  {"type":"report","directories":1,"files":658}
+  {"type":"report","directories":1,"files":659}
 ]

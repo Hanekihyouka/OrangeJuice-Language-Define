@@ -1,7 +1,7 @@
 [
   {"type":"directory","name":"unzip/taunts.pak","size":4096,"contents":[
     {"type":"file","name":"taunt_emotion_bubble.dat","size":262272,"md5":"4667bb318f3923c5a52b6d1c569db201"},
-    {"type":"file","name":"taunt_emotion_sheet.dat","size":4194432,"md5":"14d73f55a46c6caecce32b5bd9a8936e"},
+    {"type":"file","name":"taunt_emotion_sheet.dat","size":4194432,"md5":"7c62f608d838ece36009180d3b524ea1"},
     {"type":"file","name":"taunt_mask00_00.dat","size":262272,"md5":"972cc9e79ee14f9a6de05f062b3aa0df"},
     {"type":"file","name":"taunt_mask01_00.dat","size":262272,"md5":"02848cd7eb7baee3767cfd062c1929fb"},
     {"type":"file","name":"taunt_mask02_00.dat","size":262272,"md5":"590b17a35aa15ceea1296f28a6f0222f"},
