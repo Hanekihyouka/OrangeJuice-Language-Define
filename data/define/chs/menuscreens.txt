@@ -730,10 +730,13 @@ QP被太阳晒得发疯了！与她和她的新小弟们玩到让她累趴下吧
 这场蘑菇争夺战的结果是平局（？）……但你依然可以寻找更多的蘑菇！
 
 < PLAYMENU_TOOLTIP_5YEARANNIVERSARY >
-Steam版5周年纪念礼物！\n你可以在个人形象画面点击HOME标志图标进行切换。
+Steam版5周年纪念礼物！\n你可以在个人形象界面中点击对应图标切换HOME标志。
 
 < PLAYMENU_1MILLIONCHARA_UNLOCK >
 恭喜你！下载量达到100万次的奖励角色\n魅樱已经可供使用了！\n她的角色语音和播音员语音也一同被解锁了！
+
+< PLAYMENU_TOOLTIP_10YEARANNIVERSARY >
+Steam版10周年纪念礼物！\n你可以在个人形象界面中点击对应图标切换切换卡背。
 
 < PLAYMENU_SUMMER2019_RERUN_REVIVE >
 QP还想多玩一会！夏日野兽复活了！

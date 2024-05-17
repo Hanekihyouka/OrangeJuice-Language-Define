@@ -738,6 +738,9 @@ The outcome of the mushroom hunt was a draw(?) this time... but you can still ke
 < PLAYMENU_1MILLIONCHARA_UNLOCK >
 Congratulations! The 1 million download bonus character Mio is now available to use!\nHer character and announcer voice options have also been unlocked!
 
+< PLAYMENU_TOOLTIP_10YEARANNIVERSARY >
+10-Year Steam Anniversary Gift!\nYou can switch the card back by clicking on its icon on the avatar screen.
+
 < PLAYMENU_SUMMER2019_RERUN_REVIVE >
 QP wants to play more! Summer Beast has been revived!
 

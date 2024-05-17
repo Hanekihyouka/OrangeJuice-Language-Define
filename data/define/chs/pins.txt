@@ -213,3 +213,48 @@ name=飞翔的米拉
 desc=授予使用米拉进行过很多场游戏的玩家。\n这个挂件就是英雄的象征。
 artist=Sora
 
+< PIN_FLYING_YUUKI >
+name=飞翔的夕希
+desc=授予使用夕希进行过很多场游戏的玩家。\n欧拉欧拉欧拉欧拉！
+artist=Sora
+
+< PIN_FLYING_ISLAY >
+name=飞翔的艾拉
+desc=授予使用艾拉进行过很多场游戏的玩家。\n优雅地飞翔。
+artist=Sora
+
+< PIN_FLYING_SUGURI46 >
+name=飞翔的须玖莉（460亿年）
+desc=授予使用须玖莉（460亿年）进行过很多场游戏的玩家。\n她让这个挂件也变得双倍可爱了。
+artist=Sora
+
+< PIN_FLYING_SUMIKA >
+name=飞翔的栖海花
+desc=授予使用栖海花进行过很多场游戏的玩家。\n栖海花挂件是栖海花。
+artist=Sora
+
+< PIN_FLYING_MIO >
+name=飞翔的魅樱
+desc=授予使用魅樱进行过很多场游戏的玩家。\n派对中的润滑剂（和糨糊）。
+artist=Sora
+
+< PIN_FLYING_LULU >
+name=飞翔的露露
+desc=授予使用露露进行过很多场游戏的玩家。\n以后我们也要一起玩啊！
+artist=Sora
+
+< PIN_FLYING_ELLIE >
+name=飞翔的艾莉
+desc=授予使用艾莉进行过很多场游戏的玩家。\n该出发去冒险了！
+artist=Sora
+
+< PIN_FLYING_ALICIANRONE >
+name=飞翔的亚莉希安罗妮
+desc=授予使用亚莉希安罗妮进行过很多场游戏的玩家。\n森林这边最快的魔女！
+artist=Sora
+
+< PIN_FLYING_TEOTORATTA >
+name=飞翔的缇欧特拉塔
+desc=授予使用缇欧特拉塔进行过很多场游戏的玩家。\n她有着一群不离不弃的狐朋狗友。
+artist=Sora
+
