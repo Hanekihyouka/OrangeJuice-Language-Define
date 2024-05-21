@@ -1,5 +1,33 @@
 [
   {"type":"directory","name":"unzip/hyper.pak","size":4096,"contents":[
+    {"type":"directory","name":"bourbon","size":4096,"contents":[
+      {"type":"directory","name":"damage","size":4096,"contents":[
+        {"type":"file","name":"back1.dat","size":1048704,"md5":"a1426548092e5e010c3570020f39b2ea"},
+        {"type":"file","name":"back2.dat","size":1048704,"md5":"5085a5ef8cf1d7c33bc3bc2a09fd3a4d"},
+        {"type":"file","name":"front1.dat","size":1048704,"md5":"bea1459002049fae4b67ce59329708d0"},
+        {"type":"file","name":"front2.dat","size":1048704,"md5":"eb6487943d3296f22b1adc163b56b3e2"},
+        {"type":"file","name":"ship.dat","size":1048704,"md5":"24862655517bff15b3ed26cabff6b977"}
+      ]},
+      {"type":"directory","name":"defeat","size":4096,"contents":[
+        {"type":"file","name":"ship.dat","size":1048704,"md5":"0c42dac949749d1fd9dd0bc0cd754688"}
+      ]},
+      {"type":"directory","name":"evade","size":4096,"contents":[
+        {"type":"file","name":"back1.dat","size":1048704,"md5":"6f7202c41452318dc9ab62e2c881c265"},
+        {"type":"file","name":"back2.dat","size":1048704,"md5":"38c88c857cfc182dfda16ec62c9ffe35"},
+        {"type":"file","name":"front1.dat","size":1048704,"md5":"753fae76df72ded38647015a26df6558"},
+        {"type":"file","name":"front2.dat","size":1048704,"md5":"aa27d260bd4c7d93c333d75ef22c394e"},
+        {"type":"file","name":"ship.dat","size":1048704,"md5":"1d87035d5e858d395e37383b7d4864dc"}
+      ]},
+      {"type":"directory","name":"idle","size":4096,"contents":[
+        {"type":"file","name":"back1.dat","size":1048704,"md5":"4ba9fa3483870a9f7cd2e63d62af5d40"},
+        {"type":"file","name":"back2.dat","size":1048704,"md5":"2e230cd9922ee530b499d7413486056d"},
+        {"type":"file","name":"front1.dat","size":1048704,"md5":"5a1044427485b8f360f12a31e8db2284"},
+        {"type":"file","name":"front2.dat","size":1048704,"md5":"d6457246018f9e9360fd08f66790e1c1"},
+        {"type":"file","name":"ship.dat","size":1048704,"md5":"13dfded2337d77f7babb5d8b9aa00bcc"}
+      ]},
+      {"type":"file","name":"rocket.dat","size":262272,"md5":"0fc7392222d78685f71a4dad98698adb"},
+      {"type":"file","name":"whale.dat","size":1048704,"md5":"b7658e3a3cf2a4ec3df9aff64ef1fead"}
+    ]},
     {"type":"directory","name":"darkl","size":4096,"contents":[
       {"type":"file","name":"gen_glow.dat","size":262272,"md5":"df0b67f4f06a4b0910f456ce86cf4fa5"},
       {"type":"file","name":"gen_glowg.dat","size":262272,"md5":"5359a9b41bb359587ea944c142f9a5ca"},
@@ -10,6 +38,14 @@
       {"type":"file","name":"unluckyegg_2.dat","size":65664,"md5":"9f995ae9a8df8964f9c5e62e6056c30b"},
       {"type":"file","name":"unluckyegg_3.dat","size":65664,"md5":"d17806af33ec7101ff9b68f0d4c33638"},
       {"type":"file","name":"unluckyegg_4.dat","size":65664,"md5":"d5ee2f1aad5532000b8d09d8f3a97822"}
+    ]},
+    {"type":"directory","name":"grain","size":4096,"contents":[
+      {"type":"file","name":"backpropeller0.dat","size":1048704,"md5":"f1c1078d93595e416188303205fd8e97"},
+      {"type":"file","name":"backpropeller1.dat","size":1048704,"md5":"3b90c627df6afcb4a2308b972d8c4514"},
+      {"type":"file","name":"cannonball.dat","size":65664,"md5":"5d37a6f747ff992963e9251b2fe9a737"},
+      {"type":"file","name":"greenfrog.dat","size":1048704,"md5":"71598f92775565961ebf9b0c7a65b36d"},
+      {"type":"file","name":"propeller0.dat","size":1048704,"md5":"a74a14448247a962cdc5ea825f7002a7"},
+      {"type":"file","name":"propeller1.dat","size":1048704,"md5":"8f3d72a2369a0793b4048c29cf29ee16"}
     ]},
     {"type":"directory","name":"hellie","size":4096,"contents":[
       {"type":"file","name":"-1.dat","size":262272,"md5":"b7aaabe371b208b6aa72fd900b6966b9"},
@@ -31,6 +67,15 @@
     ]},
     {"type":"directory","name":"krilapajamas","size":4096,"contents":[
       {"type":"file","name":"doll.dat","size":65664,"md5":"bd55045cf6a4288b234f2069d920f1cc"}
+    ]},
+    {"type":"directory","name":"mescal","size":4096,"contents":[
+      {"type":"file","name":"plane_base.dat","size":1048704,"md5":"1f660f695b42b43c91412f0ac8d60298"},
+      {"type":"file","name":"plane_fire.dat","size":1048704,"md5":"6a89c34a5ac194203ba7a030ce94b159"},
+      {"type":"file","name":"plane_gun.dat","size":1048704,"md5":"b778547de9232f48c0f02cf6a0e2deb2"},
+      {"type":"file","name":"plane_hatch.dat","size":1048704,"md5":"a7afcbf43e6bc878b36be979283f0a88"},
+      {"type":"file","name":"plane_lighting.dat","size":1048704,"md5":"b87f7b400b0d02df647ee69907e08c0e"},
+      {"type":"file","name":"plane_propeller1.dat","size":1048704,"md5":"a54627ddc7b52b12ac03e7d51ee159a0"},
+      {"type":"file","name":"plane_propeller2.dat","size":1048704,"md5":"d79631bb671cbc6e134b9dcec119415d"}
     ]},
     {"type":"directory","name":"motherpoppo","size":4096,"contents":[
       {"type":"file","name":"eff_motherpower.dat","size":262272,"md5":"7de9fcc92049d68a68a3a8d52dc6fdad"}
@@ -64,5 +109,5 @@
     ]}
   ]}
 ,
-  {"type":"report","directories":10,"files":44}
+  {"type":"report","directories":17,"files":75}
 ]

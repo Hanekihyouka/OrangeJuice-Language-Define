@@ -1,5 +1,6 @@
 [
   {"type":"directory","name":"unzip/gallery.pak","size":4096,"contents":[
+    {"type":"file","name":"thumb_10y.dat","size":262272,"md5":"d0ae97a87bf46205dae67fa36499edd4"},
     {"type":"file","name":"thumb_bigfella.dat","size":262272,"md5":"32a3d59e6e2d047a49aa034db2dffca4"},
     {"type":"file","name":"thumb_christmas2017.dat","size":262272,"md5":"84c834fd30271e7e03b146b484cad995"},
     {"type":"file","name":"thumb_christmas2018.dat","size":262272,"md5":"7a63b02d4021c714a1656f29fce9a985"},
@@ -46,5 +47,5 @@
     {"type":"file","name":"thumb_winter2023.dat","size":262272,"md5":"35a5eeaac2b2c0a9abbf9001f4d7c97a"}
   ]}
 ,
-  {"type":"report","directories":1,"files":44}
+  {"type":"report","directories":1,"files":45}
 ]

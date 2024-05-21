@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"unzip/cards.pak","size":49152,"contents":[
+  {"type":"directory","name":"unzip/cards.pak","size":53248,"contents":[
     {"type":"file","name":"accel128.dat","size":65664,"md5":"dccb5d7f0716ca1cf754e8acc209e6fc"},
     {"type":"file","name":"accel256.dat","size":262272,"md5":"b8ed48f53628b2437f3eae9900819efb"},
     {"type":"file","name":"accelhyper128.dat","size":65664,"md5":"b213a72be1c993a65005014daea5559b"},
@@ -82,6 +82,8 @@
     {"type":"file","name":"blueshroom256.dat","size":262272,"md5":"c8d19de966ed5a1c1524bfa328fcc994"},
     {"type":"file","name":"bossrobo128.dat","size":65664,"md5":"f5d3fdf8cfadae6e4f95ed17cccdd55f"},
     {"type":"file","name":"bossrobo256.dat","size":262272,"md5":"6b0ee5dd46bd2fdb80a797b1b0296fdf"},
+    {"type":"file","name":"bourbon128.dat","size":65664,"md5":"a0b560d9ad35c5ee4acf57060593c428"},
+    {"type":"file","name":"bourbon256.dat","size":262272,"md5":"53d16016a485ffff5da5afc3b73d3f7c"},
     {"type":"file","name":"bpoppo128.dat","size":65664,"md5":"0c7401221c2253cd9d11747de5b25854"},
     {"type":"file","name":"bpoppo256.dat","size":262272,"md5":"a5b7d9dd56a23ef83931e286355408aa"},
     {"type":"file","name":"bqp128.dat","size":65664,"md5":"e617dbdb11765dcb8adb9785eb64469a"},
@@ -494,8 +496,8 @@
     {"type":"file","name":"doll_ply256.dat","size":262272,"md5":"161d6efdc23a896c247b668dd2602f8b"},
     {"type":"file","name":"ellie128.dat","size":65664,"md5":"ba60ff6c1e67d78e6e3eddb39e3c9444"},
     {"type":"file","name":"ellie256.dat","size":262272,"md5":"8da199deae42e24c46251164e06a0b6b"},
-    {"type":"file","name":"elliehyper128.dat","size":65664,"md5":"cc384910dab8f55a709a395625a50f24"},
-    {"type":"file","name":"elliehyper256.dat","size":262272,"md5":"fffea1e62e47107c34fb55a905e2ae62"},
+    {"type":"file","name":"elliehyper128.dat","size":65664,"md5":"b0c4ca87ba4f6eece9f34771e4117b2f"},
+    {"type":"file","name":"elliehyper256.dat","size":262272,"md5":"d8f3ed4958fba37951b97ef83d720f9c"},
     {"type":"file","name":"elliemiracle128.dat","size":65664,"md5":"8bcc40b4b8f8386dc486fa4d81698b46"},
     {"type":"file","name":"elliemiracle256.dat","size":262272,"md5":"7ee92f432efa2b54aca6225212de67d6"},
     {"type":"file","name":"emerangler128.dat","size":65664,"md5":"aa906437fbfce888743433f385291eb6"},
@@ -559,12 +561,16 @@
     {"type":"file","name":"gost256.dat","size":262272,"md5":"f19d310d89ddbb5663444d106604e216"},
     {"type":"file","name":"gpoppo128.dat","size":65664,"md5":"7d28af440adbf792e06439125f1c9a5e"},
     {"type":"file","name":"gpoppo256.dat","size":262272,"md5":"bb0c7ba81509a4748a5ec60de209ed74"},
+    {"type":"file","name":"grain128.dat","size":65664,"md5":"2080877590f96a99274d517729107341"},
+    {"type":"file","name":"grain256.dat","size":262272,"md5":"dfed1174cd4eb853be032062411b91cb"},
     {"type":"file","name":"greenshroom128.dat","size":65664,"md5":"7b61f2f5a7c274215e5da7095627e11e"},
     {"type":"file","name":"greenshroom256.dat","size":262272,"md5":"3c7c415e73e82594c0a7300150399d1e"},
     {"type":"file","name":"guardian128.dat","size":65664,"md5":"be7e7013aacdafd89f6bf0b46c8c1852"},
     {"type":"file","name":"guardian256.dat","size":262272,"md5":"bfccf8d2168e00c3a1fc7149621fcd0c"},
     {"type":"file","name":"guidance128.dat","size":65664,"md5":"0092704a249e5149fc175c18d6b69b96"},
     {"type":"file","name":"guidance256.dat","size":262272,"md5":"51f6d1d11e9bc0af1da24fe57f96ac1a"},
+    {"type":"file","name":"gunsready128.dat","size":65664,"md5":"5635c0316e904c60f821a4138caae820"},
+    {"type":"file","name":"gunsready256.dat","size":262272,"md5":"89be69df6654522117235449818fe294"},
     {"type":"file","name":"hairlock128.dat","size":65664,"md5":"2545b27578d2688a51a2801916c8611e"},
     {"type":"file","name":"hairlock256.dat","size":262272,"md5":"d037f83cede945e512bce2d5f22dcb79"},
     {"type":"file","name":"halena128.dat","size":65664,"md5":"38bbe57a4b8903ee1680cc18878c7ec2"},
@@ -623,8 +629,8 @@
     {"type":"file","name":"kae256.dat","size":262272,"md5":"21d2bdd1d2989f346b87dcb637134cb2"},
     {"type":"file","name":"kai128.dat","size":65664,"md5":"d7ebee57410f3d4f34af4fdd6e1c5082"},
     {"type":"file","name":"kai256.dat","size":262272,"md5":"71b62fe89ff471f1699efb5ef7e4737f"},
-    {"type":"file","name":"kaihero128.dat","size":65664,"md5":"cf2c7bdb590ae85dda6094cd7578a090"},
-    {"type":"file","name":"kaihero256.dat","size":262272,"md5":"f86322556a148eeb0d83115ab18bdd5f"},
+    {"type":"file","name":"kaihero128.dat","size":65664,"md5":"a1cf5b7cb36c80651472a1b06643386c"},
+    {"type":"file","name":"kaihero256.dat","size":262272,"md5":"635e06e7b61ff2f850922921a3102d1a"},
     {"type":"file","name":"kessyou128.dat","size":65664,"md5":"c8a900d52cd93bc8459deb8acf21a464"},
     {"type":"file","name":"kessyou256.dat","size":262272,"md5":"464a091e4da89d4540a27f9957c7aa83"},
     {"type":"file","name":"kiriko128.dat","size":65664,"md5":"e31a569b9c2df7123f0bcd5763ff657d"},
@@ -867,6 +873,8 @@
     {"type":"file","name":"reika256.dat","size":262272,"md5":"5f2199645650d0fbd87af709e4d9dc05"},
     {"type":"file","name":"research128.dat","size":65664,"md5":"5e3f509014d162820bcd05ebda5a2983"},
     {"type":"file","name":"research256.dat","size":262272,"md5":"89260073d93fc2eef622e5dd37161e5a"},
+    {"type":"file","name":"resistance128.dat","size":65664,"md5":"59725f4f2f37041e0c89fae1d4ceddf8"},
+    {"type":"file","name":"resistance256.dat","size":262272,"md5":"6e2e7d27549af627b608fbb5b3c2174b"},
     {"type":"file","name":"revivalos128.dat","size":65664,"md5":"50163f140e9511b1491269ae10414fa3"},
     {"type":"file","name":"revivalos256.dat","size":262272,"md5":"d09408a4898c58f9fabe1ba6cdd7e449"},
     {"type":"file","name":"rival128.dat","size":65664,"md5":"cc74a5f25ede034ef3489dc95376664d"},
@@ -1127,5 +1135,5 @@
     {"type":"file","name":"zsalesman256.dat","size":262272,"md5":"45ff606cfaf11957751930da225a600a"}
   ]}
 ,
-  {"type":"report","directories":1,"files":1125}
+  {"type":"report","directories":1,"files":1133}
 ]

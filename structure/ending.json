@@ -1,5 +1,6 @@
 [
   {"type":"directory","name":"unzip/ending.pak","size":4096,"contents":[
+    {"type":"file","name":"10y.dat","size":4194432,"md5":"e564708aa309fc17780f53742d4c381e"},
     {"type":"file","name":"bigfella.dat","size":16777344,"md5":"da42c90a2ab316babb8bc2d9710af717"},
     {"type":"file","name":"christmas2017.dat","size":16777344,"md5":"2c4640c429cc3fcf1f0ac9a93e75bc3f"},
     {"type":"file","name":"christmas2018.dat","size":16777344,"md5":"d2c7d35711615962c0e42c47d5dd8b51"},
@@ -59,5 +60,5 @@
     {"type":"file","name":"winter2023.dat","size":16777344,"md5":"82eb2725ec6be4ff780580c6b8bb7555"}
   ]}
 ,
-  {"type":"report","directories":6,"files":47}
+  {"type":"report","directories":6,"files":48}
 ]

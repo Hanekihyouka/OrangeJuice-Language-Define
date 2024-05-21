@@ -11,6 +11,7 @@
     {"type":"file","name":"config_mod_system.dat","size":1048704,"md5":"e2f7e3a63b81946967fe975094f02e9a"},
     {"type":"file","name":"config_mod_types.dat","size":262272,"md5":"8cd01f90b647efa8b4ce23219d797b20"},
     {"type":"file","name":"config_system.dat","size":1048704,"md5":"b4cad6ed7258725ad747ec2254e91cb0"},
+    {"type":"file","name":"d8_00.dat","size":262272,"md5":"fe9ae6e6ff919d8733d3de05ec5f9bf0"},
     {"type":"file","name":"daidai_base.dat","size":16512,"md5":"66e7d2efa0644055ffe939ce22541363"},
     {"type":"file","name":"daidai.dat","size":16512,"md5":"bb0693015cf6f9257e4b649f957251c5"},
     {"type":"file","name":"dialogue.dat","size":1048704,"md5":"1eec72e36c3cd612e434e97e0de50b59"},
@@ -107,6 +108,7 @@
     {"type":"file","name":"menu_system.dat","size":1048704,"md5":"3755d95a69d94ab4434b70ef629396d8"},
     {"type":"file","name":"menu_title1.dat","size":262272,"md5":"88a9ff1d28c53d77358067cf806dae59"},
     {"type":"file","name":"menu_title2.dat","size":262272,"md5":"632cbf88b689bb4432b82265273d28b6"},
+    {"type":"file","name":"menu_title3.dat","size":262272,"md5":"f1f8858d9f2ea7c3e017649b448773a7"},
     {"type":"file","name":"message_0.dat","size":4224,"md5":"4745b2e0d89b0177cfc32e945df24545"},
     {"type":"file","name":"message_1.dat","size":4224,"md5":"0b3c4aa815e538eeef21491481e158d2"},
     {"type":"file","name":"message_2.dat","size":4224,"md5":"12b53caf8864d98cc6ab2d96df92448c"},
@@ -215,5 +217,5 @@
     {"type":"file","name":"word_input.dat","size":1048704,"md5":"3613b25017ff87c9ddc582d3a47b30ef"}
   ]}
 ,
-  {"type":"report","directories":1,"files":213}
+  {"type":"report","directories":1,"files":215}
 ]
