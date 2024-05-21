@@ -749,6 +749,16 @@ name=Ex-Protagonist's Moment of Glory
 descr=★Cost: Lvl x10. Lower your HP to 1. Effect Duration: 3 chapters. Gain +4 ATK and +5 EVD.
 flavor="You can't make an adult go overboard." ―Hero Kai
 
+< CARD_HYPER_GRAIN >
+name=All Guns at the Ready
+descr=Pay all stocked Cannonball Counters. Deal 1 damage to a random enemy. If the enemy is KO'd, gain 1 Win and Stars equal to 10x their level. Repeat this once for every Cannonball Counter paid.
+flavor="All guns at the ready... FIRE!" ―Grain
+
+< CARD_HYPER_BOURBON >
+name=Heart of Resistance
+descr=Target another active player. Next time they are challenged or challenge a unit while you are active, take their place in the battle. Gain +3 ATK, DEF and EVD at the start of the battle. You may only have this effect on one player at a time.
+flavor="We just want to fly in the sky the way we want." ―Bourbon
+
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=Ultimate Weapon in the Sun
 descr=During this battle, gain +3 ATK.

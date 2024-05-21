@@ -1,6 +1,6 @@
 ﻿< PET_BARREL >
 name=赤红酒桶
-descr=赤红酒桶已经准备好起飞了！ 
+descr=赤红酒桶随时可以起飞！ 
 
 < PET_CAT >
 name=猫
@@ -9,7 +9,7 @@ descr=让人难以捉摸又自命清高的生物。
 
 < PET_CHICKEN >
 name=鸡
-descr=在没有想法的时候就会闪避。
+descr=不畏一切的闪避。
 
 
 < PET_FRUITBAT >
@@ -19,7 +19,7 @@ descr=痴迷于橙子的蝙蝠。
 
 < PET_GHOST >
 name=幽灵
-descr=在你背后的是谁？
+descr=谁在你背后？
 
 
 < PET_LEO >
@@ -33,7 +33,7 @@ descr=这到底是什么生物啦？
 
 < PET_PLANT >
 name=植物
-descr=忘恩负义之物。
+descr=你敬我一尺，我敬你一齿。
 
 
 < PET_RABBITPLUSH >
@@ -286,7 +286,7 @@ name=芜莱姆芽
 descr=芜与伦比。
 
 < PET_PUNYZARD >
-name=小兔蜥
+name=崽兔蜥
 descr=耳朵都睡长了。
 
 < PET_MASHIRO >

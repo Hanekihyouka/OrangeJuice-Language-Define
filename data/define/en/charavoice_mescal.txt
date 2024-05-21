@@ -149,8 +149,9 @@
 <0148> This one didn't count! Another one, another one!
 <0149> New Mescal Pirates, go!
 <0150> Are you the big bad boss Daddy told me about?
-<0151> That's a cool ride! It's mine now!
-<0152> Hey guys, I don't need your help!
-<0153> Hey! I could've taken care of this on my own!
-<0154> Oh? Thanks! I'll patch you up later.
-<0155> You guys had better not lose, you hear!
+<0151> That's a great whale! You have good taste!
+<0152> That's a cool ride! It's mine now!
+<0153> Hey guys, I don't need your help!
+<0154> Hey! I could've taken care of this on my own!
+<0155> Oh? Thanks! I'll patch you up later.
+<0156> You guys had better not lose, you hear!

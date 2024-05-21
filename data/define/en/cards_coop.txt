@@ -353,6 +353,11 @@ name=Lulu is an Unlucky Dragon
 descr=Can only be played with 2 HP or less. Trigger one of the following effects at random:\n-Roll a die. All enemies lose the die number x (your Lvl) x2 stars, then you gain the same amount.\n-The Boss will skip its next action.\n-All enemies lose 3 HP.
 flavor="Lulu is... an unlucky dragon..." ―Dark Lulu
 
+< CARD_HYPER_COOP_GRAIN >
+name=All Guns at the Ready
+descr=Pay all stocked Cannonball Counters. Deal 1 damage to a random enemy. If the enemy is KO'd, gain 1 Win and Stars equal to 10x your level. Repeat this once for every Cannonball Counter paid.
+flavor="All guns at the ready... FIRE!" ―Grain
+
 < CARD_BOSS_COOP_DOZE >
 name=Doze
 descr=No effect.

@@ -513,10 +513,6 @@ flavor=「你以为是香蕉吗？遗憾，是我奈奈子！」\n—奈奈子
 name=幸运7
 descr=持有这张卡片时，你投掷骰子的数值范围\n变为0～7，投掷数值为0时，最小结果\n为0。\n在移动骰为0的回合无法进行目标检测。
 flavor=「让我来的话，想投几就是几。」—由希
-< CARD_TRAP_BANKOFPOPPO >
-name=啵噗银行
-descr=第一个触发此陷阱的角色失去等级×10的\nSTAR。\n当有STAR失去时，陷阱将存留至第二次\n发动，第二个触发此陷阱的玩家获得\n这些STAR。
-flavor=「我的钱竟然被……！」—凯
 
 < CARD_BOOST_WARPCONTROL >
 name=传送操控
@@ -752,6 +748,16 @@ flavor=「让你见识一下我的最强之力吧♡」—超能艾莉
 name=前主角的光辉时刻
 descr=★COST（等级×10）\nHP降至1。\n持续效果（3轮）\nATK+4，EVD+5。
 flavor=「你可不要把大人给逼急了。」—勇者凯
+
+< CARD_HYPER_GRAIN >
+name=全炮门开启
+descr=消耗所有炮弹。对随机1名敌人造成1点伤害。\n造成击倒时，你获得1WIN与对方等级×10的\nSTAR。\n每消耗1枚炮弹重复一次此行为。
+flavor=「全炮门开启……发射！」—格雷因
+
+< CARD_HYPER_BOURBON >
+name=抵抗之心
+descr=指定1名存活的其他玩家。\n在其下次受到挑战或进行挑战时若你存活，\n则代替其进行战斗。\n这场战斗开始时，ATK·DEF·EVD+3。\n你同时只能指定一名玩家。
+flavor=「我们只是想在我们自己的天空中飞翔而已。」\n—波本
 
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=炎炎烈日的最终兵器

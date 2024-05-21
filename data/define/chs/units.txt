@@ -575,5 +575,12 @@ descr=在先攻的战斗中，ATK+1，\nDEF·EVD-1。
 name=勇者凯
 descr=因战斗外伤害使HP低于1点时，残留1点HP；\n若在你的回合结束时依然只有1点HP，\n则会被击倒。
 
+< CARD_UNIT_GRAIN >
+name=格雷因
+descr=MOV-1。使用卡片时获得1枚炮弹\n（上限为9）。
+
+< CARD_UNIT_BOURBON >
+name=波本
+descr=当你受到战斗伤害时，\nHP上限-1（下限为3），效果持续至倒下。
 
 [EOF]

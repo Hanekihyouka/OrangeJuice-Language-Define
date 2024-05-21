@@ -182,6 +182,9 @@ Ultimate Weapon Girl
 < SHOP_DLC_NEWELLIEKAI >
 主角包
 
+< SHOP_DLC_OLDGUARDPACK >
+波本＆格雷因包
+
 < SHOP_TOOLTIP_HOME >
 按类别图标查看商店。
 

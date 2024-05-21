@@ -182,6 +182,9 @@ Star Baker Breaker
 < SHOP_DLC_NEWELLIEKAI >
 Protagonist Pack
 
+< SHOP_DLC_OLDGUARDPACK >
+Bourbon & Grain
+
 < SHOP_TOOLTIP_HOME >
 Navigate the shop by category icons.
 

@@ -629,4 +629,16 @@ descr=Upon triggering a Warp or Warp Move, consume this effect and choose anothe
 name=Nanako's Bit
 descr=Randomly gain +1 ATK, +1 DEF, or +1 EVD at the start of battle while this card is held, and lose 7 stars.
 
+< CARD_CANNONBALL_EFFECT >
+name=Cannonball Counter
+descr=Gained upon playing a card.
+
+< CARD_BOURBON_EFFECT >
+name=Broken Fin
+descr=-1 Max HP for each stack. Effect expires on KO.
+
+< CARD_HEART_OF_RESISTANCE_EFFECT >
+name=Heart of Resistance
+descr=If active, take the place of target in battle the next time they are challenged or challenge a unit.
+
 [EOF]

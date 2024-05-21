@@ -140,14 +140,16 @@
 <0139> Try and stop me, Red Barrel!
 <0140> It's the duty of the older generation to teach restraint to the young.
 <0141> Hmph. I acknowledge you.
-<0142> Hmph. To be young and rash again...
-<0143> Begone from my skies, pirate scum!
-<0144> Why, hello young miss. Are you with your father again?
-<0145> I wonder what such a lovely young lady would want with an old man like myself.
-<0146> You would bare your fangs at me? Very well.
-<0147> It's not too late to join me again, Miss. I always need good pilots.
-<0148> The symbol of the guild... I must still be dreaming...
-<0149> Ahem. What brings you here, little lady? Are you perhaps lost? 
-<0150> To me, everyo- *cough*, ahem. Old habits...
-<0151> This is how a gentleman should conduct his business.
-<0152> M-miss... I'm not sure where to look.
+<0142> So you have come to stop me, old friend?
+<0143> Have you finally decided to join me for a drink? No?
+<0144> Hmph. To be young and rash again...
+<0145> Begone from my skies, pirate scum!
+<0146> Why, hello young miss. Are you with your father again?
+<0147> I wonder what such a lovely young lady would want with an old man like myself.
+<0148> You would bare your fangs at me? Very well.
+<0149> It's not too late to join me again, Miss. I always need good pilots.
+<0150> The symbol of the guild... I must still be dreaming...
+<0151> Ahem. What brings you here, little lady? Are you perhaps lost? 
+<0152> To me, everyo- *cough*, ahem. Old habits...
+<0153> This is how a gentleman should conduct his business.
+<0154> M-miss... I'm not sure where to look.

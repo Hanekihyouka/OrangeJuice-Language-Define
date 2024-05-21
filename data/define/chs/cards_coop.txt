@@ -42,10 +42,6 @@ flavor=「那个货物就让给你了。是的，让给你了。」\n—商人
 name=强制复活
 descr=所有倒下的角色以一半的HP复活，向上取整。
 flavor=「我这就给你治疗。」—斩子
-< CARD_BOOST_COOP_MYWILDFRIENDS >
-name=我的野生朋友们
-descr=将一个可能出现的随机野怪类型的友好角色召唤\n至同一格，并让其获得2点HP。\n召唤物将自动挑战敌人，战斗中获得的STAR\n将给予召唤者。\n它将替代之前的召唤物。
-flavor=「偶尔放松一下也不错啊。」—缇欧特拉塔
 
 < CARD_EVENT_COOP_REBELLION >
 name=反抗
@@ -356,6 +352,11 @@ flavor=「撒丫子跑呀！」—米缪
 name=露露是厄运之龙
 descr=只能在2HP及以下使用。\n随机获得以下一种效果：\n・投掷一枚骰子，所有敌人失去骰子点数×\n　你的等级×2的STAR，然后你获得相同\n　数量的STAR。\n・BOSS跳过下次行动。\n・所有敌人失去3点HP。
 flavor=「露露是……厄运之龙……」—黑暗露露
+
+< CARD_HYPER_COOP_GRAIN >
+name=全炮门开启
+descr=消耗所有炮弹。对随机1名敌人造成1点伤害。\n造成击倒时，你获得1WIN与你等级×10的\nSTAR。\n每消耗1枚炮弹重复一次此行为。
+flavor=「全炮门开启……发射！」—格雷因
 
 < CARD_BOSS_COOP_DOZE >
 name=打盹

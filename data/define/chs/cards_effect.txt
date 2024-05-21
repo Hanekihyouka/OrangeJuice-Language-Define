@@ -629,4 +629,16 @@ descr=下次触发传送或传送移动格时，消耗此效果，\n选择另一
 name=奈奈子的浮游炮
 descr=持有这张卡时，进入战斗随机获得\nATK+1、DEF+1或EVD+1，并失去\n7个STAR。
 
+< CARD_CANNONBALL_EFFECT >
+name=炮弹
+descr=使用卡片时获得。
+
+< CARD_BOURBON_EFFECT >
+name=断叶
+descr=每层储备使HP上限-1。倒下时效果结束。
+
+< CARD_HEART_OF_RESISTANCE_EFFECT >
+name=抵抗之心
+descr=若效果赋予者存活，在你下次受到挑战或\n进行挑战时，其将代替你进行战斗。
+
 [EOF]

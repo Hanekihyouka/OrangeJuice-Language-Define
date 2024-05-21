@@ -158,4 +158,10 @@ Shinnosuke Ogami
 < VOICEACTOR_OOTSUBO_YUKA >
 Ootsubo Yuka
 
+< VOICEACTOR_YASUHIRO_MAMIYA >
+Mamiya Yasuhiro
+
+< VOICEACTOR_TAKUMI_YAMAZAKI >
+Yamazaki Takumi
+
 [EOF]
