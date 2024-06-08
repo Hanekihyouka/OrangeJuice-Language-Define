@@ -28,4 +28,4 @@
 <0008> Happy 10th!! Only 90% left to go!\n-penunoli
 
 // press as kyoko
-<0009> Thank you for enjoying this juicy game. It's contents and Vitamin C are assured, but please don't have too much as things may go toxic and not your way, but continue to have just enough daily to have a sweet and nutritiously wholesome time with your friends.\n-ItzPress
+<0009> Thank you for enjoying this juicy game. Its contents and Vitamin C are assured, but please don't have too much as things may go toxic and not your way, but continue to have just enough daily to have a sweet and nutritiously wholesome time with your friends.\n-ItzPress

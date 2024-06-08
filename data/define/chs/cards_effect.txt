@@ -639,6 +639,6 @@ descr=每层储备使HP上限-1。倒下时效果结束。
 
 < CARD_HEART_OF_RESISTANCE_EFFECT >
 name=抵抗之心
-descr=若效果赋予者存活，在你下次受到挑战或\n进行挑战时，其将代替你进行战斗。
+descr=若存活，在你指定的玩家受到挑战或进行挑战时，代替其进行战斗。
 
 [EOF]

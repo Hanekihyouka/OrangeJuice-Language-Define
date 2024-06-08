@@ -205,6 +205,12 @@
 < CHAT_SYSTEM_LOSTCONNECTIONTOPLAYER >
 与「%s」失去连接。
 
+< CHAT_SYSTEM_CHEATDETECTED_CLIENT >
+%s试图通过使用无效卡片作弊。
+
+< CHAT_SYSTEM_CHEATDETECTED_HOST >
+%s试图通过使用无效卡片作弊，且被移出了游戏。
+
 // Invite = game invitation
 < GAMEINVITE_PENDING_TITLE >
 待定邀请

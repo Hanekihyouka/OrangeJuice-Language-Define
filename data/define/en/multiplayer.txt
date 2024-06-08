@@ -205,6 +205,12 @@ Switched to spectator!
 < CHAT_SYSTEM_LOSTCONNECTIONTOPLAYER >
 Lost connection to %s.
 
+< CHAT_SYSTEM_CHEATDETECTED_CLIENT >
+%s attempted to cheat by playing an invalid card.
+
+< CHAT_SYSTEM_CHEATDETECTED_HOST >
+%s attempted to cheat by playing an invalid card, and was kicked.
+
 // Invite = game invitation
 < GAMEINVITE_PENDING_TITLE >
 Invite Pending
