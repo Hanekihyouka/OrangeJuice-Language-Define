@@ -1,0 +1,9 @@
+[
+  {"type":"directory","name":"data/audio/bgmpack3sweet","size":4096,"contents":[
+    {"type":"file","name":"0.ogg","size":2139367,"md5":"fa9311c778d7d71d572032321bbb0679"},
+    {"type":"file","name":"1.ogg","size":1488411,"md5":"a19aa14c86c6ecd68115deccb9909bc0"},
+    {"type":"file","name":"2.ogg","size":2022112,"md5":"e402f7519370e096c4e999f97aa8ad47"}
+  ]}
+,
+  {"type":"report","directories":1,"files":3}
+]

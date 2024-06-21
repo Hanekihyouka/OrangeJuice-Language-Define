@@ -1,0 +1,28 @@
+[
+  {"type":"directory","name":"data/audio/voice1a","size":4096,"contents":[
+    {"type":"file","name":"1.oga","size":3121,"md5":"30a2b6a508f8569fe0230602931d771c"},
+    {"type":"file","name":"2.oga","size":3103,"md5":"ad9c757b3233bf46bb28f0916931c0c5"},
+    {"type":"file","name":"3.oga","size":4402,"md5":"4a7863acde2a2c23599233a20dc4157f"},
+    {"type":"file","name":"BATTLE.oga","size":5809,"md5":"68ab566bce308830d0598bca1304d6de"},
+    {"type":"file","name":"BONUS.oga","size":7848,"md5":"e3c83db5c60d342936de9d8c9004aee9"},
+    {"type":"file","name":"CHECK.oga","size":9277,"md5":"ffe7a34d9bc6001f4d3ac42b7bb52a81"},
+    {"type":"file","name":"DRAW.oga","size":9221,"md5":"cb855969ad5c2429ea5b4f43dc7076e9"},
+    {"type":"file","name":"DROP.oga","size":10839,"md5":"89d5af77264b259c7be96099d31749a5"},
+    {"type":"file","name":"NORMA1.oga","size":15761,"md5":"a1d19e66eb45f675d817b547dee1f5f6"},
+    {"type":"file","name":"NORMA2.oga","size":18621,"md5":"ff889a96b4a48fb12bc0c4df328b8c7c"},
+    {"type":"file","name":"NORMA3.oga","size":18971,"md5":"561fb65075418e183d3932b30421dbcf"},
+    {"type":"file","name":"NORMA4.oga","size":18072,"md5":"9c447cb5de6c7f07a6d92ebcf96a063c"},
+    {"type":"file","name":"NORMA5.oga","size":18517,"md5":"d57c5c41e05f935123ef1b118730ac56"},
+    {"type":"file","name":"NORMA6.oga","size":17133,"md5":"f56f53cf4745091e88d8a31672f41710"},
+    {"type":"file","name":"PLAYER1.oga","size":8904,"md5":"c229c02f2b2965499cefd8811eb58dfa"},
+    {"type":"file","name":"PLAYER2.oga","size":10505,"md5":"08d17df833ea3e7d0e3b5a62957774bd"},
+    {"type":"file","name":"PLAYER3.oga","size":9576,"md5":"f655bd165bfffba65111464aa7632757"},
+    {"type":"file","name":"PLAYER4.oga","size":8832,"md5":"34cdefea21b88db5f430b5fff23367a9"},
+    {"type":"file","name":"START.oga","size":8033,"md5":"a9c25e0e9ae5fda49ea766652ab4e50d"},
+    {"type":"file","name":"TITLE.oga","size":20938,"md5":"2e2de7e466d8d9c345cbd215c62c496a"},
+    {"type":"file","name":"TRAP.oga","size":18098,"md5":"2b245bc975a0b345da1251d414a19408"},
+    {"type":"file","name":"WIN.oga","size":5141,"md5":"e097fedae6b67e2eb7f672d85defcfb0"}
+  ]}
+,
+  {"type":"report","directories":1,"files":22}
+]

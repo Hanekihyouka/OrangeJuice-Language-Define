@@ -1,0 +1,7 @@
+[
+  {"type":"directory","name":"data/audio/bgmfieldvoid","size":4096,"contents":[
+    {"type":"file","name":"0.ogg","size":4422637,"md5":"848483312f815dd044b25547bb60c927"}
+  ]}
+,
+  {"type":"report","directories":1,"files":1}
+]

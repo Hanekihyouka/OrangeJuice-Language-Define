@@ -1,0 +1,24 @@
+[
+  {"type":"directory","name":"data/audio/voice3","size":4096,"contents":[
+    {"type":"file","name":"BATTLE.oga","size":9608,"md5":"021908ad5b338b94abcdef4072358d69"},
+    {"type":"file","name":"BONUS.oga","size":7950,"md5":"c0485a777c036ee6b7705e7823526caf"},
+    {"type":"file","name":"CHECK.oga","size":10993,"md5":"b2a571f34f6b9ed5e29486a98352dc0b"},
+    {"type":"file","name":"DRAW.oga","size":11283,"md5":"2be851e64c9378fb39be13a8e421f1d1"},
+    {"type":"file","name":"DROP.oga","size":8995,"md5":"27ca62455bbabadeb15c34a7f6a06f56"},
+    {"type":"file","name":"NORMA1.oga","size":18320,"md5":"40f8b14074ed28ea3c5c33914a1e536e"},
+    {"type":"file","name":"NORMA2.oga","size":18218,"md5":"6acdc58c1464736ef954fa32bfb7d82b"},
+    {"type":"file","name":"NORMA3.oga","size":17243,"md5":"f6647b71c385fb4b744107697de68e7c"},
+    {"type":"file","name":"NORMA4.oga","size":19383,"md5":"c77f1d4434ae62edd9643175af932ff3"},
+    {"type":"file","name":"NORMA5.oga","size":21386,"md5":"c62d52faebdf9fe9a3c22e0c1454968e"},
+    {"type":"file","name":"NORMA6.oga","size":15966,"md5":"0056343b7fa39d5376051abe992e1c55"},
+    {"type":"file","name":"PLAYER1.oga","size":11384,"md5":"0529037884867e09b6f2bc925cc0e25d"},
+    {"type":"file","name":"PLAYER2.oga","size":11042,"md5":"8bb4914d48a8175a685ba2ec4d44b6ca"},
+    {"type":"file","name":"PLAYER3.oga","size":11708,"md5":"7796a2b32ef433e22e9dc2130fa70e03"},
+    {"type":"file","name":"PLAYER4.oga","size":11741,"md5":"413d12152a429adadde15a12bfe2e905"},
+    {"type":"file","name":"TITLE.oga","size":23937,"md5":"64c256693612848cb1a144af3aecf456"},
+    {"type":"file","name":"TRAP.oga","size":11776,"md5":"25e1e36126a3bed596eb25ac0ec8d347"},
+    {"type":"file","name":"WIN.oga","size":5553,"md5":"6b6dbdf71fb85e47a1126d987abb07e6"}
+  ]}
+,
+  {"type":"report","directories":1,"files":18}
+]

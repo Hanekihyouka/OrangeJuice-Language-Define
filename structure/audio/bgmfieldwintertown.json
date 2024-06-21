@@ -1,0 +1,7 @@
+[
+  {"type":"directory","name":"data/audio/bgmfieldwintertown","size":4096,"contents":[
+    {"type":"file","name":"0.ogg","size":2037004,"md5":"8f7c4b3efd5d6e52b60156342c6751d7"}
+  ]}
+,
+  {"type":"report","directories":1,"files":1}
+]

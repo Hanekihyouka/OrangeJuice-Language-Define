@@ -1,0 +1,9 @@
+[
+  {"type":"directory","name":"data/graphics/trial","size":4096,"contents":[
+    {"type":"file","name":"fullgameonly.png","size":7378,"md5":"95a6f6a4654d02d22775b1f3882ef612"},
+    {"type":"file","name":"getfullgame.png","size":40657,"md5":"0a91578255009f4f68d2c5feb5ead08b"},
+    {"type":"file","name":"triallogo.png","size":60395,"md5":"29369770af378e7898c26f18111f53d4"}
+  ]}
+,
+  {"type":"report","directories":1,"files":3}
+]

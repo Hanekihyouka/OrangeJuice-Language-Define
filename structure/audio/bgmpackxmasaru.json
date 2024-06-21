@@ -1,0 +1,7 @@
+[
+  {"type":"directory","name":"data/audio/bgmpackxmasaru","size":4096,"contents":[
+    {"type":"file","name":"0.ogg","size":2569186,"md5":"778d26b526db3d0d1a88140367b675c4"}
+  ]}
+,
+  {"type":"report","directories":1,"files":1}
+]

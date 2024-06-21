@@ -1,0 +1,36 @@
+[
+  {"type":"directory","name":"data/audio/voice_cha_poppo_aprilfools","size":4096,"contents":[
+    {"type":"file","name":"100_0.oga","size":28287,"md5":"b6edec85703f965a5125765ce2210e76"},
+    {"type":"file","name":"101_0.oga","size":43683,"md5":"28998d1b467a77a75bf1246d39fac1bc"},
+    {"type":"file","name":"72_0.oga","size":49280,"md5":"c9db9fcbd0b0ce47f81f25e4bfcb69a6"},
+    {"type":"file","name":"73_0.oga","size":65663,"md5":"25a89312187e4cc6ee2bd835c43a3254"},
+    {"type":"file","name":"74_0.oga","size":71488,"md5":"42dea9155c077a1cd1a227cb6a6b494a"},
+    {"type":"file","name":"75_0.oga","size":57195,"md5":"8da9846477fc74d68ddb8e56c7c9cd95"},
+    {"type":"file","name":"76_0.oga","size":62824,"md5":"4e160e9f629d5f45f92b274f773aa799"},
+    {"type":"file","name":"77_0.oga","size":15927,"md5":"09f691e7bed6b9a8ab6388de05539baf"},
+    {"type":"file","name":"78_0.oga","size":27449,"md5":"f588471a9803c2b2db95707b0b57bccb"},
+    {"type":"file","name":"79_0.oga","size":29897,"md5":"66b58f0cad97f3f5232fc95efdaf61d1"},
+    {"type":"file","name":"80_0.oga","size":17864,"md5":"d27767f7f068ad418106b28addd7f3b9"},
+    {"type":"file","name":"81_0.oga","size":17707,"md5":"fb8d54b6fb1131f3c9e2a8e6ed05385c"},
+    {"type":"file","name":"82_0.oga","size":20158,"md5":"9e14dea860b0696f5e22fdaabbf743e1"},
+    {"type":"file","name":"83_0.oga","size":17353,"md5":"8558d0927e33870fa226ff60892f2119"},
+    {"type":"file","name":"84_0.oga","size":26007,"md5":"d55131ea0ff403e202de1bb9062c347a"},
+    {"type":"file","name":"85_0.oga","size":37555,"md5":"fd80fd36a24048720960bf474dc3bbd9"},
+    {"type":"file","name":"86_0.oga","size":27359,"md5":"52ce6f45ab7e30f9cef909de875a9b28"},
+    {"type":"file","name":"87_0.oga","size":23065,"md5":"0306513cb2a8312f87b65486f41b50ae"},
+    {"type":"file","name":"88_0.oga","size":38059,"md5":"0b1a1409b6f87ca028450b1700097c7d"},
+    {"type":"file","name":"89_0.oga","size":15216,"md5":"f540448f1431fa07b053ae0b43a794eb"},
+    {"type":"file","name":"90_0.oga","size":19883,"md5":"ad3addaad7cde58889924cf741f3d5ee"},
+    {"type":"file","name":"91_0.oga","size":21226,"md5":"3de109d520f5b08409c8820e9013a1a4"},
+    {"type":"file","name":"92_0.oga","size":16210,"md5":"dd45052297f0c168e86adcc291c34888"},
+    {"type":"file","name":"93_0.oga","size":19120,"md5":"9717703c6bf3c8e2769b5a0c6b31817b"},
+    {"type":"file","name":"94_0.oga","size":19683,"md5":"821366cfb7f9f837af712b63b27fe200"},
+    {"type":"file","name":"95_0.oga","size":18818,"md5":"21f4281c73a724e7424d8a8bef5bb02e"},
+    {"type":"file","name":"96_0.oga","size":28920,"md5":"6a25addbe8f96ac40aaca05260c0937e"},
+    {"type":"file","name":"97_0.oga","size":32686,"md5":"18bdbdf84f416f0e8e0095f855f9c6ed"},
+    {"type":"file","name":"98_0.oga","size":38798,"md5":"6a3aba79ed658006c64009c864766bb9"},
+    {"type":"file","name":"99_0.oga","size":39366,"md5":"40932337e6fcd9c2685f52da444c4e18"}
+  ]}
+,
+  {"type":"report","directories":1,"files":30}
+]

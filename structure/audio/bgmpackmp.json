@@ -1,0 +1,7 @@
+[
+  {"type":"directory","name":"data/audio/bgmpackmp","size":4096,"contents":[
+    {"type":"file","name":"0.ogg","size":1035509,"md5":"9b37328affe57f89885dfa30ea8e7d2c"}
+  ]}
+,
+  {"type":"report","directories":1,"files":1}
+]

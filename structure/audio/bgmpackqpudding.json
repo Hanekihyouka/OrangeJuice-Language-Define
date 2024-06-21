@@ -1,0 +1,7 @@
+[
+  {"type":"directory","name":"data/audio/bgmpackqpudding","size":4096,"contents":[
+    {"type":"file","name":"0.ogg","size":2779423,"md5":"4ef4537bd79b28639e75647bec1a30ec"}
+  ]}
+,
+  {"type":"report","directories":1,"files":1}
+]

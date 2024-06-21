@@ -1,0 +1,7 @@
+[
+  {"type":"directory","name":"data/audio/bgmfieldpool","size":4096,"contents":[
+    {"type":"file","name":"0.ogg","size":4004334,"md5":"8f9300e9c215cf45061fa362ae3e37e8"}
+  ]}
+,
+  {"type":"report","directories":1,"files":1}
+]

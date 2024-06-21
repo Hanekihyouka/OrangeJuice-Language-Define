@@ -1,0 +1,19 @@
+[
+  {"type":"directory","name":"data/graphics/taunts","size":4096,"contents":[
+    {"type":"file","name":"taunt_emotion_bubble.png","size":29434,"md5":"2e1947e9824df33e6231c94f95c34e36"},
+    {"type":"file","name":"taunt_emotion_sheet.png","size":434702,"md5":"88e8885adf53314dee5dd251314fd79e"},
+    {"type":"file","name":"taunt_mask00_00.png","size":2437,"md5":"e38dc773d0ac929a9b0a7260272c9492"},
+    {"type":"file","name":"taunt_mask01_00.png","size":4485,"md5":"7a0798132102a53bec594e98371ee6ef"},
+    {"type":"file","name":"taunt_mask02_00.png","size":3604,"md5":"57612bf65858be1f4d118bd7468a7bc4"},
+    {"type":"file","name":"taunt_mask03_00.png","size":3310,"md5":"1e9a75d16f1c71f28de19b41afa6fe9e"},
+    {"type":"file","name":"taunt_mask04_00.png","size":5513,"md5":"445225b5584ab492f1cd8ca6abf8a021"},
+    {"type":"file","name":"taunt_none.png","size":2691,"md5":"b91812575d0a723078ff568e1df4b7f3"},
+    {"type":"file","name":"taunt_shape00.png","size":10186,"md5":"0b7b6efe828c17fce9586b477eadd73c"},
+    {"type":"file","name":"taunt_shape01.png","size":11895,"md5":"423b52c8c223c29887edbc27eb5b77ed"},
+    {"type":"file","name":"taunt_shape02.png","size":15164,"md5":"1658bee285d4d1b1151884b95e4f06ca"},
+    {"type":"file","name":"taunt_shape03.png","size":13089,"md5":"d7c553cb5f08ac0e83a8c1febef7cc9b"},
+    {"type":"file","name":"taunt_shape04.png","size":12679,"md5":"0e8343df5e35f0e654d79c7a15da1820"}
+  ]}
+,
+  {"type":"report","directories":1,"files":13}
+]

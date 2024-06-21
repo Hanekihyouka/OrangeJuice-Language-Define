@@ -1,0 +1,7 @@
+[
+  {"type":"directory","name":"data/audio/bgmharbinger","size":4096,"contents":[
+    {"type":"file","name":"0.ogg","size":1305568,"md5":"1b613a7cf103c9300f0c56e549c2f2a2"}
+  ]}
+,
+  {"type":"report","directories":1,"files":1}
+]

@@ -1,0 +1,26 @@
+[
+  {"type":"directory","name":"data/audio/bgm","size":4096,"contents":[
+    {"type":"file","name":"0.ogg","size":769985,"md5":"d6fbaa472fced5b461a65f25634391a7"},
+    {"type":"file","name":"10.ogg","size":3160194,"md5":"7ef0d6677ad6123bca4ad2ca7a179f4a"},
+    {"type":"file","name":"11.ogg","size":2522861,"md5":"0e7ce2511d6107429680c2a8b4d217d1"},
+    {"type":"file","name":"12.ogg","size":2241639,"md5":"e07ff7cfc3093ba8e01ecc23836aed42"},
+    {"type":"file","name":"13.ogg","size":734597,"md5":"0ca4d9e5989300fe5943a1c62be99f78"},
+    {"type":"file","name":"14.ogg","size":2148114,"md5":"1ec0c268663be44453b88caa34ce02b8"},
+    {"type":"file","name":"15.ogg","size":1139535,"md5":"1066b0fb3fd4cc3246d99e05a75b86fb"},
+    {"type":"file","name":"16.ogg","size":1501174,"md5":"5b8a98af3e24d5e17f2889725c9280e8"},
+    {"type":"file","name":"17.ogg","size":956522,"md5":"2663bdb537f68b669593aa0a825f81fc"},
+    {"type":"file","name":"18.ogg","size":3846451,"md5":"3ab7059e8716ee37b85911b7f8ea2982"},
+    {"type":"file","name":"19.ogg","size":1367408,"md5":"d5981d29e0983ca6b056384424dc734c"},
+    {"type":"file","name":"1.ogg","size":1390306,"md5":"30ae58098f5aec63b29ae25cfc665f31"},
+    {"type":"file","name":"2.ogg","size":845124,"md5":"04b0e4741ff9b99ab14bcfc61842e029"},
+    {"type":"file","name":"3.ogg","size":1710433,"md5":"d96e4f4948569fbfd3c6b46569a6883f"},
+    {"type":"file","name":"4.ogg","size":236897,"md5":"2412f78ebaadc21112d80528f5b0d679"},
+    {"type":"file","name":"5.ogg","size":2097081,"md5":"e4ae74271c4e5941044978ad4683d033"},
+    {"type":"file","name":"6.ogg","size":4361542,"md5":"667922ba06a201f604bdd3eca593c2d3"},
+    {"type":"file","name":"7.ogg","size":1187080,"md5":"e9216f7ad91e01c716e94967f027e2cc"},
+    {"type":"file","name":"8.ogg","size":1602745,"md5":"8ed82ce3cda4c3315605c008d72e0f60"},
+    {"type":"file","name":"9.ogg","size":1817466,"md5":"30baadc87e0e0b68561a0f89f7261961"}
+  ]}
+,
+  {"type":"report","directories":1,"files":20}
+]

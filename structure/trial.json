@@ -1,9 +1,0 @@
-[
-  {"type":"directory","name":"unzip/trial.pak","size":4096,"contents":[
-    {"type":"file","name":"fullgameonly.dat","size":1048704,"md5":"1e471cb7aeb6eb2e1aadec2adf4f09db"},
-    {"type":"file","name":"getfullgame.dat","size":262272,"md5":"24dd1e2c6596b4323fa7543c74449c13"},
-    {"type":"file","name":"triallogo.dat","size":1048704,"md5":"309940b4e3c0c59fa54c5eb0f5e8b5e1"}
-  ]}
-,
-  {"type":"report","directories":1,"files":3}
-]

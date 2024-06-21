@@ -1,0 +1,7 @@
+[
+  {"type":"directory","name":"data/audio/bgmfieldcircus","size":4096,"contents":[
+    {"type":"file","name":"0.ogg","size":1575736,"md5":"d2160a597fc645f5fa2c0fe670568599"}
+  ]}
+,
+  {"type":"report","directories":1,"files":1}
+]

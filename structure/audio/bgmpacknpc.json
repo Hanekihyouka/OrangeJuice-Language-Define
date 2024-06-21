@@ -1,0 +1,12 @@
+[
+  {"type":"directory","name":"data/audio/bgmpacknpc","size":4096,"contents":[
+    {"type":"file","name":"0.ogg","size":1326716,"md5":"565f7eff49fb4e7455470f2bcd89adbf"},
+    {"type":"file","name":"1.ogg","size":683075,"md5":"b8decc107e76e813f8294b23963f4882"},
+    {"type":"file","name":"2.ogg","size":2303860,"md5":"adbfda5691f0c6d3df923bfe2a3a4e4b"},
+    {"type":"file","name":"3.ogg","size":1431301,"md5":"8d1bf8601b99a573128ba75b519e93f2"},
+    {"type":"file","name":"4.ogg","size":1504386,"md5":"309bb557226fcde5330e4b67464afbba"},
+    {"type":"file","name":"5.ogg","size":1939322,"md5":"6659c12c112b3ae70881417bc71df172"}
+  ]}
+,
+  {"type":"report","directories":1,"files":6}
+]
