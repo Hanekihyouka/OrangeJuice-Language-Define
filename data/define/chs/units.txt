@@ -53,7 +53,7 @@ descr=在BOSS的回合内，挑战敌人时不会停步。\n在没有受到保�
 
 < CARD_UNIT_BOSS_QP >
 name=夏日野兽
-descr=每回合召唤海鸥手下（直到BOSS等级数）。\n手下倒下时失去1点兴奋。玩家倒下时获得\n1点兴奋。\n如果在BOSS的回合开始时拥有10+兴奋，\n开始撒野。
+descr=每回合召唤海鸥手下（直到BOSS等级数）。\n手下倒下时失去1点兴奋。玩家倒下时获得\n1点兴奋。\n如果在BOSS的回合开始时拥有至少10点\n兴奋，开始撒野。
 
 < CARD_UNIT_BOSS_ROPOCHI >
 name=萝啵鸡

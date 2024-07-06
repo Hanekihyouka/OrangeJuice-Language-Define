@@ -1189,4 +1189,7 @@ Hide UI
 < MENU_SHOW_UI >
 Show UI
 
+< MENU_CARDBACK_UNLOCK >
+New card back unlocked!
+
 [EOF]

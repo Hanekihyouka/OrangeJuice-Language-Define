@@ -1186,4 +1186,7 @@ CPU自定义
 < MENU_SHOW_UI >
 显示界面
 
+< MENU_CARDBACK_UNLOCK >
+已解锁新卡背！
+
 [EOF]

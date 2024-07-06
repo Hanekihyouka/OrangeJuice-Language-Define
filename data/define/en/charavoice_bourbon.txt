@@ -89,7 +89,7 @@
 <0088> Man, but I got careless.
 <0089> Hahaha, now this one seems worth fighting.
 <0090> Oooh... I'm getting goosebumps.
-<0091> Tch... I thought there weren't supposed to be any real threats around? Bollocks.
+<0091> Tch... I thought there weren't supposed to be any real threats around? Balderdash.
 <0092> Do such monsters fly in the sky...?
 <0093> Let's take our time and enjoy the starry sky.
 <0094> I hear the call of the stars.
@@ -143,12 +143,12 @@
 <0142> What can I do for you, lady?
 <0143> Not bad for one so young.
 <0144> Man, you totally got me... what a girl.
-<0145> I've come to meddle again, guv'nor.
+<0145> I've come to meddle again, chief.
 <0146> Man, you work me too hard.
 <0147> Ha, the drinks are on you tonight!
 <0148> Gunyunyu... fine, I'll open that bottle I was saving.
-<0149> Still a stick in the mud, eh guv'nor.
-<0150> Oh? It's rare to see you so worked up, guv'nor.
+<0149> Still a stick in the mud, eh chief.
+<0150> Oh? It's rare to see you so worked up, chief.
 <0151> Ha ha ha, just sit down and take it easy for a while.
 <0152> Well, this sort of thing happens too.
 <0153> Geez. That's not the way to go, kid.
