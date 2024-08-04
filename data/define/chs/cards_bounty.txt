@@ -64,32 +64,32 @@ descr=每当你受到火泡攻击时，DEF-1，\n直到战斗结束。
 
 < CARD_BOUNTY_GRASSINFIMARY_QUEST >
 name=
-descr=我想用田野上的药草做些新药，你可以\n帮我采来一些吗？
+descr=我想用生长在田野上的药草创作新菜色，你可以\n帮我去采一些吗？
 flavor=—旅店店主
 
 < CARD_BOUNTY_SWAMPINFIMARY_QUEST >
 name=
-descr=有一位客人说史莱姆能用来调制饮料。\n我想验证一下是不是真的……
+descr=有位客人说史莱姆能用来调制饮品。\n我想试试看是不是真的……
 flavor=—旅店店主
 
 < CARD_BOUNTY_CAVEBAKERY_QUEST >
 name=
-descr=要用来做冰淇淋的材料被我不小心丢在\n山洞里了……
+descr=做冰淇淋的材料被我不小心掉在山洞里了……
 flavor=—空之糕点师
 
 < CARD_BOUNTY_CASTLEBAKERY_QUEST >
 name=
-descr=呵呵呵，我们向城堡订购了些面粉，但一直\n没有送过来。他们一定是想被我炸飞吧？
+descr=呵呵呵，我们向城堡订了些面粉，但一直\n没有送来。他们一定是想被我炸飞吧？
 flavor=—星之糕点师
 
 < CARD_BOUNTY_RUINARMORY_QUEST >
 name=
-descr=你想要个能切食材的东西？\n只要能带些材料来，我就能帮你做一个。\n就算是坏掉的武器也没关系。
+descr=你想要个能切食物的东西？\n你只要把材料带来，我就能帮你做一个。\n就算是坏掉的武器也可以。
 flavor=—铁匠
 
 < CARD_BOUNTY_CAVEARMORY_QUEST >
 name=
-descr=小巨魔的角是做厨具的好材料，但我的库存\n已经快用完了。它们每三天换一次角，你应该\n能在它们的巢穴里找到一些。
+descr=小巨魔的角是做厨具的好材料，可我的库存\n已经快用完了。\n它们每三天就会换一次角，你应该能在它们的\n巢穴里找到一些角。
 flavor=—铁匠
 
 < CARD_BOUNTY_VOLCANOALCHEMER_QUEST >
@@ -99,7 +99,7 @@ flavor=—炼金术士
 
 < CARD_BOUNTY_FORESTINFIRMARY_QUEST >
 name=
-descr=甜点？你要是能把迷雾森林里的树液带来，\n我也许就能做一些给你了。听说它味道很甜。
+descr=你想要甜品？要是能把迷雾森林里的树液带来，\n也许我就能给你做一些了。\n我听说它的味道很甜。
 flavor=—旅店店主
 
 < CARD_BOUNTY_MOUNTAINBAKERY_QUEST >
@@ -109,7 +109,7 @@ flavor=—空之糕点师
 
 < CARD_BOUNTY_REDFORESTALCHEMER_QUEST >
 name=
-descr=附近绯红森林里的鬼魂有些很有趣的特性。\n你能给我带个样本来吗？我应该能用它做些\n可以吃的东西。
+descr=附近绯红森林里的鬼魂有些很有趣的特性。\n你能给我带个样本来吗？我应该能用它做些\n可以食用的东西。
 flavor=—炼金术士
 
 < CARD_BOUNTY_DESERTARMORY_QUEST >
@@ -147,6 +147,31 @@ name=圣水
 descr=这场战斗中，获得5点HP，\n并且ATK·DEF·EVD+1。
 flavor=「呵呵呵，这可是杯能消除干渴的纯净水，\n信我的准没错！」—旅店店主
 
+< CARD_BOUNTY_CURSEDSYRUP_ITEM >
+name=诅咒糖浆
+descr=这场战斗中，获得10点HP，\n并且ATK·DEF·EVD+2，此外战斗\n时长将限制为5回合。
+flavor=「你一定会想买这个的……你在乎的就只有\n获得更强大的力量……不是吗？」—可疑商人
+
+< CARD_BOUNTY_POISONPHIAL_ITEM >
+name=毒性爆破药
+descr=向周围7×7范围内的1个格子投掷毒性爆破药。\n所有区域内被击中的玩家中毒，2轮内每回合\n受到1点伤害。\n不会和其它爆破药叠加。
+flavor=「我在制作的时候用了些很危险的原料……\n要小心使用啊！」—炼金术士
+
+< CARD_BOUNTY_VENOMPHIAL_ITEM >
+name=毒液爆破药
+descr=向周围7×7范围内的1个格子投掷毒液爆破药。\n所有区域内被击中的玩家中毒，3轮内每回合\n受到1点伤害。\n不会和其它爆破药叠加。
+flavor=「这是我用一种危险的爬行动物的毒液\n做出来的……」—炼金术士
+
+< CARD_BOUNTY_CORROSIONPHIAL_ITEM >
+name=腐蚀爆破药
+descr=向周围7×7范围内的1个格子投掷腐蚀爆破药。\n所有区域内被击中的玩家中毒，3轮内每回合\n受到2点伤害。\n不会和其它爆破药叠加。
+flavor=「腐蚀试剂是用一些可以致命的材料\n制作而成的……」—炼金术士
+
+< CARD_BOUNTY_SPARKLEBOMB_ITEM >
+name=火花炸弹
+descr=2轮内强制场地路线反转。
+flavor=「如果你既想往前走又想往后走，可你又不能\n像往前走一样往后走？\n……呃，当我没说……」—炼金术士
+
 < CARD_BOUNTY_SMOKELOSTMEMORIES_ITEM >
 name=失落记忆的烟雾
 descr=忘却过去犯下的错误，触发一场悬赏战。\n只能在已经发现了怪物的格子上使用。\n需要拥有悬赏才能开始战斗。\n使用这张卡后回合结束。
@@ -167,9 +192,24 @@ name=大争夺·圣诞夜
 descr=所有玩家的手牌送回卡堆，然后重洗卡堆。\n3轮后，所有玩家抽取各自因该效果弃牌张数\n相同数量的卡片。\n不会影响悬赏或任务。
 flavor=「等等！把礼物还给我！」—亚琉
 
+< CARD_BOUNTY_TRAP_WANTED >
+name=通缉令
+descr=储备效果\n被战斗击倒时对方获得双倍WIN。\n倒下时效果结束。\n触发玩家将会在悬赏栏内出现悬赏，并获得\n「刺客的徽章」。
+flavor=「在这边！我的鼻子是不会错的！」—QP
+
 < CARD_HYPER_BOUNTY_COOK >
 name=风信鸡的指引
 descr=储备效果\n除战斗外，骰子枚数变为2枚。\n当你停留在HOME格时效果结束。
 flavor=「叽叽，库克想去这边。」—库克
+
+< CARD_BOUNTY_PLAYER >
+name=新鲜通缉
+descr=因危害社会而受到通缉。
+flavor=
+
+< CARD_BOUNTY_PLAYER_ITEM >
+name=???
+descr=已标记为剿灭对象。请务必小心行事。
+flavor=
 
 [EOF]

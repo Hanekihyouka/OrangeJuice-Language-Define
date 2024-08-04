@@ -142,6 +142,18 @@ descr=每层储备使HP上限+1。
 name=恢复强化
 descr=REC-1。
 
+< CARD_BOUNTY_AMPATK_EFFECT >
+name=攻击强化
+descr=每层储备使ATK+1。
+
+< CARD_BOUNTY_AMPDEF_EFFECT >
+name=防御强化
+descr=每层储备使DEF+1。
+
+< CARD_BOUNTY_AMPEVD_EFFECT >
+name=闪避强化
+descr=每层储备使EVD+1。
+
 < CARD_SOLIDWITCH_EFFECT >
 name=坚实魔女
 descr=不会受到伤害。
@@ -423,6 +435,14 @@ descr=在你的回合开始时，恢复储备层数的HP。
 name=观察者
 descr=获悉所有怪物的所在地点。
 
+< CARD_PRECISIONGOGGLES_EFFECT >
+name=目光敏锐
+descr=投掷范围增加2格。
+
+< CARD_POISONED_EFFECT >
+name=中毒
+descr=在你的回合开始时，受到储备层数的伤害。
+
 < CARD_HARBINGER_FAME >
 name=臭名昭著的欺凌者
 descr=每层储备增加1点声望，上限为6。\n累积的声望将在击败噩兆时追加到基础的声望\n奖励中。
@@ -437,7 +457,7 @@ descr=永久HP上限+1，ATK+1、DEF-1。
 
 < CARD_DOOM_EFFECT >
 name=灾厄
-descr=如在回合开始时持续时间到达0，将会直接造成\n击倒。\n击败效果来源或倒下时移除效果。若在拥有\n此效果时倒下，给予噩兆1层噬魂者。
+descr=如在回合开始时持续时间到达0，将会直接造成\n击倒。\n击败效果来源、倒下或进入旅馆时移除效果。\n若在拥有此效果时倒下，给予\n噩兆1层噬魂者。
 
 < CARD_DARKCHOCOMOUSSE_STAREATER >
 name=噬星者
@@ -449,7 +469,11 @@ descr=永久HP上限+1，ATK+1、DEF-1。
 
 < CARD_CHOCOLATEDOOM_EFFECT >
 name=欠条
-descr=如在回合开始时持续时间到达0，\n黑暗巧克力唠鼠将会偷取你等级×10的STAR\n并获得1层噬星者。\n击败效果来源或倒下时移除效果。
+descr=如在回合开始时持续时间到达0，\n黑巧克力唠鼠将会偷取你等级×10的STAR\n并获得1层噬星者。\n击败效果来源、倒下或进入旅馆时移除效果。
+
+< CARD_DARKCHOCOMOUSSE_FAME >
+name=臭名昭著的欺凌者
+descr=每层储备增加1点声望，上限为6。\n累积的声望将在击败黑巧克力唠鼠时\n追加到基础的声望奖励中。
 
 < CARD_SPIKEDSHIELD_EFFECT >
 name=刺盾
@@ -459,9 +483,33 @@ descr=受到的伤害减少1点。\n当你的防御骰数值大于对方的攻�
 name=处刑者
 descr=永久ATK+1，但EVD-1。
 
+< CARD_CURSEDSWORD_EFFECT >
+name=诅咒之剑
+descr=ATK+2，但DEF·EVD·HP上限-1。
+
+< CARD_CURSEDAXE_EFFECT >
+name=诅咒战斧
+descr=20%几率造成暴击，10%几率攻击落空。
+
+< CARD_CURSEDBOUNTY_EFFECT >
+name=诅咒悬赏
+descr=你完成的下一个悬赏将额外给予2点声望，\n并将你的HP与HP上限设为1，直至倒下或\n进入旅馆。
+
+< CARD_CURSEDMARK_EFFECT >
+name=诅咒标记
+descr=作为完成诅咒悬赏的代价，将会迎来命中注定的\n陨落。
+
+< CARD_CURSEDICECREAM_EFFECT >
+name=紫豆冰淇淋
+descr=ATK+2，但HP上限-3（最低为1）。\n倒下时效果结束。
+
 < CARD_BRAVERYUP_EFFECT >
 name=无畏猎人
 descr=击败噩兆为你带来了勇气，在接下来储备层数\n场数的战斗中，所有受到的战斗伤害减少1点。
+
+< CARD_CONTRACTCURSE_EFFECT >
+name=契约诅咒
+descr=你持有至少1张诅咒契约。如果它们未能\n得到净化，经过3轮时间将丢弃1张诅咒契约。
 
 < CARD_OVERTIME_EFFECT >
 name=加班
@@ -549,6 +597,54 @@ descr=每层储备使ATK+1。倒下时效果结束。
 name=可爱到犯规的小狗狗
 descr=免疫立即击倒效果。\n当你与另一名玩家在同一格，且其中一方回合\n结束时，你获得对方一张随机手牌的副本。\n无法发起挑战或受到挑战，相对的，对方可以\n停下来摸摸你。倒下时效果结束。
 
+< CARD_BOMBIMMUNITY_EFFECT >
+name=爆炸免疫
+descr=不会受到炸弹的爆炸伤害，直到下一轮开始。
+
+< CARD_ARTOFSWORD_EFFECT >
+name=剑之技艺
+descr=你的战斗能力提升了。永久ATK+1。
+
+< CARD_ARTOFSHIELD_EFFECT >
+name=盾之技艺
+descr=你抵抗伤害的能力提升了。永久DEF+1。
+
+< CARD_ARTOFEVASION_EFFECT >
+name=闪避之技艺
+descr=你的闪避能力提升了。永久EVD+1。
+
+< CARD_RESOLUTE_EFFECT >
+name=顽强意志
+descr=永久REC-1。
+
+< CARD_STIMULATION_EFFECT >
+name=精神振奋
+descr=永久HP上限+1。
+
+< CARD_CARRIER_EFFECT >
+name=尽收囊中
+descr=永久手牌上限+1，契约上限+1。
+
+< CARD_PREMIUMMEMBERSHIP_EFFECT >
+name=高级会员
+descr=所有商店（不含可疑商人）的价格在完成价格\n计算后获得30%折扣。
+
+< CARD_JOGGER_EFFECT >
+name=健步如飞
+descr=如果你在回合结束时耗尽移动点数，下次移动骰MOV+1。
+
+< CARD_JOGGING_EFFECT >
+name=健步
+descr=每层储备使下次移动骰MOV+1。
+
+< CARD_PLENTIFULHARVEST_EFFECT >
+name=日进斗金
+descr=能够在完成悬赏时获得STAR。
+
+< CARD_COMMANDER_EFFECT >
+name=发号施令
+descr=能够操作你的召唤物。
+
 < CARD_SWEETMOUNTAIN_EFFECT >
 name=甜点成堆大作战
 descr=可以额外使用增益卡，且使用时只需\n1/3的COST。
@@ -562,7 +658,7 @@ name=兴奋
 descr=她好兴奋。
 
 < CARD_CHAOS_RAMPAGE_EFFECT >
-name=撒野
+name=混沌撒野
 descr=每层储备使ATK+1。
 
 < CARD_CHAOS_MUSCLE_EFFECT >

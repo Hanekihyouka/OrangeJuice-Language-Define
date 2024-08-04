@@ -153,6 +153,12 @@
 < MENU_LOBBYSETTING_CHAOSMUTATOR >
 混沌突变
 
+< MENU_LOBBYSETTING_INVADER >
+入侵者
+
+< MENU_LOBBYSETTING_PVPBOUNTIES >
+玩家悬赏
+
 < MENU_BUTTON_GAME_RETURN >
 回到游戏
 
@@ -229,8 +235,14 @@
 < MENU_BUTTON_GAME_DASH >
 冲刺
 
+< MENU_BUTTON_GAME_FORECAST >
+预测
+
 < MENU_BUTTON_GAME_EAT >
 吃
+
+< MENU_BUTTON_GAME_BOUNTY >
+悬赏
 
 < MENU_GAME_MIMYUUJ_HYPER_BREAKOUT >
 越狱！
@@ -525,7 +537,7 @@ NoName老师恢复了原状，\n所有人都避免了留级危机！
 神秘的新敌人正在四处破坏！通过游玩全新的合作模式和\n其他玩家一起终结这场骚乱吧！
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_01 >
-在创建房间或开始单人游戏时可以\n将游戏在普通模式和合作模式间切换。
+在创建房间或开始单人游戏时，\n可以将游戏模式切换至合作模式。
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_02 >
 BOSS有4种难度级别可供选择。在更高\n的难度下BOSS会使用更强大的能力！\n而你在获胜时也可以得到更丰厚的经验和\n橙子奖励。
@@ -625,35 +637,50 @@ QP被太阳晒得发疯了！与她和她的新小弟们玩到让她累趴下吧
 在新解锁的战役关卡中体验故事的结局吧：%s
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_MAIN >
-委托正在全新的赏金猎人模式中等待着你！\n帮助艾莉和露露在公会中达到B级来筹集到足够的资金吧！
+新的委托正在全新的赏金猎人模式中等待着你！\n帮助艾莉和露露在公会中达到B级来筹集到足够的资金吧！
 
 // Instruction about the game mode button
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_01 >
-在创建新房间或开始单人游戏时，\n可以将游戏模式切换至赏金猎人模式。
+在创建房间或开始单人游戏时，\n可以将游戏模式切换至赏金猎人模式。
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_02 >
-任务地点和出售有用道具的商店会随机\n出现在场地上，每6轮刷新一次。
+此模式下只有唯一一种全新的\n目标类型：声望（FAME）。\n（在此模式下，被限制了目标类型的角色\n依然可以完成声望目标。）
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_03 >
-你可以在任何HOME、商店或\n拥有相关委托的任务地点停步。
+完成委托或悬赏可以获得声望。\n当你停留在任意HOME格时，你可以选择一张\n委托或悬赏的契约。
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_04 >
-在此模式下只有唯一一种全新的\n目标类型：声望（FAME）。\n（此模式下，被限制了目标类型的角色\n同样可以完成声望目标。）
+委托将要求你前往契约上显示的地点取得物品，\n获得物品后需要将其送往带有箭头标记的商店。
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_05 >
-你可以通过完成委托或悬赏来获得声望。\n悬赏会基于难度奖励数量不等的声望！
+悬赏将要求你捕猎契约上显示的魔物，\n可获得的声望数量依悬赏难度而定。
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_06 >
-悬赏战斗将持续10个回合。\n战斗前请务必做好充分的准备！
+魔物可在场上各处发现。\n悬赏战斗将持续10回合，战斗前请务必做好\n充分准备！
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_07 >
-为协助你击败侵袭而来的魔物，在此模式下\n所有角色永久MOV+1、手牌上限+1，\n并且每轮开始时都可以获得额外的STAR！
+为协助你击败侵袭而来的魔物，在此模式下\n所有角色永久MOV+1，并且每轮开始时\n都可以获得额外的STAR！
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_08 >
-当一名玩家到达4级时将会出现一个\n全新的BOSS，请千万小心！\n击败它的人将会获得6点声望！
+任务地点与可购买好用道具的商店会随机出现在\n场上。你可以在任意商店选择停步，并在店内\n购买道具或是卖出卡片。
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_09 >
+要注意的是，角色数值将会影响到商店价格。\n较弱的角色能得到较高的折扣，你可以以此来\n制定游戏策略。
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_10 >
+场上存在着一个不断变换的幻影，所在的格子\n即是下一个被清除的地点将转移到的位置。\n当任务地点的悬赏魔物被击败或是商店的\n所有商品售罄时，将立即转移至被标记的位置，\n同时幻影也将出现在新的格子上。
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_11 >
+当你完成目标时，你将可以从几个随机特长中\n选择一个获取。\n这些特长将永久起效，从中可获得诸如提高\n角色数值与降低商店价格等效果。
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_12 >
+当一名玩家到达3级时，一名入侵者将会\n抵达场上。\n入侵者具有独特的能力，他们会以各种方式\n影响游戏的进行。击败他们可获得特殊道具！
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_13 >
+当一名玩家到达4级时将会出现强大的BOSS，\n请务必小心！\n将其击败可获得6点声望！
 
 // Final introduction msg
-< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_09 >
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_14 >
 成为最声名显赫家财万贯的赏金猎人吧！
 
 // Completed.
@@ -754,7 +781,7 @@ QP还想多玩一会！夏日野兽复活了！
 任务地点和出售有用道具的商店会随机\n出现在场地上，每6轮刷新一次。
 
 < PLAYMENU_EVENT_WINTER2020_INSTRUCTION_04 >
-你可以在任何HOME、商店或\n拥有相关委托的任务地点停步。
+你可以在任何HOME、商店或\n持有相关委托的任务地点停步。
 
 < PLAYMENU_EVENT_WINTER2020_INSTRUCTION_05 >
 在此模式下只有唯一一种全新的\n目标类型：声望（FAME）。\n（此模式下，被限制了目标类型的角色\n同样可以完成声望目标。）
@@ -888,6 +915,9 @@ QP还想多玩一会！夏日野兽复活了！
 < PLAYMENU_EVENT_WINTER2022_INSTRUCTION_06 >
 为解锁活动结局，你需要到达你的个人活动场数\n目标，同时还可以获得独立于全局活动进度的\n奖励。
 
+< PLAYMENU_EVENT_WINTER2022_COMPLETE_01 >
+世界得救了！大家又可以愉快地品尝美味的\n圣诞蛋糕了，而不用吃那不知道什么东西！\n你还能继续搜寻剩余的蛋糕。
+
 < PLAYMENU_EVENT_WINTER2022_COMPLETE_02 >
 蛋糕的新潮流席卷而来！大家都可以尽情享受\n魅樱的新潮杰作了！\n如果你没吃够，你还能继续搜寻更多蛋糕。
 
@@ -907,7 +937,7 @@ QP还想多玩一会！夏日野兽复活了！
 此外，完成委托将会与一只2HP的唠鼠\n展开战斗，而不是直接获得2声望。
 
 < PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_05 >
-最后，全新的入侵者，黑暗巧克力唠鼠将会\n对玩家的STAR降下灾厄……\n击败黑暗巧克力唠鼠可以获得3点活动进度！
+最后，全新的入侵者，黑巧克力唠鼠将会\n对玩家的STAR降下灾厄……\n击败黑巧克力唠鼠可以获得3点活动进度！
 
 < PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_06 >
 唠鼠们究竟在把守着什么东西……？\n它们又为何要这么做？
@@ -1180,13 +1210,13 @@ CPU自定义
 < MENU_CODEX_INSTRUCTION_4 >
 希望你能喜欢这项新功能。欢迎前往Steam论坛或我们的\nDiscord服务器进行反馈！
 
+< MENU_NORMABOARD >
+目标达成奖励特长
+
 < MENU_HIDE_UI >
 隐藏界面
 
 < MENU_SHOW_UI >
 显示界面
-
-< MENU_CARDBACK_UNLOCK >
-已解锁新卡背！
 
 [EOF]

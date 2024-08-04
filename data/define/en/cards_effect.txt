@@ -142,6 +142,18 @@ descr=Gain +1 max HP for each stack.
 name=Recovery Buff
 descr=Gain -1 REC.
 
+< CARD_BOUNTY_AMPATK_EFFECT >
+name=Attack Buff
+descr=Gain ATK equal to stock amount.
+
+< CARD_BOUNTY_AMPDEF_EFFECT >
+name=Defense Buff
+descr=Gain DEF equal to stock amount.
+
+< CARD_BOUNTY_AMPEVD_EFFECT >
+name=Evasion Buff
+descr=Gain EVD equal to stock amount.
+
 < CARD_SOLIDWITCH_EFFECT >
 name=Solid Witch
 descr=Take no damage.
@@ -423,6 +435,14 @@ descr=Heal your character by the amount of stock at the beginning of your turn.
 name=Observer
 descr=Can discern all monster locations.
 
+< CARD_PRECISIONGOGGLES_EFFECT >
+name=Sharp-eyed
+descr=Throwing range is increased by 2 panels.
+
+< CARD_POISONED_EFFECT >
+name=Poisoned
+descr=At the start of your turn, take damage equal to stock number.
+
 < CARD_HARBINGER_FAME >
 name=Famous Weakling Slayer
 descr=+1 Fame per stack up to 6. Gathered Fame will be given in addition to the base Fame reward upon defeating the Harbinger.
@@ -437,7 +457,7 @@ descr=Permanent +1 Max HP, +1 ATK, -1 DEF.
 
 < CARD_DOOM_EFFECT >
 name=Doom
-descr=Suffer KO at the start of turn when the duration reaches zero. Removed upon defeating the source of the effect or by getting KO'd. Give a stack of Soul Eater to the Harbinger if KO'd while having this effect.
+descr=Suffer KO at the start of turn when the duration reaches zero. Removed upon defeating the source of the effect, getting KO'd, or visiting an Inn. Give a stack of Soul Eater to the Harbinger if KO'd while having this effect.
 
 < CARD_DARKCHOCOMOUSSE_STAREATER >
 name=Star Eater
@@ -449,7 +469,11 @@ descr=Permanent +1 Max HP, +1 ATK, -1 DEF.
 
 < CARD_CHOCOLATEDOOM_EFFECT >
 name=IOU
-descr=Dark Chocolate Mousse steals your Lvl x 10 stars and gains a stack of Star Eater at the start of turn when the duration reaches zero. Removed upon defeating the source of the effect or by getting KO'd.
+descr=Dark Chocolate Mousse steals your Lvl x 10 stars and gains a stack of Star Eater at the start of turn when the duration reaches zero. Removed upon defeating the source of the effect, getting KO'd, or visiting an Inn.
+
+< CARD_DARKCHOCOMOUSSE_FAME >
+name=Famous Weakling Slayer
+descr=+1 Fame per stack up to 6. Gathered Fame will be given in addition to the base Fame reward upon defeating Dark Chocolate Mousse.
 
 < CARD_SPIKEDSHIELD_EFFECT >
 name=Spiked Shield
@@ -459,9 +483,33 @@ descr=Reduce incoming damage by 1. If your defense roll is greater than the oppo
 name=Executioner
 descr=Permanently gain +1 ATK, but also -1 EVD.
 
+< CARD_CURSEDSWORD_EFFECT >
+name=Cursed Sword
+descr=Gain +2 ATK, but also -1 DEF, EVD & Max HP.
+
+< CARD_CURSEDAXE_EFFECT >
+name=Cursed Axe
+descr=Gain 20% chance of a critical hit and 10% chance of missing an attack.
+
+< CARD_CURSEDBOUNTY_EFFECT >
+name=Cursed Bounty
+descr=Your next completed Bounty will grant an additional +2 Fame and set your HP and Max HP to 1 until KO'd or visiting an Inn.
+
+< CARD_CURSEDMARK_EFFECT >
+name=Cursed Mark
+descr=Doomed to fall as a result of completing a Cursed Bounty. Can be cleansed at an Inn.
+
+< CARD_CURSEDICECREAM_EFFECT >
+name=Purple Bean Ice Cream
+descr=Gain +2 ATK, but also -3 Max HP (min. 1). This effect expires on KO.
+
 < CARD_BRAVERYUP_EFFECT >
 name=Fearless Hunter
 descr=Your bravery is increased by defeating the Harbinger, reducing all incoming battle damage by 1 for the next stock amount of battles.
+
+< CARD_CONTRACTCURSE_EFFECT >
+name=Contract Curse
+descr=You are in possession of one or more cursed contracts. A cursed contract will be discarded after 3 chapters if not cleansed.
 
 < CARD_OVERTIME_EFFECT >
 name=Overtime
@@ -548,6 +596,54 @@ descr=Gain +1 ATK for each stack. Effect expires on KO.
 < CARD_GOODESTBOY_EFFECT >
 name=Goodest Boy
 descr=Immune to instant KO effects. When staying on a panel with another player at the end of either player's turn, gain a copy of a random card in their hand. You can neither challenge nor be challenged; instead, opponents may stop to Pet you. Effect expires on KO.
+
+< CARD_BOMBIMMUNITY_EFFECT >
+name=Explosion Immunity
+descr=Take no damage from bomb explosions until the beginning of next chapter.
+
+< CARD_ARTOFSWORD_EFFECT >
+name=Art of the Sword
+descr=Your skill in battle is improved. Permanently gain +1 ATK.
+
+< CARD_ARTOFSHIELD_EFFECT >
+name=Art of the Shield
+descr=Your resistance to damage is improved. Permanently gain +1 DEF.
+
+< CARD_ARTOFEVASION_EFFECT >
+name=Art of Evasion
+descr=Your evasion is improved. Permanently gain +1 EVD.
+
+< CARD_RESOLUTE_EFFECT >
+name=Resolute
+descr=Permanently gain -1 REC.
+
+< CARD_STIMULATION_EFFECT >
+name=Stimulation
+descr=Permanently gain +1 Max HP.
+
+< CARD_CARRIER_EFFECT >
+name=Carrier
+descr=Permanently gain +1 hand size and +1 contract hand size.
+
+< CARD_PREMIUMMEMBERSHIP_EFFECT >
+name=Premium Membership
+descr=All shop costs (excluding the Shady Merchant) will be reduced by 30% after other calculations.
+
+< CARD_JOGGER_EFFECT >
+name=Jogger
+descr=When ending your turn after moving to the end of your final move roll, gain +1 MOV on your next movement roll.
+
+< CARD_JOGGING_EFFECT >
+name=Jogging
+descr=Gain +1 MOV on your next movement roll for each stack.
+
+< CARD_PLENTIFULHARVEST_EFFECT >
+name=Plentiful Harvest
+descr=You will gain stars upon completing Bounties.
+
+< CARD_COMMANDER_EFFECT >
+name=Commander
+descr=Can take control of owned summons.
 
 < CARD_SWEETMOUNTAIN_EFFECT >
 name=Sweet Mountain

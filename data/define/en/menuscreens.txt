@@ -153,6 +153,12 @@ Timer
 < MENU_LOBBYSETTING_CHAOSMUTATOR >
 Chaos Mutator
 
+< MENU_LOBBYSETTING_INVADER >
+Invader
+
+< MENU_LOBBYSETTING_PVPBOUNTIES >
+Player Bounties
+
 < MENU_BUTTON_GAME_RETURN >
 RETURN
 
@@ -229,8 +235,14 @@ BOMB
 < MENU_BUTTON_GAME_DASH >
 DASH
 
+< MENU_BUTTON_GAME_FORECAST >
+FORECAST
+
 < MENU_BUTTON_GAME_EAT >
 EAT
+
+< MENU_BUTTON_GAME_BOUNTY >
+BOUNTY
 
 < MENU_GAME_MIMYUUJ_HYPER_BREAKOUT >
 Break Out!
@@ -525,10 +537,10 @@ Your friends have been saved, but the global pigformation continues...
 
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_MAIN >
-Mysterious new enemies are rampaging around! Cooperate with others to put an end to the madness by playing the new co-op mode!
+Mysterious new enemies are rampaging around! Cooperate with others to put an end to the madness by playing the new Co-op mode!
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_01 >
-To play co-op, toggle between normal and co-op mode when creating a lobby or starting a single player game.
+To play Co-op, toggle between Normal, Co-op and Bounty Hunt when creating a new lobby or starting a single player game.
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_02 >
 The boss has 4 difficulty levels which can be freely changed. The boss will use more powerful abilities on higher difficulties! You also gain more experience and oranges as reward for winning.
@@ -536,7 +548,7 @@ The boss has 4 difficulty levels which can be freely changed. The boss will use 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_03 >
 Your field selection is affected by boss and difficulty choice.\n
 Casual: Play on any regular field you own.\n
-Normal and Extreme: Play on a set of new co-op fields.\n
+Normal and Extreme: Play on a set of new Co-op fields.\n
 Hyper: Play on a specially made boss arena field.\n
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_04 >
@@ -546,10 +558,10 @@ A Hyper difficulty boss also has unique, powerful abilities... only try one if y
 Play in 1 of the 3 character roles: Attacker, Guardian or Supporter. Each role gains experience when you play with them, and will unlock new, powerful abilities.
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_06 >
-Build your co-op deck freely using the new Deck Point system! More powerful cards cost more Deck Points to bring with you. Remember that all cards are used by you and your allies.
+Build your Co-op deck freely using the new Deck Point system! More powerful cards cost more Deck Points to bring with you. Remember that all cards are used by you and your allies.
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_07 >
-Note that many characters' Hyper cards work differently in co-op! You can toggle between regular and co-op cards in the Binder to look at the effects in detail.
+Note that many characters' Hyper cards work differently in Co-op! You can toggle between regular and Co-op cards in the Binder to look at the effects in detail.
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_08 >
 Your Deck Point pool is determined by your character rating. A-ranked characters are considered most fitting for that role, and start with 10 Deck Points. 
@@ -619,7 +631,7 @@ You can help the struggle by fighting against any of the bosses.
 Tomomo is giving the players a magical boost! Co-op abilities are now much faster to acquire!
 
 < PLAYMENU_EVENT_MIO_INSTRUCTION_06 >
-You will now start with all co-op attribute bonuses, and unlock all abilities by level 10. Co-op role level cap has also been lifted.
+You will now start with all Co-op attribute bonuses, and unlock all abilities by level 10. Co-op role level cap has also been lifted.
 
 < PLAYMENU_EVENT_MIO_INSTRUCTION_COMPLETE >
 RoPoChi has been defeated, but the true mastermind awaits! Experience the finale of the story in the newly unlocked extra mission.
@@ -632,32 +644,47 @@ New quests await in our new Bounty Hunt game mode! Help Ellie and Lulu reach ran
 
 // Instruction about the game mode button
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_01 >
-To play the Bounty Hunt mode, toggle between Normal and Bounty Hunt when creating a new lobby or starting a single player game.
+To play the Bounty Hunt mode, toggle between Normal, Co-op and Bounty Hunt when creating a new lobby or starting a single player game.
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_02 >
-Quest locations and shops with various useful items appear over the field, and are refreshed every 6 chapters.
+A new Norma type has been added, which is the only Norma available for this mode: Fame. (Note: characters with Norma restrictions can still complete Fame Norma in this mode).
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_03 >
-You can stop at any home, shop, and quest location - though only if you have the corresponding quest related to it!
+You can increase your Fame by completing quests or bounties. Quests and bounties are acquired by stopping at any Home panel, where you will have the option to select a contract.
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_04 >
-A new Norma type has been added, and is the only Norma available for this mode: the Fame. (Note: characters with Norma restrictions can still gain Fame Normas in this mode).
+Quests require you to go to the location shown on the contract in order to fetch an item, then delivering the item to a shop marked with an arrow.
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_05 >
-You can increase your Fame by completing quests or bounties. Bounties give a varying amount of Fame depending on their difficulty!
+Bounties require you to hunt the monster shown on the contract and will give a varying amount of Fame depending on their difficulty.
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_06 >
-Bounty Battles will last for up to 10 rounds. Make sure to gear up before you get into the fight!
+Monsters can be found all over the field, and Bounty battles will last for up to 10 rounds. Make sure to gear up before you get into the fight!
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_07 >
-To help you fight the monsters infesting the land, in this mode all characters have a permanent +1 MOV and +1 hand size and gain additional stars every chapter!
+To help you fight the monsters infesting the land, in this mode all characters have a permanent +1 MOV and gain additional stars every chapter!
 
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_08 >
-A new and unique boss will appear when a player reaches level 4. Beware of its power! 6 Fame will be given to whoever brings it down!
+Quest locations and shops with various useful items appear over the field. You can stop at any shop in order to buy items and even sell cards!
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_09 >
+Note that your characters' stats affect your shop prices - the less powerful characters get big discounts you can utilize for different strategies!
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_10 >
+A hazy Mirage will appear somewhere on the field, marking the panel the next cleared location will move to. The move instantly happens if a bounty monster is defeated or a shop gets sold out. Then a new panel is marked.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_11 >
+Upon completing your Norma, you'll be able to select one of several perks presented at random. These are permanent and vary from stat bonuses to lower shop prices, etc.
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_12 >
+The first time a player reaches Norma 3, an Invader will hit the field. Invaders are enemies with unique abilities that disrupt the game in various ways. Taking them down gives you a bonus!
+
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_13 >
+A strong new boss will appear when a player reaches Norma 4. Beware of its power! 6 Fame will be given to whoever brings it down!
 
 // Final introduction msg
-< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_09 >
-It's time for you to become the most famous (and rich) Bounty Hunter!
+< PLAYMENU_EVENT_SPRING2020_INSTRUCTION_14 >
+It's time for you to become the most famous (and richest) Bounty Hunter in the land!
 
 // Completed.
 < PLAYMENU_EVENT_SPRING2020_INSTRUCTION_COMPLETE >
@@ -748,7 +775,7 @@ QP wants to play more! Summer Beast has been revived!
 Cook is supposed to help Ellie find what she's looking for once she's been fed enough...? In case it turns out useful, let's go around and collect a bunch of food for her!
 
 < PLAYMENU_EVENT_WINTER2020_INSTRUCTION_01 >
-To play the Bounty Hunt mode, toggle between Normal, CO-OP and Bounty Hunt when creating a new lobby or starting a single player game.
+To play the Bounty Hunt mode, toggle between Normal, Co-op and Bounty Hunt when creating a new lobby or starting a single player game.
 
 < PLAYMENU_EVENT_WINTER2020_INSTRUCTION_02 >
 When playing the Bounty Hunt mode, food markers may appear on Shops. Stop at a marked Shop to collect a delicacy.
@@ -891,6 +918,9 @@ The two event counters correspond to the method of disposing of the cakes, and e
 < PLAYMENU_EVENT_WINTER2022_INSTRUCTION_06 >
 To unlock the event's ending, you must reach your personal goal of event games played, which will also give you a prize independent of the global event progress.
 
+< PLAYMENU_EVENT_WINTER2022_COMPLETE_01 >
+The world has been saved! Everyone can happily enjoy tasty Christmas cakes again instead of whatever that was! You can still keep searching for leftover cakes. 
+
 < PLAYMENU_EVENT_WINTER2022_COMPLETE_02 >
 A new cake trend is here! Everyone can enjoy Mio's fashionable creations around the world! You can still keep searching for more cakes if you haven't had your fill. 
 
@@ -1025,13 +1055,13 @@ Deck point +%d
 Role hyper 
 
 < MENU_COOPUNLOCK_NEWBOSS >
-%s is now available to fight in the co-op game mode!\nYou can change the boss using the arrows next to their name when creating a game. 
+%s is now available to fight in the Co-op game mode!\nYou can change the boss using the arrows next to their name when creating a game. 
 
 < MENU_COOPUNLOCK_HYPERDIFFICULTY >
-Hyper difficulty is now available for %s in the co-op game mode!
+Hyper difficulty is now available for %s in the Co-op game mode!
 
 < MENU_COOPUNLOCK_NEWCLASS >
-A new role is now available in co-op mode: %s!
+A new role is now available in Co-op mode: %s!
 
 < MENU_SHOP_RETIREDEVENTITEM >
 Event rewards for %s have been added to the shop!
@@ -1183,13 +1213,13 @@ Once you reach 50 online games with a unit, you will unlock their respective pla
 < MENU_CODEX_INSTRUCTION_4 >
 We hope you will enjoy this new feature. Feel free to post your feedback on the Steam forums, or our Discord server!
 
+< MENU_NORMABOARD >
+Norma Upgrade
+
 < MENU_HIDE_UI >
 Hide UI
 
 < MENU_SHOW_UI >
 Show UI
-
-< MENU_CARDBACK_UNLOCK >
-New card back unlocked!
 
 [EOF]

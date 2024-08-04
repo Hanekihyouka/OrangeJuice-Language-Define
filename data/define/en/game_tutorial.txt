@@ -13,6 +13,9 @@ Cards
 < TUTORIAL_SECTION_COOP > 
 Co-op
 
+< TUTORIAL_SECTION_BOUNTYHUNT > 
+Bounty Hunt
+
 
 
 < TUTORIAL_00 >

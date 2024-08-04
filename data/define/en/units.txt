@@ -117,7 +117,7 @@ descr=
 
 < CARD_UNIT_IRU >
 name=Iru
-descr=When challenging an enemy, they take 1 damage. KO from this effect counts as battle KO.
+descr=When challenging an enemy, deal 1 damage to them. KO from this effect counts as battle KO.
 
 < CARD_UNIT_ISLAY >
 name=Islay
@@ -494,6 +494,14 @@ descr=Ignore any Trap card landed on when your HP is full or higher.
 < CARD_COOP_UNIT_WATTY >
 name=Watty
 descr=After battle, gain 1 stack of Hardened Scales for every 2 points of damage reduced by using Defend (max 5).\n(For 3 Chapters: gain +1 ATK per stack. Effect expires on KO).
+
+< CARD_UNIT_LOSTROGUE >
+name=The Lost Rogue
+descr=Cannot be damaged or KO'd outside of battle. Challenge other units when passing by them. In battle, can perform Critical Hits at a 25% rate. (A Critical Hit doubles the result of the unit's attack roll.)\nEvery 5 turns, units within 1 radius of 3 random panels suffer 2 damage and have a random contract cursed.
+
+< CARD_UNIT_SHADYMERCHANT >
+name=Shady Merchant
+descr=Can sell items to players. Immune to events and card effects.
 
 < CARD_UNIT_SWEETCREATOR >
 name=Sweet Creator
