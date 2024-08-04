@@ -1,6 +1,7 @@
 [
   {"type":"directory","name":"data/graphics/hyper","size":4096,"contents":[
     {"type":"directory","name":"bourbon","size":4096,"contents":[
+      {"type":"file","name":"bg_target.png","size":4436,"md5":"631974c96bccdd39a4e2d2ffc7d45815"},
       {"type":"directory","name":"damage","size":4096,"contents":[
         {"type":"file","name":"back1.png","size":23160,"md5":"4b1cdeddd18ac1dd349dea4a6e9d5c6e"},
         {"type":"file","name":"back2.png","size":22864,"md5":"65dd5dab441c74e4f7dbf687f38d274b"},
@@ -67,6 +68,9 @@
     {"type":"directory","name":"krilapajamas","size":4096,"contents":[
       {"type":"file","name":"doll.png","size":12352,"md5":"109d0b7557559aa7244844e3042a16be"}
     ]},
+    {"type":"directory","name":"maynie","size":4096,"contents":[
+      {"type":"file","name":"bg_target.png","size":4606,"md5":"cfd6b27ee42b8afb293a19b1bbfea220"}
+    ]},
     {"type":"directory","name":"mescal","size":4096,"contents":[
       {"type":"file","name":"plane_base.png","size":49282,"md5":"3c0e51c4c6eabc4463a6959d5e1aeb95"},
       {"type":"file","name":"plane_fire.png","size":13029,"md5":"2a245c78f9c36ac90f8e1f9583e8f875"},
@@ -108,5 +112,5 @@
     ]}
   ]}
 ,
-  {"type":"report","directories":17,"files":74}
+  {"type":"report","directories":18,"files":76}
 ]

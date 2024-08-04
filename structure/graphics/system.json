@@ -122,6 +122,7 @@
     {"type":"file","name":"message_blazing.png","size":9117,"md5":"d6d052acf03b00a233496b865bd5f9d9"},
     {"type":"file","name":"message_bomb.png","size":8830,"md5":"a2097ac17901b5c8072e88b4e32729f4"},
     {"type":"file","name":"message_chk.png","size":4692,"md5":"13e8584dc979e993a2267d5788130e92"},
+    {"type":"file","name":"message_curse.png","size":17216,"md5":"d11688210216f6ae201ce5055696d8d2"},
     {"type":"file","name":"message_dice.png","size":10468,"md5":"787468f4b367912431c296e0ff7f567d"},
     {"type":"file","name":"message_dmg.png","size":6189,"md5":"5ef0424ed7f1017e5a1469dc380245e0"},
     {"type":"file","name":"message_down.png","size":3595,"md5":"f6e06db7dd7928b2562931f2fd5a843f"},
@@ -216,5 +217,5 @@
     {"type":"file","name":"word_input.png","size":13229,"md5":"2ab4733567741a63e314ee10f53d9a5e"}
   ]}
 ,
-  {"type":"report","directories":1,"files":214}
+  {"type":"report","directories":1,"files":215}
 ]

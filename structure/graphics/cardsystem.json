@@ -2,7 +2,7 @@
   {"type":"directory","name":"data/graphics/cardsystem","size":4096,"contents":[
     {"type":"file","name":"back_hyper.png","size":18872,"md5":"be8fe04bd1db597f1c895837302bcb1e"},
     {"type":"directory","name":"backs","size":4096,"contents":[
-      {"type":"file","name":"atlas.png","size":35516,"md5":"0827a2fee83c9590580e34ddd7f57b3e"},
+      {"type":"file","name":"atlas.png","size":40585,"md5":"f1341f59e852565094e6b58b44bd9856"},
       {"type":"file","name":"back_0_128.png","size":14437,"md5":"3cb42762466eab1866530b1077156798"},
       {"type":"file","name":"back_0_256.png","size":34977,"md5":"91fbd17e4accce3cf696b4a093bf235b"},
       {"type":"file","name":"back_0_512.png","size":80728,"md5":"79d30e89b9b5d9310af5e5214d962aac"},
@@ -14,7 +14,10 @@
       {"type":"file","name":"back_2_512.png","size":201255,"md5":"a21aeeec2edc53317296ef3b05d48531"},
       {"type":"file","name":"back_3_128.png","size":26694,"md5":"a72460656312d6fad8edddb968e34a30"},
       {"type":"file","name":"back_3_256.png","size":88787,"md5":"3b061cef7c27c765cdfbc2e392b8bdc7"},
-      {"type":"file","name":"back_3_512.png","size":221514,"md5":"94125d6a14c1c5f564af3f825e4821f6"}
+      {"type":"file","name":"back_3_512.png","size":221514,"md5":"94125d6a14c1c5f564af3f825e4821f6"},
+      {"type":"file","name":"back_4_128.png","size":27526,"md5":"26e4fca519a897d0ccbaa22e8433b10d"},
+      {"type":"file","name":"back_4_256.png","size":77761,"md5":"aae5ab32ab11221d334ef6d9fba62479"},
+      {"type":"file","name":"back_4_512.png","size":215454,"md5":"26746e13641c5a9da62b016186aa2ffd"}
     ]},
     {"type":"file","name":"base128.png","size":14566,"md5":"8d45c2f25a310ba9520b8243fdf5ee0f"},
     {"type":"file","name":"base256.png","size":70999,"md5":"c104a5124f5e6577044702551f5c7404"},
@@ -77,11 +80,11 @@
     {"type":"file","name":"baseUNTSOP256.png","size":122380,"md5":"0e11e7a27004fe8148a94115e937ba50"},
     {"type":"file","name":"baseUNTSP128.png","size":32156,"md5":"6e8bdab63394cc358e71ef9a5e7c4c0a"},
     {"type":"file","name":"baseUNTSP256.png","size":102751,"md5":"8106882266d1a923245873a8b3e74394"},
-    {"type":"file","name":"posternumbers.png","size":19363,"md5":"23c4e10bb45156201cd26c4853f794f6"},
+    {"type":"file","name":"posternumbers.png","size":24952,"md5":"2b2af66e5fe184606e2c1ac58bde3d34"},
     {"type":"file","name":"small_board.png","size":20957,"md5":"59f8ecbdbcf5cba150bc2743671a6d44"},
     {"type":"file","name":"system128.png","size":26522,"md5":"0fd5d29c4d31aeef0246f848002199a0"},
     {"type":"file","name":"system256.png","size":81409,"md5":"e521a9cd14bc8410b185fd420de4c2f6"}
   ]}
 ,
-  {"type":"report","directories":2,"files":79}
+  {"type":"report","directories":2,"files":82}
 ]

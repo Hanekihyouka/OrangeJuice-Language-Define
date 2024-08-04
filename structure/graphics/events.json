@@ -453,7 +453,7 @@
       {"type":"file","name":"gamemode_bounty128.png","size":24532,"md5":"3e60edac5ca985a70adf383dfc5da2b0"},
       {"type":"file","name":"harucraft_numbers.png","size":7438,"md5":"72a795d94f467274d2fefac12b7fce52"},
       {"type":"file","name":"homeguardian.png","size":6661,"md5":"b2d896da8e45fcd5aabaf9c007007c68"},
-      {"type":"file","name":"inventory.png","size":254384,"md5":"9067fb1e1e1dff9c45cc4993d845db1d"},
+      {"type":"file","name":"inventory.png","size":285795,"md5":"59024e7ca6dd9b89e6497de1aae603c5"},
       {"type":"file","name":"logo.png","size":148572,"md5":"28c5593d1198374bc24e4fcaeea28bdc"},
       {"type":"file","name":"luluribbon.png","size":17423,"md5":"1f30b4cb98b4b5f85e5a77e682e09ddf"},
       {"type":"file","name":"normaBoard.png","size":269562,"md5":"0a91cc80eb7a8f1116f3cef41b05dc0a"},
@@ -472,14 +472,18 @@
         {"type":"file","name":"venom.png","size":13266,"md5":"23173ff2da84b49d969e50eb60bee25d"}
       ]},
       {"type":"file","name":"tutorial_00.png","size":21238,"md5":"b15da8d641b4e3e58a8cf7341fee7ef2"},
-      {"type":"file","name":"tutorial_01.png","size":47565,"md5":"dbe1165519d81cf70b14eb130c78dd25"},
-      {"type":"file","name":"tutorial_02.png","size":45784,"md5":"0859467b7c8e7e4467924519f77d864e"},
-      {"type":"file","name":"tutorial_03.png","size":43701,"md5":"e4ea75a865ee32ef9534ecba4e27c1fe"},
+      {"type":"file","name":"tutorial_01.png","size":33792,"md5":"43140d00505ec9b447b81911a69518ce"},
+      {"type":"file","name":"tutorial_02.png","size":47565,"md5":"dbe1165519d81cf70b14eb130c78dd25"},
+      {"type":"file","name":"tutorial_03.png","size":43576,"md5":"6275aeaf4ae6fcbbe22973d5811e1966"},
       {"type":"file","name":"tutorial_04.png","size":46749,"md5":"437ffef3e98e5a5000353c5f80101ae7"},
-      {"type":"file","name":"tutorial_05.png","size":50079,"md5":"d08d4dc209260684125c7957099d50b4"},
+      {"type":"file","name":"tutorial_05.png","size":39281,"md5":"68ff6b22247c23049bd6d719f58ad600"},
       {"type":"file","name":"tutorial_06.png","size":22200,"md5":"50f702d868fe75d9a362efb34fe46f47"},
-      {"type":"file","name":"tutorial_07.png","size":33414,"md5":"fad17dfc132a1491a8f00745b5e49165"},
-      {"type":"file","name":"tutorial_08.png","size":39281,"md5":"68ff6b22247c23049bd6d719f58ad600"}
+      {"type":"file","name":"tutorial_07.png","size":45784,"md5":"0859467b7c8e7e4467924519f77d864e"},
+      {"type":"file","name":"tutorial_08.png","size":50079,"md5":"d08d4dc209260684125c7957099d50b4"},
+      {"type":"file","name":"tutorial_09.png","size":39158,"md5":"119fba3254a553e067c4b25360e3b334"},
+      {"type":"file","name":"tutorial_10.png","size":36333,"md5":"196abefe38ac13038e29f3f24426f8a9"},
+      {"type":"file","name":"tutorial_11.png","size":29747,"md5":"5b521233a93ca38af51322a16b8332f4"},
+      {"type":"file","name":"tutorial_12.png","size":33414,"md5":"fad17dfc132a1491a8f00745b5e49165"}
     ]},
     {"type":"directory","name":"summer2018","size":4096,"contents":[
       {"type":"file","name":"boss_00_00.png","size":5624,"md5":"cdfb244d5d303032d14466d85333efbf"},
@@ -1017,5 +1021,5 @@
     ]}
   ]}
 ,
-  {"type":"report","directories":47,"files":923}
+  {"type":"report","directories":47,"files":927}
 ]

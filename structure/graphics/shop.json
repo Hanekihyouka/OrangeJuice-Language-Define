@@ -93,6 +93,7 @@
     {"type":"file","name":"c_ball_ha.png","size":10874,"md5":"46ddf49227f5c1d5200184d027ca223e"},
     {"type":"file","name":"c_ball.png","size":7672,"md5":"9e48fb75adc35a062fcdc943cc747678"},
     {"type":"file","name":"c_ball_xm.png","size":15696,"md5":"43e0ece0ec81ec00382875d84c5dac2d"},
+    {"type":"file","name":"c_bpoppo.png","size":29496,"md5":"e2b794471bc644e8804c595e3d697b27"},
     {"type":"file","name":"c_brobo_cp.png","size":17593,"md5":"ef4a69ed41e46e66855963ae975f4a13"},
     {"type":"file","name":"c_brobo_ha17.png","size":24616,"md5":"fd5aa6f190df08d715f6672f46cf1d1f"},
     {"type":"file","name":"c_brobo_ha.png","size":22787,"md5":"4df9e0cdaf19d2083fa35c93ce72f96f"},
@@ -135,6 +136,7 @@
     {"type":"file","name":"c_fernetnoble.png","size":18079,"md5":"def4ec0e76d6fbb22276da90b3d95f9e"},
     {"type":"file","name":"c_fernet.png","size":20104,"md5":"8e920d7e9b617c8f7cd3a6b40251c6b5"},
     {"type":"file","name":"c_fernet_xm.png","size":18578,"md5":"c00b95c396c1ac7ee3a681f910741ede"},
+    {"type":"file","name":"c_golem.png","size":15539,"md5":"0d6d4981f83e8f8d4820f30fba7f382b"},
     {"type":"file","name":"c_hime1_cp.png","size":22164,"md5":"7b7b86feecb213fdbf69fb531eea82c8"},
     {"type":"file","name":"c_hime1_h00.png","size":20287,"md5":"144a8b1e28dc7c8aa0473d12ff2aef98"},
     {"type":"file","name":"c_hime1_h01.png","size":19931,"md5":"ee43c42519ee084080f1f01d91081b6a"},
@@ -746,5 +748,5 @@
     {"type":"file","name":"re_beachparty.png","size":55294,"md5":"0da1c8e24fe125e4c67550a840c8daf3"}
   ]}
 ,
-  {"type":"report","directories":1,"files":744}
+  {"type":"report","directories":1,"files":746}
 ]

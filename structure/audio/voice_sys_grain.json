@@ -1,6 +1,5 @@
 [
   {"type":"directory","name":"data/audio/voice_sys_grain","size":4096,"contents":[
-    {"type":"file","name":"1.oga","size":3724,"md5":"ffaac8a9655a95993a1d0ad622c95961"},
     {"type":"file","name":"2.oga","size":4552,"md5":"96e26382a8815df454a91964ef983cb9"},
     {"type":"file","name":"3.oga","size":5470,"md5":"513e8c6b1e29cc24f4eb856d69154f37"},
     {"type":"file","name":"4.oga","size":3539,"md5":"992adb1651e2463b3a68f4691b539402"},
@@ -45,5 +44,5 @@
     {"type":"file","name":"win.oga","size":4247,"md5":"5f656b7a18b806b07b961394d8afb122"}
   ]}
 ,
-  {"type":"report","directories":1,"files":43}
+  {"type":"report","directories":1,"files":42}
 ]

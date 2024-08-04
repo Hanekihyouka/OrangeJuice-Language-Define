@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"data/graphics/alphamasks","size":180224,"contents":[
+  {"type":"directory","name":"data/graphics/alphamasks","size":176128,"contents":[
     {"type":"file","name":"alicianrone_00_00.png","size":1923,"md5":"145bf350100fa025c6f55c512cef3a4f"},
     {"type":"file","name":"alicianrone_00_01.png","size":4309,"md5":"9376fc6fdef00e95481a96126181ecc0"},
     {"type":"file","name":"alicianrone_00_02.png","size":2103,"md5":"d4593a3a4e956e1a4104edc93960f5d0"},
@@ -542,6 +542,12 @@
     {"type":"file","name":"cook_10_03.png","size":1199,"md5":"137aabe68c8076fd7a189ee225c8bdc8"},
     {"type":"file","name":"cook_10_04.png","size":1098,"md5":"42280ee5bf23afe07f6e1bf7c3475967"},
     {"type":"file","name":"cook_10_05.png","size":3897,"md5":"921fc12dadc5db5d90883aaa8b63d339"},
+    {"type":"file","name":"cook_14_00.png","size":1076,"md5":"f97223ece9b4d6bb27feb7da90263ad9"},
+    {"type":"file","name":"cook_14_01.png","size":1010,"md5":"9fac42ab6b13cc6c39ee452f346993f4"},
+    {"type":"file","name":"cook_14_02.png","size":1062,"md5":"595e7f67566675ccb125361817d9c270"},
+    {"type":"file","name":"cook_14_03.png","size":2612,"md5":"c35460cffa0c9b86036d27d4cb7ce8de"},
+    {"type":"file","name":"cook_14_04.png","size":2725,"md5":"ceb186bae1566c5d23052e6d3ae847b3"},
+    {"type":"file","name":"cook_14_05.png","size":2722,"md5":"f7d969332d13171bf4dc89aa7ed052a8"},
     {"type":"file","name":"cook_19_00.png","size":2174,"md5":"3f6661c96cd4a93105571818d9c777bc"},
     {"type":"file","name":"cook_19_01.png","size":1413,"md5":"3d710ccf685fa4fcf721b1eabd6ce53e"},
     {"type":"file","name":"cook_19_02.png","size":1038,"md5":"95682d997ebedbbec1e43f9547df833c"},
@@ -770,6 +776,11 @@
     {"type":"file","name":"fernetnoble_12_03.png","size":1431,"md5":"2736e59561874d0452511b176c3dd371"},
     {"type":"file","name":"fernetnoble_12_04.png","size":941,"md5":"c719c073e142fdd257ef910e31db5bd0"},
     {"type":"file","name":"fernetnoble_12_05.png","size":1977,"md5":"9bca4aa88d6678552ad9e3ad21f8c844"},
+    {"type":"file","name":"fernetnoble_14_00.png","size":1010,"md5":"a5310bd9d0ba9890a80e5018cdee6074"},
+    {"type":"file","name":"fernetnoble_14_01.png","size":2525,"md5":"0735a0ee68d4c5a74a9d5a817dd7a921"},
+    {"type":"file","name":"fernetnoble_14_02.png","size":2568,"md5":"d8651490c0be0b42e9abea424e74d800"},
+    {"type":"file","name":"fernetnoble_14_03.png","size":2514,"md5":"05bd3e8acd6886e497d7b0245ddd5ac5"},
+    {"type":"file","name":"fernetnoble_14_05.png","size":2581,"md5":"cb3f6f33aa21fd553c1331d3c9067e93"},
     {"type":"file","name":"fernetnoble_19_00.png","size":921,"md5":"0ba3b88a3ced0e63407baecb7e4ac0f8"},
     {"type":"file","name":"fernetnoble_19_01.png","size":1629,"md5":"426e84f22ea6987bdb6f4e69581c7502"},
     {"type":"file","name":"fernetnoble_19_02.png","size":1562,"md5":"3a712e516fa648b4f329c7f1df520e9a"},
@@ -848,6 +859,11 @@
     {"type":"file","name":"halena_10_03.png","size":1280,"md5":"11c9222790d3552637948a17cdc36582"},
     {"type":"file","name":"halena_10_04.png","size":1092,"md5":"f1262cba1f4c4267613759eb2d86f908"},
     {"type":"file","name":"halena_10_05.png","size":936,"md5":"39080c1e55324320f6f11b694696f80e"},
+    {"type":"file","name":"halena_14_00.png","size":1201,"md5":"3d86012bddc5ae29f9f210510ba18c41"},
+    {"type":"file","name":"halena_14_01.png","size":2621,"md5":"2d5d1ebb59841a51a79860ffc5e74ebd"},
+    {"type":"file","name":"halena_14_03.png","size":2582,"md5":"14e2f6aa25cf6cc415e7d5a9bb14d75a"},
+    {"type":"file","name":"halena_14_04.png","size":1112,"md5":"ec137f5a28ad0a6be7a4b104229450da"},
+    {"type":"file","name":"halena_14_05.png","size":2686,"md5":"a8574ac7f88c4669d2b9d3ab21426668"},
     {"type":"file","name":"halena_19_00.png","size":901,"md5":"1923c3fdd3ccec8af2cdebf5386b1881"},
     {"type":"file","name":"halena_19_01.png","size":917,"md5":"295167a2ec1644c9fe41d198edb4fc65"},
     {"type":"file","name":"halena_19_02.png","size":902,"md5":"ced4edfea593b40a5a2dabe891dc081b"},
@@ -1004,6 +1020,12 @@
     {"type":"file","name":"himem_10_03.png","size":1155,"md5":"f84249c9f3c07382df4152e4f7c4323e"},
     {"type":"file","name":"himem_10_04.png","size":937,"md5":"27e31a2fdcfe9c974b371f36ce57f2fd"},
     {"type":"file","name":"himem_10_05.png","size":1313,"md5":"17d4a33b41c907ba782c8624cfe25c92"},
+    {"type":"file","name":"himem_14_00.png","size":2490,"md5":"1dabf15c0e135528c72f1fe30af3926a"},
+    {"type":"file","name":"himem_14_01.png","size":2500,"md5":"0446a419a7a9ccde6820b4fd9bbbcae4"},
+    {"type":"file","name":"himem_14_02.png","size":2709,"md5":"3803f120cfdae606fbd4b5e2100e2650"},
+    {"type":"file","name":"himem_14_03.png","size":2584,"md5":"7a06fac51dc36f7bb93da1f174b7743e"},
+    {"type":"file","name":"himem_14_04.png","size":2933,"md5":"32f5beb20d3c00720ea6fd51726a9d03"},
+    {"type":"file","name":"himem_14_05.png","size":2902,"md5":"3bbab3f00faf7ac647df49bd393b028d"},
     {"type":"file","name":"himem_19_00.png","size":1092,"md5":"55781955bda00e25c41e3c64c363fa1e"},
     {"type":"file","name":"himem_19_01.png","size":1418,"md5":"a4f3752c4688ea06d37366af7a704a92"},
     {"type":"file","name":"himem_19_02.png","size":1236,"md5":"9ebcf019b2a4b222fdf2591407398b2d"},
@@ -1197,7 +1219,7 @@
     {"type":"file","name":"kai_22_04.png","size":693,"md5":"4dcf36a575cdfe0aed14d615f447e773"},
     {"type":"file","name":"kai_22_05.png","size":1161,"md5":"ee84b3d11e8377ff205d42fb6b883712"},
     {"type":"file","name":"kaihero_00_00.png","size":2847,"md5":"e33e128dec23a0256ee538caadb57c5d"},
-    {"type":"file","name":"kaihero_00_01.png","size":2816,"md5":"d1c30f42db428c52c1114b0e9827ef4d"},
+    {"type":"file","name":"kaihero_00_01.png","size":2877,"md5":"a3ae8cb6563e564961166678cf2058e1"},
     {"type":"file","name":"kaihero_00_02.png","size":3049,"md5":"e3e8a72494aac9b5fba75112ded65f4b"},
     {"type":"file","name":"kaihero_00_03.png","size":2945,"md5":"df2a173c9123d077418276c099077920"},
     {"type":"file","name":"kaihero_00_04.png","size":2888,"md5":"a56b2673a06a1e11473fbd30eeebecf7"},
@@ -1979,7 +2001,7 @@
     {"type":"file","name":"merchant_15_02.png","size":4019,"md5":"e1ada875335c6cbc951264da26461197"},
     {"type":"file","name":"merchant_15_03.png","size":4226,"md5":"5d5bf12fc765f6979b16ddebe8467bef"},
     {"type":"file","name":"merchant_15_04.png","size":3879,"md5":"0add92229751e6f827a3a68dde617073"},
-    {"type":"file","name":"merchant_15_05.png","size":3046,"md5":"8c4af9b3eade08556c70d822fb52c94f"},
+    {"type":"file","name":"merchant_15_05.png","size":3224,"md5":"084a4e62243a9da2d43a96ad67031e95"},
     {"type":"file","name":"merchant_19_00.png","size":1431,"md5":"319edb803efd2c5b1fba988dd7e31de7"},
     {"type":"file","name":"merchant_19_01.png","size":6453,"md5":"649a9f4ea84ba763941633e2c98d3b44"},
     {"type":"file","name":"merchant_19_02.png","size":2284,"md5":"ef8d74d79660d0d09edf2b36008a193f"},
@@ -4684,5 +4706,5 @@
     {"type":"file","name":"yuuki_28_05.png","size":1133,"md5":"d9295b1e5da25cecdfed16ebea102c68"}
   ]}
 ,
-  {"type":"report","directories":1,"files":4682}
+  {"type":"report","directories":1,"files":4704}
 ]
