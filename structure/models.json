@@ -1,0 +1,10 @@
+[
+  {"type":"directory","name":"data/models","size":4096,"contents":[
+    {"type":"file","name":"cloud.ojm","size":299883,"md5":"a71533944133c9deff4ba4fd0740c4da"},
+    {"type":"file","name":"plane.ojm","size":1447944,"md5":"31ac154fd14970ec9666b7af06700a0f"},
+    {"type":"file","name":"rpg_town.ojm","size":1900359,"md5":"b056a21f0477b5181412d69f47ce54b0"},
+    {"type":"file","name":"rpg_town_winter.ojm","size":2381873,"md5":"63266a06a345013e4b7004e3161f858f"}
+  ]}
+,
+  {"type":"report","directories":1,"files":4}
+]

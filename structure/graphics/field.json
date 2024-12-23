@@ -178,7 +178,11 @@
     {"type":"file","name":"homemark_41_1.png","size":29863,"md5":"a7f2c1632c244a345a3f9f9257d07a2c"},
     {"type":"file","name":"homemark_41_2.png","size":29074,"md5":"6637aa23979af970f00e50f8f9c65db4"},
     {"type":"file","name":"homemark_41_3.png","size":30454,"md5":"6cbb9c4b6de97555071f6d5f14ee9adf"},
-    {"type":"file","name":"homemark_icons.png","size":804293,"md5":"1be57a480a73642df19682f6a3bd6ecd"},
+    {"type":"file","name":"homemark_42_0.png","size":9511,"md5":"aba834d5aac944b19f4b1df8fa1d2051"},
+    {"type":"file","name":"homemark_42_1.png","size":9919,"md5":"ff810c07cad86abe6e750b2fb87292d5"},
+    {"type":"file","name":"homemark_42_2.png","size":9972,"md5":"20c3f90f639712d1a7f746037b657e80"},
+    {"type":"file","name":"homemark_42_3.png","size":9970,"md5":"b2f3acccfec53ad7fc2f6f6417f192b4"},
+    {"type":"file","name":"homemark_icons.png","size":814290,"md5":"c01895f825a8d5fc2dbe442b37eabb71"},
     {"type":"file","name":"homemark_shadow.png","size":2581,"md5":"8f5e1df47fc896e2d33303e571948428"},
     {"type":"file","name":"mass_aoe.png","size":3270,"md5":"608913f0c312eed3bb85062f21deaa46"},
     {"type":"file","name":"mass_base0.png","size":1244,"md5":"42a902027be539878791c0eca77aa52d"},
@@ -242,5 +246,5 @@
     {"type":"file","name":"world_arrow_up.png","size":3763,"md5":"33666631c41e460738fa366ce2a69133"}
   ]}
 ,
-  {"type":"report","directories":1,"files":240}
+  {"type":"report","directories":1,"files":244}
 ]

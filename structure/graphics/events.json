@@ -559,17 +559,17 @@
         {"type":"directory","name":"fish","size":4096,"contents":[
           {"type":"file","name":"crab.png","size":30586,"md5":"b67e5e5a40d96feca05700c3385c128c"},
           {"type":"file","name":"default.png","size":9308,"md5":"e9519bc5ba6b350ee90f53bbe1476ece"},
-          {"type":"file","name":"eel.png","size":23544,"md5":"e979764ec15e74722268d5842ceae64e"},
+          {"type":"file","name":"eel.png","size":17420,"md5":"6847e9b951b1eb8af54f2355532e56ca"},
           {"type":"file","name":"junk.png","size":17494,"md5":"d01802d4482abaad8b7c80e7b8ac213e"},
-          {"type":"file","name":"malt.png","size":21896,"md5":"3f3108791ebc54a00c37ada45e080818"},
+          {"type":"file","name":"malt.png","size":15189,"md5":"929e0ab0287df08be4a601ac965924eb"},
           {"type":"file","name":"piggu.png","size":25986,"md5":"e4412bb05efc7f8148938d13d3f988ec"},
           {"type":"file","name":"piyo.png","size":21277,"md5":"fe4c1c8d5a3ce32b511fe4c1af1db884"},
           {"type":"file","name":"puffer.png","size":11403,"md5":"9e5a7412326fecf6f1ab4ba71208ad3d"},
-          {"type":"file","name":"purin.png","size":33871,"md5":"c11ddf3adee55ba8e4881ac8404188e5"},
-          {"type":"file","name":"rbit.png","size":20084,"md5":"8ff69ee886c1316192999e830d46d463"},
+          {"type":"file","name":"purin.png","size":24774,"md5":"6a7f56a295dabff951e79e3a19c7d8ab"},
+          {"type":"file","name":"rbit.png","size":14976,"md5":"10d5fbfa61287b8fab0dd3301fb2b6ef"},
           {"type":"file","name":"shell.png","size":20386,"md5":"0dabc85b9bdfb8f14b7c29b21c732a5e"},
-          {"type":"file","name":"squid.png","size":29775,"md5":"d8f2d1a21a596d584128f572285d28cd"},
-          {"type":"file","name":"sug.png","size":24167,"md5":"bb70228e724a09a303eef9dcfea6c377"}
+          {"type":"file","name":"squid.png","size":22881,"md5":"834574961b5d67d86101135fd98db524"},
+          {"type":"file","name":"sug.png","size":17394,"md5":"0e94172a343ea391b66cd011cbccc5bd"}
         ]},
         {"type":"file","name":"fishing0.png","size":55727,"md5":"8e2bc624f6a66a20d0bcd4377e445e76"},
         {"type":"file","name":"fishing1.png","size":135548,"md5":"6a9653060e4718a859e0f552d3b5c5b6"},
@@ -628,6 +628,25 @@
       {"type":"file","name":"tutorial_02.png","size":31676,"md5":"c4a464e88960fb60b6b2472281795a05"},
       {"type":"file","name":"tutorial_03.png","size":38959,"md5":"b948a24d81edbe7be459a14e198feb8e"},
       {"type":"file","name":"tutorial_04.png","size":45553,"md5":"d2b34d65a3ca750fa5321dc77699543a"}
+    ]},
+    {"type":"directory","name":"summer2024","size":4096,"contents":[
+      {"type":"file","name":"logo.png","size":205242,"md5":"19a1f4079012f0d41e12d6c46a7cdb7e"},
+      {"type":"file","name":"orange_pin_chuu.png","size":27382,"md5":"fbf8484095cb3b618790563a24121609"},
+      {"type":"file","name":"orange_pin_poyo.png","size":27445,"md5":"ca59c18751a3f39ead7b232c6587d8b3"},
+      {"type":"file","name":"stampcard.png","size":87497,"md5":"7c68ef45eb0029a628d0daa86bef3773"},
+      {"type":"file","name":"stamp.png","size":3212,"md5":"9190712982d911461e74a25bde15ccaa"},
+      {"type":"file","name":"tutorial_00.png","size":19962,"md5":"51a8cbd920cc05a6e9cbba37dbf15fd1"},
+      {"type":"file","name":"tutorial_02.png","size":31165,"md5":"527c060a851b248056e23df651bf99ec"},
+      {"type":"file","name":"tutorial_03.png","size":47484,"md5":"93ac171f970838dfe7618ab505ba5d42"},
+      {"type":"file","name":"tutorial_04.png","size":42151,"md5":"cc13ecc62cdcd84e1b5238c96b7ea8cb"},
+      {"type":"file","name":"tutorial_05.png","size":43291,"md5":"70a5dd90aac6e773a7efee418c461cf1"},
+      {"type":"file","name":"tutorial_06.png","size":30833,"md5":"9a3ab3a04e45ae347f696e5c00ed3dcb"},
+      {"type":"file","name":"tutorial_07.png","size":36860,"md5":"e5554a546870cb43c94069ecc4c6457d"},
+      {"type":"file","name":"tutorial_09.png","size":42466,"md5":"8db94e783f3b75b4a325c070f77966bc"},
+      {"type":"file","name":"tutorial_10.png","size":44504,"md5":"2e8e793c4a5d76dec443df722d8c15b7"}
+    ]},
+    {"type":"directory","name":"tagteam","size":4096,"contents":[
+      {"type":"file","name":"gamemode_tag128.png","size":22221,"md5":"a60ff84b5f07a2dfc7087bddb6900d4b"}
     ]},
     {"type":"directory","name":"winter2020","size":4096,"contents":[
       {"type":"file","name":"counter.png","size":56019,"md5":"a08600bff620226d24fb772cd92a6bcf"},
@@ -1021,5 +1040,5 @@
     ]}
   ]}
 ,
-  {"type":"report","directories":47,"files":927}
+  {"type":"report","directories":49,"files":942}
 ]

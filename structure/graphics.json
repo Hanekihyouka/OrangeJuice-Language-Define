@@ -1,0 +1,32 @@
+[
+  {"type":"directory","name":"data/graphics","size":4096,"contents":[
+    {"type":"directory","name":"alphamasks","size":172032},
+    {"type":"directory","name":"animation","size":12288},
+    {"type":"directory","name":"cards","size":49152},
+    {"type":"directory","name":"cardsystem","size":4096},
+    {"type":"directory","name":"codex","size":4096},
+    {"type":"directory","name":"emotes","size":69632},
+    {"type":"directory","name":"ending","size":4096},
+    {"type":"directory","name":"events","size":4096},
+    {"type":"directory","name":"face","size":36864},
+    {"type":"directory","name":"fbfadd","size":28672},
+    {"type":"directory","name":"field","size":12288},
+    {"type":"directory","name":"fields","size":12288},
+    {"type":"directory","name":"fieldsicon","size":4096},
+    {"type":"directory","name":"font","size":4096},
+    {"type":"directory","name":"gallery","size":4096},
+    {"type":"directory","name":"hairs","size":196608},
+    {"type":"directory","name":"hats","size":434176},
+    {"type":"directory","name":"hyper","size":4096},
+    {"type":"directory","name":"pets","size":69632},
+    {"type":"directory","name":"playerplate","size":4096},
+    {"type":"directory","name":"shop","size":32768},
+    {"type":"directory","name":"srf","size":4096},
+    {"type":"directory","name":"system","size":12288},
+    {"type":"directory","name":"taunts","size":4096},
+    {"type":"directory","name":"trial","size":4096},
+    {"type":"directory","name":"units","size":385024}
+  ]}
+,
+  {"type":"report","directories":27,"files":0}
+]

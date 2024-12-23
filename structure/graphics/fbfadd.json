@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"data/graphics/fbfadd","size":32768,"contents":[
+  {"type":"directory","name":"data/graphics/fbfadd","size":28672,"contents":[
     {"type":"file","name":"10year_anniv_unlock.png","size":119761,"md5":"481d7388a7f1cf4c9f7e6164ac62c920"},
     {"type":"file","name":"5year_anniv_unlock.png","size":77798,"md5":"7265a062d4a2e47de32684eca80eb624"},
     {"type":"file","name":"alicia_hyper_sheet_circle.png","size":45047,"md5":"f4438899cda478dbfea7ae7675930418"},
@@ -57,6 +57,8 @@
     {"type":"file","name":"boostStat9.png","size":7315,"md5":"3418ee6895408882a05b3215a22fca76"},
     {"type":"file","name":"bossrobo128.png","size":21669,"md5":"a88fe5bcc214092f740bc3ed1ac501fb"},
     {"type":"file","name":"bossrobo256.png","size":66400,"md5":"fc30b82dc27ef14dbd6b772e7d9e05fd"},
+    {"type":"file","name":"cake1.png","size":54920,"md5":"28227ed01edbead32f761823530b2005"},
+    {"type":"file","name":"cake2.png","size":55339,"md5":"d406af13418a57706a0ebd4972070b16"},
     {"type":"file","name":"campaign_bg_jail.png","size":95593,"md5":"1fb919d8245c7303015a4b250eb1946f"},
     {"type":"file","name":"campaign_nicoarthur.png","size":145347,"md5":"e491bca7b4557eecf000eefa5aa1eb60"},
     {"type":"file","name":"campaign_roneteo_message.png","size":58987,"md5":"3f1bf8bb8cca045a512eaaba9dd1011f"},
@@ -66,10 +68,12 @@
     {"type":"file","name":"castle256.png","size":73131,"md5":"8030694c332facb257310d3814044283"},
     {"type":"file","name":"ccp4heart00.png","size":22832,"md5":"17c99e4561b38b74e415e957adb7c645"},
     {"type":"file","name":"ccp4heart01.png","size":22888,"md5":"702fd07adbe77e50d609e979df869df1"},
-    {"type":"file","name":"CCustomization.png","size":148263,"md5":"fdc24b5308ffc895c6f0a3406555db93"},
+    {"type":"file","name":"CCustomization.png","size":150570,"md5":"844ab4fcbd4b396a735373bd5446d500"},
     {"type":"file","name":"christsmasherdust.png","size":24099,"md5":"609a1fbe124f8ae72cefc58b68b6e22f"},
     {"type":"file","name":"christsmashersnowflake.png","size":2986,"md5":"cc261d4f84ba0ac398fdc0966c8d69a5"},
     {"type":"file","name":"cloud_00.png","size":49903,"md5":"3f0e90ff1d3814e2f536b7687745e529"},
+    {"type":"file","name":"coffee1.png","size":77834,"md5":"021ce760104d5c1efe7a5082237006b0"},
+    {"type":"file","name":"coffee2.png","size":49020,"md5":"207a8a09d40bcf5cbaf6d5925acaaed4"},
     {"type":"file","name":"compassarrow.png","size":53923,"md5":"2040c99c0b33139ffc9156d59bc7cb87"},
     {"type":"file","name":"compassbase.png","size":169259,"md5":"75f7030b9f44ab16a83c2ea0073d3f4b"},
     {"type":"file","name":"compassmeter.png","size":5287,"md5":"85959c515601b697411f3170a23c6807"},
@@ -105,7 +109,7 @@
     {"type":"file","name":"cos_pose.png","size":2742,"md5":"97292946c39357a462efd4c6366b8274"},
     {"type":"file","name":"costume_button.png","size":8555,"md5":"1a54f1d51cf70c6597e57c279e251e27"},
     {"type":"file","name":"costume_mask.png","size":7774,"md5":"3f0b36d29bbfe8911cdd4e7682a45348"},
-    {"type":"file","name":"credits_icon.png","size":2210,"md5":"24dc413ef2721028c2781217f57da81a"},
+    {"type":"file","name":"credits_icon.png","size":834,"md5":"c3bfa2e41c17a90a701d531d20f59f4a"},
     {"type":"file","name":"CSelect_a.png","size":1090973,"md5":"98572d0a6dbaca99f3a7e7bd35637fbe"},
     {"type":"file","name":"CSelect.png","size":1085844,"md5":"653f0072c3f50537458cd85f03107a67"},
     {"type":"file","name":"dice_big.png","size":52788,"md5":"8200d2806e75dad5189172f5f396b225"},
@@ -403,6 +407,7 @@
     {"type":"file","name":"master128.png","size":16657,"md5":"3d9a8eaaa33c7e66d8c77b223556e571"},
     {"type":"file","name":"master256.png","size":38929,"md5":"b6364230b976c34ef4f19bdd9d12d489"},
     {"type":"file","name":"menu_config.png","size":10607,"md5":"c2a3643c452d64b1fdb6400ba2884b0b"},
+    {"type":"file","name":"menu_mods.png","size":13941,"md5":"0f264132b0f815e7e833a229d76a95ca"},
     {"type":"file","name":"menu_socialmedias.png","size":11105,"md5":"f3a885ef186ca9c5a0fae0a59092e4ac"},
     {"type":"file","name":"mimyu_tomato_voiceBtn0.png","size":18214,"md5":"ac89b583954f0bc0d46ce9296028d773"},
     {"type":"file","name":"mimyu_tomato_voiceBtn1.png","size":17335,"md5":"914c23064535511710e7c6d68b932415"},
@@ -416,6 +421,7 @@
     {"type":"file","name":"mods_noinstall.png","size":23747,"md5":"380ed5e8d319c60def71e61e2f97919d"},
     {"type":"file","name":"mods_thumbnail_frame.png","size":2428,"md5":"58d8271b6dbe402b0cd0976bb946b921"},
     {"type":"file","name":"monocoque.png","size":9910,"md5":"51342a89d1ca3555cbd9dd5a194e5070"},
+    {"type":"file","name":"mug1.png","size":9877,"md5":"219291e9b53d4098c70759b5d963b37c"},
     {"type":"file","name":"music_note.png","size":6229,"md5":"9437b273785b49e05951d6de89d174ea"},
     {"type":"file","name":"nanakobit.png","size":10097,"md5":"3e188a4a75275fd24d3f6e345922b111"},
     {"type":"file","name":"newfont_a2.png","size":20255,"md5":"9b4d06539d410d6ba4b158e29e6a9fd7"},
@@ -430,6 +436,7 @@
     {"type":"file","name":"playtag.png","size":11951,"md5":"4137ba33481103d793c58c70d954489c"},
     {"type":"file","name":"plushie2_banner.png","size":134744,"md5":"2d73b9dfdc07d73c4ad1b920f302dc09"},
     {"type":"file","name":"plushie3_banner.png","size":103300,"md5":"bd9597ad170223aa7f4c28bfa799129e"},
+    {"type":"file","name":"plushie4_banner.png","size":97191,"md5":"fe28c0e728cec1f04e7c4102f64ffdad"},
     {"type":"file","name":"pointer_icon.png","size":6017,"md5":"77b5b31b9c2d2be61434a74d4574030d"},
     {"type":"file","name":"prepar_pic6.png","size":38439,"md5":"8d0c662340084c1a05516281880ab24d"},
     {"type":"file","name":"prepar_pic7.png","size":73677,"md5":"d3ced1a92bfaaa1d34aeca6d2bc1c870"},
@@ -522,6 +529,9 @@
     {"type":"file","name":"scalpel_eff_01.png","size":3553,"md5":"bb4d8a2b21bc292fd2c41845fd018919"},
     {"type":"file","name":"serenehush_flower00.png","size":9980,"md5":"a96b8caa1b8c5416ee29e50ed69a6b29"},
     {"type":"file","name":"serenehush_flower01.png","size":15411,"md5":"7151a95d276b01f40c9a4b81d0d5df2b"},
+    {"type":"file","name":"shake1.png","size":74438,"md5":"22542e5c41a6a366c9c5cb1a5574240b"},
+    {"type":"file","name":"shake2.png","size":71001,"md5":"f250b585cf3974001b4b255dae573d23"},
+    {"type":"file","name":"shake3.png","size":70757,"md5":"6a9a3bd700716cfbdfdc6ac005a07085"},
     {"type":"file","name":"shifu0001.png","size":107757,"md5":"e06a45e5c4134779a6e56d8a0d43a63e"},
     {"type":"file","name":"shifu0002.png","size":107240,"md5":"55ec071f9c6088ed72264c3565b6cef8"},
     {"type":"file","name":"shifu0003.png","size":105711,"md5":"01408b60f4c123c81f9d382b4f6f60bb"},
@@ -534,6 +544,7 @@
     {"type":"file","name":"slumberother.png","size":13044,"md5":"dcb6fb4280f609148f3978c8de2a6416"},
     {"type":"file","name":"snatcher.png","size":11690,"md5":"7cf97b8d7f658f8da6317e018a5d1bfb"},
     {"type":"file","name":"sorapower_sheet.png","size":218472,"md5":"de473e8a1697471472017bb2142d6466"},
+    {"type":"file","name":"special.png","size":118925,"md5":"14194b4119026e98591cb495593faf1d"},
     {"type":"file","name":"sphere00.png","size":63447,"md5":"82a935b884af9309fca10ff0f97bb69d"},
     {"type":"file","name":"sphere01.png","size":67003,"md5":"5f5d87639d3a99219589d0979402b4ef"},
     {"type":"file","name":"sphere02.png","size":90298,"md5":"d2a5eaeb7799404180a7e94f1df04953"},
@@ -657,5 +668,5 @@
     {"type":"file","name":"yk_devilboost.png","size":19145,"md5":"711f1dbebf538f4644d059347f21329d"}
   ]}
 ,
-  {"type":"report","directories":1,"files":655}
+  {"type":"report","directories":1,"files":666}
 ]

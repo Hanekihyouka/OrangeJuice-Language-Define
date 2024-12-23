@@ -1,0 +1,14 @@
+[
+  {"type":"directory","name":"data/define","size":4096,"contents":[
+    {"type":"directory","name":"chs","size":12288},
+    {"type":"directory","name":"cht","size":12288},
+    {"type":"directory","name":"en","size":12288},
+    {"type":"directory","name":"jp","size":12288},
+    {"type":"directory","name":"ko","size":12288},
+    {"type":"directory","name":"ptbr","size":12288},
+    {"type":"directory","name":"ru","size":12288},
+    {"type":"directory","name":"sp","size":12288}
+  ]}
+,
+  {"type":"report","directories":9,"files":0}
+]

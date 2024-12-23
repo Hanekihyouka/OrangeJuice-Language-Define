@@ -1,6 +1,7 @@
 [
-  {"type":"directory","name":"data/graphics/officialfieldtextures","size":12288,"contents":[
+  {"type":"directory","name":"data/graphics/fields","size":12288,"contents":[
     {"type":"file","name":"aurora.png","size":723908,"md5":"f14b6af4d3a125e749a3ae99210d7640"},
+    {"type":"file","name":"cafe_l.png","size":5755,"md5":"f89dd5f2ca52006299438239891f9e59"},
     {"type":"file","name":"christmas_h.png","size":59411,"md5":"65da7e033e3cc326605c6fd77cabd1a5"},
     {"type":"file","name":"christmas_l.png","size":73906,"md5":"069bb134122992886012ff204a5296cc"},
     {"type":"file","name":"christmas_o.png","size":976,"md5":"f545b4d6e0eef1605ae13f070e4ca557"},
@@ -58,6 +59,7 @@
     {"type":"file","name":"field_practice.fld","size":968,"md5":"4c9aa3bbe9b0d95878c5814f71b9c6c7"},
     {"type":"file","name":"field_pudding_co.fld","size":968,"md5":"a43c11d70bce21c1a611c3d7a30727e7"},
     {"type":"file","name":"field_pudding.fld","size":968,"md5":"de99b6f9d359c2816f2d929d3cdc47a7"},
+    {"type":"file","name":"field_pures.fld","size":1800,"md5":"30da4c0f6a363e7e5df0256dee439472"},
     {"type":"file","name":"field_rpg_grass.png","size":44006,"md5":"d662114daebd31b09c84ad43b4f6d8e4"},
     {"type":"file","name":"field_rpg_grass_winter.png","size":38437,"md5":"beb712fc484dc310bb89a32e3a166c02"},
     {"type":"file","name":"field_rpg.png","size":482822,"md5":"1e7a59351dfe79054b7c96f81fb2a33a"},
@@ -185,5 +187,5 @@
     {"type":"file","name":"worldmap_winter23.png","size":4422613,"md5":"5146efb91ed54eecf40091014a2049cb"}
   ]}
 ,
-  {"type":"report","directories":1,"files":183}
+  {"type":"report","directories":1,"files":185}
 ]

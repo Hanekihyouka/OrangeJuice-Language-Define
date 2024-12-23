@@ -69,7 +69,7 @@
       {"type":"file","name":"doll.png","size":12352,"md5":"109d0b7557559aa7244844e3042a16be"}
     ]},
     {"type":"directory","name":"maynie","size":4096,"contents":[
-      {"type":"file","name":"bg_target.png","size":4606,"md5":"cfd6b27ee42b8afb293a19b1bbfea220"}
+      {"type":"file","name":"bg_target.png","size":8144,"md5":"4074f8b116e02c2b5617dc416f5f77a6"}
     ]},
     {"type":"directory","name":"mescal","size":4096,"contents":[
       {"type":"file","name":"plane_base.png","size":49282,"md5":"3c0e51c4c6eabc4463a6959d5e1aeb95"},

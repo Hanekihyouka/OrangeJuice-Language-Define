@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"data/graphics/pets","size":73728,"contents":[
+  {"type":"directory","name":"data/graphics/pets","size":69632,"contents":[
     {"type":"file","name":"airship_b00_00.png","size":2328,"md5":"a1d2f98242348e8b8e9577ee16f5a74e"},
     {"type":"file","name":"airship_b00_01.png","size":2338,"md5":"d160488fc92bcc8505872bdb49907da3"},
     {"type":"file","name":"airship_b00_02.png","size":2323,"md5":"ca40118cee1a120f6a136cfb3c27033a"},

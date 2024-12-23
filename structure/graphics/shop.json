@@ -331,6 +331,8 @@
     {"type":"file","name":"conv_cake_star.png","size":18026,"md5":"3796e1f3cba55593c4a6e01d07171d89"},
     {"type":"file","name":"conv_candy_orange.png","size":15638,"md5":"c6115795a8ed6722a81b729ae9318f7d"},
     {"type":"file","name":"conv_candy_star.png","size":15820,"md5":"148c7e98fb189b51b9fe2ab67d44c37a"},
+    {"type":"file","name":"conv_deco_orange.png","size":16963,"md5":"72a988c92ae4b39b8ec2276171be73ff"},
+    {"type":"file","name":"conv_deco_star.png","size":17587,"md5":"eabcd3233f760481a578f4bfdf3ef54a"},
     {"type":"file","name":"conv_pig_orange.png","size":12030,"md5":"017bb177afd59e0faca76ee1b47a57a5"},
     {"type":"file","name":"conv_pig_star.png","size":11324,"md5":"b58a04aaa2b9ba8d9402503072781280"},
     {"type":"file","name":"conv_voice_orange.png","size":26438,"md5":"f9aee17d27fe4fd751095d2ca62cf985"},
@@ -748,5 +750,5 @@
     {"type":"file","name":"re_beachparty.png","size":55294,"md5":"0da1c8e24fe125e4c67550a840c8daf3"}
   ]}
 ,
-  {"type":"report","directories":1,"files":746}
+  {"type":"report","directories":1,"files":748}
 ]
