@@ -115,39 +115,47 @@
 <0114> Your face's telling me you got something good.
 <0115> Awesome, that's a nice pull.
 <0116> I bet that'll be helpful.
-<0117> Sure.
-<0118> I think that's good.
-<0119> I got this.
-<0120> I'll pass.
-<0121> Haah.
-<0122> I'd call this lucky.
-<0123> What's happening?
-<0124> Let's go.
-<0125> Here's a dice roll.
-<0126> You can do this.
-<0127> Yo!
-<0128> Hmm.
-<0129> That's great.
-<0130> Way to go.
-<0131> I can't go on like this.
-<0132> Let me use this one.
-<0133> Oh, look at this one.
-<0134> Looks like this card holds incredible power.
-<0135> This card seems good to me.
-<0136> Thanks.
-<0137> This is what a grown-up can do.
-<0138> I can't afford to lose this one even if it means my death.
-<0139> Isn't this cool?
-<0140> I'm really putting myself out here.
-<0141> I'd be done for if I took that one.
-<0142> Pretty easy dodge.
-<0143> You can't hit me.
-<0144> This is the definition of adult style.
-<0145> Let's play with Papa, Ellie.
-<0146> You came to play with Papa?
-<0147> You've grown up well. Papa's proud.
-<0148> Oh man... Aren't you gifted, Ellie?
-<0149> Never thought we'd fight.
-<0150> Wanna pick a fight with me like before?
-<0151> I can't stand getting beaten by you.
-<0152> Dang, she beat me.
+<0117> It's time to change our positions.
+<0118> Let's switch now.
+<0119> It's your turn to go.
+<0120> Great timing.
+<0121> Sure.
+<0122> I think that's good.
+<0123> I got this.
+<0124> I'll pass.
+<0125> Haah.
+<0126> I'd call this lucky.
+<0127> What's happening?
+<0128> Let's go.
+<0129> Here's a dice roll.
+<0130> You can do this.
+<0131> Yo!
+<0132> Hmm.
+<0133> That's great.
+<0134> Way to go.
+<0135> I can't go on like this.
+<0136> Let me use this one.
+<0137> Oh, look at this one.
+<0138> Looks like this card holds incredible power.
+<0139> This card seems good to me.
+<0140> Thanks.
+<0141> This is what a grown-up can do.
+<0142> I can't afford to lose this one even if it means my death.
+<0143> Isn't this cool?
+<0144> I'm really putting myself out here.
+<0145> I'd be done for if I took that one.
+<0146> Pretty easy dodge.
+<0147> You can't hit me.
+<0148> This is the definition of adult style.
+<0149> Let's play with Papa, Ellie.
+<0150> You came to play with Papa?
+<0151> You've grown up well. Papa's proud.
+<0152> Oh man... Aren't you gifted, Ellie?
+<0153> Never thought we'd fight.
+<0154> Wanna pick a fight with me like before?
+<0155> I can't stand getting beaten by you.
+<0156> Dang, she beat me.
+<0157> Guess I'll form a team with you.
+<0158> Poppo, we're gonna go out there and show people what we've got.
+<0159> Ellie, you wanna team up with Papa?
+<0160> Ellie, let me see how much you've grown.

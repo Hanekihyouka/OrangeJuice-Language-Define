@@ -116,42 +116,46 @@
 <0114> You got what you wanted? Well, good for you.
 <0115> You're looking good. You that excited?
 <0116> Let's use that thing and win some matches.
-<0117> Okay.
-<0118> I guess that's good.
-<0119> Yeah.
-<0120> Nope.
-<0121> What'd you just say?
-<0122> That's a windfall.
-<0123> Hmm?
-<0124> Let's roll.
-<0125> What number should I roll?
-<0126> Let's go.
-<0127> Hey, how you doing?
-<0128> Ah...
-<0129> All right, you did great.
-<0130> Awesome! And I don't often give compliments.
-<0131> I wouldn't do that.
-<0132> I can even handle tools I'm not that experienced with!
-<0133> Not sure how this works, but I'll play it anyway!
-<0134> This is a hit-or-miss moment.
-<0135> I don't give a damn anymore! Here goes nothing!
-<0136> Yo, shorty! Let's play.
-<0137> Oh, shorty! Looks like you're doing well.
-<0138> A kid like you can't beat us!
-<0139> Oww, those bits of yours are a pain in the butt.
-<0140> Oh! That airplane is super cool!
-<0141> Wow, a blue airplane, huh... That's sick!
-<0142> Let me fly your bird later.
-<0143> Your airplane is cool and strong... Pure perfection!
-<0144> The way you look... Are you one of those magical girls?
-<0145> A magical girl... This is our first time seeing one.
-<0146> Well, just because you're a magical girl doesn't mean you can beat a hero.
-<0147> Ugh, this is the power of a magical girl, huh...
-<0148> Oh, look how fiery she is.
-<0149> What, is she literally on fire...!?
-<0150> Man, that was one intense battle we just had!
-<0151> She's practically radiating heat... Can't beat her.
-<0152> I'm marking here.
-<0153> This is for my jutsu's sake.
-<0154> I'll show you my last resort.
-<0155> You'll be confused.
+<0117> Okay, you can go now.
+<0118> Time to switch! Don't lag behind, okay?
+<0119> You take this from here. I'm counting on you.
+<0120> Body replacement technique!
+<0121> Okay.
+<0122> I guess that's good.
+<0123> Yeah.
+<0124> Nope.
+<0125> What'd you just say?
+<0126> That's a windfall.
+<0127> Hmm?
+<0128> Let's roll.
+<0129> What number should I roll?
+<0130> Let's go.
+<0131> Hey, how you doing?
+<0132> Ah...
+<0133> All right, you did great.
+<0134> Awesome! And I don't often give compliments.
+<0135> I wouldn't do that.
+<0136> I can even handle tools I'm not that experienced with!
+<0137> Not sure how this works, but I'll play it anyway!
+<0138> This is a hit-or-miss moment.
+<0139> I don't give a damn anymore! Here goes nothing!
+<0140> Yo, shorty! Let's play.
+<0141> Oh, shorty! Looks like you're doing well.
+<0142> A kid like you can't beat us!
+<0143> Oww, those bits of yours are a pain in the butt.
+<0144> Oh! That airplane is super cool!
+<0145> Wow, a blue airplane, huh... That's sick!
+<0146> Let me fly your bird later.
+<0147> Your airplane is cool and strong... Pure perfection!
+<0148> The way you look... Are you one of those magical girls?
+<0149> A magical girl... This is our first time seeing one.
+<0150> Well, just because you're a magical girl doesn't mean you can beat a hero.
+<0151> Ugh, this is the power of a magical girl, huh...
+<0152> Oh, look how fiery she is.
+<0153> What, is she literally on fire...!?
+<0154> Man, that was one intense battle we just had!
+<0155> She's practically radiating heat... Can't beat her.
+<0156> I'm marking here.
+<0157> This is for my jutsu's sake.
+<0158> I'll show you my last resort.
+<0159> You'll be confused.

@@ -115,46 +115,50 @@
 <0114> Here's a package for you ♥
 <0115> I think you could use this thing?
 <0116> That's quite a nice gift.
-<0117> Okay ♥
-<0118> Oh my dear ♥
-<0119> Yep ♥
-<0120> Nope.
-<0121> Why!?
-<0122> You're in luck.
-<0123> Huuuh?
-<0124> Here we go.
-<0125> Here goes.
-<0126> You can do it ♥
-<0127> Hi.
-<0128> Hmmmmm.
-<0129> Well done.
-<0130> I'm amazed.
-<0131> Damn it!
-<0132> I'm going to use this.
-<0133> Give me that power.
-<0134> Fufufu, are you confused?
-<0135> I'm even capable of something like this ♥
-<0136> Thanks ♥
-<0137> Nothing like spending fun time with Tomomo.
-<0138> Tomomooo, I came to hang out with youuu!
-<0139> Oh dear, it's so nice to see a familiar face ♥
-<0140> This'll be fun.
-<0141> Tomomo, you have to entertain me ♥
-<0142> Oh, you want to play with me, Tomomo?
-<0143> That goofy look on your face is the best thing ever ♥
-<0144> Huh? What...? Tomomo beat me... You've got to be kidding me.
-<0145> I'll let you enjoy some genuine sweets.
-<0146> Sweets being just sweet is boring.
-<0147> Fufu, I'll be the one to make every piece of sweets in the whole world ♥
-<0148> So, this is what sweets truly are...!
-<0149> I think you should care a little more about how you look.
-<0150> So, this is where we're going to party, huh?
-<0151> Alright, it's time to appreciate some genuine sweets ♥
-<0152> All these sweet smells are driving me crazy ♥
-<0153> Alright, let's start a special party now.
-<0154> I'm so glad I get to band together with you, Tomomo ♥
-<0155> Let's be chummy with each other, you and I ♥
-<0156> It's awesome to be working together with Tomomo ♥
-<0157> Try to look a little more happy, would you?
-<0158> Very tasty, isn't it? Savor it.
-<0159> What the heck do you think you're doing!
+<0117> You can go out there now.
+<0118> It's your turn.
+<0119> Time to switch.
+<0120> I think it's about time.
+<0121> Okay ♥
+<0122> Oh my dear ♥
+<0123> Yep ♥
+<0124> Nope.
+<0125> Why!?
+<0126> You're in luck.
+<0127> Huuuh?
+<0128> Here we go.
+<0129> Here goes.
+<0130> You can do it ♥
+<0131> Hi.
+<0132> Hmmmmm.
+<0133> Well done.
+<0134> I'm amazed.
+<0135> Damn it!
+<0136> I'm going to use this.
+<0137> Give me that power.
+<0138> Fufufu, are you confused?
+<0139> I'm even capable of something like this ♥
+<0140> Thanks ♥
+<0141> Nothing like spending fun time with Tomomo.
+<0142> Tomomooo, I came to hang out with youuu!
+<0143> Oh dear, it's so nice to see a familiar face ♥
+<0144> This'll be fun.
+<0145> Tomomo, you have to entertain me ♥
+<0146> Oh, you want to play with me, Tomomo?
+<0147> That goofy look on your face is the best thing ever ♥
+<0148> Huh? What...? Tomomo beat me... You've got to be kidding me.
+<0149> I'll let you enjoy some genuine sweets.
+<0150> Sweets being just sweet is boring.
+<0151> Fufu, I'll be the one to make every piece of sweets in the whole world ♥
+<0152> So, this is what sweets truly are...!
+<0153> I think you should care a little more about how you look.
+<0154> So, this is where we're going to party, huh?
+<0155> Alright, it's time to appreciate some genuine sweets ♥
+<0156> All these sweet smells are driving me crazy ♥
+<0157> Alright, let's start a special party now.
+<0158> I'm so glad I get to band together with you, Tomomo ♥
+<0159> Let's be chummy with each other, you and I ♥
+<0160> It's awesome to be working together with Tomomo ♥
+<0161> Try to look a little more happy, would you?
+<0162> Very tasty, isn't it? Savor it.
+<0163> What the heck do you think you're doing!

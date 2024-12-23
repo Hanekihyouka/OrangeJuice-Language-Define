@@ -116,42 +116,46 @@
 <0114> Fufu, Santa will give you a present now.
 <0115> I hope you like it.
 <0116> Here, this is for you.
-<0117> Okay!
-<0118> Good!
-<0119> Yeah!
-<0120> No!
-<0121> Oh no!
-<0122> Lucky you!
-<0123> Huh?
-<0124> Let's go.
-<0125> It's dice time!
-<0126> Let's get going!
-<0127> Hello!
-<0128> Hmm...
-<0129> That's great!
-<0130> That's incredible!
-<0131> Darn...
-<0132> Let me borrow this for a bit!
-<0133> What kind of power does this have?
-<0134> I'm using this one.
-<0135> Can't wait to see what will happen!
-<0136> Here's a present for you!
-<0137> Oh, Ms. Q... Whoops, I don't need to call her that now.
-<0138> Welcome to the Rbit Room... Whoops, it just slipped out of my mouth.
-<0139> I'm sorry, bunnies...
-<0140> Uu, I'm glad that someone this strong is a regular at my shop...
-<0141> You, I know you're a bad person!
-<0142> Boy, that's one dangerous woman.
-<0143> No presents for bad people!
-<0144> It's just my outfit that's red...
-<0145> Wow, such a little kid.
-<0146> What? You two are bad kids?
-<0147> Be good girls and I'll give you two presents.
-<0148> Uu, I knew you two were bad kids...
-<0149> Are you a good girl?
-<0150> Wawah, a little girl!
-<0151> Fufufu, look forward to my present for you.
-<0152> I thought you were a good girl...
-<0153> Wawah, my presents!
-<0154> Here are presents for you!
-<0155> Now everyone, in formation, just like we've trained!
+<0117> Can we switch now?
+<0118> Good luck!
+<0119> Sorry, but I have to ask you to take over.
+<0120> Thanks, I'm leaving the rest to you!
+<0121> Okay!
+<0122> Good!
+<0123> Yeah!
+<0124> No!
+<0125> Oh no!
+<0126> Lucky you!
+<0127> Huh?
+<0128> Let's go.
+<0129> It's dice time!
+<0130> Let's get going!
+<0131> Hello!
+<0132> Hmm...
+<0133> That's great!
+<0134> That's incredible!
+<0135> Darn...
+<0136> Let me borrow this for a bit!
+<0137> What kind of power does this have?
+<0138> I'm using this one.
+<0139> Can't wait to see what will happen!
+<0140> Here's a present for you!
+<0141> Oh, Ms. Q... Whoops, I don't need to call her that now.
+<0142> Welcome to the Rbit Room... Whoops, it just slipped out of my mouth.
+<0143> I'm sorry, bunnies...
+<0144> Uu, I'm glad that someone this strong is a regular at my shop...
+<0145> You, I know you're a bad person!
+<0146> Boy, that's one dangerous woman.
+<0147> No presents for bad people!
+<0148> It's just my outfit that's red...
+<0149> Wow, such a little kid.
+<0150> What? You two are bad kids?
+<0151> Be good girls and I'll give you two presents.
+<0152> Uu, I knew you two were bad kids...
+<0153> Are you a good girl?
+<0154> Wawah, a little girl!
+<0155> Fufufu, look forward to my present for you.
+<0156> I thought you were a good girl...
+<0157> Wawah, my presents!
+<0158> Here are presents for you!
+<0159> Now everyone, in formation, just like we've trained!

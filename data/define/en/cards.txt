@@ -281,7 +281,7 @@ flavor="Rumble rumble rumble." ―Shifu Robot
 
 < CARD_HYPER_CASTLE >
 name=Immovable Object
-descr=Effect Duration: 2 Chapters\nCannot move.\nGain +2 DEF. Can counterattack.\nEnemies who move into the same panel must battle you.
+descr=Effect Duration: 2 Chapters\nSkip your turns while this effect is active.\nCannot Warp.\nGain +2 DEF.\nEnemies who move into the same panel must battle you.
 flavor="With this power, everything in the sky will be ours." ―Guild Master
 
 < CARD_HYPER_CHICKEN >

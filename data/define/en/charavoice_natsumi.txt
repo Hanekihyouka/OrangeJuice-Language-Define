@@ -116,44 +116,48 @@
 <0114> Did you... want this?
 <0115> Fufufu, here you go.
 <0116> Are you that glad to get a new thing?
-<0117> Okay.
-<0118> Yeah, that's good.
-<0119> Sure.
-<0120> I'm sorry.
-<0121> Oh no.
-<0122> Fufufu, you're lucky.
-<0123> Oh my?
-<0124> Let's go!
-<0125> It's dice time.
-<0126> Shall we go?
-<0127> Hello.
-<0128> Oh my goodness?
-<0129> That's wonderful.
-<0130> That's awesome!
-<0131> Wah... What do I do?
-<0132> Wah, is it okay to use this?
-<0133> How do I use this?
-<0134> I'm going to borrow this for a bit.
-<0135> This card is incredible.
-<0136> Thank you.
-<0137> Q, let's play.
-<0138> Oh, you want me to play with you?
-<0139> Oh Q, are you sleepy?
-<0140> You're so strong, Q.
-<0141> Yuki, you mustn't play too many pranks, okay?
-<0142> Fufufu, I don't mind playing with you.
-<0143> Fufufu, I'll put you in charge of doing the dishes today.
-<0144> Oh geez, Yuki.
-<0145> Mei, you want to join my game?
-<0146> Mei, hiya.
-<0147> Fufu, I win, Mei.
-<0148> You win, Mei. That's incredible.
-<0149> Let me take a nap with you...
-<0150> Tea time? Would you like me to get us some sweets?
-<0151> Why don't we make some sweets?
-<0152> You want to cook something with me?
-<0153> Fufufu, make me something delicious, okay?
-<0154> All right, I'll give you a feast tonight.
-<0155> Ufufu, everyone looks like they're having fun.
-<0156> Hmmm! La lah!
-<0157> It's time for dinner!
+<0117> Do you mind switching?
+<0118> Wah, thank you.
+<0119> I'm counting on you.
+<0120> Okay, let's switch places now.
+<0121> Okay.
+<0122> Yeah, that's good.
+<0123> Sure.
+<0124> I'm sorry.
+<0125> Oh no.
+<0126> Fufufu, you're lucky.
+<0127> Oh my?
+<0128> Let's go!
+<0129> It's dice time.
+<0130> Shall we go?
+<0131> Hello.
+<0132> Oh my goodness?
+<0133> That's wonderful.
+<0134> That's awesome!
+<0135> Wah... What do I do?
+<0136> Wah, is it okay to use this?
+<0137> How do I use this?
+<0138> I'm going to borrow this for a bit.
+<0139> This card is incredible.
+<0140> Thank you.
+<0141> Q, let's play.
+<0142> Oh, you want me to play with you?
+<0143> Oh Q, are you sleepy?
+<0144> You're so strong, Q.
+<0145> Yuki, you mustn't play too many pranks, okay?
+<0146> Fufufu, I don't mind playing with you.
+<0147> Fufufu, I'll put you in charge of doing the dishes today.
+<0148> Oh geez, Yuki.
+<0149> Mei, you want to join my game?
+<0150> Mei, hiya.
+<0151> Fufu, I win, Mei.
+<0152> You win, Mei. That's incredible.
+<0153> Let me take a nap with you...
+<0154> Tea time? Would you like me to get us some sweets?
+<0155> Why don't we make some sweets?
+<0156> You want to cook something with me?
+<0157> Fufufu, make me something delicious, okay?
+<0158> All right, I'll give you a feast tonight.
+<0159> Ufufu, everyone looks like they're having fun.
+<0160> Hmmm! La lah!
+<0161> It's time for dinner!

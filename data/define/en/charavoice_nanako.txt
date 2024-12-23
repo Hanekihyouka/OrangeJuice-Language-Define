@@ -116,42 +116,46 @@
 <0114> We're stronger now.
 <0115> That's good to have.
 <0116> Fufu, you're in luck.
-<0117> Okay.
-<0118> That's good.
-<0119> Yeah.
-<0120> No.
-<0121> That's not good.
-<0122> You're lucky.
-<0123> Hm?
-<0124> Now, let's go.
-<0125> I'm throwing the dice.
-<0126> Off I go.
-<0127> Hi.
-<0128> Hmm.
-<0129> Good work.
-<0130> That's fascinating.
-<0131> Damn, what was that about?
-<0132> I'll use this.
-<0133> So this is that power in my hands...
-<0134> I can get the most out of this.
-<0135> Now, let's see how this'll turn out!
-<0136> Kae, it's play time!
-<0137> You want play together? Fine, bring it on.
-<0138> It was fun. We should do this again sometime.
-<0139> Fufu, you're very good.
-<0140> Is that you, Kyoko...? No, who the hell are you?
-<0141> I really want to smash him down, but at the same time I don't...
-<0142> Stay away from me, will you?
-<0143> Do I feel good about this or not... What's wrong with me!
-<0144> Ugh... Defeated by a man with that face...
-<0145> Fufu, look how miserable you are!
-<0146> Actually, I rather like dogs.
-<0147> Hey, still thinking?
-<0148> Make it quick.
-<0149> What's taking so damn long?!
-<0150> *Sigh* I don't mind waiting, but I hope you'll get it together.
-<0151> Bits, full power assault!
-<0152> I think I'm done warming up now!
-<0153> Oh, there's a tiny kitty cat... No, is that actually a human?
-<0154> Oh, there's a tiny... What is this thing?
-<0155> Maybe I shouldn't have destroyed it?
+<0117> It's your turn to go.
+<0118> Work hard out there, okay?
+<0119> You got this.
+<0120> Time to switch.
+<0121> Okay.
+<0122> That's good.
+<0123> Yeah.
+<0124> No.
+<0125> That's not good.
+<0126> You're lucky.
+<0127> Hm?
+<0128> Now, let's go.
+<0129> I'm throwing the dice.
+<0130> Off I go.
+<0131> Hi.
+<0132> Hmm.
+<0133> Good work.
+<0134> That's fascinating.
+<0135> Damn, what was that about?
+<0136> I'll use this.
+<0137> So this is that power in my hands...
+<0138> I can get the most out of this.
+<0139> Now, let's see how this'll turn out!
+<0140> Kae, it's play time!
+<0141> You want play together? Fine, bring it on.
+<0142> It was fun. We should do this again sometime.
+<0143> Fufu, you're very good.
+<0144> Is that you, Kyoko...? No, who the hell are you?
+<0145> I really want to smash him down, but at the same time I don't...
+<0146> Stay away from me, will you?
+<0147> Do I feel good about this or not... What's wrong with me!
+<0148> Ugh... Defeated by a man with that face...
+<0149> Fufu, look how miserable you are!
+<0150> Actually, I rather like dogs.
+<0151> Hey, still thinking?
+<0152> Make it quick.
+<0153> What's taking so damn long?!
+<0154> *Sigh* I don't mind waiting, but I hope you'll get it together.
+<0155> Bits, full power assault!
+<0156> I think I'm done warming up now!
+<0157> Oh, there's a tiny kitty cat... No, is that actually a human?
+<0158> Oh, there's a tiny... What is this thing?
+<0159> Maybe I shouldn't have destroyed it?

@@ -115,43 +115,47 @@
 <0114> Hey, good for you.
 <0115> That's a nice find right there.
 <0116> Oo... what's that one do?
-<0117> Gotcha.
-<0118> Isn't that something!
-<0119> Copy.
-<0120> As if!
-<0121> What a shame.
-<0122> Haha, lady luck smiles on you.
-<0123> What's that?
-<0124> Let's get going.
-<0125> Let's throw.
-<0126> Go!
-<0127> A fine day to you.
-<0128> Well well.
-<0129> Good.
-<0130> Ooh! Amazing!
-<0131> Blast it!
-<0132> I've got my connections.
-<0133> What's there to hesitate about?
-<0134> Let's gamble on this.
-<0135> What could this do, I wonder...?
-<0136> Cheers!
-<0137> Hmh. Let me take over from here.
-<0138> Looks like you could use some help.
-<0139> Mm... Leave this to me.
-<0140> Let me take care of this.
-<0141> No hard feelings lady, but you're in the way.
-<0142> What can I do for you, lady?
-<0143> Not bad for one so young.
-<0144> Man, you totally got me... what a girl.
-<0145> I've come to meddle again, chief.
-<0146> Man, you work me too hard.
-<0147> Ha, the drinks are on you tonight!
-<0148> Gunyunyu... fine, I'll open that bottle I was saving.
-<0149> Still a stick in the mud, eh chief.
-<0150> Oh? It's rare to see you so worked up, chief.
-<0151> Ha ha ha, just sit down and take it easy for a while.
-<0152> Well, this sort of thing happens too.
-<0153> Geez. That's not the way to go, kid.
-<0154> Oh. You like whales, kiddo?
-<0155> Looks like you're fighting a hard battle.
-<0156> Got anything good for me today?
+<0117> Time to switch.
+<0118> I'm tagging out.
+<0119> I need to refuel.
+<0120> Hold the fort for a while, will you.
+<0121> Gotcha.
+<0122> Isn't that something!
+<0123> Copy.
+<0124> As if!
+<0125> What a shame.
+<0126> Haha, lady luck smiles on you.
+<0127> What's that?
+<0128> Let's get going.
+<0129> Let's throw.
+<0130> Go!
+<0131> A fine day to you.
+<0132> Well well.
+<0133> Good.
+<0134> Ooh! Amazing!
+<0135> Blast it!
+<0136> I've got my connections.
+<0137> What's there to hesitate about?
+<0138> Let's gamble on this.
+<0139> What could this do, I wonder...?
+<0140> Cheers!
+<0141> Hmh. Let me take over from here.
+<0142> Looks like you could use some help.
+<0143> Mm... Leave this to me.
+<0144> Let me take care of this.
+<0145> No hard feelings lady, but you're in the way.
+<0146> What can I do for you, lady?
+<0147> Not bad for one so young.
+<0148> Man, you totally got me... what a girl.
+<0149> I've come to meddle again, chief.
+<0150> Man, you work me too hard.
+<0151> Ha, the drinks are on you tonight!
+<0152> Gunyunyu... fine, I'll open that bottle I was saving.
+<0153> Still a stick in the mud, eh chief.
+<0154> Oh? It's rare to see you so worked up, chief.
+<0155> Ha ha ha, just sit down and take it easy for a while.
+<0156> Well, this sort of thing happens too.
+<0157> Geez. That's not the way to go, kid.
+<0158> Oh. You like whales, kiddo?
+<0159> Looks like you're fighting a hard battle.
+<0160> Got anything good for me today?

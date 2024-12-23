@@ -116,42 +116,46 @@
 <0114> Is this what you wanted?
 <0115> Fufu, you seem too happy.
 <0116> Ah, good for you.
-<0117> Yeah.
-<0118> I like that.
-<0119> Good.
-<0120> That's not good.
-<0121> What?
-<0122> Talk about lucky.
-<0123> Hm?
-<0124> Let's get started.
-<0125> Time for a throw of die.
-<0126> Let's go.
-<0127> How are you?
-<0128> Hmm...
-<0129> Nice.
-<0130> That's surprisingly impressive.
-<0131> Oh no...
-<0132> I use everything I can.
-<0133> Let's see what this one does.
-<0134> Doesn't matter if this weapon belongs to an enemy or not.
-<0135> You wouldn't think I'd play this one.
-<0136> I'll take you down this time!
-<0137> Ugh, so, you're my opponent, new model!
-<0138> Don't think you're better than I am.
-<0139> Ugh, you're a monster, after all...
-<0140> What's a child like you doing here?
-<0141> A child like you wants to fight me... Really!?
-<0142> Go home before you get hurt.
-<0143> Ugh, are you not an ordinary child?
-<0144> I didn't imagine I'd find you at a place like this.
-<0145> Ugh, you have such a sinister aura about you...
-<0146> I want you to stay down as long as possible.
-<0147> Are you going to burn down both friend and foe?
-<0148> Hm, you're holding a cooking knife... Can you cook?
-<0149> Are you a cook!?
-<0150> Well... um... can you teach me... how to cook?
-<0151> Ugh, the way you use your knife... You're not just any girl.
-<0152> That war all over again? I'm not into this.
-<0153> Ugh, why with these people?
-<0154> I take this as a military drill...
-<0155> A drill with these people... Will it work out?
+<0117> We need to switch.
+<0118> I'm counting on you.
+<0119> You take this from here.
+<0120> Can you take over?
+<0121> Yeah.
+<0122> I like that.
+<0123> Good.
+<0124> That's not good.
+<0125> What?
+<0126> Talk about lucky.
+<0127> Hm?
+<0128> Let's get started.
+<0129> Time for a throw of die.
+<0130> Let's go.
+<0131> How are you?
+<0132> Hmm...
+<0133> Nice.
+<0134> That's surprisingly impressive.
+<0135> Oh no...
+<0136> I use everything I can.
+<0137> Let's see what this one does.
+<0138> Doesn't matter if this weapon belongs to an enemy or not.
+<0139> You wouldn't think I'd play this one.
+<0140> I'll take you down this time!
+<0141> Ugh, so, you're my opponent, new model!
+<0142> Don't think you're better than I am.
+<0143> Ugh, you're a monster, after all...
+<0144> What's a child like you doing here?
+<0145> A child like you wants to fight me... Really!?
+<0146> Go home before you get hurt.
+<0147> Ugh, are you not an ordinary child?
+<0148> I didn't imagine I'd find you at a place like this.
+<0149> Ugh, you have such a sinister aura about you...
+<0150> I want you to stay down as long as possible.
+<0151> Are you going to burn down both friend and foe?
+<0152> Hm, you're holding a cooking knife... Can you cook?
+<0153> Are you a cook!?
+<0154> Well... um... can you teach me... how to cook?
+<0155> Ugh, the way you use your knife... You're not just any girl.
+<0156> That war all over again? I'm not into this.
+<0157> Ugh, why with these people?
+<0158> I take this as a military drill...
+<0159> A drill with these people... Will it work out?

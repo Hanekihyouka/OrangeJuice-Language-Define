@@ -116,43 +116,47 @@
 <0114> We seem to have gotten a good thing.
 <0115> Oh my... That is great.
 <0116> What do you make of this?
-<0117> Understood.
-<0118> I think that is a good idea.
-<0119> Yes.
-<0120> I don't think so.
-<0121> Hau...
-<0122> Fufu.
-<0123> Mhm...
-<0124> It's time to go.
-<0125> I'm going to roll... the dice.
-<0126> Let's go.
-<0127> Hello.
-<0128> Muaah...
-<0129> That is good.
-<0130> That is amazing.
-<0131> Oh...?
-<0132> I'm going to borrow this one.
-<0133> Let me play this card, please.
-<0134> No idea what this does, but I'll do it anyway.
-<0135> I hope I'm using this correctly.
-<0136> I'll commence... my operation now!
-<0137> Suguri... Why don't we play?
-<0138> Suguri... Do you want to play with me?
-<0139> Fufu, I beat Suguri.
-<0140> You're as strong as ever.
-<0141> Hime, do you want to dance?
-<0142> Hime, I have some time for you.
-<0143> Fufu, it was fun.
-<0144> You're a good fighter, too.
-<0145> Sham, here I come.
-<0146> Idol... How very shiny...
-<0147> I-I will never sing or dance like you...
-<0148> D-do I have to dance like you...?
-<0149> Star... Breaker...
-<0150> I'm not losing to you!
-<0151> No more making a ruckus, okay?
-<0152> Please stop causing trouble...
-<0153> Shield!
-<0154> Shield, invert!
-<0155> Unlimited charge...!
-<0156> Mikky Mou-...!
+<0117> Can you take over?
+<0118> Would you mind switching?
+<0119> I look forward to seeing your effort out there.
+<0120> I wish you luck out there.
+<0121> Understood.
+<0122> I think that is a good idea.
+<0123> Yes.
+<0124> I don't think so.
+<0125> Hau...
+<0126> Fufu.
+<0127> Mhm...
+<0128> It's time to go.
+<0129> I'm going to roll... the dice.
+<0130> Let's go.
+<0131> Hello.
+<0132> Muaah...
+<0133> That is good.
+<0134> That is amazing.
+<0135> Oh...?
+<0136> I'm going to borrow this one.
+<0137> Let me play this card, please.
+<0138> No idea what this does, but I'll do it anyway.
+<0139> I hope I'm using this correctly.
+<0140> I'll commence... my operation now!
+<0141> Suguri... Why don't we play?
+<0142> Suguri... Do you want to play with me?
+<0143> Fufu, I beat Suguri.
+<0144> You're as strong as ever.
+<0145> Hime, do you want to dance?
+<0146> Hime, I have some time for you.
+<0147> Fufu, it was fun.
+<0148> You're a good fighter, too.
+<0149> Sham, here I come.
+<0150> Idol... How very shiny...
+<0151> I-I will never sing or dance like you...
+<0152> D-do I have to dance like you...?
+<0153> Star... Breaker...
+<0154> I'm not losing to you!
+<0155> No more making a ruckus, okay?
+<0156> Please stop causing trouble...
+<0157> Shield!
+<0158> Shield, invert!
+<0159> Unlimited charge...!
+<0160> Mikky Mou-...!

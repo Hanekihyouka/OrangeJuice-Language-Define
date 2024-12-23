@@ -114,46 +114,50 @@
 <0113> That's one of our recommendations!
 <0114> Would you like this one as well?
 <0115> Thank you for ordering with us!
-<0116> Yeees.
-<0117> That's nice.
-<0118> Certainly!
-<0119> I'm afraid I'm not able to do that...
-<0120> Mhm, I'm feeling heavy.
-<0121> You're in luck!
-<0122> Well... Mhm.
-<0123> Alright then, let's get working.
-<0124> Dice time!
-<0125> I'm rooting for you!
-<0126> Good morning!
-<0127> What should I do? ...Mhm.
-<0128> Congratulations!
-<0129> That's amazing! Congratulations!
-<0130> W-why!
-<0131> Oh, I don't know this menu item.
-<0132> Has this always been on the menu?
-<0133> Well... Is it okay to... use this?
-<0134> I'm told to use whatever I can!
-<0135> What!? Manager!?
-<0136> H-how come Manager's here!?
-<0137> Manager, did you just get to work?
-<0138> Oh no... Manager looks angry.
-<0139> What!? Did I screw something up!?
-<0140> Manager... You're m-mad, aren't you?
-<0141> We shouldn't do this, Manager!
-<0142> W-why are you approaching me!
-<0143> Chef! I need your support here!
-<0144> Chef, maybe a knife isn't a good idea...
-<0145> Chef, it's time to show your skills!
-<0146> Chef, I'm counting on you!
-<0147> Manager, I could use some help!
-<0148> Once Manager steps out... nobody can stop him!
-<0149> Now that Manager's come out here, victory is ours!
-<0150> Manager! Please don't overdo it!
-<0151> Cheeef!!!
-<0152> What? Chef's knocked out...!?
-<0153> Oh nooo, Chef!
-<0154> Are you okay...? You'd better take a break.
-<0155> M-Manager... is defeated...?
-<0156> Oh no... Manager, no...!
-<0157> Manager, you have to wake up, Manager!
-<0158> Manageeeeeer!!!
+<0116> I'll go take a break now.
+<0117> I could use some assistance here.
+<0118> Could you give me a hand please?
+<0119> Switch places, please!
+<0120> Yeees.
+<0121> That's nice.
+<0122> Certainly!
+<0123> I'm afraid I'm not able to do that...
+<0124> Mhm, I'm feeling heavy.
+<0125> You're in luck!
+<0126> Well... Mhm.
+<0127> Alright then, let's get working.
+<0128> Dice time!
+<0129> I'm rooting for you!
+<0130> Good morning!
+<0131> What should I do? ...Mhm.
+<0132> Congratulations!
+<0133> That's amazing! Congratulations!
+<0134> W-why!
+<0135> Oh, I don't know this menu item.
+<0136> Has this always been on the menu?
+<0137> Well... Is it okay to... use this?
+<0138> I'm told to use whatever I can!
+<0139> What!? Manager!?
+<0140> H-how come Manager's here!?
+<0141> Manager, did you just get to work?
+<0142> Oh no... Manager looks angry.
+<0143> What!? Did I screw something up!?
+<0144> Manager... You're m-mad, aren't you?
+<0145> We shouldn't do this, Manager!
+<0146> W-why are you approaching me!
+<0147> Chef! I need your support here!
+<0148> Chef, maybe a knife isn't a good idea...
+<0149> Chef, it's time to show your skills!
+<0150> Chef, I'm counting on you!
+<0151> Manager, I could use some help!
+<0152> Once Manager steps out... nobody can stop him!
+<0153> Now that Manager's come out here, victory is ours!
+<0154> Manager! Please don't overdo it!
+<0155> Cheeef!!!
+<0156> What? Chef's knocked out...!?
+<0157> Oh nooo, Chef!
+<0158> Are you okay...? You'd better take a break.
+<0159> M-Manager... is defeated...?
+<0160> Oh no... Manager, no...!
+<0161> Manager, you have to wake up, Manager!
+<0162> Manageeeeeer!!!

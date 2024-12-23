@@ -116,42 +116,46 @@
 <0114> Wow, we've got something!
 <0115> Does that... help any?
 <0116> Good for you! Wanna use it now?
-<0117> Okay!
-<0118> Looking good!
-<0119> Yep.
-<0120> That's not good.
-<0121> Oh, no!
-<0122> Lucky you!
-<0123> Hmm?
-<0124> Go! Go!
-<0125> Dice!
-<0126> Gooo!
-<0127> Hi!
-<0128> Mhmm.
-<0129> Very nice!
-<0130> I'm impressed! You're awesome!
-<0131> Nuah! What's the deal with you!
-<0132> I don't know what this does, but...
-<0133> I wonder what I can do with this.
-<0134> Is it safe to use this?
-<0135> Not sure if this is a good idea, but...!
-<0136> It's Sora!
-<0137> Sora's here! I'm hyped.
-<0138> Even if it's you, I won't go easy.
-<0139> I'm gonna go all out, Sora!
-<0140> Hey Sora, let's fight!
-<0141> Make sure to use all you've got!
-<0142> I won this one.
-<0143> You're just as strong as I remember.
-<0144> D-don't hit me from behind, okay...?
-<0145> Huh? Me and Sora...? What are you doing?
-<0146> Nath, fight me!
-<0147> Whoa, are you gonna fight me, Nath?
-<0148> I can't believe I won...
-<0149> I knew I wouldn't do well against you.
-<0150> Omigod!? There's a cute little girl here!
-<0151> Hi, cutie, how about you come hang out with me!
-<0152> Y-you want to hang out with me? Yeah, sure. What should we do?
-<0153> That was fun! By the way, have you ever thought of becoming an idol?
-<0154> Tiny and cute, yet strong... You'd make the perfect idol...
-<0155> *clap clap*... You two are shining more than anyone else...
+<0117> I'd like a switch, please!
+<0118> Do you mind switching?
+<0119> I believe in you!
+<0120> Player substitution!
+<0121> Okay!
+<0122> Looking good!
+<0123> Yep.
+<0124> That's not good.
+<0125> Oh, no!
+<0126> Lucky you!
+<0127> Hmm?
+<0128> Go! Go!
+<0129> Dice!
+<0130> Gooo!
+<0131> Hi!
+<0132> Mhmm.
+<0133> Very nice!
+<0134> I'm impressed! You're awesome!
+<0135> Nuah! What's the deal with you!
+<0136> I don't know what this does, but...
+<0137> I wonder what I can do with this.
+<0138> Is it safe to use this?
+<0139> Not sure if this is a good idea, but...!
+<0140> It's Sora!
+<0141> Sora's here! I'm hyped.
+<0142> Even if it's you, I won't go easy.
+<0143> I'm gonna go all out, Sora!
+<0144> Hey Sora, let's fight!
+<0145> Make sure to use all you've got!
+<0146> I won this one.
+<0147> You're just as strong as I remember.
+<0148> D-don't hit me from behind, okay...?
+<0149> Huh? Me and Sora...? What are you doing?
+<0150> Nath, fight me!
+<0151> Whoa, are you gonna fight me, Nath?
+<0152> I can't believe I won...
+<0153> I knew I wouldn't do well against you.
+<0154> Omigod!? There's a cute little girl here!
+<0155> Hi, cutie, how about you come hang out with me!
+<0156> Y-you want to hang out with me? Yeah, sure. What should we do?
+<0157> That was fun! By the way, have you ever thought of becoming an idol?
+<0158> Tiny and cute, yet strong... You'd make the perfect idol...
+<0159> *clap clap*... You two are shining more than anyone else...

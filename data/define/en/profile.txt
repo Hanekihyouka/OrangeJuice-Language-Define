@@ -273,6 +273,9 @@ Treasure Tails
 <PROFILE_GALLERY_WINTER2023EVENT>
 Memory Menders
 
+<PROFILE_GALLERY_SEASON3EVENT>
+Extracurricular Crisis
+
 <PROFILE_GALLERY_CONTESTWINTER2022_COOLNESS>
 Winter 2022 Art Contest: Coolest Winning Entry
 
@@ -524,6 +527,9 @@ Enemy Hyper
 
 <PROFILE_GALLERY_VOICES_USE_HYPER_ALTERNATIVE>
 Alternative Version Hyper Card
+
+<PROFILE_GALLERY_VOICES_SWITCH>
+Switch places
 
 <PROFILE_GALLERY_VOICES_SPECIAL>
 Special Line

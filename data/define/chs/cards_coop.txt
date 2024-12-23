@@ -474,7 +474,7 @@ descr=各玩家每拥有1点正数ATK受到1点伤害，\n每拥有1点负数ATK
 flavor=
 
 < CARD_BOSS_COOP_IMMOVABLE_OBJECT >
-name=不动之物体
+name=不动之物
 descr=持续效果（2轮）\n无法移动。DEF+2。可以反击。\n敌人移动到你所在的格子时，\n必须与你战斗。
 flavor=
 

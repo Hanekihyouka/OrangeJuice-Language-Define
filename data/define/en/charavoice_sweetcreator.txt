@@ -115,45 +115,49 @@
 <114> Oh, it seems like that thing really made your day.
 <115> Let me see what you've earned there.
 <116> That'll probably help you in your next game.
-<117> Okay.
-<118> Congrats.
-<119> That's good.
-<120> No.
-<121> Oh man...
-<122> You're in luck.
-<123> What in the...?
-<124> Let's go!
-<125> There!
-<126> You can do this, okay?
-<127> Yo!
-<128> Hmm.
-<129> Way to go.
-<130> That's fantastic.
-<131> Damn it!
-<132> I'm using this one.
-<133> Hmm, I've never seen power like this.
-<134> Let me make a little ruckus here.
-<135> This is divine power!
-<136> Thanks.
-<137> I'll punish you if you keep misbehaving, okay?
-<138> You're far too hardworking and diligent, if you ask me.
-<139> *Smirk*. Thought defeating me would be a piece of cake? Pun intended!
-<140> You're one stubborn girl...
-<141> Oh, you must be the new one amongst us. Let me see what you have.
-<142> Oh, what an energetic puppy.
-<143> Well, good luck supporting me as one of the Sweet Gods, okay?
-<144> Ugh, you'd better learn how to respect your boss...
-<145> I'll show you I'm the best amongst us.
-<146> You're turning against me!?
-<147> Well, I'm the best, after all. The best!
-<148> Th-this loss makes me look rather bad...
-<149> A game of Sweet Gods, how interesting...
-<150> I'm sure this is going to turn out to be a fun game.
-<151> This game will decide... who loves sweets the most.
-<152> Would you look at this! Who have we here? I'm thrilled.
-<153> Hope you appreciate it.
-<154> That's one of my creations... enjoy it to the fullest!
-<155> Sweets bring happiness, don't they... Ku-ku-ku.
-<156> Go ahead and eat all you want!
-<157> That's one of Breaker's abilities...
-<158> Sweet Breaker, I need your help.
+<117> You go out there now!
+<118> It's your turn to go.
+<119> You got this.
+<120> I'm counting on you!
+<121> Okay.
+<122> Congrats.
+<123> That's good.
+<124> No.
+<125> Oh man...
+<126> You're in luck.
+<127> What in the...?
+<128> Let's go!
+<129> There!
+<130> You can do this, okay?
+<131> Yo!
+<132> Hmm.
+<133> Way to go.
+<134> That's fantastic.
+<135> Damn it!
+<136> I'm using this one.
+<137> Hmm, I've never seen power like this.
+<138> Let me make a little ruckus here.
+<139> This is divine power!
+<140> Thanks.
+<141> I'll punish you if you keep misbehaving, okay?
+<142> You're far too hardworking and diligent, if you ask me.
+<143> *Smirk*. Thought defeating me would be a piece of cake? Pun intended!
+<144> You're one stubborn girl...
+<145> Oh, you must be the new one amongst us. Let me see what you have.
+<146> Oh, what an energetic puppy.
+<147> Well, good luck supporting me as one of the Sweet Gods, okay?
+<148> Ugh, you'd better learn how to respect your boss...
+<149> I'll show you I'm the best amongst us.
+<150> You're turning against me!?
+<151> Well, I'm the best, after all. The best!
+<152> Th-this loss makes me look rather bad...
+<153> A game of Sweet Gods, how interesting...
+<154> I'm sure this is going to turn out to be a fun game.
+<155> This game will decide... who loves sweets the most.
+<156> Would you look at this! Who have we here? I'm thrilled.
+<157> Hope you appreciate it.
+<158> That's one of my creations... enjoy it to the fullest!
+<159> Sweets bring happiness, don't they... Ku-ku-ku.
+<160> Go ahead and eat all you want!
+<161> That's one of Breaker's abilities...
+<162> Sweet Breaker, I need your help.

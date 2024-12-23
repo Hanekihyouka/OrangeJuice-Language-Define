@@ -116,42 +116,46 @@
 <0114> Oh, I'm glad I got this.
 <0115> Let's add it to the collection.
 <0116> I'll take it.
-<0117> Good.
-<0118> Nice.
-<0119> Yes.
-<0120> No.
-<0121> That's bad.
-<0122> Ah, talk about lucky.
-<0123> What is it?
-<0124> Now, let's go!
-<0125> Here goes!
-<0126> Go, go.
-<0127> Hello.
-<0128> Hmm...
-<0129> There, there.
-<0130> You impressed me.
-<0131> Uh-oh.
-<0132> Seems like a fun card to play!
-<0133> Good to know I can do this.
-<0134> Not sure what this does... but, here goes!
-<0135> Allow me to use this one.
-<0136> Come at me, Marc!
-<0137> Fufu, I've been waiting for this moment.
-<0138> You still have a lot to work on, little rascal.
-<0139> Are those ears in fashion these days?
-<0140> No going easy on me, please.
-<0141> Do you have any idea how ungentlemanly you look right now?
-<0142> Behave yourself, okay?
-<0143> You're one dangerous girl.
-<0144> Wow, that's quite a magic trick.
-<0145> Just looking at her... makes me wanna like her; I wonder why.
-<0146> You're as much of a small fry as you look.
-<0147> It's not as safe as it used to be around here.
-<0148> I'm getting the thrills!
-<0149> We'll decide who's stronger once and for all.
-<0150> It's mine now.
-<0151> Taking aim.
-<0152> I'll challenge you! Just kidding.
-<0153> What kind of equipment will I get?
-<0154> It's not good for you to sleep down there.
-<0155> Maybe I overdid it a little.
+<0117> Let's switch.
+<0118> All right, you handle the rest.
+<0119> It's your turn!
+<0120> I'll leave this to you.
+<0121> Good.
+<0122> Nice.
+<0123> Yes.
+<0124> No.
+<0125> That's bad.
+<0126> Ah, talk about lucky.
+<0127> What is it?
+<0128> Now, let's go!
+<0129> Here goes!
+<0130> Go, go.
+<0131> Hello.
+<0132> Hmm...
+<0133> There, there.
+<0134> You impressed me.
+<0135> Uh-oh.
+<0136> Seems like a fun card to play!
+<0137> Good to know I can do this.
+<0138> Not sure what this does... but, here goes!
+<0139> Allow me to use this one.
+<0140> Come at me, Marc!
+<0141> Fufu, I've been waiting for this moment.
+<0142> You still have a lot to work on, little rascal.
+<0143> Are those ears in fashion these days?
+<0144> No going easy on me, please.
+<0145> Do you have any idea how ungentlemanly you look right now?
+<0146> Behave yourself, okay?
+<0147> You're one dangerous girl.
+<0148> Wow, that's quite a magic trick.
+<0149> Just looking at her... makes me wanna like her; I wonder why.
+<0150> You're as much of a small fry as you look.
+<0151> It's not as safe as it used to be around here.
+<0152> I'm getting the thrills!
+<0153> We'll decide who's stronger once and for all.
+<0154> It's mine now.
+<0155> Taking aim.
+<0156> I'll challenge you! Just kidding.
+<0157> What kind of equipment will I get?
+<0158> It's not good for you to sleep down there.
+<0159> Maybe I overdid it a little.

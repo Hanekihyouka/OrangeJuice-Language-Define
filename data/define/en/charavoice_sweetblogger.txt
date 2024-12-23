@@ -115,47 +115,51 @@
 <114> If what you just got is a dessert... would you let me taste it?
 <115> Fufu, that's a nice present.
 <116> What did you get? Something you wanted?
-<117> Okay.
-<118> Wow.
-<119> Sure, you can leave it to me.
-<120> I have to say no...
-<121> Um, okay...
-<122> You did it!
-<123> Mhm?
-<124> Here goes!
-<125> Let's roll it!
-<126> I know you can do it!
-<127> Hello!
-<128> Well, um?
-<129> Nice.
-<130> That's really incredible.
-<131> Oh my goodness...
-<132> When did I get this card?
-<133> Is this also what I'm able to do as a Sweet God?
-<134> Here I come!
-<135> What's this do? I can't wait to find out.
-<136> Thanks.
-<137> Woow, those are beautiful wings you have on your back.
-<138> Sweet Creator...?
-<139> Next time you create a new dessert, let me taste it, okay?
-<140> That sweet smell of yours was distracting me too much~
-<141> I had no idea you're a Sweet God too, Q.
-<142> What's this? You wanna play with me that badly?
-<143> Boy, you're also giving off a sweet smell, Q...
-<144> That was a real blast~
-<145> A Sweet God?
-<146> I-I'm a Sweet God too, you know?
-<147> We should have a sweets party sometime.
-<148> Sweet Gods are strong.
-<149> Yeah, the taste is great.
-<150> How about this one? Looks delicious, doesn't it?
-<151> Soft and melts in your mouth.
-<152> Now I'm hungry.
-<153> I've got to take great pictures of this...
-<154> This looks very cute and tasty.
-<155> Fufu, just looking at sweets makes me happy.
-<156> This one looks delicious too~
-<157> What do you want for snack time today?
-<158> What's wrong? Are you hungry?
-<159> Let's go buy some snacks later.
-<160> I'll make you whatever you want to eat today.
+<117> Okay, I'll let myself out and let you in.
+<118> You wanna switch? Thanks.
+<119> I think it's about time to switch?
+<120> I have faith in you.
+<121> Okay.
+<122> Wow.
+<123> Sure, you can leave it to me.
+<124> I have to say no...
+<125> Um, okay...
+<126> You did it!
+<127> Mhm?
+<128> Here goes!
+<129> Let's roll it!
+<130> I know you can do it!
+<131> Hello!
+<132> Well, um?
+<133> Nice.
+<134> That's really incredible.
+<135> Oh my goodness...
+<136> When did I get this card?
+<137> Is this also what I'm able to do as a Sweet God?
+<138> Here I come!
+<139> What's this do? I can't wait to find out.
+<140> Thanks.
+<141> Woow, those are beautiful wings you have on your back.
+<142> Sweet Creator...?
+<143> Next time you create a new dessert, let me taste it, okay?
+<144> That sweet smell of yours was distracting me too much~
+<145> I had no idea you're a Sweet God too, Q.
+<146> What's this? You wanna play with me that badly?
+<147> Boy, you're also giving off a sweet smell, Q...
+<148> That was a real blast~
+<149> A Sweet God?
+<150> I-I'm a Sweet God too, you know?
+<151> We should have a sweets party sometime.
+<152> Sweet Gods are strong.
+<153> Yeah, the taste is great.
+<154> How about this one? Looks delicious, doesn't it?
+<155> Soft and melts in your mouth.
+<156> Now I'm hungry.
+<157> I've got to take great pictures of this...
+<158> This looks very cute and tasty.
+<159> Fufu, just looking at sweets makes me happy.
+<160> This one looks delicious too~
+<161> What do you want for snack time today?
+<162> What's wrong? Are you hungry?
+<163> Let's go buy some snacks later.
+<164> I'll make you whatever you want to eat today.

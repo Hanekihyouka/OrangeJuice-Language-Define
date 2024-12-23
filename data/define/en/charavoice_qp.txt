@@ -60,7 +60,7 @@
 <0058> Ugh.
 <0059> That hurts!
 <0060> Stop it!
-<0061> Aaaargh
+<0061> Aaaargh!
 <0062> Boohoo...
 <0063> That hurts so much!
 <0064> Geh!

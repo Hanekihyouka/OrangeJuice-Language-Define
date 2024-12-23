@@ -28,4 +28,7 @@ School Crashers
 < EVENTNAME_CHAOS_MODE >
 Chaos Mode
 
+< EVENTNAME_S3_TAGTEAM_MODE >
+TO BE DECIDED
+
 [EOF]

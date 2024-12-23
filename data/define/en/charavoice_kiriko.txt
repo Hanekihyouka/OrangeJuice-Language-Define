@@ -91,7 +91,7 @@
 <0090> What do we have here, now? A big monster? 
 <0091> I'm getting a dangerous vibe.
 <0092> I'd rather keep my distance.
-<0093> Going for wealthy? I like the sound of it.
+<0093> Going for wealth? I like the sound of it.
 <0094> Since I need money for my experiments. 
 <0095> Ahaha, money, money!
 <0096> This can solve most problems in the world.
@@ -115,42 +115,46 @@
 <0114> Let's play more games with that new thing.
 <0115> My, my, you're in luck.
 <0116> Fufufu, I see you're happy.
-<0117> Okay.
-<0118> Nice.
-<0119> Yes.
-<0120> No.
-<0121> Nugu.
-<0122> It's your lucky day.
-<0123> Hmm?
-<0124> Now, let's go.
-<0125> Dice.
-<0126> Here I come.
-<0127> Hello.
-<0128> Hmm...
-<0129> That's good.
-<0130> Fantastic.
-<0131> Oh geez.
-<0132> Allow me to use your special move.
-<0133> I didn't expect to draw this card... Fufu.
-<0134> Good card. This is going to be fun.
-<0135> I think this card should be played like this?
-<0136> Krila, would you like a surgery?
-<0137> Oh, Krila, are you here to get a surgery from me?
-<0138> Fufufu, I diagnose you're poor because of a disease... Let me cure you...
-<0139> Your beasts, aren't they way too savage?
-<0140> Your whole body is red! You have to be sick!
-<0141> Look at your grossly swollen ears... They need a surgery.
-<0142> Now, let's get you into a surgery.
-<0143> I-I advise you to go see a doctor before it's too late...!
-<0144> You don't have a lower body! It's because of a disease, isn't it?
-<0145> Where did you lose your whole lower body...?
-<0146> I'm sure performing a surgery on a giant like you will be very challenging.
-<0147> How can you be so energetic when you only have an upper body... Pure insanity.
-<0148> Would you look at your shoulders... You have to be suffering from a very rare disease...
-<0149> Your eyes resemble those of a dead fish... It has to be a mental health issue...!
-<0150> Relax, I'm going to treat you.
-<0151> My knives couldn't cut your shoulders... What's with them...
-<0152> Are you okay? Would you like a surgery?
-<0153> My, are you wounded? Would you like me to fix you up?
-<0154> My, my... Looks like we have an emergency case here.
-<0155> Someone just fainted... I think I should go and help.
+<0117> Would you mind switching?
+<0118> Take it from here, would you?
+<0119> Fufu, I need a little break.
+<0120> Good luck out there.
+<0121> Okay.
+<0122> Nice.
+<0123> Yes.
+<0124> No.
+<0125> Nugu.
+<0126> It's your lucky day.
+<0127> Hmm?
+<0128> Now, let's go.
+<0129> Dice.
+<0130> Here I come.
+<0131> Hello.
+<0132> Hmm...
+<0133> That's good.
+<0134> Fantastic.
+<0135> Oh geez.
+<0136> Allow me to use your special move.
+<0137> I didn't expect to draw this card... Fufu.
+<0138> Good card. This is going to be fun.
+<0139> I think this card should be played like this?
+<0140> Krila, would you like a surgery?
+<0141> Oh, Krila, are you here to get a surgery from me?
+<0142> Fufufu, I diagnose you're poor because of a disease... Let me cure you...
+<0143> Your beasts, aren't they way too savage?
+<0144> Your whole body is red! You have to be sick!
+<0145> Look at your grossly swollen ears... They need surgery.
+<0146> Now, let's get you into surgery.
+<0147> I-I advise you to go see a doctor before it's too late...!
+<0148> You don't have a lower body! It's because of a disease, isn't it?
+<0149> Where did you lose your whole lower body...?
+<0150> I'm sure performing surgery on a giant like you will be very challenging.
+<0151> How can you be so energetic when you only have an upper body... Pure insanity.
+<0152> Would you look at your shoulders... You have to be suffering from a very rare disease...
+<0153> Your eyes resemble those of a dead fish... It has to be a mental health issue...!
+<0154> Relax, I'm going to treat you.
+<0155> My knives couldn't cut your shoulders... What's with them...
+<0156> Are you okay? Would you like a surgery?
+<0157> My, are you wounded? Would you like me to fix you up?
+<0158> My, my... Looks like we have an emergency case here.
+<0159> Someone just fainted... I think I should go and help.

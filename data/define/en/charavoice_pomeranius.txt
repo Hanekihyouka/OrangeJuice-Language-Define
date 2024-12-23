@@ -115,43 +115,47 @@
 <114> Why don't you have a good look at this with me?
 <115> Is this what you wished for?
 <116> I'm very glad you liked it.
-<117> Okay.
-<118> Hmm, that's not bad.
-<119> Yes.
-<120> No.
-<121> *Whine*
-<122> Lady Luck is on my side.
-<123> What on earth?
-<124> Let's let it begin, shall we?
-<125> Bow!
-<126> You have my support.
-<127> Hi there.
-<128> Um.
-<129> Good.
-<130> Very good.
-<131> What's wrong with you?
-<132> This seems to be quite good.
-<133> I've never seen anything like this.
-<134> Now, how would you like something like this?
-<135> I'm even capable of using this.
-<136> Thank you.
-<137> If that is what M'lady wishes for.
-<138> Please allow me, M'lady.
-<139> That was impressive, M'lady. I was nearly defeated.
-<140> Excellent, M'lady.
-<141> This is what love is.
-<142> Here I come, M'lady.
-<143> What have my careless paws done?
-<144> That is wonderful, M'lady.
-<145> This victory goes to M'lady.
-<146> You little brat.
-<147> Who do you think you are?
-<148> After all, that's what you're capable of.
-<149> How could a little brat like that beat me...
-<150> A dog... or a human... which are you?
-<151> A half-dog, half-human monster!?
-<152> A half-dog cannot be better than a real one.
-<153> Does this mean I'm not a dog?
-<154> Oh you little cutie, you.
-<155> We're going to always be together, okay?
-<156> Would you look at how adorable my pet is?
+<117> It's time to switch.
+<118> Give me a hand here.
+<119> I'll leave here for now.
+<120> I believe in you.
+<121> Okay.
+<122> Hmm, that's not bad.
+<123> Yes.
+<124> No.
+<125> *Whine*
+<126> Lady Luck is on my side.
+<127> What on earth?
+<128> Let's let it begin, shall we?
+<129> Bow!
+<130> You have my support.
+<131> Hi there.
+<132> Um.
+<133> Good.
+<134> Very good.
+<135> What's wrong with you?
+<136> This seems to be quite good.
+<137> I've never seen anything like this.
+<138> Now, how would you like something like this?
+<139> I'm even capable of using this.
+<140> Thank you.
+<141> If that is what M'lady wishes for.
+<142> Please allow me, M'lady.
+<143> That was impressive, M'lady. I was nearly defeated.
+<144> Excellent, M'lady.
+<145> This is what love is.
+<146> Here I come, M'lady.
+<147> What have my careless paws done?
+<148> That is wonderful, M'lady.
+<149> This victory goes to M'lady.
+<150> You little brat.
+<151> Who do you think you are?
+<152> After all, that's what you're capable of.
+<153> How could a little brat like that beat me...
+<154> A dog... or a human... which are you?
+<155> A half-dog, half-human monster!?
+<156> A half-dog cannot be better than a real one.
+<157> Does this mean I'm not a dog?
+<158> Oh you little cutie, you.
+<159> We're going to always be together, okay?
+<160> Would you look at how adorable my pet is?

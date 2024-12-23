@@ -30,7 +30,7 @@ Language/语言
 全屏
 
 < LAUNCHER_SCREENMODE_BORDERLESS >
-无边窗口化
+全屏窗口
 
 < LAUNCHER_RESOLUTION_LABEL >
 分辨率

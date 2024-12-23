@@ -115,40 +115,48 @@
 <0114> Hmm, you want this that bad? Let me see what I can do.
 <0115> Look what I have here. If you want it... you know what to do, don't you?
 <0116> If you want the item, you've got to butter me up! Ahaaa ♥
-<0117> Okay, fine.
-<0118> Good job.
-<0119> Ahaaa ♥
-<0120> No way, Jose!
-<0121> Aaah?
-<0122> That's so lucky!
-<0123> Um...
-<0124> Let's do this!
-<0125> Dice roll!
-<0126> That's it! Go, go!
-<0127> Yahoo!
-<0128> A... ahaaa?
-<0129> Well done.
-<0130> Wow, that was amazing...!
-<0131> Arrrgh geez! *flips table*
-<0132> What's this card do? I'll play it anyway!
-<0133> I want to play this card.
-<0134> Ahaaa ♥ I'll use this card. That's okay, right?
-<0135> Look what I have here! Aha ♥
-<0136> Get ready, rat!
-<0137> Found you, you stupid rat!
-<0138> Stop crying "poppo poppo"!
-<0139> Time to get rid of a rat!
-<0140> Pest control has been done here.
-<0141> I'll take out every last one of these rats...
-<0142> Phew, I feel better now ♥
-<0143> See how strong I am?
-<0144> Ahaaa ♥ I've gotten a lot stronger!
-<0145> I'm just strong enough to beat them now, I guess.
-<0146> Ahaaa ♥ I've turned super strong.
-<0147> I'm miraculously strong now!
-<0148> Aha... Aha... Ahaaa ♥♥♥
-<0149> I-I'm way too strong now... Aha...!
-<0150> I sense plenty of rats around here...
-<0151> Ahaaa! It's hunting time!
-<0152> Say your prayers, you stupid rats!
-<0153> I can smell them... I can smell the rats...!
+<0117> Switch time.
+<0118> Ahaaa ♥ Let's change positions here!
+<0119> We'll switch now.
+<0120> I'll go take five.
+<0121> Okay, fine.
+<0122> Good job.
+<0123> Ahaaa ♥
+<0124> No way, Jose!
+<0125> Aaah?
+<0126> That's so lucky!
+<0127> Um...
+<0128> Let's do this!
+<0129> Dice roll!
+<0130> That's it! Go, go!
+<0131> Yahoo!
+<0132> A... ahaaa?
+<0133> Well done.
+<0134> Wow, that was amazing...!
+<0135> Arrrgh geez! *flips table*
+<0136> What's this card do? I'll play it anyway!
+<0137> I want to play this card.
+<0138> Ahaaa ♥ I'll use this card. That's okay, right?
+<0139> Look what I have here! Aha ♥
+<0140> Get ready, rat!
+<0141> Found you, you stupid rat!
+<0142> Stop crying "poppo poppo"!
+<0143> Time to get rid of a rat!
+<0144> Pest control has been done here.
+<0145> I'll take out every last one of these rats...
+<0146> Phew, I feel better now ♥
+<0147> See how strong I am?
+<0148> Lulu, its your turn!
+<0149> You got this, Lulu.
+<0150> Ahaaa ♥ Luluuu!
+<0151> I believe in you, Lulu!
+<0152> Ahaaa ♥ I've gotten a lot stronger!
+<0153> I'm just strong enough to beat them now, I guess.
+<0154> Ahaaa ♥ I've turned super strong.
+<0155> I'm miraculously strong now!
+<0156> Aha... Aha... Ahaaa ♥♥♥
+<0157> I-I'm way too strong now... Aha...!
+<0158> I sense plenty of rats around here...
+<0159> Ahaaa! It's hunting time!
+<0160> Say your prayers, you stupid rats!
+<0161> I can smell them... I can smell the rats...!

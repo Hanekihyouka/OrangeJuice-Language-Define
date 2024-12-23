@@ -35,7 +35,7 @@
 <0034> Oh, that feels nice.
 <0035> O-ooh...
 <0036> How pleasant.
-<0037> Identify the currenct location immediately.
+<0037> Identify the current location immediately.
 <0038> The storm is blowing me off course!
 <0039> Ooo...
 <0040> Such turbulent movement...
@@ -115,41 +115,47 @@
 <0114> A fitting prize.
 <0115> That's quite the find.
 <0116> This will certainly come in handy.
-<0117> Roger that.
-<0118> Excellent.
-<0119> Very well.
-<0120> I'm afraid I must refuse.
-<0121> My condolences.
-<0122> Fortune smiles upon you today.
-<0123> Well I'll be...
-<0124> The time has come.
-<0125> Let us cast the die.
-<0126> Let us go.
-<0127> Well met.
-<0128> Hmm...?
-<0129> Most excellent.
-<0130> Marvelous!
-<0131> Blasted!
-<0132> I believe I understand the basic principle.
-<0133> This seems like it'll give me the advantage.
-<0134> For the sake of victory...
-<0135> Desperate times call for desperate measures.
-<0136> My thanks.
-<0137> So the stage has been set.
-<0138> May I have a moment of your time?
-<0139> Is this a test?
-<0140> You must pull yourself together.
-<0141> Your victory isn't a free pass to grab a drink with me, you know.
-<0142> It seems I still cannot see eye to eye with you.
-<0143> I'm telling you to stop calling me that.
-<0144> It looks like I have the last word this time.
-<0145> I see... you must do what you will.
-<0146> No complaints whatsoever.
-<0147> Keep up the good work.
-<0148> Oh boy.
-<0149> Worst job ever done.
-<0150> You seem to me like a significant security risk.
-<0151> The fuse... have I failed?
-<0152> Talk about mysterious.
-<0153> I was preparing long for this moment.
-<0154> All the cannons are loaded.
+<0117> I hope my example was useful.
+<0118> I trust in you to handle the rest.
+<0119> Quick, you must take over!
+<0120> Are you ready? Time to take over.
+<0121> Roger that.
+<0122> Excellent.
+<0123> Very well.
+<0124> I'm afraid I must refuse.
+<0125> My condolences.
+<0126> Fortune smiles upon you today.
+<0127> Well I'll be...
+<0128> The time has come.
+<0129> Let us cast the die.
+<0130> Let us go.
+<0131> Well met.
+<0132> Hmm...?
+<0133> Most excellent.
+<0134> Marvelous!
+<0135> Blasted!
+<0136> I believe I understand the basic principle.
+<0137> This seems like it'll give me the advantage.
+<0138> For the sake of victory...
+<0139> Desperate times call for desperate measures.
+<0140> My thanks.
+<0141> So the stage has been set.
+<0142> May I have a moment of your time?
+<0143> Is this a test?
+<0144> You must pull yourself together.
+<0145> Your victory isn't a free pass to grab a drink with me, you know.
+<0146> It seems I still cannot see eye to eye with you.
+<0147> I'm telling you to stop calling me that.
+<0148> It looks like I have the last word this time.
+<0149> I see... you must do what you will.
+<0150> Your genius is needed once again.
+<0151> Very well. I'll lend you a hand once more.
+<0152> No complaints whatsoever.
+<0153> Keep up the good work.
+<0154> Oh boy.
+<0155> Worst job ever done.
+<0156> You seem to me like a significant security risk.
+<0157> The fuse... have I failed?
+<0158> Talk about mysterious.
+<0159> I was preparing long for this moment.
+<0160> All the cannons are loaded.

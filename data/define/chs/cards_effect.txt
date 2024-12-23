@@ -99,7 +99,7 @@ name=涡轮满载
 descr=每层储备使ATK+1。倒下时效果结束。
 
 < CARD_IMMOVABLEOBJECT_EFFECT >
-name=不动之物体
+name=不动之物
 descr=无法移动，敌人移动到你所在的格子时必须与你\n战斗。\nDEF+2且可以反击。
 
 < CARD_GOLDENEGG_CHICKEN_EFFECT >
@@ -711,7 +711,7 @@ descr=持续效果（2轮）\n在先攻的战斗中ATK+X。\n在后攻的战斗�
 
 < CARD_MOMENTOFGLORY_EFFECT >
 name=前主角的光辉时刻
-descr=★COST（等级×10）\nHP降至1。\n持续效果（3轮）\nATK+4，EVD+5。
+descr=★COST（等级×7）\nHP降至1。\n持续效果（3轮）\nATK+2，EVD+5。
 
 < CARD_HKAIPASSIVE_EFFECT >
 name=最后一搏

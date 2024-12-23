@@ -115,39 +115,47 @@
 <0114> Oh, what you got there looks neat.
 <0115> Did you think this thing would make Mimyuu happy?
 <0116> Wow, that's great.
-<0117> Okay.
-<0118> Wow.
-<0119> Sure.
-<0120> Mimyuu refuses that.
-<0121> Ugh.
-<0122> Mimyuu's on a roll.
-<0123> Meeeow?
-<0124> Let's go!
-<0125> Dice roll!
-<0126> Guess Mimyuu's rooting for you.
-<0127> Yo!
-<0128> Meow?
-<0129> That's kick-ass.
-<0130> That's super kick-ass.
-<0131> Oh my god.
-<0132> Let's see what this card Mimyuu snitched can do.
-<0133> It's time to play this card.
-<0134> Mimyuu doesn't know this card, but she's sure it's strong.
-<0135> This card's giving off an amazing aura.
-<0136> Thank you.
-<0137> Mimyuu is gonna be the boss now.
-<0138> Even you can't stop Mimyuu, Boss.
-<0139> Boss... Thanks.
-<0140> Mimyuu was nowhere near ready to go against Boss.
-<0141> Big Boss... This is going to be our showdown.
-<0142> Big Boss herself is here to get Mimyuu...!
-<0143> Mimyuu is now stronger than Big Boss.
-<0144> She's way too strong.
-<0145> Mimyuu's prison break has been executed flawlessly.
-<0146> Mimyuu's so fast nobody can catch up to her.
-<0147> Mimyuu can't let anybody notice her.
-<0148> This is Mimyuu's goal.
-<0149> You can't spot Mimyuu, can you?
-<0150> Nobody can catch Mimyuu.
-<0151> Fufufu, your eyes are so useless.
-<0152> Kukuku, no one's noticing Mimyuu.
+<0117> You got this, buddy.
+<0118> Mimyuu chooses to switch with you.
+<0119> Teamwork time.
+<0120> We need each other to get away, you got it?
+<0121> Okay.
+<0122> Wow.
+<0123> Sure.
+<0124> Mimyuu refuses that.
+<0125> Ugh.
+<0126> Mimyuu's on a roll.
+<0127> Meeeow?
+<0128> Let's go!
+<0129> Dice roll!
+<0130> Guess Mimyuu's rooting for you.
+<0131> Yo!
+<0132> Meow?
+<0133> That's kick-ass.
+<0134> That's super kick-ass.
+<0135> Oh my god.
+<0136> Let's see what this card Mimyuu snitched can do.
+<0137> It's time to play this card.
+<0138> Mimyuu doesn't know this card, but she's sure it's strong.
+<0139> This card's giving off an amazing aura.
+<0140> Thank you.
+<0141> Mimyuu is gonna be the boss now.
+<0142> Even you can't stop Mimyuu, Boss.
+<0143> Boss... Thanks.
+<0144> Mimyuu was nowhere near ready to go against Boss.
+<0145> Big Boss... This is going to be our showdown.
+<0146> Big Boss herself is here to get Mimyuu...!
+<0147> Mimyuu is now stronger than Big Boss.
+<0148> She's way too strong.
+<0149> Boss!
+<0150> It's reassuring having you, Boss.
+<0151> Mimyuu's got your back, Boss.
+<0152> The two of us are gonna seize victory.
+<0153> Mimyuu's prison break has been executed flawlessly.
+<0154> Mimyuu's so fast nobody can catch up to her.
+<0155> Mimyuu can't let anybody notice her.
+<0156> This is Mimyuu's goal.
+<0157> You can't spot Mimyuu, can you?
+<0158> Nobody can catch Mimyuu.
+<0159> Fufufu, your eyes are so useless.
+<0160> Kukuku, no one's noticing Mimyuu.

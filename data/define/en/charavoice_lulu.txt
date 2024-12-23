@@ -115,40 +115,48 @@
 <0114> Not sure if that'll be helpful...
 <0115> Found something useful!
 <0116> Item get!
-<0117> Aye.
-<0118> Good.
-<0119> Nice.
-<0120> No!
-<0121> Auu.
-<0122> Lucky you.
-<0123> Hmm?
-<0124> Let's do this!
-<0125> Dice!
-<0126> Lulu's rooting for you!
-<0127> Yo!
-<0128> Mhmm.
-<0129> That's super!
-<0130> Incredible! Lulu's surprised.
-<0131> Fuee... That sucks.
-<0132> We'll play this? What's gonna happen?
-<0133> Lulu's curious about what this does!
-<0134> Lulu wants to try using this.
-<0135> Awah, does this card do something amazing?
-<0136> Fuah, she looks scary.
-<0137> Wh-what do you want from Lulu...!
-<0138> Oh? She was weaker than Lulu thought.
-<0139> No, don't bully Lulu...!
-<0140> What a cute pet you've got there!
-<0141> Ehehe, mind if Lulu pets your pet a bit?
-<0142> Ohoo, so many stars!
-<0143> Stars came out of the egg!
-<0144> Nihehe, these stars are all Lulu's.
-<0145> Lucky Stars!
-<0146> Wow, so many cards. Which ones should Lulu pick...?
-<0147> Plenty of options! Which ones does Lulu want to play...?
-<0148> Awah, that's way many cards for Lulu to hold!
-<0149> It's a Lucky Card Pack!
-<0150> A very good lunch. Lulu's happy.
-<0151> *munch munch* This is amazing. Lulu's got a bunch of energy now!
-<0152> The lunch's blown off Lulu's fatigue!
-<0153> Lucky Lunch!
+<0117> Lulu would like a switch.
+<0118> Lulu believes in you!
+<0119> Take it from here, will you?
+<0120> Change, please!
+<0121> Aye.
+<0122> Good.
+<0123> Nice.
+<0124> No!
+<0125> Auu.
+<0126> Lucky you.
+<0127> Hmm?
+<0128> Let's do this!
+<0129> Dice!
+<0130> Lulu's rooting for you!
+<0131> Yo!
+<0132> Mhmm.
+<0133> That's super!
+<0134> Incredible! Lulu's surprised.
+<0135> Fuee... That sucks.
+<0136> We'll play this? What's gonna happen?
+<0137> Lulu's curious about what this does!
+<0138> Lulu wants to try using this.
+<0139> Awah, does this card do something amazing?
+<0140> Fuah, she looks scary.
+<0141> Wh-what do you want from Lulu...!
+<0142> Oh? She was weaker than Lulu thought.
+<0143> No, don't bully Lulu...!
+<0144> What a cute pet you've got there!
+<0145> Ehehe, mind if Lulu pets your pet a bit?
+<0146> Lulu will switch with Ellie.
+<0147> Ellie, you got this!
+<0148> Lulu's sure Ellie can turn the tables for us.
+<0149> Ellie can take care of this situation better than Lulu!
+<0150> Ohoo, so many stars!
+<0151> Stars came out of the egg!
+<0152> Nihehe, these stars are all Lulu's.
+<0153> Lucky Stars!
+<0154> Wow, so many cards. Which ones should Lulu pick...?
+<0155> Plenty of options! Which ones does Lulu want to play...?
+<0156> Awah, that's way many cards for Lulu to hold!
+<0157> It's a Lucky Card Pack!
+<0158> A very good lunch. Lulu's happy.
+<0159> *munch munch* This is amazing. Lulu's got a bunch of energy now!
+<0160> The lunch's blown off Lulu's fatigue!
+<0161> Lucky Lunch!

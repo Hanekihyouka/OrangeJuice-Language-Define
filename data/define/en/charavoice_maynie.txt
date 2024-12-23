@@ -115,42 +115,46 @@
 <0114> You wanted this one, right? Go ahead and praise Maynie.
 <0115> Maynie's never seen that before.
 <0116> How do you use that?
-<0117> Okay!
-<0118> That's nice!
-<0119> Maynie got it!
-<0120> No.
-<0121> Maynie's about to get ticked off.
-<0122> You're in luck!
-<0123> What is that...? Just what is it...?
-<0124> Let's go!
-<0125> Maynie's going to do her best!
-<0126> Go, go!
-<0127> Hi there!
-<0128> Uh... What...?
-<0129> Amazing!
-<0130> Whoa! That's so amazing! Impressive!
-<0131> You... little...!
-<0132> Can Maynie use this?
-<0133> Maynie's going to use this!
-<0134> Isn't this card...
-<0135> Time to play a super special card!
-<0136> Lady Arnelle! Could you play with Maynie?!
-<0137> Lady Arnelle... Well... Um...
-<0138> Maynie just thought, she hasn't played with you lately...
-<0139> Lady Arnelle~ *nuzzle nuzzle*
-<0140> Alright! Lady Arnelle wants to play with Maynie!
-<0141> Yes! Maynie will fight with all she's got!
-<0142> I-is this punishment for Maynie...?
-<0143> Yes! Maynie can't wait!
-<0144> Maynie's a little annoyed.
-<0145> Aaaaah... Maynie's a little more irritated than before.
-<0146> *Pant pant* People should stop ticking Maynie off...
-<0147> Aaaaah! What the heck! Geez!! Geez!!
-<0148> This is what you get when you tick Maynie off.
-<0149> Huh? What was Maynie doing? Are you okay?
-<0150> Ahahaha! Serves you right!
-<0151> What are you doing lying down already? Maynie suffered much more.
-<0152> Oh... Maynie's feeling better now.
-<0153> Phew... Maynie's exhausted.
-<0154> Oh my goodness, Maynie's target's down now.
-<0155> Maynie was going to crush her target herself... Oh well, she feels refreshed.
+<0117> Let's swap places!
+<0118> Maynie needs a little break.
+<0119> *Yawn* Maynie is going to go take a nap.
+<0120> Would you mind taking over?
+<0121> Okay!
+<0122> That's nice!
+<0123> Maynie got it!
+<0124> No.
+<0125> Maynie's about to get ticked off.
+<0126> You're in luck!
+<0127> What is that...? Just what is it...?
+<0128> Let's go!
+<0129> Maynie's going to do her best!
+<0130> Go, go!
+<0131> Hi there!
+<0132> Uh... What...?
+<0133> Amazing!
+<0134> Whoa! That's so amazing! Impressive!
+<0135> You... little...!
+<0136> Can Maynie use this?
+<0137> Maynie's going to use this!
+<0138> Isn't this card...
+<0139> Time to play a super special card!
+<0140> Lady Arnelle! Could you play with Maynie?!
+<0141> Lady Arnelle... Well... Um...
+<0142> Maynie just thought, she hasn't played with you lately...
+<0143> Lady Arnelle~ *nuzzle nuzzle*
+<0144> Alright! Lady Arnelle wants to play with Maynie!
+<0145> Yes! Maynie will fight with all she's got!
+<0146> I-is this punishment for Maynie...?
+<0147> Yes! Maynie can't wait!
+<0148> Maynie's a little annoyed.
+<0149> Aaaaah... Maynie's a little more irritated than before.
+<0150> *Pant pant* People should stop ticking Maynie off...
+<0151> Aaaaah! What the heck! Geez!! Geez!!
+<0152> This is what you get when you tick Maynie off.
+<0153> Huh? What was Maynie doing? Are you okay?
+<0154> Ahahaha! Serves you right!
+<0155> What are you doing lying down already? Maynie suffered much more.
+<0156> Oh... Maynie's feeling better now.
+<0157> Phew... Maynie's exhausted.
+<0158> Oh my goodness, Maynie's target's down now.
+<0159> Maynie was going to crush her target herself... Oh well, she feels refreshed.

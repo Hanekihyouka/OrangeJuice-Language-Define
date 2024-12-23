@@ -115,42 +115,46 @@
 <0114> Fufufu, what prank can we play with that, I wonder.
 <0115> Nice, it's a new item!
 <0116> We should go try this new thing now!
-<0117> Okay.
-<0118> Neato.
-<0119> Alright.
-<0120> Nope.
-<0121> Hmm.
-<0122> You got lucky.
-<0123> Huh?
-<0124> Here we go.
-<0125> Roll the dice!
-<0126> Go!
-<0127> Yo!
-<0128> Mhm...
-<0129> Great.
-<0130> Awesome!
-<0131> What the heck!
-<0132> I'll make someone else's power mine!
-<0133> Wow! I don't know whose this is, but I'll play it anyway!
-<0134> No idea what this card does, but I'm desperate!
-<0135> I can even handle my opponent's power!
-<0136> Mimyuu, I'm here to play with you.
-<0137> What, Mimyuu? I'm busy now.
-<0138> I'm proud of you, Mimyuu. You're getting stronger and stronger.
-<0139> Was it fun, Mimyuu?
-<0140> Mimyuu's gizmo just went off!
-<0141> You underestimated Mimyuu for being short, didn't you?
-<0142> Heh, I'm glad you're on my side... Mimyuu.
-<0143> Do it now, Mimyuu!
-<0144> Boss, let's play together!
-<0145> Boss...!? Are you going to test us?
-<0146> We've finally surpassed Boss...
-<0147> Boss is strong...
-<0148> I can tell he's a bad guy!
-<0149> Whoa, he looks scary!
-<0150> He looked scary, but it was just the surface.
-<0151> So, he's the true bad guy...
-<0152> I really feel sorry for those penguins!
-<0153> You... You're the one who's always bullying the penguins!
-<0154> Now you've learned your lesson. No more bullying!
-<0155> Damn it... I'm sorry, penguins...
+<0117> Switch with me!
+<0118> Switch!
+<0119> I believe in you!
+<0120> We're going to change places!
+<0121> Okay.
+<0122> Neato.
+<0123> Alright.
+<0124> Nope.
+<0125> Hmm.
+<0126> You got lucky.
+<0127> Huh?
+<0128> Here we go.
+<0129> Roll the dice!
+<0130> Go!
+<0131> Yo!
+<0132> Mhm...
+<0133> Great.
+<0134> Awesome!
+<0135> What the heck!
+<0136> I'll make someone else's power mine!
+<0137> Wow! I don't know whose this is, but I'll play it anyway!
+<0138> No idea what this card does, but I'm desperate!
+<0139> I can even handle my opponent's power!
+<0140> Mimyuu, I'm here to play with you.
+<0141> What, Mimyuu? I'm busy now.
+<0142> I'm proud of you, Mimyuu. You're getting stronger and stronger.
+<0143> Was it fun, Mimyuu?
+<0144> Mimyuu's gizmo just went off!
+<0145> You underestimated Mimyuu for being short, didn't you?
+<0146> Heh, I'm glad you're on my side... Mimyuu.
+<0147> Do it now, Mimyuu!
+<0148> Boss, let's play together!
+<0149> Boss...!? Are you going to test us?
+<0150> We've finally surpassed Boss...
+<0151> Boss is strong...
+<0152> I can tell he's a bad guy!
+<0153> Whoa, he looks scary!
+<0154> He looked scary, but it was just the surface.
+<0155> So, he's the true bad guy...
+<0156> I really feel sorry for those penguins!
+<0157> You... You're the one who's always bullying the penguins!
+<0158> Now you've learned your lesson. No more bullying!
+<0159> Damn it... I'm sorry, penguins...

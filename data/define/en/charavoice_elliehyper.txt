@@ -2,17 +2,17 @@
 <0001> Oryah!
 <0002> Yah!
 <0003> Here goes!
-<0004> I guess I'll use this one ♡
-<0005> I'll go nuts  ♡
-<0006> No holding back ♡
-<0007> Let me make things a bit more chaotic ♡
+<0004> I guess I'll use this one ♥ 
+<0005> I'll go nuts  ♥ 
+<0006> No holding back ♥ 
+<0007> Let me make things a bit more chaotic ♥ 
 <0008> *Chuckle* This is so much fun.
 <0009> Nobody might even notice this is here.
 <0010> Who'll get caught in this one? Can't wait to find out.
 <0011> Heheh, I'm such a trap genius.
-<0012> I'm getting way stronger ♡
-<0013> When I'm like this, I'm unstoppable ♡
-<0014> I'll give it my 110% ♡
+<0012> I'm getting way stronger ♥ 
+<0013> When I'm like this, I'm unstoppable ♥ 
+<0014> I'll give it my 110% ♥ 
 <0015> I'm invincible!
 <0016> Nobody can stop me!!
 <0017> I'm nowhere near being done for!
@@ -31,7 +31,7 @@
 <0030> That hurts so bad!
 <0031> Knock it off!
 <0032> Ugh...
-<0033> I'm getting so much better ♡
+<0033> I'm getting so much better ♥ 
 <0034> Ahaa! This feels so good!
 <0035> I've never been better.
 <0036> Now I can keep going! Ahaa!
@@ -45,7 +45,7 @@
 <0044> Crap! Dang it!
 <0045> I'm a runaway train right now!
 <0046> Ahaa, it's super awesome that you're strong...
-<0047> Ahaa ♡ You'd better say your prayers!
+<0047> Ahaa ♥  You'd better say your prayers!
 <0048> Uhehe, I found someone to play with.
 <0049> Get your butt out of my way!
 <0050> You can't stop me!
@@ -76,7 +76,7 @@
 <0075> I can't believe this.
 <0076> Ugh... This is the worst thing ever.
 <0077> Yahoo! I'm so happy!
-<0078> This is the best thing ever ♡
+<0078> This is the best thing ever ♥ 
 <0079> Aren't I the luckiest girl in the whole world?
 <0080> Ahaa, I like stars so much!
 <0081> Wait, wait, no way, no way nowaaay!
@@ -99,7 +99,7 @@
 <0098> Ahaa! I'm bursting with power!
 <0099> Time to hunt! Ahaaaa!!!!
 <0100> No one stands in my way! It's my time!
-<0101> You and me? Hmm... Sure ♡
+<0101> You and me? Hmm... Sure ♥ 
 <0102> I feel like playing so much right now.
 <0103> Ahaa! Let's have some fun out there!
 <0104> Ukukuku, I don't think I can hold myself back anymore!
@@ -107,44 +107,56 @@
 <0106> I'll go beat all of you!
 <0107> I'm gonna show you all how great I am!
 <0108> Ahaa! I'll go crazier than I have ever been!
-<0109> *Sigh*... That felt so good ♡
-<0110> Losing was never an option ♡
+<0109> *Sigh*... That felt so good ♥ 
+<0110> Losing was never an option ♥ 
 <0111> Ahaa... Nothing beats the joy of coming out on top...
 <0112> Ufufu, I had a real super good time.
 <0113> What's that?
 <0114> Wow, that looks great.
 <0115> What'd you get there? Ooh!
 <0116> You got lucky because of me. You owe me some respect!
-<0117> Okay ♡
-<0118> Ahaa, that's nice.
-<0119> Sure ♡
-<0120> No ♡
-<0121> Uh... Why...?
-<0122> You got lucky because of me. Heh!
-<0123> Oh eh?
-<0124> Let's go! Ahaa!
-<0125> Let's roll!
-<0126> Go ♡ Go ♡
-<0127> Yahoo.
-<0128> Hmmmm...
-<0129> Amazing ♡
-<0130> Awesomely awesome!
-<0131> Gunyuuuu.
-<0132> With or without this card, I'm invincible...
-<0133> What is this? I don't know either!
-<0134> *Chuckle* Something fun is on its way.
-<0135> I can't wait to see what'll happen ♡
-<0136> Thank you!
-<0137> Lulu! Let's have a blast ♡
-<0138> Lulu, you wanna play with me? Sure.
-<0139> That was so much fun, Lulu ♡
-<0140> Ahaa, it's super awesome how strong you are...
-<0141> So it's you, Papa...
-<0142> Annoying!
-<0143> Geez, leave me alone.
-<0144> You stupid old man!
-<0145> Mama, you have to play with me!
-<0146> Mama, are you gonna play with me?
-<0147> Mama, thanks for playing with me ♡
-<0148> Mama's incredibly strong ♡
-<0149> Are you guys ready to fight?
+<0117> I'll let you have your turn to shine out there.
+<0118> It'd be unfair if I was the only one always standing out.
+<0119> I guess it's about time...
+<0120> Sure, you can take my place now ♥ 
+<0121> Okay ♥ 
+<0122> Ahaa, that's nice.
+<0123> Sure ♥ 
+<0124> No ♥ 
+<0125> Uh... Why...?
+<0126> You got lucky because of me. Heh!
+<0127> Oh eh?
+<0128> Let's go! Ahaa!
+<0129> Let's roll!
+<0130> Go ♥  Go ♥ 
+<0131> Yahoo.
+<0132> Hmmmm...
+<0133> Amazing ♥ 
+<0134> Awesomely awesome!
+<0135> Gunyuuuu.
+<0136> With or without this card, I'm invincible...
+<0137> What is this? I don't know either!
+<0138> *Chuckle* Something fun is on its way.
+<0139> I can't wait to see what'll happen ♥ 
+<0140> Thank you!
+<0141> Lulu! Let's have a blast ♥ 
+<0142> Lulu, you wanna play with me? Sure.
+<0143> That was so much fun, Lulu ♥ 
+<0144> Ahaa, it's super awesome how strong you are...
+<0145> With Lulu, I'm stronger than the strongest.
+<0146> Lulu, we'll be together forever, same as always.
+<0147> Lulu's the best! And I'm the best too!
+<0148> Ahaa, let's go have some fun, Lulu ♥ 
+<0149> So it's you, Papa...
+<0150> Annoying!
+<0151> Geez, leave me alone.
+<0152> You stupid old man!
+<0153> Mama, you have to play with me!
+<0154> Mama, are you gonna play with me?
+<0155> Mama, thanks for playing with me ♥ 
+<0156> Mama's incredibly strong ♥ 
+<0157> Mama, we can do this together ♥ 
+<0158> Whee, I'm with you, Mama.
+<0159> Me and Mama are gonna have a blast.
+<0160> Mama... Can I hold your hand?
+<0161> Are you guys ready to fight?

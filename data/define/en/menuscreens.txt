@@ -119,6 +119,9 @@ X-mas
 < MENU_BUTTON_LOBBYLIST_BOUNTYHUNTER >
 Bounty Hunt
 
+< MENU_BUTTON_LOBBYLIST_TAGTEAM >
+Tag Team
+
 < MENU_BUTTON_LOBBYLIST_MASTERANGLERS >
 Fish-a-Fish
 
@@ -246,6 +249,9 @@ BOUNTY
 
 < MENU_GAME_MIMYUUJ_HYPER_BREAKOUT >
 Break Out!
+
+< MENU_BUTTON_GAME_TAG >
+TAG
 
 < PLAYMENU_FREEBATTLE >
 ONLINE
@@ -975,6 +981,45 @@ The final battle awaits! Defeat Mio in the Extra Mission "Divine Punishment"!
 < PLAYMENU_EVENT_WINTER2023_INSTRUCTION_COMPLETE >
 You have overcome the bad ending laid out by the god of the world! An endless journey lies ahead! You may continue on to collect more rewards.
 
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_MAIN >
+Duke it out over a delicious meal at Family Restaurant Pures! Regular customers earn loyalty rewards!
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_01 >
+For the duration of this event, players will be able to play a new game mode: Tag Team!
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_02 >
+You can get a stamp on your Family Restaurant Pures Loyalty Card by playing a game of Tag Team, or 2 games in other game modes! 
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_03 >
+In Tag Team, you'll be able to choose an additional character as a Partner to accompany you in games.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_04 >
+You can choose to Tag on your turn to switch places between the characters you have selected. The Leader character will then exchange places with your Partner!
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_05 >
+Once you Tag, you won't be able to do so again for 3 chapters. Decide carefully before using it!
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_06 >
+If the Leader ends up getting KO'd, they'll be forced to Tag if their Partner is not KO'd as well. This will put the Tag action on cooldown, so be careful out there!
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_07 >
+Your Partner will recover HP automatically after a certain amount of chapters pass. If they are KO'd, they will recover after an amount of turns equal to their REC stat passes.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_08 >
+Hovering over your Partner's portrait will show when the next occurrence of their recovery will be.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_09 >
+Any card effects your partner currently has will not have their duration decreased.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_10 >
+If your partner has any unit effects that would affect the game, their effects will NOT be active unless they return back onto the field.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_11 >
+Effects that apply to self after recovering from KO will still apply to your partner once KO recovery takes place.
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_12 >
+Plan out your best tag team and become the local 100% Orange Juice champion!
+
 < PLAYMENU_EVENT_NEXT_GOAL >
 Next goal:
 
@@ -1071,6 +1116,18 @@ FREE THIS WEEK
 
 < MENU_WEEKLY_FREE_TOOLTIP >
 You may play using these 2 DLC or bonus characters for free this week.\nAnnouncer voices for them can also be used.
+
+< MENU_MODMENU_DETAIL_1 >
+Description
+
+< MENU_MODMENU_DETAIL_2 >
+Changelog
+
+< MENU_MODMENU_DETAIL_3 >
+Modified Files
+
+< MENU_VISIT_STEAM_WORKSHOP >
+Visit the Steam Workshop
 
 < MENU_WORKSHOP_THUMBNAIL_REQUIRED >
 A custom thumbnail is required for publishing your mod.\n\nRefer to the modding documentation for more information.
@@ -1221,5 +1278,8 @@ Hide UI
 
 < MENU_SHOW_UI >
 Show UI
+
+< MENU_CARDBACK_UNLOCK >
+New card back unlocked!
 
 [EOF]

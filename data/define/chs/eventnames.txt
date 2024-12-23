@@ -28,4 +28,7 @@
 < EVENTNAME_CHAOS_MODE >
 混沌模式
 
+< EVENTNAME_S3_TAGTEAM_MODE >
+青春多忧愁
+
 [EOF]

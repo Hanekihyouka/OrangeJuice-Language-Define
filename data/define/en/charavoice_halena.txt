@@ -115,42 +115,46 @@
 <0114> Take a look, I recommend this thing.
 <0115> Oh, how do you like this one?
 <0116> I like that one.
-<0117> OK!
-<0118> That's a good call.
-<0119> I got this.
-<0120> Let's not.
-<0121> Hmm.
-<0122> Nice work.
-<0123> Hmm?
-<0124> Alright, let's get going!
-<0125> Here we go!
-<0126> I'm rooting for you.
-<0127> Hi there.
-<0128> Hm... Hmm.
-<0129> Great!
-<0130> I'm impressed.
-<0131> Uh-oh.
-<0132> I usually avoid using things I'm not too familiar with, but...
-<0133> Well, I guess I'll give it a shot.
-<0134> Why don't I try using this?
-<0135> Let's see what will happen.
-<0136> Cook! You're pulling a prank again?
-<0137> Are you in a bad mood, Cook?
-<0138> Geez, you have to behave, okay?
-<0139> You're hurting me. I already said you win!
-<0140> Hmm, I've got a sense of danger.
-<0141> I don't think it's safe there.
-<0142> There's a trap here!
-<0143> That was a close call!
-<0144> Whoooa!
-<0145> Almost got us. Phew.
-<0146> That would've been dangerous if it weren't for me.
-<0147> No use.
-<0148> Got to keep a tight grip on them.
-<0149> The stars will stay in my pockets...!
-<0150> Dropping your wallet isn't even funny.
-<0151> Ooh, we didn't drop anything!
-<0152> We arrived safely.
-<0153> We're at the destination!
-<0154> This is where you wanted to go, right?
-<0155> We're here. Yay!
+<0117> You got this.
+<0118> Knowing your limit is a good thing.
+<0119> Right person, right place, right time.
+<0120> Let's switch.
+<0121> OK!
+<0122> That's a good call.
+<0123> I got this.
+<0124> Let's not.
+<0125> Hmm.
+<0126> Nice work.
+<0127> Hmm?
+<0128> Alright, let's get going!
+<0129> Here we go!
+<0130> I'm rooting for you.
+<0131> Hi there.
+<0132> Hm... Hmm.
+<0133> Great!
+<0134> I'm impressed.
+<0135> Uh-oh.
+<0136> I usually avoid using things I'm not too familiar with, but...
+<0137> Well, I guess I'll give it a shot.
+<0138> Why don't I try using this?
+<0139> Let's see what will happen.
+<0140> Cook! You're pulling a prank again?
+<0141> Are you in a bad mood, Cook?
+<0142> Geez, you have to behave, okay?
+<0143> You're hurting me. I already said you win!
+<0144> Hmm, I've got a sense of danger.
+<0145> I don't think it's safe there.
+<0146> There's a trap here!
+<0147> That was a close call!
+<0148> Whoooa!
+<0149> Almost got us. Phew.
+<0150> That would've been dangerous if it weren't for me.
+<0151> No use.
+<0152> Got to keep a tight grip on them.
+<0153> The stars will stay in my pockets...!
+<0154> Dropping your wallet isn't even funny.
+<0155> Ooh, we didn't drop anything!
+<0156> We arrived safely.
+<0157> We're at the destination!
+<0158> This is where you wanted to go, right?
+<0159> We're here. Yay!

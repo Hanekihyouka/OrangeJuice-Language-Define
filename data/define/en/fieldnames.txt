@@ -119,6 +119,9 @@ Circus
 < FIELD_VOID >
 The Void
 
+< FIELD_PURES >
+Pures Stamp Rally
+
 < FIELD_COOP_LAGOONFLIGHT >
 Lagoon Flight CO
 

@@ -746,7 +746,7 @@ flavor="I'll show you my strongest power ♡" ―Hyper Ellie
 
 < CARD_HYPER_HKAI >
 name=Ex-Protagonist's Moment of Glory
-descr=★Cost: Lvl x10. Lower your HP to 1. Effect Duration: 3 chapters. Gain +4 ATK and +5 EVD.
+descr=★Cost: Lvl x7. Lower your HP to 1. Effect Duration: 3 chapters. Gain +2 ATK and +5 EVD.
 flavor="You can't make an adult go overboard." ―Hero Kai
 
 < CARD_HYPER_GRAIN >

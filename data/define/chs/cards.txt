@@ -280,8 +280,8 @@ descr=HP降至1。\n获得等同于失去的HP点数的涡轮满载层数。\n�
 flavor=「轰轰轰！」—希夫机器人
 
 < CARD_HYPER_CASTLE >
-name=不动之物体
-descr=持续效果（2轮）\n无法移动。DEF+2。可以反击。\n敌人移动到你所在的格子时，\n必须与你战斗。
+name=不动之物
+descr=持续效果（2轮）\n存在此效果时跳过你的回合。\n无法传送。\nDEF+2。\n敌人移动到你所在的格子时，\n必须与你战斗。
 flavor=「我要用这份力量，\n掌握整片天空。」—公会会长
 
 < CARD_HYPER_CHICKEN >

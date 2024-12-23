@@ -115,44 +115,48 @@
 <0114> Didn't you buy the same thing before... What? It's not the same?
 <0115> Look how happy you look... like a little child.
 <0116> Mother's glad for you.
-<0117> Pokay.
-<0118> Good.
-<0119> Yes.
-<0120> No.
-<0121> Poh dear...
-<0122> You're very fortunate.
-<0123> Mother's a bit flustered.
-<0124> Let's po.
-<0125> Poh!
-<0126> Mother's rooting for you.
-<0127> How do you do?
-<0128> Popopo?
-<0129> Well done.
-<0130> Let Mother praise you.
-<0131> Hmpoh!
-<0132> Using someone else's card is also a good strategy.
-<0133> Mother borrowed a Hyper card.
-<0134> It'd be rude if Mother used this power of someone else thoughtlessly.
-<0135> Mother'll thankfully play this card.
-<0136> Thank you.
-<0137> Mother's love turns even violence to stars.
-<0138> Poh boy, you're such a naughty child.
-<0139> You being so full of energy makes Mother happy.
-<0140> This is very heartwarming.
-<0141> You all have given Mother so much energy.
-<0142> Fufufu, nothing's better than being peppy.
-<0143> Boy, the power of love has healed Mother.
-<0144> Mother's happy, surrounded by lively kids.
-<0145> You must lose something to gain something...
-<0146> *Pant pant*... Mother's too old for this.
-<0147> Warps were easier for Mother when she was a little girl... They're a bit tough now.
-<0148> M-Mother's legs are shaking.
-<0149> This is a waste of resources...
-<0150> Don't wanna do this... but...
-<0151> Ugh... Can't hold any more cards.
-<0152> Even Mother's love can't help out with this.
-<0153> Mother's gonna see... how strong her daughter is.
-<0154> Fufufu, let's play.
-<0155> Mother's so happy to see you're doing great.
-<0156> A child surpassing their parent... Mother's delighted.
-<0157> This card takes Mother back.
+<0117> Take over for Mother, now.
+<0118> Now we're gonna switch.
+<0119> Change places with Mother now.
+<0120> Help Mother out, okay?
+<0121> Pokay.
+<0122> Good.
+<0123> Yes.
+<0124> No.
+<0125> Poh dear...
+<0126> You're very fortunate.
+<0127> Mother's a bit flustered.
+<0128> Let's po.
+<0129> Poh!
+<0130> Mother's rooting for you.
+<0131> How do you do?
+<0132> Popopo?
+<0133> Well done.
+<0134> Let Mother praise you.
+<0135> Hmpoh!
+<0136> Using someone else's card is also a good strategy.
+<0137> Mother borrowed a Hyper card.
+<0138> It'd be rude if Mother used this power of someone else thoughtlessly.
+<0139> Mother'll thankfully play this card.
+<0140> Thank you.
+<0141> Mother's love turns even violence to stars.
+<0142> Poh boy, you're such a naughty child.
+<0143> You being so full of energy makes Mother happy.
+<0144> This is very heartwarming.
+<0145> You all have given Mother so much energy.
+<0146> Fufufu, nothing's better than being peppy.
+<0147> Boy, the power of love has healed Mother.
+<0148> Mother's happy, surrounded by lively kids.
+<0149> You must lose something to gain something...
+<0150> *Pant pant*... Mother's too old for this.
+<0151> Warps were easier for Mother when she was a little girl... They're a bit tough now.
+<0152> M-Mother's legs are shaking.
+<0153> This is a waste of resources...
+<0154> Don't wanna do this... but...
+<0155> Ugh... Can't hold any more cards.
+<0156> Even Mother's love can't help out with this.
+<0157> Mother's gonna see... how strong her daughter is.
+<0158> Fufufu, let's play.
+<0159> Mother's so happy to see you're doing great.
+<0160> A child surpassing their parent... Mother's delighted.
+<0161> This card takes Mother back.

@@ -111,47 +111,51 @@
 <0110> Let me just burn tha-... I can't?
 <0111> You look rather happy...
 <0112> Fufu♪
-<0113> Good.
-<0114> Fantastic...!
-<0115> Sure.
-<0116> No... This is not happening.
-<0117> Uuuuu...!
-<0118> Ufufufu.
-<0119> Huh?
-<0120> Let's move on.
-<0121> There.
-<0122> Let's go.
-<0123> Hello.
-<0124> Mhm.
-<0125> I like that! I like it so much!
-<0126> That's the best.
-<0127> Are you just acting stupid?
-<0128> Kaboom!
-<0129> Can this be of any help?
-<0130> Ahahahaha!
-<0131> Okay, I'll use this!
-<0132> Thanks, ahahahahaha!
-<0133> I must defeat you to stay myself.
-<0134> The ultimate weapon...
-<0135> Fufufu... Ahaha! I did it! I defeated her!
-<0136> I couldn't afford to lose to you...
-<0137> You look ugly. Let me eliminate you.
-<0138> Fufufu, I'll tear your body apart even more.
-<0139> You tried hard, but it was of no use.
-<0140> I-I got defeated by a thing like that...
-<0141> Kaboom! Ahaha.
-<0142> Fufu, what a pretty sight.
-<0143> Oh, who launched that firework?
-<0144> Someone just got blown off to pieces.
-<0145> I don't need this many of these.
-<0146> What if I really burn these stars?
-<0147> These stars are nothing but a burden.
-<0148> *sigh* What I want is war, not these stupid things.
-<0149> I got defeated in a war... That makes me unnecessary!
-<0150> I had to win... I must always win!
-<0151> No way... Why do I even exist?
-<0152> Defeat makes my life meaningless... Uuuuu...!
-<0153> Ew, the same face as mine. Gross.
-<0154> Are you a clone of me?
-<0155> Ahahaha, she can't be me. Awfully weak.
-<0156> What's with you, jerk!
+<0113> I'll give you your time to shine.
+<0114> Switching?
+<0115> Fufu, ahaha.
+<0116> Okay, we'll switch.
+<0117> Good.
+<0118> Fantastic...!
+<0119> Sure.
+<0120> No... This is not happening.
+<0121> Uuuuu...!
+<0122> Ufufufu.
+<0123> Huh?
+<0124> Let's move on.
+<0125> There.
+<0126> Let's go.
+<0127> Hello.
+<0128> Mhm.
+<0129> I like that! I like it so much!
+<0130> That's the best.
+<0131> Are you just acting stupid?
+<0132> Kaboom!
+<0133> Can this be of any help?
+<0134> Ahahahaha!
+<0135> Okay, I'll use this!
+<0136> Thanks, ahahahahaha!
+<0137> I must defeat you to stay myself.
+<0138> The ultimate weapon...
+<0139> Fufufu... Ahaha! I did it! I defeated her!
+<0140> I couldn't afford to lose to you...
+<0141> You look ugly. Let me eliminate you.
+<0142> Fufufu, I'll tear your body apart even more.
+<0143> You tried hard, but it was of no use.
+<0144> I-I got defeated by a thing like that...
+<0145> Kaboom! Ahaha.
+<0146> Fufu, what a pretty sight.
+<0147> Oh, who launched that firework?
+<0148> Someone just got blown off to pieces.
+<0149> I don't need this many of these.
+<0150> What if I really burn these stars?
+<0151> These stars are nothing but a burden.
+<0152> *sigh* What I want is war, not these stupid things.
+<0153> I got defeated in a war... That makes me unnecessary!
+<0154> I had to win... I must always win!
+<0155> No way... Why do I even exist?
+<0156> Defeat makes my life meaningless... Uuuuu...!
+<0157> Ew, the same face as mine. Gross.
+<0158> Are you a clone of me?
+<0159> Ahahaha, she can't be me. Awfully weak.
+<0160> What's with you, jerk!

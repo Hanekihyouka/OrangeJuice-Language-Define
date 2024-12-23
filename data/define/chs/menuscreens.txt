@@ -119,6 +119,9 @@
 < MENU_BUTTON_LOBBYLIST_BOUNTYHUNTER >
 赏金猎人
 
+< MENU_BUTTON_LOBBYLIST_TAGTEAM >
+搭档
+
 < MENU_BUTTON_LOBBYLIST_MASTERANGLERS >
 捉鱼
 
@@ -246,6 +249,9 @@
 
 < MENU_GAME_MIMYUUJ_HYPER_BREAKOUT >
 越狱！
+
+< MENU_BUTTON_GAME_TAG >
+换人
 
 < PLAYMENU_FREEBATTLE >
 在线游戏
@@ -972,6 +978,45 @@ QP还想多玩一会！夏日野兽复活了！
 < PLAYMENU_EVENT_WINTER2023_INSTRUCTION_COMPLETE >
 你成功打破了神明设下的坏结局！\n前方还有着无尽的旅程！你可以继续前进收集\n更多奖励。
 
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_MAIN >
+在家庭餐厅纯洁中为美食而夺取胜利吧！\n持续光顾即可获得集章奖励！
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_01 >
+在此活动期间，你将能够体验到一种\n全新的游戏模式：搭档模式！
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_02 >
+只需进行1场搭档模式或2场其它模式的游戏，\n即可在家庭餐厅纯洁的集章卡中盖上一枚印章！
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_03 >
+在搭档模式中，你可以额外选择一名角色作为\n搭档。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_04 >
+在你的回合中，你可以使用换人按钮将两名角色\n在领队与搭档位置间交换。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_05 >
+每次进行交换后，在3轮内时间将无法再次进行\n交换，一定要三思而后行！
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_06 >
+一旦当前领队被击倒，存活的搭档将会被强制\n切换至场上。此类交换同样会使换人进入\n冷却状态，请多加注意！
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_07 >
+每经过一定轮数，搭档角色将自动恢复HP。\n若搭档已被击倒，在经过等同于REC的轮数后\n搭档将自动复活。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_08 >
+悬停在搭档头像上时，可以看到他们距离\n下次恢复或复活的剩余时间。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_09 >
+处于搭档位置的角色所携带的储备效果不会消耗\n持续时间。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_10 >
+搭档所具有的会对游戏产生影响的角色效果，\n在他们重返场地前不会起效。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_11 >
+搭档所具有的在复活时对自身起效的效果\n依然有效。
+
+< PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_12 >
+打造你的最强小队，成为本地100%鲜橙汁\n比赛冠军吧！
+
 < PLAYMENU_EVENT_NEXT_GOAL >
 下一个目标：
 
@@ -1068,6 +1113,18 @@ HYPER
 
 < MENU_WEEKLY_FREE_TOOLTIP >
 本周你可以免费使用这两名DLC/奖励角色。\n同时播音员语音也可免费使用。
+
+< MENU_MODMENU_DETAIL_1 >
+描述
+
+< MENU_MODMENU_DETAIL_2 >
+更新日志
+
+< MENU_MODMENU_DETAIL_3 >
+影响文件
+
+< MENU_VISIT_STEAM_WORKSHOP >
+在创意工坊中浏览
 
 < MENU_WORKSHOP_THUMBNAIL_REQUIRED >
 需要拥有缩略图才能发布MOD。\n\n更多信息请检查MOD制作参考文档。
@@ -1218,5 +1275,8 @@ CPU自定义
 
 < MENU_SHOW_UI >
 显示界面
+
+< MENU_CARDBACK_UNLOCK >
+已解锁新卡背！
 
 [EOF]

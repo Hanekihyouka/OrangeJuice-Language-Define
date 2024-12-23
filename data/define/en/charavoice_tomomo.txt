@@ -116,50 +116,54 @@
 <0114> It's a new Magical Item!
 <0115> Great, I got some nice stuff.
 <0116> My luck brought this to me!
-<0117> Okay.
-<0118> Good, very good.
-<0119> Yeah!
-<0120> No!
-<0121> Dang!
-<0122> Good job!
-<0123> Hmm?
-<0124> Let's go!
-<0125> Time to roll the dice!
-<0126> Go!
-<0127> Yahoo!
-<0128> Umm?
-<0129> You're good!
-<0130> That was superb!
-<0131> Seriously...
-<0132> I'm using this hyper!
-<0133> This is mine now!
-<0134> Let's see what this does!
-<0135> I'm gonna borrow your power!
-<0136> Thaaanks.
-<0137> Holy crap, it's the crazy girl...
-<0138> Boy, she's kinda scaring the hell out of me!
-<0139> Phew... I broke a cold sweat...
-<0140> Ugh, please don't go way too far...
-<0141> A battle between two Sweet Gods! I won't lose!
-<0142> This is going to be divine!
-<0143> Sweet Eater's the winner!
-<0144> As a god, your position's better than mine, after all...
-<0145> Sweet Maker, we'll fight, you and I!
-<0146> Something smells super sweet... Is that you, Sweet Maker?!
-<0147> Fufufu, I win. You're going to make pudding for me later!
-<0148> Fuaah... Fighting you makes me so hungry...
-<0149> Show me your power to protect!
-<0150> You turned into Sweet Guardian, Q-chan!
-<0151> Q-chan, is that all you've got?
-<0152> You only just became a god. You still have a long way to go.
-<0153> Wow, she's too stunning! I kinda want that to be me...
-<0154> This is my super all-out mode!
-<0155> Poppo, out of my way!
-<0156> Can't believe you're rebelling against me, Poppo...
-<0157> Don't you ever think about rebelling again, okay?
-<0158> Against Poppo... this can't be true...
-<0159> Poppo...?
-<0160> You bastard! Say your prayers!
-<0161> Ugh, here comes big trouble...!
-<0162> Phew, how dare you give me a hard time!
-<0163> She's the last person I want to beat me...
+<0117> Alright, time to switch!
+<0118> You take over from here, okay?
+<0119> It's all yours now.
+<0120> Good luck out there!
+<0121> Okay.
+<0122> Good, very good.
+<0123> Yeah!
+<0124> No!
+<0125> Dang!
+<0126> Good job!
+<0127> Hmm?
+<0128> Let's go!
+<0129> Time to roll the dice!
+<0130> Go!
+<0131> Yahoo!
+<0132> Umm?
+<0133> You're good!
+<0134> That was superb!
+<0135> Seriously...
+<0136> I'm using this hyper!
+<0137> This is mine now!
+<0138> Let's see what this does!
+<0139> I'm gonna borrow your power!
+<0140> Thaaanks.
+<0141> Holy crap, it's the crazy girl...
+<0142> Boy, she's kinda scaring the hell out of me!
+<0143> Phew... I broke a cold sweat...
+<0144> Ugh, please don't go way too far...
+<0145> A battle between two Sweet Gods! I won't lose!
+<0146> This is going to be divine!
+<0147> Sweet Eater's the winner!
+<0148> As a god, your position's better than mine, after all...
+<0149> Sweet Maker, we'll fight, you and I!
+<0150> Something smells super sweet... Is that you, Sweet Maker?!
+<0151> Fufufu, I win. You're going to make pudding for me later!
+<0152> Fuaah... Fighting you makes me so hungry...
+<0153> Show me your power to protect!
+<0154> You turned into Sweet Guardian, Q-chan!
+<0155> Q-chan, is that all you've got?
+<0156> You only just became a god. You still have a long way to go.
+<0157> Wow, she's too stunning! I kinda want that to be me...
+<0158> This is my super all-out mode!
+<0159> Poppo, out of my way!
+<0160> Can't believe you're rebelling against me, Poppo...
+<0161> Don't you ever think about rebelling again, okay?
+<0162> Against Poppo... this can't be true...
+<0163> Poppo...?
+<0164> You bastard! Say your prayers!
+<0165> Ugh, here comes big trouble...!
+<0166> Phew, how dare you give me a hard time!
+<0167> She's the last person I want to beat me...

@@ -115,42 +115,46 @@
 <0114> Never seen this one.
 <0115> We got something new.
 <0116> Looks like we didn't have that yet.
-<0117> Okay.
-<0118> Not bad.
-<0119> Sure.
-<0120> Nope.
-<0121> No.
-<0122> Whoa.
-<0123> Huh?
-<0124> Guess it's time to go...
-<0125> Here goes.
-<0126> Let's go.
-<0127> Yo.
-<0128> Oh, man.
-<0129> Nice.
-<0130> Awesome.
-<0131> Huh!
-<0132> How's this even possible!?
-<0133> Guess using this is better than losing.
-<0134> Don't say this isn't fair.
-<0135> It's okay to use this, right?
-<0136> Bring it. I'm not going easy on you.
-<0137> You're going down.
-<0138> Don't bother her too much, okay?
-<0139> I've wanted to fight you once.
-<0140> Amuse me.
-<0141> This'll make me look like a bully, won't it?
-<0142> I'll straighten you up.
-<0143> I'll destroy you to make my way forward.
-<0144> No more trouble between us, okay?
-<0145> Nothing's more ridiculous than this.
-<0146> Get any closer and you'll regret it.
-<0147> Great, how much is that worth?
-<0148> Cuz I can't stand draws.
-<0149> I don't remember getting equipped with this.
-<0150> I don't need any trouble.
-<0151> I don't want to be like her... but I feel like doing this now.
-<0152> Please don't hit me.
-<0153> Hope this doesn't jinx me.
-<0154> No hard feelings.
-<0155> Man, what an easy game.
+<0117> Time to switch.
+<0118> ...Alright, you got this.
+<0119> I'll go get some rest.
+<0120> It's your turn.
+<0121> Okay.
+<0122> Not bad.
+<0123> Sure.
+<0124> Nope.
+<0125> No.
+<0126> Whoa.
+<0127> Huh?
+<0128> Guess it's time to go...
+<0129> Here goes.
+<0130> Let's go.
+<0131> Yo.
+<0132> Oh, man.
+<0133> Nice.
+<0134> Awesome.
+<0135> Huh!
+<0136> How's this even possible!?
+<0137> Guess using this is better than losing.
+<0138> Don't say this isn't fair.
+<0139> It's okay to use this, right?
+<0140> Bring it. I'm not going easy on you.
+<0141> You're going down.
+<0142> Don't bother her too much, okay?
+<0143> I've wanted to fight you once.
+<0144> Amuse me.
+<0145> This'll make me look like a bully, won't it?
+<0146> I'll straighten you up.
+<0147> I'll destroy you to make my way forward.
+<0148> No more trouble between us, okay?
+<0149> Nothing's more ridiculous than this.
+<0150> Get any closer and you'll regret it.
+<0151> Great, how much is that worth?
+<0152> Cuz I can't stand draws.
+<0153> I don't remember getting equipped with this.
+<0154> I don't need any trouble.
+<0155> I don't want to be like her... but I feel like doing this now.
+<0156> Please don't hit me.
+<0157> Hope this doesn't jinx me.
+<0158> No hard feelings.
+<0159> Man, what an easy game.

@@ -115,43 +115,47 @@
 <0114> Please receive it.
 <0115> Good for you.
 <0116> Does that please you?
-<0117> That's okay.
-<0118> That's good.
-<0119> Yes.
-<0120> No.
-<0121> Oh, my...
-<0122> You're in luck.
-<0123> Mhm.
-<0124> Now, let's go.
-<0125> I'm going to roll the dice.
-<0126> Let's go, shall we?
-<0127> Hi.
-<0128> Mhm.
-<0129> That's good.
-<0130> That's extremely good.
-<0131> I'm speechless.
-<0132> I think I'll play this.
-<0133> This card... How did it end up in my hand?
-<0134> I'm going to try using this.
-<0135> I don't know what this is capable of, but I guess I'll just play it.
-<0136> My real name? It's... Amami.
-<0137> Sweet Guardian, we fight again.
-<0138> Sweet Guardian... Not you again.
-<0139> I'm the winner this time.
-<0140> Ugh, you're very good.
-<0141> You're... Sweet Blogger.
-<0142> I didn't expect you to challenge me, Sweet Blogger.
-<0143> All your posts about sweets... Please treasure them.
-<0144> How can a blogger have this much strength?
-<0145> Sweet Maker...!
-<0146> I never even imagined fighting you. 
-<0147> The sweets you make... Don't make me destroy them.
-<0148> So, you defeated me... Great work, Sweet Maker.
-<0149> Now I'm against a guardian.
-<0150> I know you're also called a god.
-<0151> Your power was noble and beautiful.
-<0152> Maybe guardians are nemeses to me...
-<0153> Pudding... I just don't know what to say about it.
-<0154> How did this pudding get to me?
-<0155> What's the meaning of this...? Am I being tested?
-<0156> Should I forgive pudding?
+<0117> It's substitute time.
+<0118> I need you to go out there, please.
+<0119> We'll change places.
+<0120> This is where we switch.
+<0121> That's okay.
+<0122> That's good.
+<0123> Yes.
+<0124> No.
+<0125> Oh, my...
+<0126> You're in luck.
+<0127> Mhm.
+<0128> Now, let's go.
+<0129> I'm going to roll the dice.
+<0130> Let's go, shall we?
+<0131> Hi.
+<0132> Mhm.
+<0133> That's good.
+<0134> That's extremely good.
+<0135> I'm speechless.
+<0136> I think I'll play this.
+<0137> This card... How did it end up in my hand?
+<0138> I'm going to try using this.
+<0139> I don't know what this is capable of, but I guess I'll just play it.
+<0140> My real name? It's... Amami.
+<0141> Sweet Guardian, we fight again.
+<0142> Sweet Guardian... Not you again.
+<0143> I'm the winner this time.
+<0144> Ugh, you're very good.
+<0145> You're... Sweet Blogger.
+<0146> I didn't expect you to challenge me, Sweet Blogger.
+<0147> All your posts about sweets... Please treasure them.
+<0148> How can a blogger have this much strength?
+<0149> Sweet Maker...!
+<0150> I never even imagined fighting you. 
+<0151> The sweets you make... Don't make me destroy them.
+<0152> So, you defeated me... Great work, Sweet Maker.
+<0153> Now I'm against a guardian.
+<0154> I know you're also called a god.
+<0155> Your power was noble and beautiful.
+<0156> Maybe guardians are nemeses to me...
+<0157> Pudding... I just don't know what to say about it.
+<0158> How did this pudding get to me?
+<0159> What's the meaning of this...? Am I being tested?
+<0160> Should I forgive pudding?

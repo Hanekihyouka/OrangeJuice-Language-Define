@@ -115,54 +115,58 @@
 <0114> It's a new product.
 <0115> Take it.
 <0116> This is a good item.
-<0117> Okay.
-<0118> Nice.
-<0119> Sure...
-<0120> No.
-<0121> What...?
-<0122> You're in luck.
-<0123> Hmm?
-<0124> Let's go.
-<0125> Rolling the dice.
-<0126> Here we go.
-<0127> Oh, it's you.
-<0128> Hmph...
-<0129> Good.
-<0130> Great job.
-<0131> Oh crap.
-<0132> Not that I do this oftentimes.
-<0133> I'm gonna borrow this.
-<0134> Let me use this.
-<0135> I like this.
-<0136> You have my thanks.
-<0137> Santa...
-<0138> It's you, huh...
-<0139> Looks like I'm the winner this time.
-<0140> I thought I might lose.
-<0141> Nico.
-<0142> Are you going through a rebellious phase now?
-<0143> Be a good girl and stay put, okay?
-<0144> Ugh, you have grown up.
-<0145> Is that a plush... I guess not?
-<0146> Now, it's business time.
-<0147> Little girl, do you like toys?
-<0148> Why... are you here...?
-<0149> It's about the time for that event.
-<0150> It's the best time of year for my business.
-<0151> Today's going to be a very busy day.
-<0152> All right, I'm going to go help deliver gifts.
-<0153> Little girl, we have a lot of toys at our store.
-<0154> Oh, did our toys call to you, little girl?
-<0155> Come and buy at Rbit hobby shop.
-<0156> Ugh... I'll get you a 30% discount voucher.
-<0157> Welcome.
-<0158> You want to play here?
-<0159> Hmph.
-<0160> Well, that's the way it is.
-<0161> That's pretty good.
-<0162> Not bad.
-<0163> Cheer up. This is a special one-time thing. Take good care of it.
-<0164> Boy, are you out of luck. Here, take it.
-<0165> Wh-what the...
-<0166> You're crazy lucky.
-<0167> Happy Christmas!
+<0117> Take it from here, will you?
+<0118> Thanks.
+<0119> Take care of the rest.
+<0120> I'm depending on you.
+<0121> Okay.
+<0122> Nice.
+<0123> Sure...
+<0124> No.
+<0125> What...?
+<0126> You're in luck.
+<0127> Hmm?
+<0128> Let's go.
+<0129> Rolling the dice.
+<0130> Here we go.
+<0131> Oh, it's you.
+<0132> Hmph...
+<0133> Good.
+<0134> Great job.
+<0135> Oh crap.
+<0136> Not that I do this oftentimes.
+<0137> I'm gonna borrow this.
+<0138> Let me use this.
+<0139> I like this.
+<0140> You have my thanks.
+<0141> Santa...
+<0142> It's you, huh...
+<0143> Looks like I'm the winner this time.
+<0144> I thought I might lose.
+<0145> Nico.
+<0146> Are you going through a rebellious phase now?
+<0147> Be a good girl and stay put, okay?
+<0148> Ugh, you have grown up.
+<0149> Is that a plush... I guess not?
+<0150> Now, it's business time.
+<0151> Little girl, do you like toys?
+<0152> Why... are you here...?
+<0153> It's about the time for that event.
+<0154> It's the best time of year for my business.
+<0155> Today's going to be a very busy day.
+<0156> All right, I'm going to go help deliver gifts.
+<0157> Little girl, we have a lot of toys at our store.
+<0158> Oh, did our toys call to you, little girl?
+<0159> Come and buy at Rbit hobby shop.
+<0160> Ugh... I'll get you a 30% discount voucher.
+<0161> Welcome.
+<0162> You want to play here?
+<0163> Hmph.
+<0164> Well, that's the way it is.
+<0165> That's pretty good.
+<0166> Not bad.
+<0167> Cheer up. This is a special one-time thing. Take good care of it.
+<0168> Boy, are you out of luck. Here, take it.
+<0169> Wh-what the...
+<0170> You're crazy lucky.
+<0171> Happy Christmas!

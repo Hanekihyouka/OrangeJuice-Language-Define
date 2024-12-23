@@ -116,53 +116,57 @@
 <0114> Oh, maybe we've got something good. Nico's excited.
 <0115> Okay! Nico's having a feeling that this one definitely is good!
 <0116> Wow, that's new stuff! Good for you!
-<0117> Okay.
-<0118> Hooray!
-<0119> Sure.
-<0120> No!
-<0121> Jeez! Jeez!
-<0122> Ehehe, lucky you!
-<0123> Huh?
-<0124> All right, here we go!
-<0125> Roll, die, roll!
-<0126> Yay!
-<0127> Hello! How are you?
-<0128> Hmmm.
-<0129> Well done!
-<0130> Wow! That's impressive! Nico's surprised!
-<0131> Stop it! *Puffs out cheeks*
-<0132> Nico'll use this card!
-<0133> Ehehe! Nico'll play someone's hyper card!
-<0134> Nico can use any card!
-<0135> Is it okay to use this too? Then Nico will!
-<0136> Oh jeez, why are you here!?
-<0137> Uuu! That does it, we'll fight!
-<0138> Jeez! What's wrong with you!
-<0139> Nico's not a child anymore.
-<0140> S-sorry...
-<0141> Santa! Let's battle again!
-<0142> Oh, Nico didn't pull any pranks!
-<0143> Nico beat Santa!
-<0144> Fuee... Nico lost again.
-<0145> Wow! Look at her! She's a princess!
-<0146> Aww, she's so cute... Nico wanna be like her.
-<0147> So tell Nico, what should she do to become like you?
-<0148> Kyaaa! There's a weirdo here! Biee!
-<0149> Gotta set the personal alarm off! Bubiii!
-<0150> A pervert's here! Someone help Nico!
-<0151> Oh no, it's that scary naked guy... Nico's got to run!
-<0152> It's so busy today!
-<0153> Nico's delivering everyone a gift!
-<0154> That day is about to come, Nico can't wait.
-<0155> Fufufu, guess what day today is!
-<0156> Welcome!
-<0157> Nico's happy you came by!
-<0158> Do you like it? Not really? Nico hopes you take good care of it.
-<0159> Don't say you got a bad thing.
-<0160> Wow, that's a pretty good thing.
-<0161> Ah, you pulled up a good one!
-<0162> Come on, chin up! You can take this for this time only.
-<0163> *Sigh*... That leaves Nico no choice. Here, this is her special offer for you.
-<0164> Hey, that's super rare!
-<0165> You're in huge luck!
-<0166> Merry Christmas!
+<0117> Nico'd like a switch, please.
+<0118> Nico's tired.
+<0119> You can take it from here if you insist that much.
+<0120> Now's time to switch! 
+<0121> Okay.
+<0122> Hooray!
+<0123> Sure.
+<0124> No!
+<0125> Jeez! Jeez!
+<0126> Ehehe, lucky you!
+<0127> Huh?
+<0128> All right, here we go!
+<0129> Roll, die, roll!
+<0130> Yay!
+<0131> Hello! How are you?
+<0132> Hmmm.
+<0133> Well done!
+<0134> Wow! That's impressive! Nico's surprised!
+<0135> Stop it! *Puffs out cheeks*
+<0136> Nico'll use this card!
+<0137> Ehehe! Nico'll play someone's hyper card!
+<0138> Nico can use any card!
+<0139> Is it okay to use this too? Then Nico will!
+<0140> Oh jeez, why are you here!?
+<0141> Uuu! That does it, we'll fight!
+<0142> Jeez! What's wrong with you!
+<0143> Nico's not a child anymore.
+<0144> S-sorry...
+<0145> Santa! Let's battle again!
+<0146> Oh, Nico didn't pull any pranks!
+<0147> Nico beat Santa!
+<0148> Fuee... Nico lost again.
+<0149> Wow! Look at her! She's a princess!
+<0150> Aww, she's so cute... Nico wanna be like her.
+<0151> So tell Nico, what should she do to become like you?
+<0152> Kyaaa! There's a weirdo here! Biee!
+<0153> Gotta set the personal alarm off! Bubiii!
+<0154> A pervert's here! Someone help Nico!
+<0155> Oh no, it's that scary naked guy... Nico's got to run!
+<0156> It's so busy today!
+<0157> Nico's delivering everyone a gift!
+<0158> That day is about to come, Nico can't wait.
+<0159> Fufufu, guess what day today is!
+<0160> Welcome!
+<0161> Nico's happy you came by!
+<0162> Do you like it? Not really? Nico hopes you take good care of it.
+<0163> Don't say you got a bad thing.
+<0164> Wow, that's a pretty good thing.
+<0165> Ah, you pulled up a good one!
+<0166> Come on, chin up! You can take this for this time only.
+<0167> *Sigh*... That leaves Nico no choice. Here, this is her special offer for you.
+<0168> Hey, that's super rare!
+<0169> You're in huge luck!
+<0170> Merry Christmas!

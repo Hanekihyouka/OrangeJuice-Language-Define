@@ -115,33 +115,37 @@
 <0114> We got something new.
 <0115> Oh, that looks nice. Let me see.
 <0116> Here.
-<0117> Okay.
-<0118> Good job.
-<0119> Sure thing.
-<0120> No, never!
-<0121> Whaaaat?
-<0122> Lucky you.
-<0123> Ueeeh?
-<0124> I guess I'll try a little...
-<0125> Dice time.
-<0126> You got this~
-<0127> Yo!
-<0128> Hmmaaah.
-<0129> Awesome.
-<0130> For real? That's crazy awesome.
-<0131> Ugh... Ugh...
-<0132> Why do I even have this?
-<0133> Well, whatever, I'll just play this.
-<0134> What's this?
-<0135> Here goes nothing!
-<0136> Thanks.
-<0137> Nooo! My break can't be over yet!
-<0138> What? No one told me I'd have to get up this early.
-<0139> Just... 5 more minutes...
-<0140> Let me get some more re-... Some more rest...
-<0141> Wheee, group nap.
-<0142> Man, there's nothing like napping with everyone.
-<0143> Isn't this the definition of happiness?
-<0144> We should all take a nap.
-<0145> Slumber party.
-<0146> *Munch munch chomp chomp*...
+<0117> I'll get out of here.
+<0118> You got this.
+<0119> Alright then, I'll go take a break.
+<0120> Wow, I was just thinking about taking a five. Thanks.
+<0121> Okay.
+<0122> Good job.
+<0123> Sure thing.
+<0124> No, never!
+<0125> Whaaaat?
+<0126> Lucky you.
+<0127> Ueeeh?
+<0128> I guess I'll try a little...
+<0129> Dice time.
+<0130> You got this~
+<0131> Yo!
+<0132> Hmmaaah.
+<0133> Awesome.
+<0134> For real? That's crazy awesome.
+<0135> Ugh... Ugh...
+<0136> Why do I even have this?
+<0137> Well, whatever, I'll just play this.
+<0138> What's this?
+<0139> Here goes nothing!
+<0140> Thanks.
+<0141> Nooo! My break can't be over yet!
+<0142> What? No one told me I'd have to get up this early.
+<0143> Just... 5 more minutes...
+<0144> Let me get some more re-... Some more rest...
+<0145> Wheee, group nap.
+<0146> Man, there's nothing like napping with everyone.
+<0147> Isn't this the definition of happiness?
+<0148> We should all take a nap.
+<0149> Slumber party.
+<0150> *Munch munch chomp chomp*...

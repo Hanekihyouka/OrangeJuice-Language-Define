@@ -115,43 +115,47 @@
 <0114> Isn't this...
 <0115> Well, I'd say that's good stuff.
 <0116> Nice.
-<0117> Go ahead.
-<0118> Well done.
-<0119> Yeah.
-<0120> No.
-<0121> Oh no.
-<0122> It's your lucky day.
-<0123> Huuuh?
-<0124> Okay then.
-<0125> Like this, I suppose.
-<0126> Go.
-<0127> Yo.
-<0128> Umm.
-<0129> Well played.
-<0130> You have my compliments.
-<0131> Goddamnit!
-<0132> Tsk, I don't even know what this thing's capable of...
-<0133> I'll use this one.
-<0134> Did I surprise you?
-<0135> I like this one.
-<0136> Well, thanks.
-<0137> I've got to destroy this thing.
-<0138> How can this thing still be moving around?
-<0139> I feel so disgusted.
-<0140> What in the...?
-<0141> Get out of my way, you girls.
-<0142> You girls are coming up against me?
-<0143> You can't defy me.
-<0144> Why? You girls are my...
-<0145> You're not the Sumika I knew, are you?
-<0146> You've upgraded yourself, haven't you?
-<0147> You're a long way from that damned guardian.
-<0148> Maybe you're strong enough to take down that damned guardian.
-<0149> If only you didn't exist.
-<0150> Damn it, why do you always get in my way?
-<0151> Seems like I beat her...
-<0152> Damn it, damn it, damn it!
-<0153> Just what are you...?
-<0154> You damn crazy weapon.
-<0155> What would make anyone build a weapon like this?
-<0156> What a crazy chick...
+<0117> You're gonna have to take this from here.
+<0118> Switch with me.
+<0119> You go work your ass off out there.
+<0120> You're in charge now.
+<0121> Go ahead.
+<0122> Well done.
+<0123> Yeah.
+<0124> No.
+<0125> Oh no.
+<0126> It's your lucky day.
+<0127> Huuuh?
+<0128> Okay then.
+<0129> Like this, I suppose.
+<0130> Go.
+<0131> Yo.
+<0132> Umm.
+<0133> Well played.
+<0134> You have my compliments.
+<0135> Goddamnit!
+<0136> Tsk, I don't even know what this thing's capable of...
+<0137> I'll use this one.
+<0138> Did I surprise you?
+<0139> I like this one.
+<0140> Well, thanks.
+<0141> I've got to destroy this thing.
+<0142> How can this thing still be moving around?
+<0143> I feel so disgusted.
+<0144> What in the...?
+<0145> Get out of my way, you girls.
+<0146> You girls are coming up against me?
+<0147> You can't defy me.
+<0148> Why? You girls are my...
+<0149> You're not the Sumika I knew, are you?
+<0150> You've upgraded yourself, haven't you?
+<0151> You're a long way from that damned guardian.
+<0152> Maybe you're strong enough to take down that damned guardian.
+<0153> If only you didn't exist.
+<0154> Damn it, why do you always get in my way?
+<0155> Seems like I beat her...
+<0156> Damn it, damn it, damn it!
+<0157> Just what are you...?
+<0158> You damn crazy weapon.
+<0159> What would make anyone build a weapon like this?
+<0160> What a crazy chick...

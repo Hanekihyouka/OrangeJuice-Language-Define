@@ -116,39 +116,43 @@
 <0114> I got a new item!
 <0115> Oh, I didn't have this one.
 <0116> Alright, that was a good draw.
-<0117> Leave it to me.
-<0118> That's nice.
-<0119> Yeah!
-<0120> Nope.
-<0121> Crap!
-<0122> Hell yeah!
-<0123> What the?!
-<0124> Here I go!
-<0125> Let's see what roll I'll get.
-<0126> Go!
-<0127> Yo!
-<0128> Hmm...
-<0129> That's awesome.
-<0130> Oh my god!
-<0131> Crap...
-<0132> Thank you!
-<0133> Found you!
-<0134> A beautiful lady...?!
-<0135> Aren't you too old for that outfit?
-<0136> A giant robot?! I'm so hyped!
-<0137> I have to deal with her right this moment.
-<0138> Here comes the crazy woman...!
-<0139> I managed to beat her!
-<0140> Ugh... I knew she was crazy.
-<0141> Hey hey hey, what the heck are you doing!
-<0142> My wallet feels lighter somehow.
-<0143> Where... am I?
-<0144> Woo, your ride looks pretty cool.
-<0145> Alright, let's do some swimming.
-<0146> What happened to Poppo...?
-<0147> God...?
-<0148> Geez... get it together...
-<0149> Seriously? At your age...?
-<0150> This is a real masterpiece.
-<0151> Why the heck are you singing this song!
+<0117> We're gonna change positions.
+<0118> Switch with me, will you?
+<0119> It's time for you to go nuts.
+<0120> I'll let you take care of the rest.
+<0121> Leave it to me.
+<0122> That's nice.
+<0123> Yeah!
+<0124> Nope.
+<0125> Crap!
+<0126> Hell yeah!
+<0127> What the?!
+<0128> Here I go!
+<0129> Let's see what roll I'll get.
+<0130> Go!
+<0131> Yo!
+<0132> Hmm...
+<0133> That's awesome.
+<0134> Oh my god!
+<0135> Crap...
+<0136> Thank you!
+<0137> Found you!
+<0138> A beautiful lady...?!
+<0139> Aren't you too old for that outfit?
+<0140> A giant robot?! I'm so hyped!
+<0141> I have to deal with her right this moment.
+<0142> Here comes the crazy woman...!
+<0143> I managed to beat her!
+<0144> Ugh... I knew she was crazy.
+<0145> Hey hey hey, what the heck are you doing!
+<0146> My wallet feels lighter somehow.
+<0147> Where... am I?
+<0148> Woo, your ride looks pretty cool.
+<0149> Alright, let's do some swimming.
+<0150> What happened to Poppo...?
+<0151> God...?
+<0152> Geez... get it together...
+<0153> Seriously? At your age...?
+<0154> This is a real masterpiece.
+<0155> Why the heck are you singing this song!
 

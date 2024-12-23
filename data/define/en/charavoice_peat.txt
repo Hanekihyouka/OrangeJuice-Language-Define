@@ -116,43 +116,47 @@
 <0114> Guess I'll use that.
 <0115> Guess I'll try this.
 <0116> I didn't have this one.
-<0117> Okay.
-<0118> Great.
-<0119> Yeah.
-<0120> Nah.
-<0121> This sucks.
-<0122> I like that!
-<0123> What the...?
-<0124> Let's go, Blue Crow!
-<0125> I'm counting on you.
-<0126> Let's go!
-<0127> Hey!
-<0128> Crap...
-<0129> Nice!
-<0130> That's the best!
-<0131> Oh no!
-<0132> This isn't my thing, but oh well!
-<0133> No other choice!
-<0134> This isn't the best card, but whatever!
-<0135> I'll use whatever I can!
-<0136> Your flying's all over the place as always.
-<0137> You should give up on being a pilot!
-<0138> I see you've improved. See you again!
-<0139> I'll win next time... You'll regret this!
-<0140> Another defeat... Why!?
-<0141> Stay low-profile, young lady.
-<0142> Stay low-profile... uh... young lady?
-<0143> Um... My apologies.
-<0144> I lost... Again...
-<0145> Why... can't I win?
-<0146> Well, just for safety's sake.
-<0147> It's against my policy to fight ladies, but...!
-<0148> I lost to a brat like that...!
-<0149> I'm at the top!
-<0150> I'll fix you into a decent human!
-<0151> How shameless...!
-<0152> You're not fast enough yet!
-<0153> Out of my way, you big ass!
-<0154> Are you... that brat?
-<0155> I challenge you to a battle!
-<0156> Grem... lin!?
+<0117> It's your turn!
+<0118> You got this!
+<0119> Deal with the rest.
+<0120> I could go on, but oh well.
+<0121> Okay.
+<0122> Great.
+<0123> Yeah.
+<0124> Nah.
+<0125> This sucks.
+<0126> I like that!
+<0127> What the...?
+<0128> Let's go, Blue Crow!
+<0129> I'm counting on you.
+<0130> Let's go!
+<0131> Hey!
+<0132> Crap...
+<0133> Nice!
+<0134> That's the best!
+<0135> Oh no!
+<0136> This isn't my thing, but oh well!
+<0137> No other choice!
+<0138> This isn't the best card, but whatever!
+<0139> I'll use whatever I can!
+<0140> Your flying's all over the place as always.
+<0141> You should give up on being a pilot!
+<0142> I see you've improved. See you again!
+<0143> I'll win next time... You'll regret this!
+<0144> Another defeat... Why!?
+<0145> Stay low-profile, young lady.
+<0146> Stay low-profile... uh... young lady?
+<0147> Um... My apologies.
+<0148> I lost... Again...
+<0149> Why... can't I win?
+<0150> Well, just for safety's sake.
+<0151> It's against my policy to fight ladies, but...!
+<0152> I lost to a brat like that...!
+<0153> I'm at the top!
+<0154> I'll fix you into a decent human!
+<0155> How shameless...!
+<0156> You're not fast enough yet!
+<0157> Out of my way, you big ass!
+<0158> Are you... that brat?
+<0159> I challenge you to a battle!
+<0160> Grem... lin!?

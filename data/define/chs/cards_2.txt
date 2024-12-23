@@ -746,7 +746,7 @@ flavor=「让你见识一下我的最强之力吧♡」—超能艾莉
 
 < CARD_HYPER_HKAI >
 name=前主角的光辉时刻
-descr=★COST（等级×10）\nHP降至1。\n持续效果（3轮）\nATK+4，EVD+5。
+descr=★COST（等级×7）\nHP降至1。\n持续效果（3轮）\nATK+2，EVD+5。
 flavor=「你可不要把大人给逼急了。」—勇者凯
 
 < CARD_HYPER_GRAIN >

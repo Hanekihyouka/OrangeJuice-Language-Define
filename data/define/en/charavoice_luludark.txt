@@ -115,44 +115,48 @@
 <0114> Lulu's glad if you're glad.
 <0115> You're gonna... try using that, right?
 <0116> Seems like you got some good stuff there...
-<0117> Okay.
-<0118> That's good.
-<0119> Yeah.
-<0120> No way.
-<0121> ...Ugh.
-<0122> That's lucky... Lulu supposes.
-<0123> Uuu?
-<0124> Let's go.
-<0125> Hah!
-<0126> You can do it...
-<0127> Hello.
-<0128> Um...
-<0129> That's amazing.
-<0130> Much respect.
-<0131> Ugh, Lulu's mad.
-<0132> Can Lulu use this too?
-<0133> Lulu doesn't know how this works... But here goes.
-<0134> Not sure Lulu can use this right, but...
-<0135> Lulu's gonna pull this off.
-<0136> Thanks.
-<0137> Things won't go as you want.
-<0138> Lulu is... Lulu.
-<0139> Lulu will live her life the way she wants.
-<0140> Lulu... can't let this woman do what she wants...
-<0141> Ellie, Lulu likes you so much...
-<0142> Ellie... You not sick of being around Lulu?
-<0143> Ellie, you're the best... Fufufu.
-<0144> Ellie, we're friends forever.
-<0145> Here's an unlucky star...
-<0146> Everyone will lose stars...
-<0147> So many twinkling stars are going out.
-<0148> There's nothing to be afraid of if you all lose together.
-<0149> Lulu will erase everyone's cards.
-<0150> Sorry about your cards...
-<0151> Without cards, you guys can't interrupt Lulu...
-<0152> Lulu has to get rid of potential threats.
-<0153> Would you like... some of Lulu's poison?
-<0154> Lulu wants you all to be a little less active.
-<0155> You're all going to stop moving soon.
-<0156> Lulu's putting everyone in misery...
-<0157> Lulu will finish off everyone who tries to hurt Ellie.
+<0117> Let's switch.
+<0118> Will you take this from here for Lulu?
+<0119> We should help each other.
+<0120> Let's work together...
+<0121> Okay.
+<0122> That's good.
+<0123> Yeah.
+<0124> No way.
+<0125> ...Ugh.
+<0126> That's lucky... Lulu supposes.
+<0127> Uuu?
+<0128> Let's go.
+<0129> Hah!
+<0130> You can do it...
+<0131> Hello.
+<0132> Um...
+<0133> That's amazing.
+<0134> Much respect.
+<0135> Ugh, Lulu's mad.
+<0136> Can Lulu use this too?
+<0137> Lulu doesn't know how this works... But here goes.
+<0138> Not sure Lulu can use this right, but...
+<0139> Lulu's gonna pull this off.
+<0140> Thanks.
+<0141> Things won't go as you want.
+<0142> Lulu is... Lulu.
+<0143> Lulu will live her life the way she wants.
+<0144> Lulu... can't let this woman do what she wants...
+<0145> Ellie, Lulu likes you so much...
+<0146> Ellie... You not sick of being around Lulu?
+<0147> Ellie, you're the best... Fufufu.
+<0148> Ellie, we're friends forever.
+<0149> Here's an unlucky star...
+<0150> Everyone will lose stars...
+<0151> So many twinkling stars are going out.
+<0152> There's nothing to be afraid of if you all lose together.
+<0153> Lulu will erase everyone's cards.
+<0154> Sorry about your cards...
+<0155> Without cards, you guys can't interrupt Lulu...
+<0156> Lulu has to get rid of potential threats.
+<0157> Would you like... some of Lulu's poison?
+<0158> Lulu wants you all to be a little less active.
+<0159> You're all going to stop moving soon.
+<0160> Lulu's putting everyone in misery...
+<0161> Lulu will finish off everyone who tries to hurt Ellie.

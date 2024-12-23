@@ -115,42 +115,46 @@
 <0114> Does that help? You happy to have it?
 <0115> Is that a new item?
 <0116> Fufufu, guess what this is.
-<0117> Okay.
-<0118> Good.
-<0119> Yes.
-<0120> No.
-<0121> That's too bad.
-<0122> Very lucky.
-<0123> Fuee?
-<0124> Let's get started.
-<0125> I'm throwing the die.
-<0126> Go, go!
-<0127> Hello there.
-<0128> What? What...?
-<0129> Nice.
-<0130> Fufu, that's splendid.
-<0131> Mhm...!
-<0132> Okay, so... do I use it like this?
-<0133> I should play this card now anyway, right?
-<0134> Well, um, this?
-<0135> Here goes nothing!
-<0136> Repa, can I have some of your time?
-<0137> OK Repa, I'll give you some of my time.
-<0138> E-hem! Your hair can't catch me.
-<0139> Okay, fine, would you get your hair off of me already?
-<0140> Two.
-<0141> Three!
-<0142> Four!!
-<0143> All together!
-<0144> Shouldn't have been in front of me!
-<0145> Defeated you all together!
-<0146> Not powerful enough...?
-<0147> That makes me fast enough...!
-<0148> Forest Witch... You look a bit different, though.
-<0149> Forest Witch... No, who are you?
-<0150> Who in the world are you...?
-<0151> You seem as strong as the Forest Witch...
-<0152> What? There are two Forest Witches...?
-<0153> Who's who? That's confusing!
-<0154> Forest Witch... Are you even capable of creating copies of yourself?
-<0155> That over there is Forest Witch... and that over there is also Forest Witch?
+<0117> Switch!
+<0118> I'll be right back.
+<0119> It's your turn.
+<0120> Take it from here, will you?
+<0121> Okay.
+<0122> Good.
+<0123> Yes.
+<0124> No.
+<0125> That's too bad.
+<0126> Very lucky.
+<0127> Fuee?
+<0128> Let's get started.
+<0129> I'm throwing the die.
+<0130> Go, go!
+<0131> Hello there.
+<0132> What? What...?
+<0133> Nice.
+<0134> Fufu, that's splendid.
+<0135> Mhm...!
+<0136> Okay, so... do I use it like this?
+<0137> I should play this card now anyway, right?
+<0138> Well, um, this?
+<0139> Here goes nothing!
+<0140> Repa, can I have some of your time?
+<0141> OK Repa, I'll give you some of my time.
+<0142> E-hem! Your hair can't catch me.
+<0143> Okay, fine, would you get your hair off of me already?
+<0144> Two.
+<0145> Three!
+<0146> Four!!
+<0147> All together!
+<0148> Shouldn't have been in front of me!
+<0149> Defeated you all together!
+<0150> Not powerful enough...?
+<0151> That makes me fast enough...!
+<0152> Forest Witch... You look a bit different, though.
+<0153> Forest Witch... No, who are you?
+<0154> Who in the world are you...?
+<0155> You seem as strong as the Forest Witch...
+<0156> What? There are two Forest Witches...?
+<0157> Who's who? That's confusing!
+<0158> Forest Witch... Are you even capable of creating copies of yourself?
+<0159> That over there is Forest Witch... and that over there is also Forest Witch?

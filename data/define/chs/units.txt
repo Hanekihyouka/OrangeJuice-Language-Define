@@ -97,7 +97,11 @@ descr=
 
 < CARD_UNIT_CASTLE_MP >
 name=飞天城堡
-descr=后攻时对方无法使用战斗卡。\n无法反击。
+descr=后攻时对方无法使用战斗卡。\n除存在不动之物效果时外无法反击。
+
+< CARD_COOP_UNIT_CASTLE_MP >
+name=飞天城堡
+descr=受到挑战时无法反击。
 
 < CARD_UNIT_CEOREPARQUE >
 name=柯欧蕾帕露可
@@ -401,7 +405,7 @@ descr=持有「情报官」时，\n能看见卡堆顶部的一张卡。
 
 < CARD_UNIT_MAYNIE >
 name=梅妮
-descr=在未处于狂暴模式下时，\n受到伤害获得愤怒值，\n受到恢复失去愤怒值。
+descr=在未处于狂暴模式下时，\n受到伤害获得1点愤怒值，\n受到恢复失去1点愤怒值。
 
 < CARD_UNIT_KYUPITA >
 name=QP太

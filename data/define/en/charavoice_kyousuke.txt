@@ -116,42 +116,46 @@
 <0114> Hmm, that's a nice thing.
 <0115> So we've got a new item.
 <0116> I see... This is...
-<0117> Sure.
-<0118> Good.
-<0119> Yes, let's do that.
-<0120> I'm sorry... about that...
-<0121> One of these days...
-<0122> Your lucky day.
-<0123> What?
-<0124> Shall we go...
-<0125> I'm throwing the dice.
-<0126> Shall we go...
-<0127> Why hello there, how do you do?
-<0128> Hmm...
-<0129> Nice!
-<0130> Fantastic!
-<0131> Oh no...
-<0132> It's make-or-break time.
-<0133> This doesn't look too bad.
-<0134> Now... Allow me to use this.
-<0135> This power... Will it work out for me?
-<0136> Kyu... Kyupita...!
-<0137> Come at me, Kyupita!
-<0138> Fufufu, what made you think you'd defeat me?
-<0139> Excellent, Kyupita... I was right... to fall in love with you...
-<0140> I found you, Kyupita!
-<0141> I sense Kyupita's presence...
-<0142> What in the...!? There are two Kyupitas...?!
-<0143> W-what... There are... so many... Kyupitas...!!
-<0144> Fufu, congratulations, Kyupita.
-<0145> Excellent work. You'll get stronger.
-<0146> Kyupita... You're capable of shining so much brighter...
-<0147> Fufufu... I'm having a lot of fun, Kyupita...
-<0148> Kyupitaaaaaaaaaaa!!!
-<0149> Hm... You are...
-<0150> So you're the opponent, huh.
-<0151> Hm... Words can't describe the strange feeling I have now.
-<0152> I have no regrets being defeated by you.
-<0153> Women outnumber men around here. We should support each other.
-<0154> Service time is over.
-<0155> Achoo! ...This is a bit of a tough situation.
+<0117> Care to take over?
+<0118> I'm relying on you.
+<0119> Would you mind?
+<0120> I'm sorry, but I need you to switch with me.
+<0121> Sure.
+<0122> Good.
+<0123> Yes, let's do that.
+<0124> I'm sorry... about that...
+<0125> One of these days...
+<0126> Your lucky day.
+<0127> What?
+<0128> Shall we go...
+<0129> I'm throwing the dice.
+<0130> Shall we go...
+<0131> Why hello there, how do you do?
+<0132> Hmm...
+<0133> Nice!
+<0134> Fantastic!
+<0135> Oh no...
+<0136> It's make-or-break time.
+<0137> This doesn't look too bad.
+<0138> Now... Allow me to use this.
+<0139> This power... Will it work out for me?
+<0140> Kyu... Kyupita...!
+<0141> Come at me, Kyupita!
+<0142> Fufufu, what made you think you'd defeat me?
+<0143> Excellent, Kyupita... I was right... to fall in love with you...
+<0144> I found you, Kyupita!
+<0145> I sense Kyupita's presence...
+<0146> What in the...!? There are two Kyupitas...?!
+<0147> W-what... There are... so many... Kyupitas...!!
+<0148> Fufu, congratulations, Kyupita.
+<0149> Excellent work. You'll get stronger.
+<0150> Kyupita... You're capable of shining so much brighter...
+<0151> Fufufu... I'm having a lot of fun, Kyupita...
+<0152> Kyupitaaaaaaaaaaa!!!
+<0153> Hm... You are...
+<0154> So you're the opponent, huh.
+<0155> Hm... Words can't describe the strange feeling I have now.
+<0156> I have no regrets being defeated by you.
+<0157> Women outnumber men around here. We should support each other.
+<0158> Service time is over.
+<0159> Achoo! ...This is a bit of a tough situation.

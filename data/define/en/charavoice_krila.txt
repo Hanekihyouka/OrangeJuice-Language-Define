@@ -116,43 +116,47 @@
 <0114> A power that I have never seen.
 <0115> Another seal has been broken.
 <0116> You wanted that? I'm glad if you like it.
-<0117> Nice.
-<0118> Great darkness...
-<0119> Certainly.
-<0120> Nope.
-<0121> How hideous...
-<0122> Fortunate of you.
-<0123> Oh...?
-<0124> Along with darkness.
-<0125> The die of fate is cast...
-<0126> Now.
-<0127> How do you do?
-<0128> Auu.
-<0129> Exultation.
-<0130> So much... so much... darkness?
-<0131> Yikes...
-<0132> I shall use this power.
-<0133> I shall borrow someone's darkness.
-<0134> This sealed card is called... Wait, I don't know this card.
-<0135> Huh? Is it okay to use this card?
-<0136> Thank you...
-<0137> Dance, long-eared beasts...
-<0138> Behold my servants dance.
-<0139> Hm... My blood's telling me to take you down.
-<0140> The way you appear... I'm certain we're meant to fight.
-<0141> I feel we're connected somehow. Something must've happened to us in our former lives.
-<0142> Even with me gone, a number of other me's will keep... *mumble*mumble*.
-<0143> I'm in seventh heaven! *Cry*
-<0144> Darkness has summoned me here.
-<0145> This place pleases me... Slightly terrifies me too, though.
-<0146> Hmph, this is a sanctuary of darkness.
-<0147> This is by far the best battlefield for a decisive battle.
-<0148> Santa... does exist, it seems.
-<0149> Santa... The blood-covered one.
-<0150> I won this battle of darkness. Now, give me all the gifts you have.
-<0151> S-Santa kicked my butt...
-<0152> I never expected to fight you.
-<0153> Huh? Why do we have to fight?
-<0154> I am the master from this moment on.
-<0155> Awful...
-<0156> M-manager, why's he here...?
+<0117> Dark switching.
+<0118> I want you to take this from here.
+<0119> I want to have some munch-munch time.
+<0120> Come on out, my other self.
+<0121> Nice.
+<0122> Great darkness...
+<0123> Certainly.
+<0124> Nope.
+<0125> How hideous...
+<0126> Fortunate of you.
+<0127> Oh...?
+<0128> Along with darkness.
+<0129> The die of fate is cast...
+<0130> Now.
+<0131> How do you do?
+<0132> Auu.
+<0133> Exultation.
+<0134> So much... so much... darkness?
+<0135> Yikes...
+<0136> I shall use this power.
+<0137> I shall borrow someone's darkness.
+<0138> This sealed card is called... Wait, I don't know this card.
+<0139> Huh? Is it okay to use this card?
+<0140> Thank you...
+<0141> Dance, long-eared beasts...
+<0142> Behold my servants dance.
+<0143> Hm... My blood's telling me to take you down.
+<0144> The way you appear... I'm certain we're meant to fight.
+<0145> I feel we're connected somehow. Something must've happened to us in our former lives.
+<0146> Even with me gone, a number of other me's will keep... *mumble*mumble*.
+<0147> I'm in seventh heaven! *Cry*
+<0148> Darkness has summoned me here.
+<0149> This place pleases me... Slightly terrifies me too, though.
+<0150> Hmph, this is a sanctuary of darkness.
+<0151> This is by far the best battlefield for a decisive battle.
+<0152> Santa... does exist, it seems.
+<0153> Santa... The blood-covered one.
+<0154> I won this battle of darkness. Now, give me all the gifts you have.
+<0155> S-Santa kicked my butt...
+<0156> I never expected to fight you.
+<0157> Huh? Why do we have to fight?
+<0158> I am the master from this moment on.
+<0159> Awful...
+<0160> M-manager, why's he here...?

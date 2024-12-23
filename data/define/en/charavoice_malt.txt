@@ -115,41 +115,45 @@
 <0114> Another piece falls into place.
 <0115> This is only proper.
 <0116> Fumu. Well deserved.
-<0117> Hmm-h.
-<0118> Not bad.
-<0119> Very well.
-<0120> I refuse.
-<0121> What a pity.
-<0122> Lady luck shines on you today.
-<0123> What is this?
-<0124> Lift off.
-<0125> Time to cast the die.
-<0126> It's time!
-<0127> Well met.
-<0128> Hmm, hmm...
-<0129> Good, good.
-<0130> Excellent.
-<0131> Blasted!
-<0132> I can see the potential in this.
-<0133> Hmph. Watch and learn.
-<0134> I will make this work.
-<0135> Very well. I'll use whatever it takes.
-<0136> Much obliged.
-<0137> Guildmaster? I no longer carry that title.
-<0138> Here I come, rookie!
-<0139> Try and stop me, Red Barrel!
-<0140> It's the duty of the older generation to teach restraint to the young.
-<0141> Hmph. I acknowledge you.
-<0142> So you have come to stop me, old friend?
-<0143> Have you finally decided to join me for a drink? No?
-<0144> Hmph. To be young and rash again...
-<0145> Begone from my skies, pirate scum!
-<0146> Why, hello young miss. Are you with your father again?
-<0147> I wonder what such a lovely young lady would want with an old man like myself.
-<0148> You would bare your fangs at me? Very well.
-<0149> It's not too late to join me again, Miss. I always need good pilots.
-<0150> The symbol of the guild... I must still be dreaming...
-<0151> Ahem. What brings you here, little lady? Are you perhaps lost? 
-<0152> To me, everyo- *cough*, ahem. Old habits...
-<0153> This is how a gentleman should conduct his business.
-<0154> M-miss... I'm not sure where to look.
+<0117> Buy me some time, will you?
+<0118> Distract them while I prepare.
+<0119> Go on. Show them what you've got.
+<0120> Hmph. Make me proud.
+<0121> Hmm-h.
+<0122> Not bad.
+<0123> Very well.
+<0124> I refuse.
+<0125> What a pity.
+<0126> Lady luck shines on you today.
+<0127> What is this?
+<0128> Lift off.
+<0129> Time to cast the die.
+<0130> It's time!
+<0131> Well met.
+<0132> Hmm, hmm...
+<0133> Good, good.
+<0134> Excellent.
+<0135> Blasted!
+<0136> I can see the potential in this.
+<0137> Hmph. Watch and learn.
+<0138> I will make this work.
+<0139> Very well. I'll use whatever it takes.
+<0140> Much obliged.
+<0141> Guildmaster? I no longer carry that title.
+<0142> Here I come, rookie!
+<0143> Try and stop me, Red Barrel!
+<0144> It's the duty of the older generation to teach restraint to the young.
+<0145> Hmph. I acknowledge you.
+<0146> So you have come to stop me, old friend?
+<0147> Have you finally decided to join me for a drink? No?
+<0148> Hmph. To be young and rash again...
+<0149> Begone from my skies, pirate scum!
+<0150> Why, hello young miss. Are you with your father again?
+<0151> I wonder what such a lovely young lady would want with an old man like myself.
+<0152> You would bare your fangs at me? Very well.
+<0153> It's not too late to join me again, Miss. I always need good pilots.
+<0154> The symbol of the guild... I must still be dreaming...
+<0155> Ahem. What brings you here, little lady? Are you perhaps lost? 
+<0156> To me, everyo- *cough*, ahem. Old habits...
+<0157> This is how a gentleman should conduct his business.
+<0158> M-miss... I'm not sure where to look.

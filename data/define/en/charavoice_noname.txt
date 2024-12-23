@@ -115,47 +115,51 @@
 <0114> This is how lucky I am at pulling good stuff.
 <0115> You wanted this, right? I can tell.
 <0116> This me is being super lucky.
-<0117> Oh.
-<0118> Good.
-<0119> Yeah.
-<0120> What?
-<0121> Damn it.
-<0122> Lucky day.
-<0123> Hmm.
-<0124> Let's get going.
-<0125> I'll roll the dice.
-<0126> Go.
-<0127> Hey, it's me.
-<0128> Hmm..
-<0129> Nice.
-<0130> You're good.
-<0131> What the...
-<0132> I'm capable of anything.
-<0133> I'll turn this into part of my power, too.
-<0134> You know what? I can use this better.
-<0135> Other people's cards are mine, too!
-<0136> Thank you.
-<0137> Yo, my friend, how you hanging?
-<0138> Oh, you want to fight me, my friend?
-<0139> That was a hell of a fight.
-<0140> You're a great fighter, my friend.
-<0141> Kyoko, we should have some fun together.
-<0142> Whoa, what are you up to, Kyoko?
-<0143> I'm tired now. I need your lap pillow, Kyoko.
-<0144> H-hold on, I'll apologize... Gyaaah!
-<0145> Oh, if it isn't Sumika.
-<0146> Don't call me "fake Papa".
-<0147> I win, you brat.
-<0148> Crap... You sassy shortie...
-<0149> What the heck am I supposed to do like this?
-<0150> This sucks... What kind of joke is it?
-<0151> Where'd that perfect body of mine go...?
-<0152> Ugh... I really have to not get caught...
-<0153> How I missed you, my body!
-<0154> Phew... Here's the complete me coming back.
-<0155> Having arms and legs is the best...
-<0156> Alright then... it's revenge time...
-<0157> If you're gone, I'll be the real deal.
-<0158> C'mon, we should get along as twinsies.
-<0159> I'm the real one from this moment on!
-<0160> Forgive me. I won't go against you again...
+<0117> Change places.
+<0118> Switch.
+<0119> It's your turn to go.
+<0120> This me is retreating for now.
+<0121> Oh.
+<0122> Good.
+<0123> Yeah.
+<0124> What?
+<0125> Damn it.
+<0126> Lucky day.
+<0127> Hmm.
+<0128> Let's get going.
+<0129> I'll roll the dice.
+<0130> Go.
+<0131> Hey, it's me.
+<0132> Hmm..
+<0133> Nice.
+<0134> You're good.
+<0135> What the...
+<0136> I'm capable of anything.
+<0137> I'll turn this into part of my power, too.
+<0138> You know what? I can use this better.
+<0139> Other people's cards are mine, too!
+<0140> Thank you.
+<0141> Yo, my friend, how you hanging?
+<0142> Oh, you want to fight me, my friend?
+<0143> That was a hell of a fight.
+<0144> You're a great fighter, my friend.
+<0145> Kyoko, we should have some fun together.
+<0146> Whoa, what are you up to, Kyoko?
+<0147> I'm tired now. I need your lap pillow, Kyoko.
+<0148> H-hold on, I'll apologize... Gyaaah!
+<0149> Oh, if it isn't Sumika.
+<0150> Don't call me "fake Papa".
+<0151> I win, you brat.
+<0152> Crap... You sassy shortie...
+<0153> What the heck am I supposed to do like this?
+<0154> This sucks... What kind of joke is it?
+<0155> Where'd that perfect body of mine go...?
+<0156> Ugh... I really have to not get caught...
+<0157> How I missed you, my body!
+<0158> Phew... Here's the complete me coming back.
+<0159> Having arms and legs is the best...
+<0160> Alright then... it's revenge time...
+<0161> If you're gone, I'll be the real deal.
+<0162> C'mon, we should get along as twinsies.
+<0163> I'm the real one from this moment on!
+<0164> Forgive me. I won't go against you again...

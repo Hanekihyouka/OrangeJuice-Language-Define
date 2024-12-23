@@ -158,6 +158,8 @@
 <0157> You're wearing the clothes I picked out for you.
 <0158> O-hoho, you've shown me something nice.
 <0159> You're strong even when you're wearing cute clothes, Suguri.
-<0160> Fufu, you look really adorable in that.
-<0161> How do I look? Do I look good in this?
-<0162> You want to play with me again? Fufu, sure, gladly.
+<0160> This will be much more fun if you and I work together.
+<0161> Let me help you.
+<0162> Fufu, you look really adorable in that.
+<0163> How do I look? Do I look good in this?
+<0164> You want to play with me again? Fufu, sure, gladly.

@@ -116,42 +116,46 @@
 <0114> Ahaha! That thing looks nice!
 <0115> You want this? Then, keep it.
 <0116> Never seen this one! Whee!
-<0117> Yeah!
-<0118> That's really good!
-<0119> Sure.
-<0120> No.
-<0121> What, really?
-<0122> Wah! I'm happy!
-<0123> Oh?
-<0124> All right then, let's play!
-<0125> Throw this thing? Okay then!
-<0126> Shupaaan!
-<0127> Yahoooy!
-<0128> Hmmm...
-<0129> Whoa!
-<0130> Incredible, amazing, awesome!
-<0131> Uuu... Oh no...
-<0132> I guess I wanna try using this.
-<0133> Mhm? Will I use this one?
-<0134> Ahahahaha! Not sure what this does, but I'll play it anyway.
-<0135> What will happen? I'm so hyped!
-<0136> Hooray! Nana's here! Let's play!
-<0137> Yeah, sure!
-<0138> Ah, that was so much fun!
-<0139> Yeah, let's play again.
-<0140> What? Can I really beat it up?
-<0141> Wah! Here it comes!
-<0142> Boy, that was scary!
-<0143> Uuu...
-<0144> Wow, it's a kitty!
-<0145> Oh? A kitty!
-<0146> Ahaha, you're so adorable!
-<0147> You're a strong kitty.
-<0148> I-it's a puppy!
-<0149> Hey, let me cuddle you!
-<0150> You're so fluffy!
-<0151> The puppy's strong...!
-<0152> Wow, it's a bunny! Boing boing!
-<0153> A fluffy bunny!
-<0154> You're one energetic bunny!
-<0155> Bunnies are strong...
+<0117> We switch!
+<0118> I wanna play a little more, though.
+<0119> Okay! Time for you to go out!
+<0120> See ya!
+<0121> Yeah!
+<0122> That's really good!
+<0123> Sure.
+<0124> No.
+<0125> What, really?
+<0126> Wah! I'm happy!
+<0127> Oh?
+<0128> All right then, let's play!
+<0129> Throw this thing? Okay then!
+<0130> Shupaaan!
+<0131> Yahoooy!
+<0132> Hmmm...
+<0133> Whoa!
+<0134> Incredible, amazing, awesome!
+<0135> Uuu... Oh no...
+<0136> I guess I wanna try using this.
+<0137> Mhm? Will I use this one?
+<0138> Ahahahaha! Not sure what this does, but I'll play it anyway.
+<0139> What will happen? I'm so hyped!
+<0140> Hooray! Nana's here! Let's play!
+<0141> Yeah, sure!
+<0142> Ah, that was so much fun!
+<0143> Yeah, let's play again.
+<0144> What? Can I really beat it up?
+<0145> Wah! Here it comes!
+<0146> Boy, that was scary!
+<0147> Uuu...
+<0148> Wow, it's a kitty!
+<0149> Oh? A kitty!
+<0150> Ahaha, you're so adorable!
+<0151> You're a strong kitty.
+<0152> I-it's a puppy!
+<0153> Hey, let me cuddle you!
+<0154> You're so fluffy!
+<0155> The puppy's strong...!
+<0156> Wow, it's a bunny! Boing boing!
+<0157> A fluffy bunny!
+<0158> You're one energetic bunny!
+<0159> Bunnies are strong...

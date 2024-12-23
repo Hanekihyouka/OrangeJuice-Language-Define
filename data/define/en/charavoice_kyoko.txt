@@ -111,42 +111,46 @@
 <0110> Did you get what you wanted?
 <0111> Good for you.
 <0112> Is that thing useful?
-<0113> Good.
-<0114> Nice.
-<0115> Yes.
-<0116> No.
-<0117> That's too bad.
-<0118> Good for you.
-<0119> Oh?
-<0120> Let's go, shall we?
-<0121> Go ahead and throw the dice.
-<0122> Now.
-<0123> Hello.
-<0124> Hm...
-<0125> Well done.
-<0126> That's astonishing.
-<0127> Don't do that.
-<0128> I'm unfamiliar with this... I?'m worried.
-<0129> I don't know whose this is, but allow me to use it.
-<0130> This is a nice find.
-<0131> What if I play this one?
-<0132> Hm... It seems he's out here now.
-<0133> *Sigh*... This'll be a hard fight for me.
-<0134> I just want him to stay still forever.
-<0135> Aw, jeez... He's such a piece of work.
-<0136> Are you...
-<0137> I don't really wanna be around you.
-<0138> Hopefully we'll never see each other again.
-<0139> You're hard for me to fight...  Really.
-<0140> Why are you here...!
-<0141> I'll reduce you to a head again.
-<0142> You're disgusting...
-<0143> You look better as a head.
-<0144> I don't believe I lost to you of all others.
-<0145> This is a nightmare... The worst nightmare ever.
-<0146> Iru, I think you should act more calmly.
-<0147> How are your bits?
-<0148> You look like you're having fun... That's good.
-<0149> You look... well. I have nothing to say if you're keeping healthy.
-<0150> That's nothing to me.
-<0151> You're not powerful enough to break my crystal.
+<0113> I'd like you to take my place.
+<0114> Would you mind switching?
+<0115> Let me have some rest.
+<0116> I'll leave the rest to you.
+<0117> Good.
+<0118> Nice.
+<0119> Yes.
+<0120> No.
+<0121> That's too bad.
+<0122> Good for you.
+<0123> Oh?
+<0124> Let's go, shall we?
+<0125> Go ahead and throw the dice.
+<0126> Now.
+<0127> Hello.
+<0128> Hm...
+<0129> Well done.
+<0130> That's astonishing.
+<0131> Don't do that.
+<0132> I'm unfamiliar with this... I'm worried.
+<0133> I don't know whose this is, but allow me to use it.
+<0134> This is a nice find.
+<0135> What if I play this one?
+<0136> Hm... It seems he's out here now.
+<0137> *Sigh*... This'll be a hard fight for me.
+<0138> I just want him to stay still forever.
+<0139> Aw, jeez... He's such a piece of work.
+<0140> Are you...
+<0141> I don't really wanna be around you.
+<0142> Hopefully we'll never see each other again.
+<0143> You're hard for me to fight...  Really.
+<0144> Why are you here...!
+<0145> I'll reduce you to a head again.
+<0146> You're disgusting...
+<0147> You look better as a head.
+<0148> I don't believe I lost to you of all others.
+<0149> This is a nightmare... The worst nightmare ever.
+<0150> Iru, I think you should act more calmly.
+<0151> How are your bits?
+<0152> You look like you're having fun... That's good.
+<0153> You look... well. I have nothing to say if you're keeping healthy.
+<0154> That's nothing to me.
+<0155> You're not powerful enough to break my crystal.

@@ -115,41 +115,47 @@
 <0114> Oh, that's a very good one?
 <0115> You look happy. You got something good?
 <0116> That looks cute.
-<0117> Yes.
-<0118> That's amazing.
-<0119> Sure, of course.
-<0120> That's not very good.
-<0121> I'm sorry that happened.
-<0122> Fufu, such good luck.
-<0123> Weeell.
-<0124> Let's go, shall we?
-<0125> There!
-<0126> Best of luck to you.
-<0127> Hello, there.
-<0128> I'm not quite sure how to react.
-<0129> Fufu, that's really amazing.
-<0130> You did truly great work. I'm proud of you.
-<0131> Oh geez.
-<0132> I wonder what this one does.
-<0133> I'm able to use this too?
-<0134> Well... Am I using this correctly?
-<0135> What's this do? I'm excited to find out.
-<0136> Thank you.
-<0137> Suguri... Do you have any idea how lazy you look now?
-<0138> Geez, Suguri, you have to explain to me the way you look.
-<0139> You shouldn't be that lazy even when nobody's around.
-<0140> No matter how lazy you look, you're still as strong as before.
-<0141> It seems like you're leading a cheerful life.
-<0142> Oh, you're here too?
-<0143> I can't afford to get defeated by you.
-<0144> You're strong enough to be my substitute.
-<0145> Whoa, I think she's having the day off?
-<0146> It's fun playing games casually - you agree with me, don't you?
-<0147> What she's wearing... I wonder if I can wear something like that too.
-<0148> You're great at playing.
-<0149> I'm bored.
-<0150> I'm stoked to get to play with you two.
-<0151> Fufu, I can tell we'll have such a good time together.
-<0152> I can't believe I have both Suguri and Sis here.
-<0153> Now, since we're all here, let's enjoy the game as much as we can.
-<0154> It seems like there's a wicked witch or two around here.
+<0117> I think I'll be taking my leave now.
+<0118> I'd like to see you shine out there.
+<0119> Good luck with the rest of the game.
+<0120> It's time to switch.
+<0121> Yes.
+<0122> That's amazing.
+<0123> Sure, of course.
+<0124> That's not very good.
+<0125> I'm sorry that happened.
+<0126> Fufu, such good luck.
+<0127> Weeell.
+<0128> Let's go, shall we?
+<0129> There!
+<0130> Best of luck to you.
+<0131> Hello, there.
+<0132> I'm not quite sure how to react.
+<0133> Fufu, that's really amazing.
+<0134> You did truly great work. I'm proud of you.
+<0135> Oh geez.
+<0136> I wonder what this one does.
+<0137> I'm able to use this too?
+<0138> Well... Am I using this correctly?
+<0139> What's this do? I'm excited to find out.
+<0140> Thank you.
+<0141> Suguri... Do you have any idea how lazy you look now?
+<0142> Geez, Suguri, you have to explain to me the way you look.
+<0143> You shouldn't be that lazy even when nobody's around.
+<0144> No matter how lazy you look, you're still as strong as before.
+<0145> You really need to get it together.
+<0146> Geez, you sure are lazy.
+<0147> It seems like you're leading a cheerful life.
+<0148> Oh, you're here too?
+<0149> I can't afford to get defeated by you.
+<0150> You're strong enough to be my substitute.
+<0151> Whoa, I think she's having the day off?
+<0152> It's fun playing games casually - you agree with me, don't you?
+<0153> What she's wearing... I wonder if I can wear something like that too.
+<0154> You're great at playing.
+<0155> I'm bored.
+<0156> I'm stoked to get to play with you two.
+<0157> Fufu, I can tell we'll have such a good time together.
+<0158> I can't believe I have both Suguri and Sis here.
+<0159> Now, since we're all here, let's enjoy the game as much as we can.
+<0160> It seems like there's a wicked witch or two around here.

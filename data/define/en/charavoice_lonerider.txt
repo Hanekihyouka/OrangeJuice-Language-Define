@@ -115,42 +115,46 @@
 <0114> This could be useful.
 <0115> This will look good on the windshield.
 <0116> Another trophy from the road.
-<0117> Gotcha.
-<0118> Alright!
-<0119> Roger that.
-<0120> That's not how I ride.
-<0121> Well, don't take it to heart.
-<0122> You never know what the day will bring!
-<0123> Eh, what?
-<0124> Hee-yaah!
-<0125> Let's roll out!
-<0126> It's go time!
-<0127> Sup?
-<0128> Mmh...
-<0129> Not bad at all.
-<0130> Well I'll be!
-<0131> Ugh, this isn't our lucky day...
-<0132> It's all in how you use it.
-<0133> I put anything I find to use.
-<0134> What a strange gadget. Let's see what it does.
-<0135> Maybe this will give me the boost I need.
-<0136> Don't follow me!
-<0137> I feel like all the burdens of the world are left behind.
-<0138> So long, my youth...
-<0139> You'd better not wreck my ride again!
-<0140> Just when I'd gotten her all fixed up!
-<0141> Not this time, you don't.
-<0142> Now this is living.
-<0143> I can race the wind.
-<0144> You can still go faster, can't you?
-<0145> The horizon is calling.
-<0146> Hm? Just don't get in my way.
-<0147> How many times do I have to tell you guys to stay out of this?
-<0148> O-oh, a flat tire?!
-<0149> The road is a man's romance, huh?
-<0150> Shifting to reverse gear!
-<0151> Reverse!
-<0152> Wrong turn... let's backtrack a little.
-<0153> This is the best way to throw off pursuit.
-<0154> I may be alone, but I won't be lonely as long as I've got you!
-<0155> Feels like home.
+<0117> I'll go my way now.
+<0118> You do your thing, I'll do mine.
+<0119> Can you take the wheel for a while?
+<0120> I'll take a power nap. Take care of things for a while.
+<0121> Gotcha.
+<0122> Alright!
+<0123> Roger that.
+<0124> That's not how I ride.
+<0125> Well, don't take it to heart.
+<0126> You never know what the day will bring!
+<0127> Eh, what?
+<0128> Hee-yaah!
+<0129> Let's roll out!
+<0130> It's go time!
+<0131> Sup?
+<0132> Mmh...
+<0133> Not bad at all.
+<0134> Well I'll be!
+<0135> Ugh, this isn't our lucky day...
+<0136> It's all in how you use it.
+<0137> I put anything I find to use.
+<0138> What a strange gadget. Let's see what it does.
+<0139> Maybe this will give me the boost I need.
+<0140> Don't follow me!
+<0141> I feel like all the burdens of the world are left behind.
+<0142> So long, my youth...
+<0143> You'd better not wreck my ride again!
+<0144> Just when I'd gotten her all fixed up!
+<0145> Not this time, you don't.
+<0146> Now this is living.
+<0147> I can race the wind.
+<0148> You can still go faster, can't you?
+<0149> The horizon is calling.
+<0150> Hm? Just don't get in my way.
+<0151> How many times do I have to tell you guys to stay out of this?
+<0152> O-oh, a flat tire?!
+<0153> The road is a man's romance, huh?
+<0154> Shifting to reverse gear!
+<0155> Reverse!
+<0156> Wrong turn... let's backtrack a little.
+<0157> This is the best way to throw off pursuit.
+<0158> I may be alone, but I won't be lonely as long as I've got you!
+<0159> Feels like home.

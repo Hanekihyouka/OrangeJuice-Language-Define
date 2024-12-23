@@ -147,9 +147,11 @@
 <0145> "The past me"...? What do you mean?
 <0146> This is a complicated feeling...
 <0147> Are you really me?
-<0148> Sure, I'm in.
-<0149> You got carried away, Hime.
-<0150> Yeah, I had fun, too.
-<0151> I know you're not easy to beat, Sora.
-<0152> Fufu, that was fun, Sora.
-<0153> I'm impressed how strong you still are.
+<0148> It's reassuring to have you with me.
+<0149> Hime, let's switch.
+<0150> Sure, I'm in.
+<0151> You got carried away, Hime.
+<0152> Yeah, I had fun, too.
+<0153> I know you're not easy to beat, Sora.
+<0154> Fufu, that was fun, Sora.
+<0155> I'm impressed how strong you still are.

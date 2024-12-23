@@ -116,44 +116,48 @@
 <0114> Is that what you wanted?
 <0115> Lucky pull!
 <0116> Well done!
-<0117> Okay!
-<0118> I'm liking that!
-<0119> Sure!
-<0120> Nope!
-<0121> Shoot..!
-<0122> Lucky you!
-<0123> Hmm?
-<0124> Let's go!
-<0125> Dice!
-<0126> Go go!
-<0127> What's up!
-<0128> Mhmah?
-<0129> Nice!
-<0130> Incredible!
-<0131> Boy, that sucks...
-<0132> Nobody'd expect me to play this!
-<0133> I don't know whose this is, but I'll just use it anyway!
-<0134> I always wanted to play this once!
-<0135> Uhihi, I choose this card!
-<0136> Nacchan, what's up!
-<0137> We're gonna have a blast, okay!
-<0138> That's my Nacchan... It was hella fun!
-<0139> Ha, I won this time, Nacchan!
-<0140> Oh, if it isn't Yuki! We should play!
-<0141> Oh, you wanna play with me? That's awesome!
-<0142> It was quite fun!
-<0143> Guh, l-let me fight you one more time...!
-<0144> Ah, it's Santa! Red, Blue, we'll catch her!
-<0145> Whoa, Santa?!
-<0146> Now, give me gifts! A bunch of them!
-<0147> You're a horrible Santa, hurting me like this!
-<0148> You look hyperactive!
-<0149> I bet there's gonna be a furious fight!
-<0150> It was one hella furious battle!
-<0151> Ugh, you're quite good...
-<0152> I'll take you down and be the new protagonist!
-<0153> Look who's here. Our nondescript protagonist!
-<0154> Starting today, I am the protagonist!
-<0155> Ugh, how dare you, you nondescript dude...!
-<0156> Red, Blue!
-<0157> This is the all-out version of White Christsmasher!!
+<0117> Switch places with me!
+<0118> All right, it's your turn to go.
+<0119> Time to switch!
+<0120> Take care of the rest, will ya!
+<0121> Okay!
+<0122> I'm liking that!
+<0123> Sure!
+<0124> Nope!
+<0125> Shoot..!
+<0126> Lucky you!
+<0127> Hmm?
+<0128> Let's go!
+<0129> Dice!
+<0130> Go go!
+<0131> What's up!
+<0132> Mhmah?
+<0133> Nice!
+<0134> Incredible!
+<0135> Boy, that sucks...
+<0136> Nobody'd expect me to play this!
+<0137> I don't know whose this is, but I'll just use it anyway!
+<0138> I always wanted to play this once!
+<0139> Uhihi, I choose this card!
+<0140> Nacchan, what's up!
+<0141> We're gonna have a blast, okay!
+<0142> That's my Nacchan... It was hella fun!
+<0143> Ha, I won this time, Nacchan!
+<0144> Oh, if it isn't Yuki! We should play!
+<0145> Oh, you wanna play with me? That's awesome!
+<0146> It was quite fun!
+<0147> Guh, l-let me fight you one more time...!
+<0148> Ah, it's Santa! Red, Blue, we'll catch her!
+<0149> Whoa, Santa?!
+<0150> Now, give me gifts! A bunch of them!
+<0151> You're a horrible Santa, hurting me like this!
+<0152> You look hyperactive!
+<0153> I bet there's gonna be a furious fight!
+<0154> It was one hella furious battle!
+<0155> Ugh, you're quite good...
+<0156> I'll take you down and be the new protagonist!
+<0157> Look who's here. Our nondescript protagonist!
+<0158> Starting today, I am the protagonist!
+<0159> Ugh, how dare you, you nondescript dude...!
+<0160> Red, Blue!
+<0161> This is the all-out version of White Christsmasher!!

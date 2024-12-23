@@ -119,6 +119,9 @@
 < FIELD_VOID >
 虚空
 
+< FIELD_PURES >
+“纯洁”集章会
+
 < FIELD_COOP_LAGOONFLIGHT >
 环礁 合作
 

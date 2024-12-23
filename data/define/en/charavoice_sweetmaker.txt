@@ -116,39 +116,47 @@
 <114> If it looks tasty, why don't we share it?
 <115> You got something crazy good?
 <116> You sure look happy.
-<117> Okaaay.
-<118> Wow.
-<119> Leave it to me!
-<120> No!
-<121> Oh no...
-<122> You're super lucky!
-<123> I wonder why.
-<124> Let's go! Let's go!
-<125> I'm hurling the die!
-<126> You can do it! I'm rooting for you!
-<127> Good to see you.
-<128> Hmm? Um?
-<129> That's nice~
-<130> Let me compliment you as a god!
-<131> Aaaaaaaah, I'm so maaaaad...
-<132> I'm playing this card!
-<133> This is a wonderful power.
-<134> I'm about to use this superpower here in my hand...
-<135> Now, watch and be surprised!
-<136> Thank you so much!
-<137> I'm gonna beat you here and take up your post as boss!
-<138> You really wanna fight me, boss!?
-<139> Now I'm officially the boss of the Sweet Gods!
-<140> Oh boy, you really are strong, boss.
-<141> A battle between Sweet Gods, let's do it!
-<142> A battle between Sweet Gods, you sure you wanna do that?
-<143> I think this win proves I'm a better god than you?
-<144> Oww... I shouldn't have expected anything less from a Sweet God...
-<145> The power of sweets is the best!
-<146> This one's so powerful, it might have to be locked away...
-<147> Sweets make everyone happy.
-<148> Let me show you what sweets are capable of.
-<149> These are my handmade sweets!
-<150> My snacks of the day have been chosen!
-<151> Fufufu, I've never been happier.
-<152> That looks sooo delicious, don't you think?
+<117> It's your turn to go play.
+<118> Alright, let's switch now.
+<119> You got this!
+<120> Time to switch! Good luck!
+<121> Okaaay.
+<122> Wow.
+<123> Leave it to me!
+<124> No!
+<125> Oh no...
+<126> You're super lucky!
+<127> I wonder why.
+<128> Let's go! Let's go!
+<129> I'm hurling the die!
+<130> You can do it! I'm rooting for you!
+<131> Good to see you.
+<132> Hmm? Um?
+<133> That's nice~
+<134> Let me compliment you as a god!
+<135> Aaaaaaaah, I'm so maaaaad...
+<136> I'm playing this card!
+<137> This is a wonderful power.
+<138> I'm about to use this superpower here in my hand...
+<139> Now, watch and be surprised!
+<140> Thank you so much!
+<141> I'm gonna beat you here and take up your post as boss!
+<142> You really wanna fight me, boss!?
+<143> Now I'm officially the boss of the Sweet Gods!
+<144> Oh boy, you really are strong, boss.
+<145> A battle between Sweet Gods, let's do it!
+<146> A battle between Sweet Gods, you sure you wanna do that?
+<147> I think this win proves I'm a better god than you?
+<148> Oww... I shouldn't have expected anything less from a Sweet God...
+<149> You and me together, we're the strongest sweets.
+<150> No one can beat this strongest team of two gods.
+<151> Our combined powers might be pretty bittersweet for everyone else.
+<152> Ku-ku-ku, the two of us will rule all the sweets across the globe...
+<153> The power of sweets is the best!
+<154> This one's so powerful, it might have to be locked away...
+<155> Sweets make everyone happy.
+<156> Let me show you what sweets are capable of.
+<157> These are my handmade sweets!
+<158> My snacks of the day have been chosen!
+<159> Fufufu, I've never been happier.
+<160> That looks sooo delicious, don't you think?

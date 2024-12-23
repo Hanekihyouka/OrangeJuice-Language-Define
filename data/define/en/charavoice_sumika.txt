@@ -115,40 +115,46 @@
 <0114> Sumika wanted this kind of stuff to decorate her room.
 <0115> Hmm, Sumika thinks this thing is quite good.
 <0116> What do you say we play with this thing?
-<0117> Okay!
-<0118> Nice!
-<0119> Yeah!
-<0120> No!
-<0121> Pain in the neck, right?
-<0122> Lucky!
-<0123> Hmm?
-<0124> Alright, let's get started!
-<0125> Here's the dice.
-<0126> Let's go!
-<0127> Hello!
-<0128> Mhm...
-<0129> That's great!
-<0130> Amazing!
-<0131> Oh uh...
-<0132> Sumika's capable of anything!
-<0133> Fine, Sumika will use that if you insist that much.
-<0134> Sumika doesn't know what this card does! She can't wait to find out!
-<0135> So this card has come to Sumika... She'll gladly play it now!
-<0136> Suguri! We haven't fought in a while, so let's do it!
-<0137> Suguri!? You have to go easy on Sumika, okay!?
-<0138> Huh? Have you lost your touch, Suguri?
-<0139> Come on! You were supposed to go easy on Sumika!
-<0140> Whoa, it's the Suguri of old!
-<0141> The Suguri of old... She has sharp eyes...
-<0142> Sumika's somehow feeling nostalgic now.
-<0143> Sumika knew she wouldn't beat Suguri in her prime...
-<0144> Brother! Let's decide who's stronger, you or Sumika!
-<0145> Looking to fight Sumika? Bring it on, brother!
-<0146> Sumika has better performance!
-<0147> You KO'ing Sumika was the last thing she wanted!
-<0148> You have to treat Navi's body better!
-<0149> Ah! It's the fake Papa!
-<0150> Don't you come any closer to Sumika!
-<0151> You're so weak, imposter.
-<0152> Gee! Unacceptable!
-<0153> Sumika smells him... You're around, aren't you, brother!
+<0117> Switch, please!
+<0118> Sumika believes in you.
+<0119> Sumika would like a switch now, please.
+<0120> You got this.
+<0121> Okay!
+<0122> Nice!
+<0123> Yeah!
+<0124> No!
+<0125> Pain in the neck, right?
+<0126> Lucky!
+<0127> Hmm?
+<0128> Alright, let's get started!
+<0129> Here's the dice.
+<0130> Let's go!
+<0131> Hello!
+<0132> Mhm...
+<0133> That's great!
+<0134> Amazing!
+<0135> Oh uh...
+<0136> Sumika's capable of anything!
+<0137> Fine, Sumika will use that if you insist that much.
+<0138> Sumika doesn't know what this card does! She can't wait to find out!
+<0139> So this card has come to Sumika... She'll gladly play it now!
+<0140> Suguri! We haven't fought in a while, so let's do it!
+<0141> Suguri!? You have to go easy on Sumika, okay!?
+<0142> Huh? Have you lost your touch, Suguri?
+<0143> Come on! You were supposed to go easy on Sumika!
+<0144> Suguri plus Sumika is the longest and strongest duo ever!
+<0145> Suguri, Sumika wants you to take over!
+<0146> Whoa, it's the Suguri of old!
+<0147> The Suguri of old... She has sharp eyes...
+<0148> Sumika's somehow feeling nostalgic now.
+<0149> Sumika knew she wouldn't beat Suguri in her prime...
+<0150> Brother! Let's decide who's stronger, you or Sumika!
+<0151> Looking to fight Sumika? Bring it on, brother!
+<0152> Sumika has better performance!
+<0153> You KO'ing Sumika was the last thing she wanted!
+<0154> You have to treat Navi's body better!
+<0155> Ah! It's the fake Papa!
+<0156> Don't you come any closer to Sumika!
+<0157> You're so weak, imposter.
+<0158> Gee! Unacceptable!
+<0159> Sumika smells him... You're around, aren't you, brother!

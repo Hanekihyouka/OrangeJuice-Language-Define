@@ -115,42 +115,46 @@
 <0114> An excellent item, I say!
 <0115> The customer has a discerning eye.
 <0116> Such rare goods!
-<0117> It's a deal.
-<0118> Excellent!
-<0119> Deal!
-<0120> Hah, no way.
-<0121> Don't fret, no one always wins.
-<0122> Fortune smiles upon us!
-<0123> What's that about?
-<0124> Let's go for a new record!
-<0125> I have a feeling this will be the winning throw!
-<0126> It's time to roll out!
-<0127> Why, hello there.
-<0128> Fumu fumu...
-<0129> Fufu, excellent.
-<0130> How marvelous!
-<0131> Curses!
-<0132> Waste not, want not.
-<0133> One man's trash is another's treasure.
-<0134> Finders keepers!
-<0135> Let's make them work for us.
-<0136> Stay away from the tracks, will you!
-<0137> Need another delivery? I've got you covered, yes I do!
-<0138> Time is money!
-<0139> A penny saved is a penny earned!
-<0140> Time to cut my losses...
-<0141> Fuhuhu! This is what you make connections for.
-<0142> Your supply, my delivery - think what we could accomplish!
-<0143> Oh, I smell a fellow businessman, yes I do.
-<0144> If you can just sign here...
-<0145> You drive a tough bargain!
-<0146> And a fine day to you too!
-<0147> Just let me know if you need more. We have a good resupply plan!
-<0148> Mm, a worthwhile compromise.
-<0149> I'll just write that one off as a loss.
-<0150> You look like you could use an upgrade!
-<0151> Allow me to make a counter-proposal!
-<0152> I'm right on schedule, yes I am.
-<0153> Another perfect delivery!
-<0154> Don't mind if I do.
-<0155> Neither snow nor rain can keep me down, no it can't!
+<0117> Sorry, gotta go!
+<0118> I've got another delivery to do, yes I do.
+<0119> Remember, there's no payment on failure!
+<0120> I'll entrust the cargo to you!
+<0121> It's a deal.
+<0122> Excellent!
+<0123> Deal!
+<0124> Hah, no way.
+<0125> Don't fret, no one always wins.
+<0126> Fortune smiles upon us!
+<0127> What's that about?
+<0128> Let's go for a new record!
+<0129> I have a feeling this will be the winning throw!
+<0130> It's time to roll out!
+<0131> Why, hello there.
+<0132> Fumu fumu...
+<0133> Fufu, excellent.
+<0134> How marvelous!
+<0135> Curses!
+<0136> Waste not, want not.
+<0137> One man's trash is another's treasure.
+<0138> Finders keepers!
+<0139> Let's make them work for us.
+<0140> Stay away from the tracks, will you!
+<0141> Need another delivery? I've got you covered, yes I do!
+<0142> Time is money!
+<0143> A penny saved is a penny earned!
+<0144> Time to cut my losses...
+<0145> Fuhuhu! This is what you make connections for.
+<0146> Your supply, my delivery - think what we could accomplish!
+<0147> Oh, I smell a fellow businessman, yes I do.
+<0148> If you can just sign here...
+<0149> You drive a tough bargain!
+<0150> And a fine day to you too!
+<0151> Just let me know if you need more. We have a good resupply plan!
+<0152> Mm, a worthwhile compromise.
+<0153> I'll just write that one off as a loss.
+<0154> You look like you could use an upgrade!
+<0155> Allow me to make a counter-proposal!
+<0156> I'm right on schedule, yes I am.
+<0157> Another perfect delivery!
+<0158> Don't mind if I do.
+<0159> Neither snow nor rain can keep me down, no it can't!

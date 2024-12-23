@@ -115,48 +115,52 @@
 <0114> Ain't seen you before.
 <0115> That'll make us stronger.
 <0116> All right, someone take it to the storage.
-<0117> Okie dokie.
-<0118> Good.
-<0119> Okay.
-<0120> No.
-<0121> Dammit!
-<0122> Lucky day.
-<0123> Hmm.
-<0124> Let's go!
-<0125> Hmph!
-<0126> Here we go!
-<0127> Ahoy.
-<0128> Hmm.
-<0129> Nice.
-<0130> Gahaha, that's fantastic!
-<0131> Son of a bitch!
-<0132> No reason not to use this.
-<0133> Never seen this one. Interesting.
-<0134> This one looks quite good.
-<0135> Let me borrow this.
-<0136> Ha ha ha, that's the spirit!
-<0137> Big magnum, fire!!
-<0138> Ye have the same smell as us!
-<0139> I ain't going easy even on little brats!
-<0140> Oh, I like your face. It's that of a real villain.
-<0141> Empty ye damn bag right now!
-<0142> Someone smells rich!
-<0143> Ye can take these, so adios!
-<0144> Son of a bitch, you actually shot me!
-<0145> This is what we pirates do!
-<0146> Ye may work for me!
-<0147> Ahoy, if it isn't the little wine barrel girl!
-<0148> Kuwaha! What's wrong with me, getting defeated by a little chick!
-<0149> O-o-ooh! I actually took down whatever that was...
-<0150> Mano a mano, you and me! Fair enough, huh?
-<0151> This damn card was made for me!
-<0152> There are battles that one can't run away from!
-<0153> Gaaahahaha! Perfect, just perfect!
-<0154> Tsk, cheap.
-<0155> Kuwahahaha, couldn't be better.
-<0156> Don't you dare mess with me!
-<0157> Gahaha, trying to skip out on training?
-<0158> Pirates need time off, too!
-<0159> Wahaha, you do the dishes today!
-<0160> Guoh... You make daddy proud!
-<0161> Wha-, mutiny!
+<0117> Hmm, ye take care of the rest.
+<0118> All right, we be switching places.
+<0119> Don't you mess up out there.
+<0120> I'mma rest for a while.
+<0121> Okie dokie.
+<0122> Good.
+<0123> Okay.
+<0124> No.
+<0125> Dammit!
+<0126> Lucky day.
+<0127> Hmm.
+<0128> Let's go!
+<0129> Hmph!
+<0130> Here we go!
+<0131> Ahoy.
+<0132> Hmm.
+<0133> Nice.
+<0134> Gahaha, that's fantastic!
+<0135> Son of a bitch!
+<0136> No reason not to use this.
+<0137> Never seen this one. Interesting.
+<0138> This one looks quite good.
+<0139> Let me borrow this.
+<0140> Ha ha ha, that's the spirit!
+<0141> Big magnum, fire!!
+<0142> Ye have the same smell as us!
+<0143> I ain't going easy even on little brats!
+<0144> Oh, I like your face. It's that of a real villain.
+<0145> Empty ye damn bag right now!
+<0146> Someone smells rich!
+<0147> Ye can take these, so adios!
+<0148> Son of a bitch, you actually shot me!
+<0149> This is what we pirates do!
+<0150> Ye may work for me!
+<0151> Ahoy, if it isn't the little wine barrel girl!
+<0152> Kuwaha! What's wrong with me, getting defeated by a little chick!
+<0153> O-o-ooh! I actually took down whatever that was...
+<0154> Mano a mano, you and me! Fair enough, huh?
+<0155> This damn card was made for me!
+<0156> There are battles that one can't run away from!
+<0157> Gaaahahaha! Perfect, just perfect!
+<0158> Tsk, cheap.
+<0159> Kuwahahaha, couldn't be better.
+<0160> Don't you dare mess with me!
+<0161> Gahaha, trying to skip out on training?
+<0162> Pirates need time off, too!
+<0163> Wahaha, you do the dishes today!
+<0164> Guoh... You make daddy proud!
+<0165> Wha-, mutiny!

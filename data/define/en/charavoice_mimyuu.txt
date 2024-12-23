@@ -111,44 +111,48 @@
 <0110> Mimyuu wants to see it. She wants to see it.
 <0111> If you're happy, Mimyuu's happy, too.
 <0112> Wow... Mimyuu thinks it's a good work.
-<0113> Okay.
-<0114> Yaay.
-<0115> Gotcha.
-<0116> Mimyuu dares to say no.
-<0117> Nununu.
-<0118> This is what they call good luck.
-<0119> Mhm?
-<0120> You ready? Let's go.
-<0121> Dice... It's a tad too heavy for Mimyuu.
-<0122> Go, go.
-<0123> Mornin'.
-<0124> What should Mimyuu do?
-<0125> Nice.
-<0126> You're something else.
-<0127> What the heck...
-<0128> How to use an unfamilar card: Just use it!
-<0129> Mimyuu wanted to play this!
-<0130> Know this card? Mimyuu doesn't!
-<0131> Let Mimyuu borrow this for a sec! Your card, that is!
-<0132> Let Mimyuu tell you thanks.
-<0133> Boss, play with Mimyuu!
-<0134> Hooray, Mimyuu loves you, Boss.
-<0135> Mimyuu beat Boss...?
-<0136> That's my Boss... Super strong.
-<0137> Big Boss, Mimyuu wants you to play with her!
-<0138> Big Boss will play with Mimyuu!
-<0139> Mimyuu beat Big Boss... and that means... Mimyuu is now the big boss?
-<0140> It was a tad too early to challenge Big Boss...
-<0141> It's Nana! Whee!
-<0142> You got nothing to do, Nana?
-<0143> Mimyuu could manage to beat Nana... She's so strong.
-<0144> You're super impressive, Nana.
-<0145> One Mimyuu is all you need!
-<0146> Mimyuu...? Are you Mimyuu?
-<0147> Mimyuu just smacked Mimyuu down.
-<0148> Oh no... Mimyuu's the fake one?
-<0149> *snore* Zzz.
-<0150> Mimyuu's getting bored.
-<0151> Mimyuu'll lie down here.
-<0152> Pyu-pyu-pyuu-pyu-pyuu-puii...
-<0153> That's Mimyuu's!
+<0113> Switch now.
+<0114> You got this, bud.
+<0115> Mimyuu's tired, that's why.
+<0116> You go get them.
+<0117> Okay.
+<0118> Yaay.
+<0119> Gotcha.
+<0120> Mimyuu dares to say no.
+<0121> Nununu.
+<0122> This is what they call good luck.
+<0123> Mhm?
+<0124> You ready? Let's go.
+<0125> Dice... It's a tad too heavy for Mimyuu.
+<0126> Go, go.
+<0127> Mornin'.
+<0128> What should Mimyuu do?
+<0129> Nice.
+<0130> You're something else.
+<0131> What the heck...
+<0132> How to use an unfamilar card: Just use it!
+<0133> Mimyuu wanted to play this!
+<0134> Know this card? Mimyuu doesn't!
+<0135> Let Mimyuu borrow this for a sec! Your card, that is!
+<0136> Let Mimyuu tell you thanks.
+<0137> Boss, play with Mimyuu!
+<0138> Hooray, Mimyuu loves you, Boss.
+<0139> Mimyuu beat Boss...?
+<0140> That's my Boss... Super strong.
+<0141> Big Boss, Mimyuu wants you to play with her!
+<0142> Big Boss will play with Mimyuu!
+<0143> Mimyuu beat Big Boss... and that means... Mimyuu is now the big boss?
+<0144> It was a tad too early to challenge Big Boss...
+<0145> It's Nana! Whee!
+<0146> You got nothing to do, Nana?
+<0147> Mimyuu could manage to beat Nana... She's so strong.
+<0148> You're super impressive, Nana.
+<0149> One Mimyuu is all you need!
+<0150> Mimyuu...? Are you Mimyuu?
+<0151> Mimyuu just smacked Mimyuu down.
+<0152> Oh no... Mimyuu's the fake one?
+<0153> *snore* Zzz.
+<0154> Mimyuu's getting bored.
+<0155> Mimyuu'll lie down here.
+<0156> Pyu-pyu-pyuu-pyu-pyuu-puii...
+<0157> That's Mimyuu's!

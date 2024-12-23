@@ -115,43 +115,47 @@
 <0114> This looks passable.
 <0115> Quite a fine find.
 <0116> How marvelous!
-<0117> Very well.
-<0118> Excellent.
-<0119> Alright.
-<0120> No way.
-<0121> Oh well, these things happen.
-<0122> How fortuitous.
-<0123> My my?
-<0124> Let's proceed.
-<0125> Let's try our luck.
-<0126> Go!
-<0127> Why, pleased to meet you.
-<0128> Hmmmmh...
-<0129> Perfect!
-<0130> Truly amazing!
-<0131> Ahhh... this is the worst!
-<0132> Why have connections if you never use them?
-<0133> This is just a little trick I picked up.
-<0134> Boldness is called for here.
-<0135> What a curious contraption. Let's find out what it does.
-<0136> You have my gratitude.
-<0137> It's best to start out by making connections.
-<0138> There are few doors money doesn't open.
-<0139> I will make them come begging to me.
-<0140> I pity the fool who would oppose me.
-<0141> A clever investment will always bear fruit.
-<0142> You are all cordially invited to my debut. Be grateful!
-<0143> Why, it is no more than my right.
-<0144> Isn't that sword too heavy to carry around?
-<0145> Don't worry, I'm just borrowing this for a little bit. Someone deserves a lesson.
-<0146> Why hello, it's been a while. How have you been?
-<0147> I've been looking forward to your visit.
-<0148> You may stay the night if you insist. I'll have my butler prepare a room.
-<0149> Already in a hurry? Geez, it can't be helped.
-<0150> If only things were always this simple in life.
-<0151> I have great respect for your intellect. I'd prefer to make an ally of you, but if not...
-<0152> That's an interesting clothing design. Let me take some notes.
-<0153> You simply lack the means to stand any chance against me.
-<0154> How dare this stupid beast?!
-<0155> You may take care of the physical work. I don't want my dress to get dirty.
-<0156> What kind of costume is that supposed to be? How daring...
+<0117> How about you take care of this mess?
+<0118> *Yawn*, pardon me.
+<0119> I trust you can handle this.
+<0120> This won't be a problem for you, will it?
+<0121> Very well.
+<0122> Excellent.
+<0123> Alright.
+<0124> No way.
+<0125> Oh well, these things happen.
+<0126> How fortuitous.
+<0127> My my?
+<0128> Let's proceed.
+<0129> Let's try our luck.
+<0130> Go!
+<0131> Why, pleased to meet you.
+<0132> Hmmmmh...
+<0133> Perfect!
+<0134> Truly amazing!
+<0135> Ahhh... this is the worst!
+<0136> Why have connections if you never use them?
+<0137> This is just a little trick I picked up.
+<0138> Boldness is called for here.
+<0139> What a curious contraption. Let's find out what it does.
+<0140> You have my gratitude.
+<0141> It's best to start out by making connections.
+<0142> There are few doors money doesn't open.
+<0143> I will make them come begging to me.
+<0144> I pity the fool who would oppose me.
+<0145> A clever investment will always bear fruit.
+<0146> You are all cordially invited to my debut. Be grateful!
+<0147> Why, it is no more than my right.
+<0148> Isn't that sword too heavy to carry around?
+<0149> Don't worry, I'm just borrowing this for a little bit. Someone deserves a lesson.
+<0150> Why hello, it's been a while. How have you been?
+<0151> I've been looking forward to your visit.
+<0152> You may stay the night if you insist. I'll have my butler prepare a room.
+<0153> Already in a hurry? Geez, it can't be helped.
+<0154> If only things were always this simple in life.
+<0155> I have great respect for your intellect. I'd prefer to make an ally of you, but if not...
+<0156> That's an interesting clothing design. Let me take some notes.
+<0157> You simply lack the means to stand any chance against me.
+<0158> How dare this stupid beast?!
+<0159> You may take care of the physical work. I don't want my dress to get dirty.
+<0160> What kind of costume is that supposed to be? How daring...

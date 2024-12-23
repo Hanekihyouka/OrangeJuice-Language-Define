@@ -115,38 +115,42 @@
 <0114> I got this for you!
 <0115> How's that? You like it?
 <0116> I hope you like it...
-<0117> Okay.
-<0118> Good.
-<0119> You can count on me.
-<0120> No.
-<0121> Hmmm...
-<0122> My  lucky day!
-<0123> Hmeh?
-<0124> Here I go!
-<0125> Dice!
-<0126> You can do it! You can do it!
-<0127> Hey!
-<0128> Hm... Hmm...
-<0129> Way to go!
-<0130> Wow, that's super!
-<0131> Arrrrgh, geez!
-<0132> Whose magic is this?
-<0133> What's this do...?
-<0134> Unfamiliar magic, but I'll give it a try.
-<0135> What's going to happen? I'm hyped!!
-<0136> Teo, are you out of control again?
-<0137> Whoa, Teo! You've got to relax!
-<0138> Geez, you could've just said you wanted to play with me.
-<0139> Uuu, Teo, you idiot.
-<0140> Huh? You want to play with me? Sure!
-<0141> Okay, I'll play with you.
-<0142> Fufu, you're adorable.
-<0143> Huh? What's wrong? Are you lost?
-<0144> Tired? Then let me use this for you.
-<0145> Everyone should be full of energy when playing.
-<0146> How you feeling? Any better now?
-<0147> All right, I'll give you some energy.
-<0148> That's no use!
-<0149> That won't hurt me a bit.
-<0150> Ehehe, I'm invincible.
-<0151> This is the power of my magic!
+<0117> Switch, please.
+<0118> You got this.
+<0119> High-five, it's your turn!
+<0120> I should fall back for now...
+<0121> Okay.
+<0122> Good.
+<0123> You can count on me.
+<0124> No.
+<0125> Hmmm...
+<0126> My  lucky day!
+<0127> Hmeh?
+<0128> Here I go!
+<0129> Dice!
+<0130> You can do it! You can do it!
+<0131> Hey!
+<0132> Hm... Hmm...
+<0133> Way to go!
+<0134> Wow, that's super!
+<0135> Arrrrgh, geez!
+<0136> Whose magic is this?
+<0137> What's this do...?
+<0138> Unfamiliar magic, but I'll give it a try.
+<0139> What's going to happen? I'm hyped!!
+<0140> Teo, are you out of control again?
+<0141> Whoa, Teo! You've got to relax!
+<0142> Geez, you could've just said you wanted to play with me.
+<0143> Uuu, Teo, you idiot.
+<0144> Huh? You want to play with me? Sure!
+<0145> Okay, I'll play with you.
+<0146> Fufu, you're adorable.
+<0147> Huh? What's wrong? Are you lost?
+<0148> Tired? Then let me use this for you.
+<0149> Everyone should be full of energy when playing.
+<0150> How you feeling? Any better now?
+<0151> All right, I'll give you some energy.
+<0152> That's no use!
+<0153> That won't hurt me a bit.
+<0154> Ehehe, I'm invincible.
+<0155> This is the power of my magic!

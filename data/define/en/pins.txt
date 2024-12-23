@@ -215,46 +215,46 @@ artist=Sora
 
 < PIN_FLYING_YUUKI >
 name=Flying Yuuki
-desc=Granted to the players who played as Yuuki a lot. Ora ora ora ora!
+desc=Granted to the players who played as Yuuki a lot.\nOra ora ora ora!
 artist=Sora
 
 < PIN_FLYING_ISLAY >
 name=Flying Islay
-desc=Granted to the players who played as Islay a lot. Flying gracefully.
+desc=Granted to the players who played as Islay a lot.\nFlying gracefully.
 artist=Sora
 
 < PIN_FLYING_SUGURI46 >
 name=Flying Suguri (46 Billion Years)
-desc=Granted to the players who played as Suguri (46 Billion Years) a lot. She applied 2x cuteness to this pin.
+desc=Granted to the players who played as Suguri (46 Billion Years) a lot.\nShe applied 2x cuteness to this pin.
 artist=Sora
 
 < PIN_FLYING_SUMIKA >
 name=Flying Sumika
-desc=Granted to the players who played as Sumika a lot. This Sumika pin is Sumika.
+desc=Granted to the players who played as Sumika a lot.\nThis Sumika pin is Sumika.
 artist=Sora
 
 < PIN_FLYING_MIO >
 name=Flying Mio
-desc=Granted to the players who played as Mio a lot. The life (and death) of any party she crashes.
+desc=Granted to the players who played as Mio a lot.\nThe life (and death) of any party she crashes.
 artist=Sora
 
 < PIN_FLYING_LULU >
 name=Flying Lulu
-desc=Granted to the players who played as Lulu a lot. Let's keep on playing together in the future!
+desc=Granted to the players who played as Lulu a lot.\nLet's keep on playing together in the future!
 artist=Sora
 
 < PIN_FLYING_ELLIE >
 name=Flying Ellie
-desc=Granted to the players who played as Ellie a lot. It's time for an adventure!
+desc=Granted to the players who played as Ellie a lot.\nIt's time for an adventure!
 artist=Sora
 
 < PIN_FLYING_ALICIANRONE >
 name=Flying Alicianrone
-desc=Granted to the players who played as Alicianrone a lot. The fastest witch on this side of the forest!
+desc=Granted to the players who played as Alicianrone a lot.\nThe fastest witch on this side of the forest!
 artist=Sora
 
 < PIN_FLYING_TEOTORATTA >
 name=Flying Teotoratta
-desc=Granted to the players who played as Teotoratta a lot. A friend in a beast is a friend indeed.
+desc=Granted to the players who played as Teotoratta a lot.\nA friend in a beast is a friend indeed.
 artist=Sora
 

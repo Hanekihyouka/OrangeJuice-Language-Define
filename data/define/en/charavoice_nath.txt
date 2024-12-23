@@ -115,50 +115,54 @@
 <0114> It pleases me that you've gained something good.
 <0115> I'm not sure how to use that, so I entrust it to you.
 <0116> We don't seem to own any of that.
-<0117> Yes.
-<0118> I'm happy for you.
-<0119> Very well.
-<0120> No.
-<0121> Ugh...
-<0122> You're in luck.
-<0123> Mhm...
-<0124> Let's go, shall we?
-<0125> Dice.
-<0126> Here I go.
-<0127> Hello.
-<0128> Hmm...
-<0129> That's good.
-<0130> That's wonderful.
-<0131> ......
-<0132> Isn't this a hyper card...
-<0133> An enemy's card...?
-<0134> I'll use whatever it takes to win...
-<0135> Whatever means are necessary...
-<0136> A puppy... How cute...
-<0137> Are you a stray?
-<0138> Would you like to come to my place?
-<0139> That's one energetic puppy.
-<0140> I didn't expect to fight you again.
-<0141> You're...
-<0142> It's my victory this time.
-<0143> You're as strong as before.
-<0144> I must take you down here.
-<0145> I've just detected her.
-<0146> I can't let you beat me again.
-<0147> Ugh... Not again...
-<0148> What on earth... are you two doing?
-<0149> Sora, Sham... I demand an explanation.
-<0150> I can tell you two enjoy what you're doing... I'm happy for you.
-<0151> You two are seizing the day... I'm envious.
-<0152> Would you like something to eat?
-<0153> Aren't you sleepy?
-<0154> Can I rub my cheek against yours?
-<0155> Fufu, are you having fun?
-<0156> You're such a fluffy puppy.
-<0157> Fufu... Oh, it's nothing.
-<0158> May I rub my cheek against yo-... No?
-<0159> How adorable...
-<0160> What wonderful flexibility.
-<0161> May I have a feather of yours?
-<0162> Those long ears... They're too cute.
-<0163> May I touch you just for a bit?
+<0117> Please switch places with me.
+<0118> I'm relying on you.
+<0119> I'm certain you'll do a better job in this situation.
+<0120> Please deal with the rest.
+<0121> Yes.
+<0122> I'm happy for you.
+<0123> Very well.
+<0124> No.
+<0125> Ugh...
+<0126> You're in luck.
+<0127> Mhm...
+<0128> Let's go, shall we?
+<0129> Dice.
+<0130> Here I go.
+<0131> Hello.
+<0132> Hmm...
+<0133> That's good.
+<0134> That's wonderful.
+<0135> ......
+<0136> Isn't this a hyper card...
+<0137> An enemy's card...?
+<0138> I'll use whatever it takes to win...
+<0139> Whatever means are necessary...
+<0140> A puppy... How cute...
+<0141> Are you a stray?
+<0142> Would you like to come to my place?
+<0143> That's one energetic puppy.
+<0144> I didn't expect to fight you again.
+<0145> You're...
+<0146> It's my victory this time.
+<0147> You're as strong as before.
+<0148> I must take you down here.
+<0149> I've just detected her.
+<0150> I can't let you beat me again.
+<0151> Ugh... Not again...
+<0152> What on earth... are you two doing?
+<0153> Sora, Sham... I demand an explanation.
+<0154> I can tell you two enjoy what you're doing... I'm happy for you.
+<0155> You two are seizing the day... I'm envious.
+<0156> Would you like something to eat?
+<0157> Aren't you sleepy?
+<0158> Can I rub my cheek against yours?
+<0159> Fufu, are you having fun?
+<0160> You're such a fluffy puppy.
+<0161> Fufu... Oh, it's nothing.
+<0162> May I rub my cheek against yo-... No?
+<0163> How adorable...
+<0164> What wonderful flexibility.
+<0165> May I have a feather of yours?
+<0166> Those long ears... They're too cute.
+<0167> May I touch you just for a bit?

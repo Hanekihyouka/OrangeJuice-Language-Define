@@ -103,33 +103,37 @@
 <0102> Oh, that looks nice.
 <0103> We got something good!
 <0104> Nice, hehe!
-<0105> Okay!
-<0106> Nice.
-<0107> Sure.
-<0108> Non!
-<0109> Ueeh~
-<0110> You got lucky.
-<0111> Hmm?
-<0112> Let's go!
-<0113> Hoooy!
-<0114> You can do this.
-<0115> Hi!
-<0116> Hmm~?
-<0117> That's nice.
-<0118> That's incredible. I'm amazed!
-<0119> Arghghghgh.
-<0120> Someone else's magic!
-<0121> I-I didn't steal this!
-<0122> I'll just use this anyway!
-<0123> Here's a magic that I don't know!
-<0124> Thanks a lot!
-<0125> The strongest magical girl, Sweet Eater Tomomo, is here!
-<0126> Transformation! Uooooh!
-<0127> I'm full of magical power now!
-<0128> I'm hyped up right now!
-<0129> I'll give you the finisher!!!
-<0130> My revenge has been accomplished!
-<0131> This is the power of my revenge!
-<0132> Burn to ashes!
-<0133> There's a bunch of magical girls around here!
-<0134> Who's the strongest Sweet God...? We're going to find it out now!
+<0105> Wanna swap?
+<0106> I'll let you take care of the rest.
+<0107> Good luck out there.
+<0108> You got this!
+<0109> Okay!
+<0110> Nice.
+<0111> Sure.
+<0112> Non!
+<0113> Ueeh~
+<0114> You got lucky.
+<0115> Hmm?
+<0116> Let's go!
+<0117> Hoooy!
+<0118> You can do this.
+<0119> Hi!
+<0120> Hmm~?
+<0121> That's nice.
+<0122> That's incredible. I'm amazed!
+<0123> Arghghghgh.
+<0124> Someone else's magic!
+<0125> I-I didn't steal this!
+<0126> I'll just use this anyway!
+<0127> Here's a magic that I don't know!
+<0128> Thanks a lot!
+<0129> The strongest magical girl, Sweet Eater Tomomo, is here!
+<0130> Transformation! Uooooh!
+<0131> I'm full of magical power now!
+<0132> I'm hyped up right now!
+<0133> I'll give you the finisher!!!
+<0134> My revenge has been accomplished!
+<0135> This is the power of my revenge!
+<0136> Burn to ashes!
+<0137> There's a bunch of magical girls around here!
+<0138> Who's the strongest Sweet God...? We're going to find it out now!

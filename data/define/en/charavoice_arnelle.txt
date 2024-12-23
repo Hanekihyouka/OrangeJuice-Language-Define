@@ -115,38 +115,46 @@
 <0114> Hey, you wanna give that to me? No?
 <0115> How should we play with this stuff?
 <0116> Oh, that's a good one.
-<0117> Got it.
-<0118> I like that.
-<0119> Sure.
-<0120> No.
-<0121> That's a bummer.
-<0122> Got lucky.
-<0123> What in the...?
-<0124> I suppose it's go time.
-<0125> There!
-<0126> Good luck.
-<0127> Yo!
-<0128> This is uh... Mhm?
-<0129> You're good.
-<0130> Oh, I'm impressed.
-<0131> Damn it...
-<0132> Let me use this.
-<0133> Mhm, this seems interesting.
-<0134> Well, I hope something fun will happen.
-<0135> Fufufu... I suppose I'll play this one.
-<0136> How did you just take my treasure from me?!
-<0137> What have you done to me?! I won't forgive you!
-<0138> Oh no, my treasure! You bastard!
-<0139> I can't believe I had my treasure stolen...
-<0140> Should've kept your guard up.
-<0141> Now this is mine.
-<0142> Kukuku, you're such an easy mark.
-<0143> That's worth too much for you to keep.
-<0144> Okay, we can play for a bit.
-<0145> Maynie, you gotta show me what you've got.
-<0146> Maynie, you need punishment.
-<0147> Playing with you like this once in a while isn't bad.
-<0148> Fine, I'll spare you some time.
-<0149> I'll play with you for a bit. Bring it.
-<0150> Alright, alright, we'll play together, okay?
-<0151> Huh? You want me to play with you, Maynie?
+<0117> Take my place, will you?
+<0118> Let me take a little rest now.
+<0119> I'm counting on you.
+<0120> Switch time!
+<0121> Got it.
+<0122> I like that.
+<0123> Sure.
+<0124> No.
+<0125> That's a bummer.
+<0126> Got lucky.
+<0127> What in the...?
+<0128> I suppose it's go time.
+<0129> There!
+<0130> Good luck.
+<0131> Yo!
+<0132> This is uh... Mhm?
+<0133> You're good.
+<0134> Oh, I'm impressed.
+<0135> Damn it...
+<0136> Let me use this.
+<0137> Mhm, this seems interesting.
+<0138> Well, I hope something fun will happen.
+<0139> Fufufu... I suppose I'll play this one.
+<0140> How did you just take my treasure from me?!
+<0141> What have you done to me?! I won't forgive you!
+<0142> Oh no, my treasure! You bastard!
+<0143> I can't believe I had my treasure stolen...
+<0144> Should've kept your guard up.
+<0145> Now this is mine.
+<0146> Kukuku, you're such an easy mark.
+<0147> That's worth too much for you to keep.
+<0148> Okay, we can play for a bit.
+<0149> Maynie, you gotta show me what you've got.
+<0150> Maynie, you need punishment.
+<0151> Playing with you like this once in a while isn't bad.
+<0152> Fine, I'll spare you some time.
+<0153> I'll play with you for a bit. Bring it.
+<0154> Alright, alright, we'll play together, okay?
+<0155> Huh? You want me to play with you, Maynie?
+<0156> Give it up for us, the strongest team ever.
+<0157> Together we can hunt whatever we want, Maynie.
+<0158> You freaking out, Maynie?
+<0159> Anything's possible when you and I work together.

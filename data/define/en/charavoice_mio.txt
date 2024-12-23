@@ -115,43 +115,47 @@
 <0114> Hey, look, that's good stuff, isn't it?
 <0115> You want this? Let me see if I want to give it to you or not ♥
 <0116> Fufu, can't wait to use it, can we?
-<0117> That's neat.
-<0118> That's terrific.
-<0119> Yeees.
-<0120> Nooo.
-<0121> Mhpea!
-<0122> Lucky ♥
-<0123> Mhm?
-<0124> Let's go, let's go.
-<0125> Dice roll.
-<0126> Shall we go now?
-<0127> Okay.
-<0128> Mhmm...?
-<0129> That's good.
-<0130> That's fantastic! A compliment from me!
-<0131> Um, mhmm...
-<0132> I feel like playing this card.
-<0133> Look at what I have here in my hands.
-<0134> No one would've expected this from me, would they? Fufu.
-<0135> I'll use this now ♥
-<0136> Oh my, oh my, I see a familiar face there.
-<0137> Tomomo, let's have some fuuun ♥
-<0138> Fufufu, this'll be fun.
-<0139> A magical girl? I'd die of embarrassment.
-<0140> I'll do you a favor and fight you.
-<0141> So, you want to hang out with me, Tomomo?
-<0142> Ahaha, that was fun.
-<0143> I don't believe this... It's unacceptable! It didn't count!
-<0144> Tomomo, you created one bizarre life form...
-<0145> Eek, what is that thing?!
-<0146> I've got to say, I don't really like whatever that is...
-<0147> H-how could a little, tiny thing like you beat me...! So little and tiny!
-<0148> Eek! You scared me out of my wits!
-<0149> Ewww! There's a naked man here!
-<0150> Pervert! Pervert!
-<0151> S-sketchy man here! Police! Call the police!
-<0152> Oh, nooo! No one told me about this weirdo!
-<0153> Eek! She is genuinely scary!
-<0154> Dangerous people like her shouldn't be allowed to play this game!
-<0155> Ah... I can tell she's one of those people you'd best keep away from...
-<0156> I-I'm so scared... *Shivers*
+<0117> It's time to switch.
+<0118> Would you take over ♥
+<0119> You can do this.
+<0120> Let's trade places ♥
+<0121> That's neat.
+<0122> That's terrific.
+<0123> Yeees.
+<0124> Nooo.
+<0125> Mhpea!
+<0126> Lucky ♥
+<0127> Mhm?
+<0128> Let's go, let's go.
+<0129> Dice roll.
+<0130> Shall we go now?
+<0131> Okay.
+<0132> Mhmm...?
+<0133> That's good.
+<0134> That's fantastic! A compliment from me!
+<0135> Um, mhmm...
+<0136> I feel like playing this card.
+<0137> Look at what I have here in my hands.
+<0138> No one would've expected this from me, would they? Fufu.
+<0139> I'll use this now ♥
+<0140> Oh my, oh my, I see a familiar face there.
+<0141> Tomomo, let's have some fuuun ♥
+<0142> Fufufu, this'll be fun.
+<0143> A magical girl? I'd die of embarrassment.
+<0144> I'll do you a favor and fight you.
+<0145> So, you want to hang out with me, Tomomo?
+<0146> Ahaha, that was fun.
+<0147> I don't believe this... It's unacceptable! It didn't count!
+<0148> Tomomo, you created one bizarre life form...
+<0149> Eek, what is that thing?!
+<0150> I've got to say, I don't really like whatever that is...
+<0151> H-how could a little, tiny thing like you beat me...! So little and tiny!
+<0152> Eek! You scared me out of my wits!
+<0153> Ewww! There's a naked man here!
+<0154> Pervert! Pervert!
+<0155> S-sketchy man here! Police! Call the police!
+<0156> Oh, nooo! No one told me about this weirdo!
+<0157> Eek! She is genuinely scary!
+<0158> Dangerous people like her shouldn't be allowed to play this game!
+<0159> Ah... I can tell she's one of those people you'd best keep away from...
+<0160> I-I'm so scared... *Shivers*

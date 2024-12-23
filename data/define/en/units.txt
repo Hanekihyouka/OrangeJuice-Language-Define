@@ -97,7 +97,11 @@ descr=
 
 < CARD_UNIT_CASTLE_MP >
 name=Flying Castle
-descr=Immune to Battle Cards when defending.\nCannot Counterattack.
+descr=When defender, opponent cannot use Battle cards.\nCannot counterattack unless Immovable Object is active.
+
+< CARD_COOP_UNIT_CASTLE_MP >
+name=Flying Castle
+descr=Cannot counterattack when challenged.
 
 < CARD_UNIT_CEOREPARQUE >
 name=Ceoreparque

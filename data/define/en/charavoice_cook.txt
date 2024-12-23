@@ -115,42 +115,46 @@
 <0114> That looks nice! Cook wants it too!
 <0115> Oh? Huh? Cook wants to know what that is! 
 <0116> Good for you!
-<0117> OK.
-<0118> Good job.
-<0119> Sure.
-<0120> *Cheep*!
-<0121> Aww...
-<0122> Lucky you!
-<0123> *Cheeep*?
-<0124> Let's cheep!
-<0125> Hoy!
-<0126> You can do this!
-<0127> Yo!
-<0128> Um?
-<0129> Awesome!
-<0130> Wow, that's impressive. Cook's surprised.
-<0131> Cook's mad... Ugh...
-<0132> What's this? Cook'll play it!
-<0133> Cook's desperate enough for this!
-<0134> *Cheep*? *Cheep cheep*!
-<0135> Cook will use this thing!
-<0136> Halena! Cook wants to go wild!
-<0137> Whoa! You look scary, Halena!
-<0138> Cook won today!
-<0139> Go easy on Cook...
-<0140> Huh!? Are you... an enemy? Or a friend?
-<0141> Oh! You're Cook's species, aren't you!?
-<0142> Cook is the greatest among all birds.
-<0143> Ugh... Cook can't stand getting beaten by another bird...
-<0144> Cook flies super fast!
-<0145> Cook's speed is fantastic!
-<0146> That was such a good flight.
-<0147> Cook is so faaast!
-<0148> And Cook's here.
-<0149> Boy, it felt real good up there.
-<0150> Cook just had a good exercise.
-<0151> Cook's home.
-<0152> Cook isn't a turkey!
-<0153> You... You going to catch and eat Cook!?
-<0154> Wait, Cook's not edible!
-<0155> Why are you drooling?
+<0117> It's your turn to go out there.
+<0118> Cook needs a break.
+<0119> *Chirp*...
+<0120> Cook believes in you.
+<0121> OK.
+<0122> Good job.
+<0123> Sure.
+<0124> *Cheep*!
+<0125> Aww...
+<0126> Lucky you!
+<0127> *Cheeep*?
+<0128> Let's cheep!
+<0129> Hoy!
+<0130> You can do this!
+<0131> Yo!
+<0132> Um?
+<0133> Awesome!
+<0134> Wow, that's impressive. Cook's surprised.
+<0135> Cook's mad... Ugh...
+<0136> What's this? Cook'll play it!
+<0137> Cook's desperate enough for this!
+<0138> *Cheep*? *Cheep cheep*!
+<0139> Cook will use this thing!
+<0140> Halena! Cook wants to go wild!
+<0141> Whoa! You look scary, Halena!
+<0142> Cook won today!
+<0143> Go easy on Cook...
+<0144> Huh!? Are you... an enemy? Or a friend?
+<0145> Oh! You're Cook's species, aren't you!?
+<0146> Cook is the greatest among all birds.
+<0147> Ugh... Cook can't stand getting beaten by another bird...
+<0148> Cook flies super fast!
+<0149> Cook's speed is fantastic!
+<0150> That was such a good flight.
+<0151> Cook is so faaast!
+<0152> And Cook's here.
+<0153> Boy, it felt real good up there.
+<0154> Cook just had a good exercise.
+<0155> Cook's home.
+<0156> Cook isn't a turkey!
+<0157> You... You going to catch and eat Cook!?
+<0158> Wait, Cook's not edible!
+<0159> Why are you drooling?

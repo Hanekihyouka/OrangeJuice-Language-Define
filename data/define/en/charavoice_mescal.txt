@@ -115,43 +115,47 @@
 <0114> O-ho! Treasure!
 <0115> O-ho-ho, this is very very precious...
 <0116> You should treasure this.
-<0117> Roger that!
-<0118> Good.
-<0119> Okay~
-<0120> Ehh... no.
-<0121> That's a bummer.
-<0122> Oooh! Good for you!
-<0123> Um.... what?
-<0124> Let's get going!
-<0125> Time to roll!
-<0126> Go go go!
-<0127> Wassup!
-<0128> Oh...? Um...
-<0129> Cool!
-<0130> Whoa! 
-<0131> What the heck? What the heck!
-<0132> This is my bounty! I can do what I want with it!
-<0133> Finders keepers!
-<0134> Okay, okay~ I know what I'm doing.
-<0135> Secret weapon, go!
-<0136> Hey, thanks!
-<0137> Hey, sis! Whatcha doing?
-<0138> Heeyyy, sis! You look bored! Let's play!
-<0139> I'm getting better, aren't I?
-<0140> Waaaah! She keeps bullying me!
-<0141> Daaaaddyy! Stop hanging about and go back to the farm!
-<0142> Daddy, what are you doing here? You should be working on the farm.
-<0143> You do the dishes today!
-<0144> Stupid Daddy! You should go work on the farm!
-<0145> Hey! It's time for your training!
-<0146> What, you need more training? Guess it can't be helped...
-<0147> Wa ha ha, train another few years and maybe you can beat me!
-<0148> This one didn't count! Another one, another one!
-<0149> New Mescal Pirates, go!
-<0150> Are you the big bad boss Daddy told me about?
-<0151> That's a great whale! You have good taste!
-<0152> That's a cool ride! It's mine now!
-<0153> Hey guys, I don't need your help!
-<0154> Hey! I could've taken care of this on my own!
-<0155> Oh? Thanks! I'll patch you up later.
-<0156> You guys had better not lose, you hear!
+<0117> You there, take over!
+<0118> I wanna do something else for a change of pace...
+<0119> Snack ti- I mean, it's time for a tactical break.
+<0120> You got this!
+<0121> Roger that!
+<0122> Good.
+<0123> Okay~
+<0124> Ehh... no.
+<0125> That's a bummer.
+<0126> Oooh! Good for you!
+<0127> Um.... what?
+<0128> Let's get going!
+<0129> Time to roll!
+<0130> Go go go!
+<0131> Wassup!
+<0132> Oh...? Um...
+<0133> Cool!
+<0134> Whoa! 
+<0135> What the heck? What the heck!
+<0136> This is my bounty! I can do what I want with it!
+<0137> Finders keepers!
+<0138> Okay, okay~ I know what I'm doing.
+<0139> Secret weapon, go!
+<0140> Hey, thanks!
+<0141> Hey, sis! Whatcha doing?
+<0142> Heeyyy, sis! You look bored! Let's play!
+<0143> I'm getting better, aren't I?
+<0144> Waaaah! She keeps bullying me!
+<0145> Daaaaddyy! Stop hanging about and go back to the farm!
+<0146> Daddy, what are you doing here? You should be working on the farm.
+<0147> You do the dishes today!
+<0148> Stupid Daddy! You should go work on the farm!
+<0149> Hey! It's time for your training!
+<0150> What, you need more training? Guess it can't be helped...
+<0151> Wa ha ha, train another few years and maybe you can beat me!
+<0152> This one didn't count! Another one, another one!
+<0153> New Mescal Pirates, go!
+<0154> Are you the big bad boss Daddy told me about?
+<0155> That's a great whale! You have good taste!
+<0156> That's a cool ride! It's mine now!
+<0157> Hey guys, I don't need your help!
+<0158> Hey! I could've taken care of this on my own!
+<0159> Oh? Thanks! I'll patch you up later.
+<0160> You guys had better not lose, you hear!

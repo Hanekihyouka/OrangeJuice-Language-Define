@@ -51,3 +51,6 @@ School Crashers Mode
 
 < DISCORD_INGAME_CHAOS_MODE >
 Chaos Mode
+
+< DISCORD_INGAME_TAGTEAM_MODE >
+Tag Team Mode

@@ -81,35 +81,38 @@
 <0110> Come see us at our next live again!
 <0113> Huh? You want a photo of me?
 <0114> Let me sign that real quick.
-<0117> Okay!
-<0118> Nice!
-<0119> Yees!
-<0120> That's no good.
-<0122> Lucky you!
-<0123> Mhm?
-<0125> What will we get?
-<0127> Yahoo!
-<0128> Mhmmm.
-<0130> Wow, that's awesome.
-<0132> Sora, you think we can use this?
-<0133> What is it? A fan letter?
-<0134> Let's try playing it! Don't be afraid of new things!
-<0135> I can't wait to find out what this does.
-<0136> Idols against idols... Sora, we must not let down our guard.
-<0137> Idols... do not give in to adversity.
-<0138> Tough times give birth to opportunity! 
-<0141> This is thanks to all your support!
-<0142> All right! We're first place in the game!
-<0145> We'll keep going!
-<0146> We're on a roll!
-<0147> Our fans' support gives us strength!
-<0148> We're so close to being the most popular idols!
-<0149> Now we're definitely the top idol unit.
-<0150> Look, Sora! What do you think of this one?
-<0151> Nice choice.
-<0152> Oh, this one has a unique face... Cute? ...Not sure.
-<0153> I feel relaxed with this one around.
-<0154> Ah, I think this'll suit you.
-<0155> Oh, sure!
-<0156> How about this one? Cute, isn't it?
-<0157> I'm sure this will look great on you!
+<0115> Please take it from here.
+<0116> Member change time!
+<0117> Sora, we'll back off for now.
+<0120> Okay!
+<0121> Nice!
+<0122> Yees!
+<0123> That's no good.
+<0125> Lucky you!
+<0126> Mhm?
+<0128> What will we get?
+<0130> Yahoo!
+<0131> Mhmmm.
+<0133> Wow, that's awesome.
+<0135> Sora, you think we can use this?
+<0136> What is it? A fan letter?
+<0137> Let's try playing it! Don't be afraid of new things!
+<0138> I can't wait to find out what this does.
+<0139> Idols against idols... Sora, we must not let down our guard.
+<0140> Idols... do not give in to adversity.
+<0141> Tough times give birth to opportunity! 
+<0144> This is thanks to all your support!
+<0145> All right! We're first place in the game!
+<0148> We'll keep going!
+<0149> We're on a roll!
+<0150> Our fans' support gives us strength!
+<0151> We're so close to being the most popular idols!
+<0152> Now we're definitely the top idol unit.
+<0153> Look, Sora! What do you think of this one?
+<0154> Nice choice.
+<0155> Oh, this one has a unique face... Cute? ...Not sure.
+<0156> I feel relaxed with this one around.
+<0157> Ah, I think this'll suit you.
+<0158> Oh, sure!
+<0159> How about this one? Cute, isn't it?
+<0160> I'm sure this will look great on you!

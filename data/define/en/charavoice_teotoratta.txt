@@ -115,42 +115,46 @@
 <0114> Bow wow! I found this! Be happy!
 <0115> Oh, is that an item you got there? Wanna play with it now?
 <0116> You want this thing? You've got to praise me first!
-<0117> Okay.
-<0118> Way to go!
-<0119> Bow wow!
-<0120> No.
-<0121> How disappointing.
-<0122> So lucky! So happy!
-<0123> What the heck is this?
-<0124> Let's get started!
-<0125> Dice roll time.
-<0126> Here we go!
-<0127> Yoo-hoo.
-<0128> *Whimper*
-<0129> Well done!
-<0130> That's amazing! I praise you!
-<0131> *Whimper whimper*
-<0132> Should I use this? Will it help?
-<0133> *Sniff sniff*... This smells good! I'm using it!
-<0134> I'm just gonna use this and see how it'll turn out!
-<0135> What's gonna happen? I'm stoked!
-<0136> Miusaki! Awooo! Get ready to fight me!
-<0137> I'm not on a rampage. I'm just playing!
-<0138> Miusakiii, you done for already!?
-<0139> *Whimper*... Miusakiii, don't leave me alone.
-<0140> What are you? Beast? Human?
-<0141> Oh, huh? A human? A beast? Which are you!?
-<0142> So you were a beast! No way could you beat the Beast Witch!
-<0143> My power didn't work on you... So you were a human...
-<0144> Alright, great work, my beasts.
-<0145> Way to go, my fellow beasts!
-<0146> You guys did a super good job! I can't hold this much...!
-<0147> Here, I can use my power to its fullest extent...!
-<0148> I can sense beasts everywhere around here.
-<0149> Fufufu, I like it here.
-<0150> Awooo! Bow wow!
-<0151> My magic isn't working on that thing...?
-<0152> What in the!? Am I not the only Beast Witch around?
-<0153> Hmm? There's something funny going on around here...
-<0154> This is confusing. What the heck's going on here?
-<0155> So, there's more than one of me? Does anything go around here!?
+<0117> Take my place!
+<0118> It's time for you go out there.
+<0119> Switch with me for a bit.
+<0120> I need a break. You got this.
+<0121> Okay.
+<0122> Way to go!
+<0123> Bow wow!
+<0124> No.
+<0125> How disappointing.
+<0126> So lucky! So happy!
+<0127> What the heck is this?
+<0128> Let's get started!
+<0129> Dice roll time.
+<0130> Here we go!
+<0131> Yoo-hoo.
+<0132> *Whimper*
+<0133> Well done!
+<0134> That's amazing! I praise you!
+<0135> *Whimper whimper*
+<0136> Should I use this? Will it help?
+<0137> *Sniff sniff*... This smells good! I'm using it!
+<0138> I'm just gonna use this and see how it'll turn out!
+<0139> What's gonna happen? I'm stoked!
+<0140> Miusaki! Awooo! Get ready to fight me!
+<0141> I'm not on a rampage. I'm just playing!
+<0142> Miusakiii, you done for already!?
+<0143> *Whimper*... Miusakiii, don't leave me alone.
+<0144> What are you? Beast? Human?
+<0145> Oh, huh? A human? A beast? Which are you!?
+<0146> So you were a beast! No way could you beat the Beast Witch!
+<0147> My power didn't work on you... So you were a human...
+<0148> Alright, great work, my beasts.
+<0149> Way to go, my fellow beasts!
+<0150> You guys did a super good job! I can't hold this much...!
+<0151> Here, I can use my power to its fullest extent...!
+<0152> I can sense beasts everywhere around here.
+<0153> Fufufu, I like it here.
+<0154> Awooo! Bow wow!
+<0155> My magic isn't working on that thing...?
+<0156> What in the!? Am I not the only Beast Witch around?
+<0157> Hmm? There's something funny going on around here...
+<0158> This is confusing. What the heck's going on here?
+<0159> So, there's more than one of me? Does anything go around here!?

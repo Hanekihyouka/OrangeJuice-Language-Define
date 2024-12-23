@@ -116,46 +116,50 @@
 <0114> Oh, never seen that one.
 <0115> That's a nice one.
 <0116> Are you happy with that?
-<0117> Okay!
-<0118> Good.
-<0119> Yeees.
-<0120> NO!
-<0121> Ugeeh.
-<0122> Lucky you!
-<0123> Nyuun?
-<0124> Let's roll.
-<0125> Dice!
-<0126> Let's go!
-<0127> Hello!
-<0128> Hmnyaan...
-<0129> You're good!
-<0130> You're amazing!
-<0131> Holy crap.
-<0132> I guess I'll use this?
-<0133> Hmnyaa! I'll play this guy's card!
-<0134> This card is meant for me to play!
-<0135> Nyhahaha! I'm gonna use this one too!
-<0136> Alte, let's do this.
-<0137> Nyafufu, you may bring it on!
-<0138> I win this time! We'll fight again!
-<0139> Alte... You've grown up...
-<0140> T-that's one cool lady! Could we have a fight!?
-<0141> It's that cool lady! Bring it on!
-<0142> I have a huge sense of achievement...
-<0143> That's why... I call her cool...
-<0144> Man, here's one lazy adult...
-<0145> Oh, it's that sluggish woman.
-<0146> I won't be a grown-up like her.
-<0147> I hate myself for losing to someone like that...
-<0148> Oh, you look like a yum-yum.
-<0149> I won myself dinner!
-<0150> Give me your position as mascot!
-<0151> Shut up and stop crying "poppo poppo" already!
-<0152> I'm the mascot now!!
-<0153> Pigyaamo! I lost to the stupid rat...
-<0154> Hmmmmm! I'll definitely make you pay for this!
-<0155> You have no chance to beat me... Nyufufufu.
-<0156> Muoooh! I'll crush you to death so haaard!
-<0157> I'm a whole lot more powerful than ever!
-<0158> Here I goooo! Deryaaaah!
-<0159> Pigyaaaaamoh!!!!
+<0117> Time to switch.
+<0118> Get it together.
+<0119> You take over now.
+<0120> Good luck out there.
+<0121> Okay!
+<0122> Good.
+<0123> Yeees.
+<0124> NO!
+<0125> Ugeeh.
+<0126> Lucky you!
+<0127> Nyuun?
+<0128> Let's roll.
+<0129> Dice!
+<0130> Let's go!
+<0131> Hello!
+<0132> Hmnyaan...
+<0133> You're good!
+<0134> You're amazing!
+<0135> Holy crap.
+<0136> I guess I'll use this?
+<0137> Hmnyaa! I'll play this guy's card!
+<0138> This card is meant for me to play!
+<0139> Nyhahaha! I'm gonna use this one too!
+<0140> Alte, let's do this.
+<0141> Nyafufu, you may bring it on!
+<0142> I win this time! We'll fight again!
+<0143> Alte... You've grown up...
+<0144> T-that's one cool lady! Could we have a fight!?
+<0145> It's that cool lady! Bring it on!
+<0146> I have a huge sense of achievement...
+<0147> That's why... I call her cool...
+<0148> Man, here's one lazy adult...
+<0149> Oh, it's that sluggish woman.
+<0150> I won't be a grown-up like her.
+<0151> I hate myself for losing to someone like that...
+<0152> Oh, you look like a yum-yum.
+<0153> I won myself dinner!
+<0154> Give me your position as mascot!
+<0155> Shut up and stop crying "poppo poppo" already!
+<0156> I'm the mascot now!!
+<0157> Pigyaamo! I lost to the stupid rat...
+<0158> Hmmmmm! I'll definitely make you pay for this!
+<0159> You have no chance to beat me... Nyufufufu.
+<0160> Muoooh! I'll crush you to death so haaard!
+<0161> I'm a whole lot more powerful than ever!
+<0162> Here I goooo! Deryaaaah!
+<0163> Pigyaaaaamoh!!!!

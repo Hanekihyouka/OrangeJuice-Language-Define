@@ -115,42 +115,46 @@
 <0114> Repa's excited.
 <0115> What's that? Repa's curious.
 <0116> Here's a gift from Repa. Take good care of it.
-<0117> Yes.
-<0118> Good job.
-<0119> Repa understands.
-<0120> No.
-<0121> Too bad...
-<0122> Repa did it! Lucky her!
-<0123> What...
-<0124> Here Repa goes.
-<0125> Here comes a dice roll.
-<0126> You can do it.
-<0127> Hello, there.
-<0128> Repa's perplexed...
-<0129> That's very good.
-<0130> That's excellent.
-<0131> Awww...!
-<0132> Repa doesn't know this power.
-<0133> This is unfamiliar... but Repa will use it anyway.
-<0134> Repa's not sure what this does, either.
-<0135> Here goes nothing!
-<0136> Rone, you'd better prepare yourself.
-<0137> Fine,  Rone. Repa will fight you.
-<0138> Fufufu, Repa's happy she beat Rone.
-<0139> Boo... Rone, you jerk...
-<0140> The way you look... Repa feels a sense of familiarity.
-<0141> You think this is our fate...? What a coincidence. Repa feels the same.
-<0142> Fufu, Repa's better and stronger, it seems.
-<0143> Ugh, this defeat of Repa's is also her fate...?
-<0144> Oh boy, Repa's tangled in her own hair.
-<0145> *Munch munch*... Repa's so happy...
-<0146> *Sigh*... If only there was some tea as well.
-<0147> Repa loves sweets.
-<0148> Mhmm, nothing beats this.
-<0149> Your face is scary...! Don't come any closer to Repa!
-<0150> A young lady...? You look gorgeous!
-<0151> Would you look at that smooth and silky hair... Fabulous!
-<0152> That was one lovely fight.
-<0153> Not just ladylike, but strong...!
-<0154> That song... Repa feels a lot of power out of it...!
-<0155> Whoa, Repa can't hold this many.
+<0117> It's time to switch.
+<0118> Would you take over for a bit?
+<0119> You got this.
+<0120> Repa believes in you.
+<0121> Yes.
+<0122> Good job.
+<0123> Repa understands.
+<0124> No.
+<0125> Too bad...
+<0126> Repa did it! Lucky her!
+<0127> What...
+<0128> Here Repa goes.
+<0129> Here comes a dice roll.
+<0130> You can do it.
+<0131> Hello, there.
+<0132> Repa's perplexed...
+<0133> That's very good.
+<0134> That's excellent.
+<0135> Awww...!
+<0136> Repa doesn't know this power.
+<0137> This is unfamiliar... but Repa will use it anyway.
+<0138> Repa's not sure what this does, either.
+<0139> Here goes nothing!
+<0140> Rone, you'd better prepare yourself.
+<0141> Fine,  Rone. Repa will fight you.
+<0142> Fufufu, Repa's happy she beat Rone.
+<0143> Boo... Rone, you jerk...
+<0144> The way you look... Repa feels a sense of familiarity.
+<0145> You think this is our fate...? What a coincidence. Repa feels the same.
+<0146> Fufu, Repa's better and stronger, it seems.
+<0147> Ugh, this defeat of Repa's is also her fate...?
+<0148> Oh boy, Repa's tangled in her own hair.
+<0149> *Munch munch*... Repa's so happy...
+<0150> *Sigh*... If only there was some tea as well.
+<0151> Repa loves sweets.
+<0152> Mhmm, nothing beats this.
+<0153> Your face is scary...! Don't come any closer to Repa!
+<0154> A young lady...? You look gorgeous!
+<0155> Would you look at that smooth and silky hair... Fabulous!
+<0156> That was one lovely fight.
+<0157> Not just ladylike, but strong...!
+<0158> That song... Repa feels a lot of power out of it...!
+<0159> Whoa, Repa can't hold this many.

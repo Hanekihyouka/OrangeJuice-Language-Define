@@ -115,42 +115,46 @@
 <0114> You didn't have that yet. Good for you.
 <0115> Let's hope we get something good.
 <0116> Ahaha, I'm happy for you.
-<0117> Okay.
-<0118> Wow, that's nice.
-<0119> Yeah.
-<0120> No.
-<0121> Hmm...
-<0122> Good for you.
-<0123> Hmm?
-<0124> Let's go, shall we?
-<0125> I'm going to roll the dice now.
-<0126> Let's go.
-<0127> Hello.
-<0128> Umm...
-<0129> Nice.
-<0130> Incredible...
-<0131> Gee...
-<0132> Can I use this?
-<0133> This isn't mine... I'm not sure I'm allowed to use it.
-<0134> Sorry, I should've asked for permission. I hope they aren't mad.
-<0135> Hmm... Is it okay to use this? I'm worried...
-<0136> Oh, Sumika...
-<0137> Fine, I'll deal with you here.
-<0138> You still have a long way to go, Sumika.
-<0139> Gee, you know I went easy on you, don't you?
-<0140> Y-you're me... right?
-<0141> The past me?
-<0142> I can't describe what I'm feeling now.
-<0143> I used to be that strong, huh.
-<0144> Huh, Navi?
-<0145> Navi, are you up to no good again?
-<0146> Don't even think about doing something crazy, okay?
-<0147> Muah.
-<0148> Are you girls... idols?
-<0149> Wow, you two are so cute.
-<0150> Your performance was really fantastic.
-<0151> You two were so bright...
-<0152> Uu... This kind of stuff takes long, doesn't it?
-<0153> This card... I think we should have it... How about this one...
-<0154> Mhm... It's fun working on stuff like this, but it's also hard...
-<0155> Well, this deck should do well... Hmm, but...
+<0117> Mind switching?
+<0118> I think it's about time to switch.
+<0119> You take care of the rest.
+<0120> I'm counting on you.
+<0121> Okay.
+<0122> Wow, that's nice.
+<0123> Yeah.
+<0124> No.
+<0125> Hmm...
+<0126> Good for you.
+<0127> Hmm?
+<0128> Let's go, shall we?
+<0129> I'm going to roll the dice now.
+<0130> Let's go.
+<0131> Hello.
+<0132> Umm...
+<0133> Nice.
+<0134> Incredible...
+<0135> Gee...
+<0136> Can I use this?
+<0137> This isn't mine... I'm not sure I'm allowed to use it.
+<0138> Sorry, I should've asked for permission. I hope they aren't mad.
+<0139> Hmm... Is it okay to use this? I'm worried...
+<0140> Oh, Sumika...
+<0141> Fine, I'll deal with you here.
+<0142> You still have a long way to go, Sumika.
+<0143> Gee, you know I went easy on you, don't you?
+<0144> Y-you're me... right?
+<0145> The past me?
+<0146> I can't describe what I'm feeling now.
+<0147> I used to be that strong, huh.
+<0148> Huh, Navi?
+<0149> Navi, are you up to no good again?
+<0150> Don't even think about doing something crazy, okay?
+<0151> Muah.
+<0152> Are you girls... idols?
+<0153> Wow, you two are so cute.
+<0154> Your performance was really fantastic.
+<0155> You two were so bright...
+<0156> Uu... This kind of stuff takes long, doesn't it?
+<0157> This card... I think we should have it... How about this one...
+<0158> Mhm... It's fun working on stuff like this, but it's also hard...
+<0159> Well, this deck should do well... Hmm, but...
