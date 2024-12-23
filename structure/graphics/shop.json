@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"data/graphics/shop","size":32768,"contents":[
+  {"type":"directory","name":"data/graphics/shop","size":36864,"contents":[
     {"type":"file","name":"arcade_background.png","size":732713,"md5":"9e97ad98f2aa7be61e615c8ba4aca9f6"},
     {"type":"file","name":"arcade_bg1.png","size":732713,"md5":"9e97ad98f2aa7be61e615c8ba4aca9f6"},
     {"type":"file","name":"arcade_bg2.png","size":916843,"md5":"31762255b0a3a18cef8a1ec8e0e63254"},
@@ -650,6 +650,7 @@
     {"type":"file","name":"field_30.png","size":20566,"md5":"8e51f12c800c826fe92bb880bd02ea0c"},
     {"type":"file","name":"field_31.png","size":46295,"md5":"7f8009ba1e2f290161291204c3f15c9d"},
     {"type":"file","name":"field_32.png","size":30579,"md5":"79ddf9941c4e0c86fcb9f2d78fbb4423"},
+    {"type":"file","name":"field_33.png","size":30801,"md5":"78c6d6d87ac844ade75f57716df372c2"},
     {"type":"file","name":"g_dark2.png","size":1598,"md5":"2d1bc8de2968e6dc63d9dcfb63f85413"},
     {"type":"file","name":"g_dark3.png","size":1814,"md5":"4e369c1c635bd963196490364f7b2be0"},
     {"type":"file","name":"g_dark.png","size":1508,"md5":"27550942cbffeaee41d4a3d6859e4eab"},
@@ -750,5 +751,5 @@
     {"type":"file","name":"re_beachparty.png","size":55294,"md5":"0da1c8e24fe125e4c67550a840c8daf3"}
   ]}
 ,
-  {"type":"report","directories":1,"files":748}
+  {"type":"report","directories":1,"files":749}
 ]

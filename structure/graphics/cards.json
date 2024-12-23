@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"data/graphics/cards","size":49152,"contents":[
+  {"type":"directory","name":"data/graphics/cards","size":57344,"contents":[
     {"type":"file","name":"accel128.png","size":34390,"md5":"1805878d903c4ab48c4f8407ad286562"},
     {"type":"file","name":"accel256.png","size":106976,"md5":"8154229152d530dbb558a05fc16eab2e"},
     {"type":"file","name":"accelhyper128.png","size":23336,"md5":"2df8ed4565e44ce819e3c3a4390ec1fa"},

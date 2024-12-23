@@ -11,7 +11,7 @@
     {"type":"file","name":"ColorAndDiffuseAlphaGradient_2AlphaMasks.glsl","size":591,"md5":"a6d124e24f619ff2ea9f6036f596f6e6"},
     {"type":"file","name":"ColorAndDiffuseAlphaGradient.glsl","size":477,"md5":"ca764cd9a5f78756b544fd064bc2be1f"},
     {"type":"file","name":"ColorAndDiffuse.glsl","size":298,"md5":"fb2d8adcb66627996d279686866f66f5"},
-    {"type":"file","name":"Credits.glsl","size":50397,"md5":"bc076cd4c6fb565ecdb7035577c64a3c"},
+    {"type":"file","name":"Credits.glsl","size":50496,"md5":"e113481d9a09547517b2dcb556ec3cca"},
     {"type":"file","name":"DefaultVS.glsl","size":367,"md5":"0ce5ee93af74cd8b5ccbbd19f2abfc83"},
     {"type":"directory","name":"es2","size":4096},
     {"type":"file","name":"FadeToColor.glsl","size":309,"md5":"6f1f61691d974881b4af5dd14679b7a5"},

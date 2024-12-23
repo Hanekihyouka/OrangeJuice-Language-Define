@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"data/graphics/hairs","size":196608,"contents":[
+  {"type":"directory","name":"data/graphics/hairs","size":184320,"contents":[
     {"type":"file","name":"alicianrone_b00_00.png","size":11112,"md5":"5f7e373f92267dee13c399d343250251"},
     {"type":"file","name":"alicianrone_b00_01.png","size":9622,"md5":"c0fcf60df874e725b0e83cf53f38f518"},
     {"type":"file","name":"alicianrone_b00_02.png","size":9673,"md5":"efeb77a69ec8acc9aba3abb9fd6862b7"},

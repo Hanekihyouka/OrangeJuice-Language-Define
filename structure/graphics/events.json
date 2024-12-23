@@ -670,6 +670,8 @@
       {"type":"file","name":"eatcake.png","size":22811,"md5":"ce2c2a9c1c7f63b14d01eae7ce2b380d"},
       {"type":"file","name":"logo.png","size":157760,"md5":"d56bd794d67f1670923054c3b85c3e1b"},
       {"type":"file","name":"mio_apron.png","size":31063,"md5":"77b4fe7f158eb2c4a9b4567b8038d1f0"},
+      {"type":"file","name":"mystery_1.png","size":25257,"md5":"c19dfaef7241f90ffd959a5a0fc8d085"},
+      {"type":"file","name":"mystery_2.png","size":19580,"md5":"135afbe3dedd72b5e87abc09614e994b"},
       {"type":"file","name":"tosscake.png","size":23327,"md5":"1e1ef310f1e9599e0a044ef5152187f4"},
       {"type":"file","name":"tutorial_00.png","size":51930,"md5":"cbe6191bae16e8da1c91b14493324e74"},
       {"type":"file","name":"tutorial_01.png","size":55732,"md5":"7b49a9aa8536d729fd241af1cb613431"},
@@ -1040,5 +1042,5 @@
     ]}
   ]}
 ,
-  {"type":"report","directories":49,"files":942}
+  {"type":"report","directories":49,"files":944}
 ]

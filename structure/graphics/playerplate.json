@@ -57,6 +57,7 @@
     {"type":"file","name":"bg_151.png","size":63106,"md5":"64742a5c0e5b4dbf16eb365af1e09fd8"},
     {"type":"file","name":"bg_152.png","size":69963,"md5":"e68c998d54003c9ad6d09492a6c0d667"},
     {"type":"file","name":"bg_153.png","size":59553,"md5":"1654f03a9649296255e513b059b519d1"},
+    {"type":"file","name":"bg_154.png","size":79278,"md5":"a87c109c8cdb492f36e6fe7e44c8d8be"},
     {"type":"file","name":"bg_15.png","size":64920,"md5":"15b91a6da48e7b0a6c32ba412408a735"},
     {"type":"file","name":"bg_16.png","size":65401,"md5":"8e7a398fd9c7405b4c0f3dff44b4d634"},
     {"type":"file","name":"bg_17.png","size":59931,"md5":"8f72c8ada8aca0522f68be4ca8c39e07"},
@@ -303,5 +304,5 @@
     ]}
   ]}
 ,
-  {"type":"report","directories":2,"files":299}
+  {"type":"report","directories":2,"files":300}
 ]
