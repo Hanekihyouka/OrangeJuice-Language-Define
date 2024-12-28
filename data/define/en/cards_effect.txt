@@ -737,4 +737,12 @@ descr=-1 Max HP for each stack. Effect expires on KO.
 name=Heart of Resistance
 descr=If active, take the place of target in battle the next time they are challenged or challenge a unit.
 
+< CARD_HYPER_POYO_EFFECT >
+name=Super Youth Time
+descr=Double your natural die rolls for Attack, Defense, Evade, Move, Bonus and Drop.
+
+< CARD_HYPER_CHUU_EFFECT >
+name=I'll Get a Little Into It
+descr=Gain +1 ATK for each stack. Gain no stars from defeating enemies. The first time you defeat a player in battle while this effect is active, gain 2 Wins.
+
 [EOF]

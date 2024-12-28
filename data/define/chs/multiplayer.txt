@@ -60,7 +60,7 @@
 密码错误。
 
 < LOBBY_BANNEDFROMLOBBY >
-你已被逐出房间。
+你已被禁止加入该房间。
 
 < LOBBY_VERSIONDIFFERENCE >
 房间版本不兼容。
@@ -69,7 +69,7 @@
 请更新至最新版本。
 
 < LOBBY_HOSTHASOLDVERSION >
-这个房间使用了旧版本的游戏。
+该房间使用了旧版本的游戏。
 
 < LOBBY_LEAVECONFIRM >
 要离开房间吗？
@@ -93,7 +93,7 @@
 与主机的连接已断开。
 
 < LOBBY_REMOVEDFORIDLING >
-因闲置时间过长被移出游戏。
+因闲置时间过长，你已被移出游戏。
 
 < LOBBY_CHANGING_OWNER >
 更换房间所有者。
@@ -109,7 +109,7 @@
 希望加入游戏……
 
 < LOBBY_SPECTATOR_JOINREQUESTING >
-正在请求加入许可……
+正在请求加入……
 
 < LOBBY_SPECTATOR_JOINDENIED >
 加入请求被拒绝了。
@@ -206,10 +206,10 @@
 与「%s」失去连接。
 
 < CHAT_SYSTEM_CHEATDETECTED_CLIENT >
-%s试图通过使用无效卡片作弊。
+%s使用了无效卡片，这可能是由于作弊或不同步。
 
 < CHAT_SYSTEM_CHEATDETECTED_HOST >
-%s试图通过使用无效卡片作弊，且被移出了游戏。
+%s因使用无效卡片而被移出游戏，这可能是由于作弊或不同步。
 
 // Invite = game invitation
 < GAMEINVITE_PENDING_TITLE >

@@ -6,7 +6,7 @@ flavor=「咕啊！」—夏姆
 
 < CARD_BOOST_LONELYCHARIOT >
 name=孤独的暴走车
-descr=储备效果\n移动骰的数值为5。\n在你的回合结束时受到1点伤害。\n倒下时效果结束。\n因这个效果而倒下时失去等级×5的STAR。
+descr=储备效果\n移动骰的点数为5。\n在你的回合结束时受到1点伤害。\n倒下时效果结束。\n因这个效果而倒下时失去等级×5的STAR。
 flavor=「别误会了……我可是孤独的！」—孤独车手
 
 < CARD_BOOST_MIMIC >
@@ -161,7 +161,7 @@ flavor=「我也不中用了啊……」—京子
 
 < CARD_HYPER_SHAM >
 name=三角力场
-descr=直到你的下一个回合前，所有敌人受到\n以下效果：\n骰子投出的数值为1。
+descr=直到你的下一个回合前，所有敌人受到\n以下效果：\n骰子投出的点数为1。
 flavor=「既然你无论如何都不肯回去，\n那我就只好不择手段把你带回去了！」—夏姆
 
 < CARD_HYPER_SHERRY >
@@ -191,7 +191,7 @@ flavor=「小布丁……\n我、我……爱死你了。」—QP
 
 < CARD_HYPER_SORAM >
 name=才气觉醒
-descr=回合结束前，移动·战斗·奖励·掉落时\n骰子投出的数值为5。\n这张卡也可以作为战斗卡使用。
+descr=回合结束前，移动·战斗·奖励·掉落时\n骰子投出的点数为5。\n这张卡也可以作为战斗卡使用。
 flavor=「开始……工作。」—优空
 
 < CARD_HYPER_MIXEDPOPPO >
@@ -396,7 +396,7 @@ flavor=「狱火！」—魅樱
 
 < CARD_BATTLE_DESPERATEMODIFICATION >
 name=自暴自弃的改造
-descr=这场战斗中，\n攻击·防御·闪避时，投出的数值为1或6。
+descr=这场战斗中，\n攻击·防御·闪避时，投出的点数为1或6。
 flavor=「装上了那么重的东西，太可怜了吧！」—玛儿
 
 < CARD_BOOST_PATHBLOCKERS >
@@ -511,7 +511,7 @@ flavor=「你以为是香蕉吗？遗憾，是我奈奈子！」\n—奈奈子
 
 < CARD_GIFT_LUCKYSEVENS >
 name=幸运7
-descr=持有这张卡片时，你投掷骰子的数值范围\n变为0～7，投掷数值为0时，最小结果\n为0。\n在移动骰为0的回合无法进行目标检测。
+descr=持有这张卡片时，骰子的点数范围\n变为0～7，投出0时最小结果为0。\n在移动骰为0的回合无法进行目标检测。
 flavor=「让我来的话，想投几就是几。」—由希
 
 < CARD_BOOST_WARPCONTROL >
@@ -758,6 +758,16 @@ flavor=「全炮门开启……发射！」—格雷因
 name=抵抗之心
 descr=指定1名存活的其他玩家。\n在其下次受到挑战或进行挑战时若你存活，\n则代替其进行战斗。\n这场战斗开始时，ATK·DEF·EVD+3。\n你同时只能指定一名玩家。
 flavor=「我们只是想在我们自己的天空中飞翔而已。」\n—波本
+
+< CARD_HYPER_POYO >
+name=超级青春Time
+descr=持续效果（1轮）\n攻击·防御·闪避·移动·奖励·掉落骰\n点数翻倍。
+flavor=「浓郁的青春开始啦！」—啵悠
+
+< CARD_HYPER_CHUU >
+name=该拿出点真本事了
+descr=★COST（等级×3）\n回合结束前，ATK+X，X为你的等级数。\n击倒敌人时不会获得STAR。\n效果存在期间初次战斗击倒敌人额外获得\n2WIN。
+flavor=「看来我要来点真格的了。」—䌷
 
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=炎炎烈日的最终兵器

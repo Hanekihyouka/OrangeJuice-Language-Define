@@ -373,7 +373,7 @@ descr=在奇数轮时，ATK-1·DEF+2。\n在偶数轮时，ATK+2·DEF-1。
 
 < CARD_UNIT_SUGURI46 >
 name=须玖莉（460亿年）
-descr=使用能造成伤害的增益卡或事件卡时，\n回合结束前ATK+1，下次移动骰枚数+1。\n你可以支付1.5倍COST（向上取整）使其\n造成双倍伤害。
+descr=使用能造成伤害的增益卡或事件卡时，\n下次移动骰枚数+1。\n你可以支付1.5倍COST（向上取整）使其\n造成双倍伤害。
 
 < CARD_UNIT_SUMIKA >
 name=栖海花
@@ -594,5 +594,17 @@ descr=MOV-1。使用卡片时获得1枚炮弹\n（上限为9）。
 < CARD_UNIT_BOURBON >
 name=波本
 descr=当你受到战斗伤害时，\nHP上限-1（下限为3），效果持续至倒下。
+
+< CARD_UNIT_POYO >
+name=啵悠
+descr=当所有玩家的总等级数为4的倍数时，\nATK·DEF·EVD+1，\n移动·奖励·掉落骰结果+1。
+
+< CARD_UNIT_CHUU >
+name=䌷
+descr=
+
+< CARD_COOP_UNIT_POYO >
+name=啵悠
+descr=当BOSS的下一张卡为Hyper或3级卡时，\nATK·DEF·EVD+1，\n移动·奖励·掉落骰结果+1。
 
 [EOF]

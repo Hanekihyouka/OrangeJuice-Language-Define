@@ -185,6 +185,9 @@ Protagonist Pack
 < SHOP_DLC_OLDGUARDPACK >
 Bourbon & Grain
 
+< SHOP_DLC_POYOCHUU >
+Poyo & Chuu
+
 < SHOP_TOOLTIP_HOME >
 Navigate the shop by category icons.
 

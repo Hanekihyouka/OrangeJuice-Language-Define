@@ -44,7 +44,7 @@ descr=跳过下一个回合。
 
 < CARD_EXTRAORDINARYSPECS_EFFECT >
 name=荒唐的性能
-descr=移动·战斗·奖励·掉落时，骰子投出的数值为6。
+descr=移动·战斗·奖励·掉落时，骰子投出的点数为6。
 
 < CARD_MAGICALMASSACRE_EFFECT >
 name=杀戮魔法
@@ -76,7 +76,7 @@ descr=消耗1层储备抵御1次陷阱、战斗或掉落格，\n并受到1点伤
 
 < CARD_DELTAFIELD_EFFECT >
 name=三角力场
-descr=骰子投出的数值为1。
+descr=骰子投出的点数为1。
 
 < CARD_WHIMSICALWINDMILL_EFFECT >
 name=变化无常的风车
@@ -88,7 +88,7 @@ descr=无法发起挑战。
 
 < CARD_HYPER_SORAMILITARY_EFFECT >
 name=才气觉醒
-descr=移动·战斗·奖励·掉落时，骰子投出的数值\n为5。
+descr=移动·战斗·奖励·掉落时，骰子投出的点数\n为5。
 
 < CARD_JONATHANRUSH_EFFECT >
 name=乔纳桑·速袭
@@ -325,7 +325,7 @@ descr=抽取的所有非Hyper甜点类卡片\n随机永久变为「危险布丁�
 
 < CARD_LONELYCHARIOT_EFFECT >
 name=孤独的暴走车
-descr=移动骰的数值为5。\n在回合结束时受到1点伤害。\n倒下时效果结束。\n因这个效果而倒下时失去等级×5的STAR。
+descr=移动骰的点数为5。\n在回合结束时受到1点伤害。\n倒下时效果结束。\n因这个效果而倒下时失去等级×5的STAR。
 
 < CARD_PRESIDENTPRIVILEGE_EFFECT >
 name=学生会长的权益
@@ -477,7 +477,7 @@ descr=每层储备增加1点声望，上限为6。\n累积的声望将在击败�
 
 < CARD_SPIKEDSHIELD_EFFECT >
 name=刺盾
-descr=受到的伤害减少1点。\n当你的防御骰数值大于对方的攻击骰数值时，\n将攻击数值一半的伤害返还给对方。
+descr=受到的伤害减少1点。\n当你的防御骰点数大于对方的攻击骰点数时，\n将攻击数值一半的伤害返还给对方。
 
 < CARD_BATTLEAXE_EFFECT >
 name=处刑者
@@ -525,7 +525,7 @@ descr=当效果结束时，随机交换HOME格的位置。
 
 < CARD_LUCKYSEVENS_EFFECT >
 name=幸运7
-descr=投掷骰子的数值范围变为0～7，投掷数值\n为0时，最小结果为0。
+descr=骰子的点数范围变为0～7，\n投出0时最小结果为0。
 
 < CARD_LUCKYZERO_EFFECT >
 name=幸运0
@@ -711,7 +711,7 @@ descr=持续效果（2轮）\n在先攻的战斗中ATK+X。\n在后攻的战斗�
 
 < CARD_MOMENTOFGLORY_EFFECT >
 name=前主角的光辉时刻
-descr=★COST（等级×7）\nHP降至1。\n持续效果（3轮）\nATK+2，EVD+5。
+descr=★COST（等级×10）\nHP降至1。\n持续效果（3轮）\nATK+4，EVD+5。
 
 < CARD_HKAIPASSIVE_EFFECT >
 name=最后一搏
@@ -736,5 +736,13 @@ descr=每层储备使HP上限-1。倒下时效果结束。
 < CARD_HEART_OF_RESISTANCE_EFFECT >
 name=抵抗之心
 descr=若存活，在你指定的玩家受到挑战或进行挑战时，代替其进行战斗。
+
+< CARD_HYPER_POYO_EFFECT >
+name=超级青春Time
+descr=攻击·防御·闪避·移动·奖励·掉落骰\n点数翻倍。
+
+< CARD_HYPER_CHUU_EFFECT >
+name=该拿出点真本事了
+descr=每层储备使ATK+1。\n击倒敌人时不会获得STAR。\n效果存在期间初次战斗击倒敌人额外获得\n2WIN。
 
 [EOF]

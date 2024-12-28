@@ -267,7 +267,7 @@
 <0086> By my calculation, it's 150% as good now.
 
 // (haruka)
-<0087> So, this means we don't have to join a school club to make our student lives better? 
+<0087> So, this means we don't have to join a school club　to make our student lives better? 
 
 // (chuu)
 <0088> I guess so.

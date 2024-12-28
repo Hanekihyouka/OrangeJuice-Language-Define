@@ -155,4 +155,7 @@ Baedong
 < CARD_ARTIST_CALAMARIPOP >
 Calamari-Pop
 
+< CARD_ARTIST_RUE >
+worker
+
 [EOF]

@@ -231,7 +231,7 @@ flavor=「做个了断吧！」—彼特
 
 < CARD_HYPER_SORA >
 name=荒唐的性能
-descr=持续效果（1轮）\n移动·战斗·奖励·掉落时，\n骰子投出的数值为6。
+descr=持续效果（1轮）\n移动·战斗·奖励·掉落时，\n骰子投出的点数为6。
 flavor=「我恳请你放下武器。」—优空
 
 < CARD_HYPER_YUKI >

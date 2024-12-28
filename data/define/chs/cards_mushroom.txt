@@ -89,10 +89,10 @@ descr=恢复%d点HP。
 descr=受到%d点伤害。
 
 < CARD_SHROOM_ROLLONE >
-descr=这场战斗中，投出的数值为1。
+descr=这场战斗中，投出的点数为1。
 
 < CARD_SHROOM_ROLLSIX >
-descr=这场战斗中，投出的数值为6。
+descr=这场战斗中，投出的点数为6。
 
 < CARD_SHROOM_FROSTWALKER >
 descr=获得%d轮寒冰步效果。

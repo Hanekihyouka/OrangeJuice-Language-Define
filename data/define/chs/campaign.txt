@@ -236,16 +236,16 @@ QP　最终章
 阴谋组的越狱　最终章
 
 < CAMPAIGN_DIFFICULTY_CASUAL >
-CPU角色的骰子数值较低。
+CPU角色的骰子点数较低。
 
 < CAMPAIGN_DIFFICULTY_NORMAL >
-不对CPU角色的骰子数值进行调整。
+不对CPU角色的骰子点数进行调整。
 
 < CAMPAIGN_DIFFICULTY_ORIGINAL >
-对CPU角色的骰子数值进行分别调整。
+对CPU角色的骰子点数进行分别调整。
 
 < CAMPAIGN_DIFFICULTY_EXTREME >
-所有CPU角色都会投出较高的骰子数值。
+所有CPU角色都会投出较高的骰子点数。
 
 < CAMPAIGN_RETURN >
 返回

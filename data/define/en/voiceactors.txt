@@ -164,4 +164,10 @@ Mamiya Yasuhiro
 < VOICEACTOR_TAKUMI_YAMAZAKI >
 Yamazaki Takumi
 
+< VOICEACTOR_KURISAKA_MINAMI >
+Kurisaka Minami
+
+< VOICEACTOR_SAWADA_HIME >
+Sawada Hime
+
 [EOF]

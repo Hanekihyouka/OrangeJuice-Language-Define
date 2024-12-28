@@ -140,15 +140,15 @@ descr=无法使用卡片。
 
 < CARD_BOSS_DELTAFIELD_EFFECT >
 name=被扰乱的三角力场
-descr=骰子投出的数值为1～3。
+descr=骰子投出的点数为1～3。
 
 < CARD_BOSS_IMAGINARYNUMBERS_EFFECT >
 name=虚数
-descr=骰子投出的数值为7。
+descr=骰子投出的点数为7。
 
 < CARD_BOSS_DELUSIONALNUMBERS_EFFECT >
 name=妄数
-descr=骰子投出的数值为0或7，投掷数值为0时，\n最小结果为0。
+descr=骰子投出的点数为0或7，\n投出0时最小结果为0。
 
 < CARD_BOSS_HEALTHDOWN_EFFECT >
 name=生命下降

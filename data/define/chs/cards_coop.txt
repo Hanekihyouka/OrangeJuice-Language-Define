@@ -185,7 +185,7 @@ flavor=「嘛呜呜呜哩呀呀呀呀呀！！」—纱季
 
 < CARD_HYPER_COOP_SHAM >
 name=三角力场
-descr=这场战斗中对方受到以下效果：\n骰子投出的数值为1。
+descr=这场战斗中对方受到以下效果：\n骰子投出的点数为1。
 flavor=「既然你无论如何都不肯回去，\n那我就只好不择手段把你带回去了！」—夏姆
 
 < CARD_HYPER_COOP_SHERRY >
@@ -525,12 +525,12 @@ flavor=
 
 < CARD_BOSS_COOP_DELTA_FIELD >
 name=被扰乱的三角力场
-descr=持续效果（2轮）\n所有玩家受到以下效果：\n骰子投出的数值为1～3。
+descr=持续效果（2轮）\n所有玩家受到以下效果：\n骰子投出的点数为1～3。
 flavor=
 
 < CARD_BOSS_COOP_IMAGINARY_NUMBERS >
 name=虚数
-descr=持续效果（1轮）\nBOSS的骰子投出的数值为7。
+descr=持续效果（1轮）\nBOSS的骰子投出的点数为7。
 flavor=
 
 < CARD_BOSS_COOP_HEALTH_DOWN >
@@ -930,7 +930,7 @@ flavor=
 
 < CARD_BOSS_COOP_DELUSIONAL_NUMBERS >
 name=妄数
-descr=★COST（20）\n持续效果（1轮）\nBOSS的骰子投出的数值为0或7，\n投掷数值为0时，最小结果为0。\n无法支付COST时，变为获得40个STAR。
+descr=★COST（20）\n持续效果（1轮）\nBOSS的骰子投出的点数为0或7，\n投出0时最小结果为0。\n无法支付COST时，变为获得40个STAR。
 flavor=
 
 < CARD_BOSS_COOP_SECOND_WING2 >

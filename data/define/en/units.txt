@@ -373,7 +373,7 @@ descr=In odd-numbered chapters, gain -1 ATK and +2 DEF.\nIn even-numbered chapte
 
 < CARD_UNIT_SUGURI46 >
 name=Suguri (46 Billion Years)
-descr=When playing a damage dealing Boost/Event card, gain +1 ATK until end of turn and +1 die to your next movement roll. You may pay 1.5x its cost (rounded up) to double its damage.
+descr=When playing a damage dealing Boost/Event card, gain +1 die to your next movement roll. You may pay 1.5x its cost (rounded up) to double its damage.
 
 < CARD_UNIT_SUMIKA >
 name=Sumika
@@ -594,5 +594,17 @@ descr=-1 MOV. Gain a Cannonball Counter upon playing a card (max 9).
 < CARD_UNIT_BOURBON >
 name=Bourbon
 descr=Every time you take damage in battle, lose 1 max HP (down to 3) until KO'd.
+
+< CARD_UNIT_POYO >
+name=Poyo
+descr=Every time the total level of all players is a multiple of four, gain +1 on Attack, Defense, Evade, Move, Bonus and Drop rolls.
+
+< CARD_UNIT_CHUU >
+name=Chuu
+descr=
+
+< CARD_COOP_UNIT_POYO >
+name=Poyo
+descr=If the next Boss card is a Hyper or Level 3 card, gain +1 on Attack, Defense, Evade, Move, Bonus and Drop rolls.
 
 [EOF]

@@ -183,7 +183,10 @@ Ultimate Weapon Girl
 主角包
 
 < SHOP_DLC_OLDGUARDPACK >
-波本＆格雷因包
+波本＆格雷因
+
+< SHOP_DLC_POYOCHUU >
+啵悠＆䌷
 
 < SHOP_TOOLTIP_HOME >
 按类别图标查看商店。
