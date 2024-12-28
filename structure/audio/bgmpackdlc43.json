@@ -1,0 +1,8 @@
+[
+  {"type":"directory","name":"data/audio/bgmpackdlc43","size":4096,"contents":[
+    {"type":"file","name":"0.ogg","size":2412233,"md5":"3b4eb661b01ab765a175be1dff124b0a"},
+    {"type":"file","name":"1.ogg","size":1390532,"md5":"4265b51c620e8c3ad738c15065333974"}
+  ]}
+,
+  {"type":"report","directories":1,"files":2}
+]

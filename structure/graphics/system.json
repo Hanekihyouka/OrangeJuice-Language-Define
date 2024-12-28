@@ -106,7 +106,7 @@
     {"type":"file","name":"login_index.png","size":97911,"md5":"0d4fbe8305eda0bff802badd6df8c84b"},
     {"type":"file","name":"login_pic.png","size":26530,"md5":"45820a775c39334b1249f0bb897442da"},
     {"type":"file","name":"menu_comment.png","size":47822,"md5":"55dc24e09ea36b35f8fa796ffae8a56f"},
-    {"type":"file","name":"menu_system.png","size":149727,"md5":"a490b67dd982fe640a273e7409c499f5"},
+    {"type":"file","name":"menu_system.png","size":125987,"md5":"c60f88929b149a023e13cb1a5cfca83f"},
     {"type":"file","name":"menu_title1.png","size":21348,"md5":"0c53342a35bc23ec8df59b09516cc81e"},
     {"type":"file","name":"menu_title2.png","size":28551,"md5":"996e5251b0330c0bf1a157b588bcfa94"},
     {"type":"file","name":"menu_title3.png","size":4421,"md5":"4926dc7ebd93b06eea4ec5099bcbad07"},
@@ -215,6 +215,7 @@
     {"type":"file","name":"tony_menu.png","size":33090,"md5":"10db8c1432b276200c83bca9d6657fbc"},
     {"type":"file","name":"tPlateBackgrounds.png","size":2415265,"md5":"62d71287798210db4c9fb4c53e551e7a"},
     {"type":"file","name":"tPlatePins.png","size":241129,"md5":"664f538ea0109f67fca251684c3c212a"},
+    {"type":"file","name":"true_star.png","size":824,"md5":"9cece4e9f0b20133e0055d3cff842ddb"},
     {"type":"file","name":"ui_buttons.png","size":167130,"md5":"f4f8347fef008406d9366a51dd533460"},
     {"type":"file","name":"user_system.png","size":84680,"md5":"23d3f75f3e84185f2694116600895bb4"},
     {"type":"file","name":"whitemask.png","size":4533,"md5":"ee19cc81fd67fc6f40c9a4cd8b6b6fc7"},
@@ -223,5 +224,5 @@
     {"type":"file","name":"word_input.png","size":13229,"md5":"2ab4733567741a63e314ee10f53d9a5e"}
   ]}
 ,
-  {"type":"report","directories":1,"files":221}
+  {"type":"report","directories":1,"files":222}
 ]

@@ -14,6 +14,7 @@
     {"type":"directory","name":"bgmpackcm","size":4096},
     {"type":"directory","name":"bgmpackcoopbosses","size":4096},
     {"type":"directory","name":"bgmpackcuties","size":4096},
+    {"type":"directory","name":"bgmpackdlc43","size":4096},
     {"type":"directory","name":"bgmpackel","size":4096},
     {"type":"directory","name":"bgmpackga","size":4096},
     {"type":"directory","name":"bgmpackgb","size":4096},
@@ -67,6 +68,7 @@
     {"type":"directory","name":"voice_cha_bourbon","size":4096},
     {"type":"directory","name":"voice_cha_ceor","size":4096},
     {"type":"directory","name":"voice_cha_chris","size":4096},
+    {"type":"directory","name":"voice_cha_chuu","size":4096},
     {"type":"directory","name":"voice_cha_cook","size":4096},
     {"type":"directory","name":"voice_cha_ellie","size":4096},
     {"type":"directory","name":"voice_cha_elliehyper","size":4096},
@@ -113,6 +115,7 @@
     {"type":"directory","name":"voice_cha_poppo","size":4096},
     {"type":"directory","name":"voice_cha_poppo_aprilfools","size":4096},
     {"type":"directory","name":"voice_cha_poppomama","size":4096},
+    {"type":"directory","name":"voice_cha_poyo","size":4096},
     {"type":"directory","name":"voice_cha_qp","size":4096},
     {"type":"directory","name":"voice_cha_reika","size":4096},
     {"type":"directory","name":"voice_cha_saki","size":4096},
@@ -152,6 +155,7 @@
     {"type":"directory","name":"voice_sys_bourbon","size":4096},
     {"type":"directory","name":"voice_sys_ceor","size":4096},
     {"type":"directory","name":"voice_sys_chris","size":4096},
+    {"type":"directory","name":"voice_sys_chuu","size":4096},
     {"type":"directory","name":"voice_sys_cook","size":4096},
     {"type":"directory","name":"voice_sys_cuties","size":4096},
     {"type":"directory","name":"voice_sys_ellie","size":4096},
@@ -197,6 +201,7 @@
     {"type":"directory","name":"voice_sys_pomeranius","size":4096},
     {"type":"directory","name":"voice_sys_poppo","size":4096},
     {"type":"directory","name":"voice_sys_poppomama","size":4096},
+    {"type":"directory","name":"voice_sys_poyo","size":4096},
     {"type":"directory","name":"voice_sys_qp","size":4096},
     {"type":"directory","name":"voice_sys_reika","size":4096},
     {"type":"directory","name":"voice_sys_saki","size":4096},
@@ -225,5 +230,5 @@
     {"type":"directory","name":"voice_sys_yuuki","size":4096}
   ]}
 ,
-  {"type":"report","directories":224,"files":0}
+  {"type":"report","directories":229,"files":0}
 ]

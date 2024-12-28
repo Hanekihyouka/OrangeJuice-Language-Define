@@ -1,0 +1,22 @@
+[
+  {"type":"directory","name":"data/fonts","size":4096,"contents":[
+    {"type":"file","name":"07YasashisaGothic.ttf","size":4711748,"md5":"f91ef96a2257bd2431c700ff20f2a2be"},
+    {"type":"file","name":"07やさしさゴシック.ttf","size":4711748,"md5":"f91ef96a2257bd2431c700ff20f2a2be"},
+    {"type":"file","name":"Gakuwa-Regular.otf","size":13004,"md5":"c678a24196f9e3c1ea36ebd943c51acb"},
+    {"type":"file","name":"Lucida Fax.ttf","size":61912},
+    {"type":"file","name":"mplantinBold.ttf","size":69080,"md5":"7ec0e17efa507c993e222fe72a058847"},
+    {"type":"file","name":"MPlantinGothic.ttf","size":69520,"md5":"806ea7dbaa3ad2a7683992e3ac80d691"},
+    {"type":"file","name":"mplantinSemiBold.otf","size":33140,"md5":"e13c886b62e42763f5098d4bd06b2d0f"},
+    {"type":"file","name":"mplantin.ttf","size":69520,"md5":"806ea7dbaa3ad2a7683992e3ac80d691"},
+    {"type":"file","name":"NIS_Z10.ttf","size":2829336,"md5":"638e1b6848dce224fb35d0c184da6d9f"},
+    {"type":"file","name":"NIS_Z1.ttf","size":2952116,"md5":"ba477ae9b0fcdd96a388ad438e7739b5"},
+    {"type":"file","name":"NIS_Z5.ttf","size":2922228,"md5":"fa27a564752d00eff8dea14f50312c2c"},
+    {"type":"file","name":"Noto Sans CJK JP Regular.ttf","size":5732824},
+    {"type":"file","name":"NotoSansMono-Regular.ttf","size":405892,"md5":"b74a624c4a9a1cf70592ad154bb1e4f7"},
+    {"type":"file","name":"RockoUltraFLF.ttf","size":52372,"md5":"569773497d938dfd9749337887f5edde"},
+    {"type":"file","name":"SnowFreeze.ttf","size":48656,"md5":"cb0e59298df4c9eb237af17fd6d0fc30"},
+    {"type":"file","name":"TT-JTCウインZ5 & TT-JTCウインZ5P.TTC","size":2553972}
+  ]}
+,
+  {"type":"report","directories":1,"files":16}
+]

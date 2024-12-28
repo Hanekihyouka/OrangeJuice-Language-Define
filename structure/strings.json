@@ -1,0 +1,8 @@
+[
+  {"type":"directory","name":"data/strings","size":4096,"contents":[
+    {"type":"file","name":"credits.ojtxt","size":49065,"md5":"f978933b4e163a8c7fb7e47f8f105e42"},
+    {"type":"file","name":"version.ojtxt","size":7,"md5":"f176335a70a77a7f0b172c027e36dd52"}
+  ]}
+,
+  {"type":"report","directories":1,"files":2}
+]
