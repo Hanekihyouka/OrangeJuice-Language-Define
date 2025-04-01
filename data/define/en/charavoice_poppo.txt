@@ -115,50 +115,54 @@
 <0114> Popoppoo!
 <0115> Popoon!
 <0116> Popo!
-<0117> Pokay.
-<0118> Poppo.
-<0119> Pyes!
-<0120> Pooh.
-<0121> Pogeh...
-<0122> Poppyaa!
-<0123> Poh...
-<0124> Poppopoo!
-<0125> Poron.
-<0126> Poh!
-<0127> Popoh!
-<0128> Pomumumu...
-<0129> Poppo!
-<0130> Pohyaa!!!
-<0131> Pofun...
-<0132> Popoppo!
-<0133> Pokkyuupo!
-<0134> Popoon!
-<0135> Popyaa!
-<0136> Pokyupokyupopooh.
-<0137> Poi!
-<0138> Popopoi popoi?!
-<0139> Pogyapii! Pokyakkyakka!
-<0140> Pokyaapi!!
-<0141> Pooipopupoppiii.
-<0142> Hahah, popopokyopokyokkyo!
-<0143> Hahah.
-<0144> Pokyupokkyupokyupo!!
-<0145> Pokyuun!
-<0146> Pokkyakkyakkyakkya!!
-<0147> Pokyaamo! Pokyapokyaa!
-<0148> Pokyaa... Pokkyuu!
-<0149> Kyupopopopo! Pokkyaa!
-<0150> Pokya... Pokyakya...
-<0151> Pokyuu?
-<0152> Pokyuuu!
-<0153> Poppo, Poppo!
-<0154> Popoppoppopooh...
-<0155> Poppoh!!!!
-<0156> Pokyuuuuuun!
-<0157> Upoaaaaaaah!!
-<0158> Pokyuuuuuuuu!!!!
-<0159> Poppo can speak now! Poppo!
-<0160> Poppo can speak now! Poppo!
-<0161> Poppo can speak now! Poppo!
-<0162> Poppo can speak now! Poppo!
+<0117> Poppo!
+<0118> Pomyah-po!
+<0119> Pomyun! Poppo!
+<0120> Pokyupo-ah!
+<0121> Pokay.
+<0122> Poppo.
+<0123> Pyes!
+<0124> Pooh.
+<0125> Pogeh...
+<0126> Poppyaa!
+<0127> Poh...
+<0128> Poppopoo!
+<0129> Poron.
+<0130> Poh!
+<0131> Popoh!
+<0132> Pomumumu...
+<0133> Poppo!
+<0134> Pohyaa!!!
+<0135> Pofun...
+<0136> Popoppo!
+<0137> Pokkyuupo!
+<0138> Popoon!
+<0139> Popyaa!
+<0140> Pokyupokyupopooh.
+<0141> Poi!
+<0142> Popopoi popoi?!
+<0143> Pogyapii! Pokyakkyakka!
+<0144> Pokyaapi!!
+<0145> Pooipopupoppiii.
+<0146> Hahah, popopokyopokyokkyo!
+<0147> Hahah.
+<0148> Pokyupokkyupokyupo!!
+<0149> Pokyuun!
+<0150> Pokkyakkyakkyakkya!!
+<0151> Pokyaamo! Pokyapokyaa!
+<0152> Pokyaa... Pokkyuu!
+<0153> Kyupopopopo! Pokkyaa!
+<0154> Pokya... Pokyakya...
+<0155> Pokyuu?
+<0156> Pokyuuu!
+<0157> Poppo, Poppo!
+<0158> Popoppoppopooh...
+<0159> Poppoh!!!!
+<0160> Pokyuuuuuun!
+<0161> Upoaaaaaaah!!
+<0162> Pokyuuuuuuuu!!!!
 <0163> Poppo can speak now! Poppo!
+<0164> Poppo can speak now! Poppo!
+<0165> Poppo can speak now! Poppo!
+<0166> Poppo can speak now! Poppo!
+<0167> Poppo can speak now! Poppo!

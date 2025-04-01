@@ -525,7 +525,7 @@ NoName老师恢复了原状，\n所有人都避免了留级危机！
 所有人都变成了懒猪！收集猪猪之心拯救\n你的朋友们吧！
 
 < PLAYMENU_EVENT_FRB2019_INSTRUCTION_01 >
-猪猪之心可以通过在普通或赏金猎人模式下\n完成一场游戏、击倒敌方玩家（每场游戏中\n每名玩家一次），或是得到更高的结算名次\n来获得。
+猪猪之心可以通过在普通或赏金猎人模式下\n完成一场游戏、击倒敌方玩家（每场游戏中\n每名玩家一次），或是得到更高的结算名次，\n或是进行合作模式游戏来获得。
 
 < PLAYMENU_EVENT_FRB2019_INSTRUCTION_02 >
 用猪猪之心在商店解锁猪猪装扮，将角色\n从猪猪化的诅咒中解放出来吧！
@@ -1235,7 +1235,7 @@ CPU设定
 CPU自定义
 
 < MENU_VOCALIZER_GENERIC_CATEGORY >
-通用
+常规
 
 < MENU_VOCALIZER_NORMAL_CATEGORY >
 普通
@@ -1267,6 +1267,36 @@ CPU自定义
 < MENU_CODEX_INSTRUCTION_4 >
 希望你能喜欢这项新功能。欢迎前往Steam论坛或我们的\nDiscord服务器进行反馈！
 
+< MENU_CODEX_TAB_LORE >
+角色背景
+
+< MENU_CODEX_TAB_STORIES >
+短篇故事
+
+< MENU_CODEX_READSTORY >
+阅读故事
+
+< MENU_CODEXSTORY_TITLE_FAMILY >
+家人
+
+< MENU_CODEXSTORY_TITLE_CLASSCHANGE >
+转职
+
+< MENU_CODEXSTORY_TITLE_LULUWATTY >
+同情
+
+< MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
+使用「{1}」进行{0}场游戏。
+
+< MENU_CODEXSTORY_UNLOCKCOND_2UNITS >
+使用「{1}」或「{2}」进行{0}场游戏。
+
+< MENU_CODEXSTORY_UNLOCKCOND_NUNITS >
+使用以下任意角色进行{0}场游戏：{1}。
+
+< MENU_CODEXSTORY_UNLOCKCOND_EVENT >
+完成「{0}」活动。
+
 < MENU_NORMABOARD >
 目标达成奖励特长
 
@@ -1278,5 +1308,11 @@ CPU自定义
 
 < MENU_CARDBACK_UNLOCK >
 已解锁新卡背！
+
+< MENU_CHAPTER_LABEL >
+轮数
+
+< MENU_UNAVAILABLE_LABEL >
+当前无法使用。
 
 [EOF]

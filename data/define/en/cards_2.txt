@@ -1,4 +1,4 @@
-﻿
+
 < CARD_BOOST_AMBUSH >
 name=Ambush
 descr=Engage in battle with an enemy or enemies on your panel. Once these battles are over, your turn is over.
@@ -769,6 +769,16 @@ name=I'll Get a Little Into It
 descr=★Cost: Lvl x5.\nUntil end of turn, gain +X ATK, where X is your level. Gain no stars from defeating enemies. The first time you defeat a player in battle while this effect is active, gain 2 Wins.
 flavor="I guess I'll let you see a glimpse of my mettle." ―Chuu
 
+< CARD_HYPER_HARUKA >
+name=Hype Bringer
+descr=Effect duration: 3 chapters. Revive all players currently suffering KO with full HP. If another player suffers KO, they recover instantly with full HP. For each player revived, gain their Lvl x 5 stars. This star gain effect can stack.
+flavor="Let's hype up the game together!" ―Haruka
+
+< CARD_HYPER_KANATA >
+name=Intellectual-Sounding Bluff
+descr=Target another player.\nChoose a card type (Battle/Boost/Event/Other), then declare a card type.\nIf the next card played by target player is the Chosen type: gain 2 Wins and Lvl x 10 stars.\nDeclared only: take 2 damage. 
+flavor="I can see what cards you're holding." ―Kanata
+
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=Ultimate Weapon in the Sun
 descr=During this battle, gain +3 ATK.
@@ -848,4 +858,35 @@ flavor=
 name=Hold the Gremlin
 descr=An unpredictable Mimyuu has attached herself to you. At the end of your turn, gain Lvl stars. Will lash out after a random amount of turns, reducing your HP to 1 and passing to another player. Use to pass to another player. Cannot be discarded or removed through any other means. Ignore any effects that would prevent this card's effect from being applied.
 flavor=
+
+< CARD_CHAOS_BDTT_HYPER >
+name=Terrorize
+descr=Target a KO'd enemy. They gain REC+3 until recovery.
+flavor=
+
+< CARD_GENERIC_BATTLE >
+name=Battle Card
+descr=This is a card used in battles.
+flavor="I can see what cards you're holding." ―Kanata
+
+< CARD_GENERIC_BOOST >
+name=Boost Card
+descr=This is a boost card.
+flavor="I can see what cards you're holding." ―Kanata
+
+< CARD_GENERIC_TRAP >
+name=Trap Card
+descr=Watch out! This is a trap card!
+flavor="I can see what cards you're holding." ―Kanata
+
+< CARD_GENERIC_EVENT >
+name=Event Card
+descr=This looks like it is an event card.
+flavor="I can see what cards you're holding." ―Kanata
+
+< CARD_GENERIC_GIFT >
+name=Gift Card
+descr=A gift card? For me? Aw, you shouldn't have.
+flavor="I can see what cards you're holding." ―Kanata
+
 [EOF]

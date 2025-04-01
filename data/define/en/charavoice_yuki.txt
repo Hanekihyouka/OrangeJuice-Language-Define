@@ -115,48 +115,52 @@
 <0114> Oh, this is...
 <0115> Very nice.
 <0116> Now my battle strength has increased.
-<0117> Okay.
-<0118> Nice.
-<0119> Yeah!
-<0120> Not good.
-<0121> Seriously?
-<0122> Lucky!
-<0123> Hm?
-<0124> Alright, let's go!
-<0125> Here goes nothing.
-<0126> Here I go!
-<0127> Yo.
-<0128> Well then...
-<0129> That's it!
-<0130> Amazing.
-<0131> What the hell...
-<0132> Your power belongs to me.
-<0133> I'm borrowing this for a bit.
-<0134> Let me use that.
-<0135> So this is how it feels!
-<0136> Thank you.
-<0137> Here I come, QP.
-<0138> Bring it, QP!
-<0139> You were naive to think you could beat me, QP.
-<0140> No way, I lost to QP...
-<0141> I'll test your power.
-<0142> Show me your combined powers.
-<0143> Good try, but you've still got a ways to go.
-<0144> You've gotten strong... My compliments.
-<0145> The most dangerous woman in the Waruda... I'll test your true power!
-<0146> Woah, Kiriko, you came out of nowhere!
-<0147> Phew... You're totally crazy.
-<0148> Having you as an enemy is terrifying...
-<0149> There's no way I could lose to you...
-<0150> Tch, so you're my opponent!
-<0151> I won somehow...
-<0152> Ngh, I lost after all...
-<0153> Pudding, huh? O-hoho.
-<0154> Pudding with soy sauce tastes like sea urchin!
-<0155> You're wearing some pretty cool clothes, missus!
-<0156> What's with this girl... she's seriously fired up.
-<0157> Beat me, and I'll buy you some food.
-<0158> Krila! Alright, you bring it on!
-<0159> You're still no match for me.
-<0160> Whoa, you did way better than I thought you would.
-<0161> A game played only by Warudas, let's do it!
+<0117> You got this.
+<0118> Switch with me.
+<0119> You take it from here.
+<0120> Alright, let's switch.
+<0121> Okay.
+<0122> Nice.
+<0123> Yeah!
+<0124> Not good.
+<0125> Seriously?
+<0126> Lucky!
+<0127> Hm?
+<0128> Alright, let's go!
+<0129> Here goes nothing.
+<0130> Here I go!
+<0131> Yo.
+<0132> Well then...
+<0133> That's it!
+<0134> Amazing.
+<0135> What the hell...
+<0136> Your power belongs to me.
+<0137> I'm borrowing this for a bit.
+<0138> Let me use that.
+<0139> So this is how it feels!
+<0140> Thank you.
+<0141> Here I come, QP.
+<0142> Bring it, QP!
+<0143> You were naive to think you could beat me, QP.
+<0144> No way, I lost to QP...
+<0145> I'll test your power.
+<0146> Show me your combined powers.
+<0147> Good try, but you've still got a ways to go.
+<0148> You've gotten strong... My compliments.
+<0149> The most dangerous woman in the Waruda... I'll test your true power!
+<0150> Woah, Kiriko, you came out of nowhere!
+<0151> Phew... You're totally crazy.
+<0152> Having you as an enemy is terrifying...
+<0153> There's no way I could lose to you...
+<0154> Tch, so you're my opponent!
+<0155> I won somehow...
+<0156> Ngh, I lost after all...
+<0157> Pudding, huh? O-hoho.
+<0158> Pudding with soy sauce tastes like sea urchin!
+<0159> You're wearing some pretty cool clothes, missus!
+<0160> What's with this girl... she's seriously fired up.
+<0161> Beat me, and I'll buy you some food.
+<0162> Krila! Alright, you bring it on!
+<0163> You're still no match for me.
+<0164> Whoa, you did way better than I thought you would.
+<0165> A game played only by Warudas, let's do it!

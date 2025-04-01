@@ -22,10 +22,6 @@ descr=Selected units will change owners at the beginning of the match.
 name=Ultimate Joker
 descr=All cards will act as they were level 1 and have no cost.
 
-< MUTATOR_BDTT >
-name=Bring Down The Tank
-descr=One player at random will see their HP increased by 50, and their base ATK will be set to be 2, while being impervious to KO card effects. Other players gain a permanent Dash. All cards are free to play and will act as they were level 1. If defeated, the other 3 players win the game. If not defeated under 30 chapters, the Tank wins the game.
-
 < MUTATOR_UNSTABLE_SELECTION >
 name=Unstable Selection
 descr=Chosen characters are changed to a random character.
@@ -101,3 +97,23 @@ descr=Experience the original field breaker, happening every 6 chapters.
 < MUTATOR_CARD_MANIA >
 name=Card Mania
 descr=All cards chosen in your initial deck will be doubled. 16 hypers will be added instead of 8. Max held cards become 5 for all units, and you can play any amount of cards in your turn. Everyone draws a card every chapter.
+
+< MUTATOR_BDTT >
+name=Bring Down The Tank
+descr=Team up against a random player designated to be the Tank. The three Slayers will win the game if the Tank is defeated, while the Tank must either survive 30 chapters, or have all Slayers KO'd.
+
+< MUTATOR_SINGLE_CREDIT >
+name=Single Credit
+descr=Revive instantly when KO'd. When revived, change to a randomly designated unit.
+
+< MUTATOR_REVERSIBLE_FORTUNE >
+name=Reversible Fortune
+descr=Start with 200 Stars, and 14 Wins. Win the game by losing Norma levels, and reaching either 0 Stars or 0 Wins. Card cost is halved and cannot exceed 30 stars.
+
+< MUTATOR_TAG_TEAM >
+name=Tag Team
+descr=Team up with a partner to become the local 100% Orange Juice champion!
+
+< MUTATOR_ULTIMATE_TAG_TEAM >
+name=Ultimate Tag Team
+descr=Tag Team with a twist! Tag cooldown is reduced to 1 chapter. Tag can be used in battles.

@@ -258,3 +258,42 @@ name=飞翔的缇欧特拉塔
 desc=授予使用缇欧特拉塔进行过很多场游戏的玩家。\n她有着一群不离不弃的狐朋狗友。
 artist=Sora
 
+< PIN_FLYING_ARNELLE >
+name=飞翔的阿妮尔
+desc=授予使用阿妮尔进行过很多场游戏的玩家。\n真正的宝藏或许就是我们一路上结交的朋友？
+artist=Sora
+
+< PIN_FLYING_MAYNIE >
+name=飞翔的梅妮
+desc=授予使用梅妮进行过很多场游戏的玩家。\n凝视那对异色瞳，无视那只袭来拳……
+artist=Sora
+
+< PIN_FLYING_HALENA >
+name=飞翔的哈琳娜
+desc=授予使用哈琳娜进行过很多场游戏的玩家。\n这枚挂件总能带你前往正确的房间。
+artist=Sora
+
+< PIN_FLYING_COOK >
+name=飞翔的库克
+desc=授予使用库克进行过很多场游戏的玩家。\n这枚挂件也不是鸡。
+artist=Sora
+
+< PIN_FLYING_LONERIDER >
+name=飞翔的孤独车手
+desc=授予使用孤独车手进行过很多场游戏的玩家。\n不再孤独的车手。
+artist=Sora
+
+< PIN_FLYING_MERCHANT >
+name=飞翔的商人
+desc=授予使用商人进行过很多场游戏的玩家。\n你会买下这枚挂件的吧，是的，你会的吧！
+artist=Sora
+
+< PIN_FLYING_CHRIS >
+name=飞翔的克丽丝
+desc=授予使用克丽丝进行过很多场游戏的玩家。\n年度最佳女服务员，年年都是！
+artist=Sora
+
+< PIN_FLYING_KYUPITA >
+name=飞翔的QP太
+desc=授予使用QP太进行过很多场游戏的玩家。\n这枚挂件充满了燃烧的青春热血！
+artist=Sora

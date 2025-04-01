@@ -525,7 +525,7 @@ descr=当效果结束时，随机交换HOME格的位置。
 
 < CARD_LUCKYSEVENS_EFFECT >
 name=幸运7
-descr=骰子的点数范围变为0～7，\n投出0时最小结果为0。
+descr=骰子的投点范围变为0～7，\n投出0时最小结果为0。
 
 < CARD_LUCKYZERO_EFFECT >
 name=幸运0
@@ -541,7 +541,7 @@ descr=除战斗外，骰子枚数变为2枚。\n当你停留在自己的HOME格�
 
 < CARD_SAFEJOURNEY_EFFECT >
 name=平安的旅途
-descr=每当回合开始时失去5个STAR。\n忽略掉落格、陷阱及卡片效果的伤害。\n当你停留在自己的HOME格或持有的STAR\n少于5个时效果结束。
+descr=每当回合开始时失去5个STAR。\n忽略掉落格、陷阱及来自卡片效果的伤害。\n当你停留在自己的HOME格或持有的STAR\n少于5个时效果结束。
 
 < CARD_HUNGRY_EFFECT >
 name=饥饿
@@ -739,10 +739,34 @@ descr=若存活，在你指定的玩家受到挑战或进行挑战时，代替�
 
 < CARD_HYPER_POYO_EFFECT >
 name=超级青春Time
-descr=攻击·防御·闪避·移动·奖励·掉落骰\n点数翻倍。
+descr=攻击·防御·闪避·移动·奖励·掉落骰\n投点翻倍。
 
 < CARD_HYPER_CHUU_EFFECT >
 name=该拿出点真本事了
-descr=每层储备使ATK+1。\n击倒敌人时不会获得STAR。\n效果存在期间初次战斗击倒敌人额外获得\n2WIN。
+descr=每层储备使ATK+1。\n击倒敌人时不会获得STAR。\n效果存在期间初次战斗击倒玩家额外获得\n2WIN。
+
+< CARD_CHAOS_SLAYER_EFFECT >
+name=歼灭者之魂
+descr=你与其他的灵魂战友被一种神秘的牵绊连接着。\nREC-1，移动骰为2枚。\n你可以治疗和复活其他的灵魂战友。
+
+< CARD_CHAOS_TANK_EFFECT >
+name=坦克之魂
+descr=你奉命击溃敌人。\nATK+2，HP上限大幅提升，免疫立即击倒\n和HP减少效果。恢复无效。
+
+< CARD_CHAOS_TERRORIZE_EFFECT >
+name=惧怕
+descr=成功复活前REC+3。
+
+< CARD_HYPER_HARUKA_GLOBAL_EFFECT >
+name=暖场高手
+descr=每当其他玩家倒下时，其立即以最大HP复活。
+
+< CARD_HYPER_HARUKA_PERSONAL_EFFECT >
+name=激动！
+descr=当其他玩家倒下时，获得其等级×5的STAR。\n当有多个「暖场高手」激活时，该效果叠加。
+
+< CARD_INTELLECTUALBLUFF_EFFECT >
+name=故弄玄虚
+descr=当你使用的下一张卡片：\n·符合指定者暗自选择：其获得2WIN和等级×10的STAR。\n·仅符合指定者宣称：其受到2点伤害。
 
 [EOF]

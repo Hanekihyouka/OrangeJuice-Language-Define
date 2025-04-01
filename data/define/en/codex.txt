@@ -317,3 +317,53 @@
 2=Likes: Beasts, games\nDislikes: Things that smell of iron
 3=Teotoratta herself also has the immediacy of a beast - she does what she wants, as soon as she wants to do it, often dragging everyone around her into the mix of things.
 4=When emotional, Teo makes all kinds of animal sounds.
+
+< LORE_ARNELLE >
+1=Arnelle is a self-centered thief who goes after famous treasures around the world. Her character was inspired by Doronjo from Yatterman.
+2=Likes: Treasure, alcoholic beverages, working together\nDislikes: Stinky food
+3=Along with her group of followers, Arnelle is always out on the hunt for rare artifacts. She is annoyed by Ellie and Lulu and gets in their way.
+4=Arnelle is around 30 years old, and while you might not guess it from her looks, she is actually a devil.
+
+< LORE_MAYNIE >
+1=Maynie is a follower of the treasure thief Arnelle, whom she calls Lady Arnelle.
+2=Likes: Arnelle, sweet drinks\nDislikes: Bitter vegetables
+3=She's 15 years old and normally acts and talks in a cute manner, but that hides a hardcore obsessive personality that gets ticked off over trivial things.
+4=Maynie is presumed to be human; however when her anger reaches its limit, she goes berserk and sometimes forgets everything that happened during this time. Her hair color and arms were originally planned to change when this occurred.  
+
+< LORE_HALENA >
+1=Halena is a mysterious girl who guides people wherever in the world they want to go. She has every map she's ever seen perfectly installed in her head. 
+2=Likes: Travelling, drinking after a hard day at work\nDislikes: Rations, especially hardtack
+3=Halena has a calm and amicable personality, and her independent mindset lets her enjoy traveling around the world wherever her journeys end up taking her.
+4=The 19-year old girl enjoys a good dinner when reaching a new town, eating and drinking their local delicacies. Some might say she likes it a bit too much, but her active lifestyle makes up for her appetite.
+5=When Halena was a child, she happened to stumble upon a magical grimoire, and performing the ritual inscribed within conjured a fairy.
+
+< LORE_COOK >
+1=A weathercock fairy who doesn't like being mistaken for a bird. Cook's real age is unknown, but she has the mentality of a 6-year old. She's a free-spirited, self-centered and outspoken girl.
+2=Likes: Egg dishes, travelling, nice people\nDislikes: Chicken dishes, rude people
+3=As befits one of her esteemed kind, Cook will take you wherever you want to go, or to whatever you're looking for, in return for helping her. She has a mystical ability to identify your heart's desire.
+4=Just like many birds, Cook is able to eat way more than you would expect of someone her size. She has the ability to always sniff out the highest quality food around.
+
+< LORE_MERCHANT >
+1=An out-of-control merchant who comes and goes along the railways in the wilderness - his motto: "delivering cargo faster than anyone else." Obsessed with that goal, he does everything he can do to accomplish it, like ignoring the train timetables or armoring his train.
+2=Likes: Making money, investing\nDislikes: Delays, distractions
+3=No one knows where he originally hails from, except for a rumor that he might be from someplace southern. He likes the process of making money more than money itself. That makes him open to investing his fortune in new pursuits.
+4=After his defeat by Marc, Merchant seemed to lose something important within him, and he decided that he couldn't go any further with his railway business, modifying his train to be able to fly instead. He often starts his sentences by saying "yes" and repeats what he just said before.
+
+< LORE_LONERIDER >
+1=Lone Rider drives his modified vehicle through the wilderness in solitude. He hates caring about other people and hardly talks to anyone else.
+2=Likes: Solitude, freedom\nDislikes: The world, socializing
+3=Solitude doesn't invoke loneliness or sentiment in Lone Rider. Instead, to him, it represents freedom of mind and release from others. He finds the world a mysterious and ambiguous fear pressing on him. 
+4=This pessimistic, unsociable man stays alone and seeks only after speed in order to shake himself free of "that which cannot be described with words" that haunts everyone living in modern human society. 
+5=After his fight with Marc, this single-minded man in his mid-twenties opened up to the punks following him, and now they drive around in the wilderness like a motorcycle gang, which makes him an even more difficult person for others to deal with.
+
+< LORE_CHRIS >
+1=Chris is a waitress serving at a family restaurant called "Pures." She's an ordinary 18-year old girl who's always full of energy.
+2=Likes: French fries, nice customers\nDislikes: Every other fried food (because they're bad for her waistline), dine and dashers
+3=Chris loves getting paid above all, but she also enjoys her work at the restaurant, where she can also enjoy the tasty food herself.
+4=The part-timer girl is known for her excellent service and is liked by the other staff. When in trouble, the chef and manager of the restaurant will immediately help her out.
+
+< LORE_KYUPITA >
+1=A 15-year old dog boy. An ordinary high school student.
+2=Likes: Pudding, justice\nDislikes: Soy-sauced pudding, harassment
+3=Kyupita is a male version of QP. He first appeared in the April Fools' game "QP Kiss" which features alternate universe versions of the cast of the QP-verse.
+4=Kyupita is as pure and honest as your typical shounen manga hero. He has romantic feelings for his senior Kyousuke.

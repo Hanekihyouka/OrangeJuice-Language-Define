@@ -29,6 +29,12 @@ School Crashers
 Chaos Mode
 
 < EVENTNAME_S3_TAGTEAM_MODE >
-TO BE DECIDED
+Extracurricular Crisis
+
+< EVENTNAME_WINTER2023 >
+Memory Menders
+
+< EVENTNAME_POPPO >
+Poppo Event
 
 [EOF]

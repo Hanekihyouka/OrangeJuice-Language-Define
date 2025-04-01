@@ -174,3 +174,18 @@ Pet this player?
 
 < GAME_MESSAGE_PET_DOG >
 Would you like to pet the dog?
+
+< GAME_MESSAGE_CHOOSE_BLUFF >
+What type of card do you think will be played next?
+
+< GAME_MESSAGE_DECLARE_BLUFF >
+What type of card do you want to show to the other players?
+
+< GAME_MESSAGE_BLUFF_SUBTITLE_1 >
+The card you will play...
+
+< GAME_MESSAGE_BLUFF_SUBTITLE_2 >
+...is this!
+
+< GAME_MESSAGE_BLUFF_NOTICE >
+This card has been predicted to be played next by {}.

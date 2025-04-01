@@ -8,6 +8,9 @@
 < GAME_NORMA_STARS >
 STAR为<normaamount>及以上。
 
+< GAME_NORMA_STARS_REV >
+STAR为<normaamount>及以下。
+
 < GAME_NORMA_STARS_10 >
 STAR为10及以上。
 
@@ -23,11 +26,29 @@ STAR为120及以上。
 < GAME_NORMA_STARS_200 >
 STAR为200及以上。
 
+< GAME_NORMA_STARS_10_REV >
+STAR为10及以下。
+
+< GAME_NORMA_STARS_30_REV >
+STAR为30及以下。
+
+< GAME_NORMA_STARS_70_REV >
+STAR为70及以下。
+
+< GAME_NORMA_STARS_120_REV >
+STAR为120及以下。
+
+< GAME_NORMA_STARS_200_REV >
+STAR为200及以下。
+
 < GAME_NORMA_WINS_SINGLE >
 WIN为1及以上。
 
 < GAME_NORMA_WINS_MULTIPLE >
 WIN为<normaamount>及以上。
+
+< GAME_NORMA_WINS_MULTIPLE_REV >
+WIN为<normaamount>及以下。
 
 < GAME_NORMA_WINS_1 >
 WIN为1及以上。
@@ -43,6 +64,21 @@ WIN为9及以上。
 
 < GAME_NORMA_WINS_14 >
 WIN为14及以上。
+
+< GAME_NORMA_WINS_1_REV >
+WIN为1及以下。
+
+< GAME_NORMA_WINS_2_REV >
+WIN为2及以下。
+
+< GAME_NORMA_WINS_5_REV >
+WIN为5及以下。
+
+< GAME_NORMA_WINS_9_REV >
+WIN为9及以下。
+
+< GAME_NORMA_WINS_14_REV >
+WIN为14及以下。
 
 < GAME_NORMA_FAME >
 声望为<normaamount>及以上。

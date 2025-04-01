@@ -170,4 +170,10 @@ Kurisaka Minami
 < VOICEACTOR_SAWADA_HIME >
 Sawada Hime
 
+< VOICEACTOR_TAKAMORI_NATSUMI >
+Takamori Natsumi
+
+< VOICEACTOR_SUGUTA_HINA >
+Suguta Hina
+
 [EOF]

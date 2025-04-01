@@ -298,4 +298,8 @@ descr=Treat the next panel you step onto as a Draw panel.
 name=Summer Games
 descr=Treat any panel you would land on this turn as a 2x Draw panel.
 
+< CARD_COOP_INTELLECTUALBLUFF_EFFECT >
+name=Intellectual-Sounding Bluff
+descr=Whenever a card by that type is played, the player draws a card.
+
 [EOF]

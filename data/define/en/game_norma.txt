@@ -8,6 +8,9 @@ Norma Achieved
 < GAME_NORMA_STARS >
 Get <normaamount> or more stars.
 
+< GAME_NORMA_STARS_REV >
+Get <normaamount> or less stars.
+
 < GAME_NORMA_STARS_10 >
 Get 10 or more stars.
 
@@ -23,11 +26,29 @@ Get 120 or more stars.
 < GAME_NORMA_STARS_200 >
 Get 200 or more stars.
 
+< GAME_NORMA_STARS_10_REV >
+Get 10 or less stars.
+
+< GAME_NORMA_STARS_30_REV >
+Get 30 or less stars.
+
+< GAME_NORMA_STARS_70_REV >
+Get 70 or less stars.
+
+< GAME_NORMA_STARS_120_REV >
+Get 120 or less stars.
+
+< GAME_NORMA_STARS_200_REV >
+Get 200 or less stars.
+
 < GAME_NORMA_WINS_SINGLE >
 Defeat an enemy.
 
 < GAME_NORMA_WINS_MULTIPLE >
 Defeat <normaamount> or more enemies.
+
+< GAME_NORMA_WINS_MULTIPLE_REV >
+Defeat <normaamount> or less enemies.
 
 < GAME_NORMA_WINS_1 >
 Defeat an enemy.
@@ -43,6 +64,21 @@ Defeat 9 or more enemies.
 
 < GAME_NORMA_WINS_14 >
 Defeat 14 or more enemies.
+
+< GAME_NORMA_WINS_1_REV >
+Defeat an enemy.
+
+< GAME_NORMA_WINS_2_REV >
+Defeat 2 or less enemies.
+
+< GAME_NORMA_WINS_5_REV >
+Defeat 5 or less enemies.
+
+< GAME_NORMA_WINS_9_REV >
+Defeat 9 or less enemies.
+
+< GAME_NORMA_WINS_14_REV >
+Defeat 14 or less enemies.
 
 < GAME_NORMA_FAME >
 Reach <normaamount> or more fame.

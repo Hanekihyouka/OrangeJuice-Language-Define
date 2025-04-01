@@ -597,7 +597,7 @@ descr=当你受到战斗伤害时，\nHP上限-1（下限为3），效果持续�
 
 < CARD_UNIT_POYO >
 name=啵悠
-descr=当所有玩家的总等级数为4的倍数时，\nATK·DEF·EVD+1，\n移动·奖励·掉落骰结果+1。
+descr=当所有玩家的总等级数为4的倍数时，\n攻击·防御·闪避·移动·奖励·\n掉落骰结果+1。
 
 < CARD_UNIT_CHUU >
 name=䌷
@@ -605,6 +605,18 @@ descr=
 
 < CARD_COOP_UNIT_POYO >
 name=啵悠
-descr=当BOSS的下一张卡为Hyper或3级卡时，\nATK·DEF·EVD+1，\n移动·奖励·掉落骰结果+1。
+descr=当BOSS的下一张卡为Hyper或3级卡时，\n攻击·防御·闪避·移动·奖励·\n掉落骰结果+1。
+
+< CARD_UNIT_HARUKA >
+name=春留果
+descr=战斗开始时，每名处于倒下的玩家\n使ATK-1。
+
+< CARD_COOP_UNIT_HARUKA >
+name=春留果
+descr=战斗开始时，每名处于倒下的同伴\n使ATK-1。
+
+< CARD_UNIT_KANATA >
+name=夏奈多
+descr=持有「故弄玄虚」时，有50%概率可以看到\n对手抽取的卡片的基础卡片类型。
 
 [EOF]

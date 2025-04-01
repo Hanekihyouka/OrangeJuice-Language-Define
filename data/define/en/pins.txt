@@ -258,3 +258,42 @@ name=Flying Teotoratta
 desc=Granted to the players who played as Teotoratta a lot.\nA friend in a beast is a friend indeed.
 artist=Sora
 
+< PIN_FLYING_ARNELLE >
+name=Flying Arnelle
+desc=Granted to the players who played as Arnelle a lot.\nPerhaps the true treasure was the friends we made along the way?
+artist=Sora
+
+< PIN_FLYING_MAYNIE >
+name=Flying Maynie
+desc=Granted to the players who played as Maynie a lot.\nLook deep into her odd-colored eyes, and ignore the fist coming your way...
+artist=Sora
+
+< PIN_FLYING_HALENA >
+name=Flying Halena
+desc=Granted to the players who played as Halena a lot.\nThis pin will always guide you to the correct lobby.
+artist=Sora
+
+< PIN_FLYING_COOK >
+name=Flying Cook
+desc=Granted to the players who played as Cook a lot.\nNot even this pin should be considered a chicken.
+artist=Sora
+
+< PIN_FLYING_LONERIDER >
+name=Flying Lone Rider
+desc=Granted to the players who played as Lone Rider a lot.\nNo longer riding quite so alone.
+artist=Sora
+
+< PIN_FLYING_MERCHANT >
+name=Flying Merchant
+desc=Granted to the players who played as Merchant a lot.\nYou will buy this pin of course, yes you will!
+artist=Sora
+
+< PIN_FLYING_CHRIS >
+name=Flying Chris
+desc=Granted to the players who played as Chris a lot.\nVoted top waitress of the year, every year!
+artist=Sora
+
+< PIN_FLYING_KYUPITA >
+name=Flying Kyupita
+desc=Granted to the players who played as Kyupita a lot.\nThis pin is full of the burning passion of youth.
+artist=Sora

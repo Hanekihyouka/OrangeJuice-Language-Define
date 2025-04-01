@@ -116,26 +116,30 @@
 <0114> A new upgrade!
 <0115> What could this be?
 <0116> This is good to have!
-<0117> Okay.
-<0118> That went pretty well.
-<0119> Yes.
-<0120> Negative.
-<0121> That's horrible.
-<0122> Something good just happened!
-<0123> Well, um...
-<0124> Let's go, Red Barrel.
-<0125> Please be a good roll!
-<0126> Here I go.
-<0127> Hello!
-<0128> Hmm...
-<0129> Nice!
-<0130> Perfect.
-<0131> Oh no...
-<0132> Mr. Seagull, I'm so sorry!
-<0133> Geez, you're equipped with something stupid again.
-<0134> You deserved a punishment!
-<0135> Geez, you built something like that again!
-<0136> I went too far!
-<0137> I told you not to get in my way!
-<0138> Here I come!
-<0139> A flying... pervert?
+<0117> You got this!
+<0118> Switching!
+<0119> I'm gonna pass you the baton!
+<0120> I'm rooting for you!
+<0121> Okay.
+<0122> That went pretty well.
+<0123> Yes.
+<0124> Negative.
+<0125> That's horrible.
+<0126> Something good just happened!
+<0127> Well, um...
+<0128> Let's go, Red Barrel.
+<0129> Please be a good roll!
+<0130> Here I go.
+<0131> Hello!
+<0132> Hmm...
+<0133> Nice!
+<0134> Perfect.
+<0135> Oh no...
+<0136> Mr. Seagull, I'm so sorry!
+<0137> Geez, you're equipped with something stupid again.
+<0138> You deserved a punishment!
+<0139> Geez, you built something like that again!
+<0140> I went too far!
+<0141> I told you not to get in my way!
+<0142> Here I come!
+<0143> A flying... pervert?

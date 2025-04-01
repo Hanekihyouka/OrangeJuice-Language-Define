@@ -1,4 +1,4 @@
-﻿< CARD_BOOST_COOP_GENTLEMANSBATTLE >
+< CARD_BOOST_COOP_GENTLEMANSBATTLE >
 name=Gentleman's Battle
 descr=Choose an enemy with full HP and battle them. Your turn ends after the battle.
 flavor="Take this!" ―Guildmaster
@@ -357,6 +357,16 @@ flavor="Lulu is... an unlucky dragon..." ―Dark Lulu
 name=All Guns at the Ready
 descr=Pay all stocked Cannonball Counters. Deal 1 damage to a random enemy. If the enemy is KO'd, gain 1 Win and Stars equal to 10x your level. Repeat this once for every Cannonball Counter paid.
 flavor="All guns at the ready... FIRE!" ―Grain
+
+< CARD_HYPER_COOP_HARUKA >
+name=Hype Bringer
+descr=Effect duration: 2 chapters.\nWhenever another player suffers KO, pay Lvl x 5 stars. The player will recover instantly with full HP.
+flavor="Let's hype up the game together!" ―Haruka
+
+< CARD_HYPER_COOP_KANATA >
+name=Intellectual-Sounding Bluff
+descr=Effect Duration: 3 Chapters.\nChoose a card type (Battle/Boost/Event/Other).\nWhenever a card by that type is played, the player draws a card.
+flavor="I can see what cards you're holding." ―Kanata
 
 < CARD_BOSS_COOP_DOZE >
 name=Doze

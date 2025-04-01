@@ -188,6 +188,9 @@ Bourbon & Grain
 < SHOP_DLC_POYOCHUU >
 Poyo & Chuu
 
+< SHOP_DLC_HARUKANA >
+Haruka & Kanata
+
 < SHOP_TOOLTIP_HOME >
 Navigate the shop by category icons.
 

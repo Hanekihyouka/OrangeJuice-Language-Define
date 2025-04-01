@@ -745,4 +745,28 @@ descr=Double your natural die rolls for Attack, Defense, Evade, Move, Bonus and 
 name=I'll Get a Little Into It
 descr=Gain +1 ATK for each stack. Gain no stars from defeating enemies. The first time you defeat a player in battle while this effect is active, gain 2 Wins.
 
+< CARD_CHAOS_SLAYER_EFFECT >
+name=Soul of the Slayer
+descr=You and other soulmates are linked by a mystic bond.\nREC is reduced by 1, and you will always roll 2 dice for movement. You can also heal and revive other soulmates.
+
+< CARD_CHAOS_TANK_EFFECT >
+name=Soul of the Tank
+descr=You are ordered to crush your enemies.\nATK +2, Max HP is highly increased, and immune to instant KO and HP reduction effects. Healing effects are void.
+
+< CARD_CHAOS_TERRORIZE_EFFECT >
+name=Terrorized
+descr=REC +3 until revived.
+
+< CARD_HYPER_HARUKA_GLOBAL_EFFECT >
+name=Hype Bringer
+descr=If another player suffers KO, they recover instantly with full HP.
+
+< CARD_HYPER_HARUKA_PERSONAL_EFFECT >
+name=Hyped!
+descr=When another player suffers KO, gain their Lvl x 5 stars. This effect can stack with multiple Hype Bringer active.
+
+< CARD_INTELLECTUALBLUFF_EFFECT >
+name=Intellectual-Sounding Bluff
+descr=If the next card you play is the setter's Chosen type: They gain 2 Wins and Lvl x 10 stars.\nDeclared only: They take 2 damage.
+
 [EOF]

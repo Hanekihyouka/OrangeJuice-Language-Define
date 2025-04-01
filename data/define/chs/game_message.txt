@@ -174,3 +174,18 @@ BOSS出现了！
 
 < GAME_MESSAGE_PET_DOG >
 要摸摸这只小狗吗？
+
+< GAME_MESSAGE_CHOOSE_BLUFF >
+你实际认为下一张将使用什么类型的卡片？
+
+< GAME_MESSAGE_DECLARE_BLUFF >
+你想对其他玩家宣称什么类型的卡片？
+
+< GAME_MESSAGE_BLUFF_SUBTITLE_1 >
+你将使用的卡片……
+
+< GAME_MESSAGE_BLUFF_SUBTITLE_2 >
+……是这个！
+
+< GAME_MESSAGE_BLUFF_NOTICE >
+这种卡片类型已被「{}」指定为下一张将使用的卡片。

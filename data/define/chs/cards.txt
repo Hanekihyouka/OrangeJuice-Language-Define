@@ -1,7 +1,7 @@
 ﻿
 < CARD_BOOST_DASH >
 name=冲刺！
-descr=移动骰枚数变为2枚。
+descr=在这个回合，移动骰枚数变为2枚。
 flavor=「快点！」—须玖莉
 
 < CARD_BOOST_EXTEND >

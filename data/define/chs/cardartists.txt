@@ -158,4 +158,7 @@ Calamari-Pop
 < CARD_ARTIST_RUE >
 worker
 
+< CARD_ARTIST_PHLE >
+PhleBuster
+
 [EOF]

@@ -298,4 +298,8 @@ descr=将下一个踩到的格子视为抽卡格。
 name=夏日游戏
 descr=将下一个踩到的格子视为抽卡×2格。
 
+< CARD_COOP_INTELLECTUALBLUFF_EFFECT >
+name=故弄玄虚
+descr=每当有玩家使用这种类型的卡片时，该玩家\n抽1张卡。
+
 [EOF]

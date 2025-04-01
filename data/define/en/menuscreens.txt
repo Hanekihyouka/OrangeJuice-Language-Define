@@ -480,7 +480,7 @@ Guardian\n\nProtect: Pay 1 HP to protect target from 2 damage in the next battle
 
 < PLAYMENU_EVENT_SUMMER2018_CLASSINFO_SUPPORT >
 Supporter\n\nRevive/Heal: Can heal an ally 1 HP or revive a KO'd ally for stars by walking over them\nNorma 2: +1 Move\nNorma 4: +1 Move
-	
+
 < PLAYMENU_EVENT_SUMMER2018_CLASSINFO_AVENGER >
 Avenger\n\n+1 ATK per HP lost in combat.\nNorma 2 : +1 Max HP\nNorma 4 : +1 Max HP\nBoss HP + 10
 
@@ -497,7 +497,7 @@ Clear the daily progress goal to unlock new rewards! Earn Christmas Wreaths from
 In the Xmas game mode, all players build a snow castle together every 6 chapters. After 24 chapters, the game ends and whoever built the most wins!
 
 < PLAYMENU_EVENT_XMAS2018_INSTRUCTION_03 >
-Snow castles are built using snow. Snow collects on untraveled panels over time - collect it by walking over snow piles. 
+Snow castles are built using snow. Snow collects on untraveled panels over time - collect it by walking over snow piles.
 
 < PLAYMENU_EVENT_XMAS2018_INSTRUCTION_04 >
 In need of more snow? Steal it from your friends by KO'ing them in battle, or hitting them with a snowball!
@@ -525,10 +525,10 @@ The snow castle has been completed, and the children's Christmas has been saved!
 
 
 < PLAYMENU_EVENT_FRB2019_INSTRUCTION_MAIN >
-Everyone's turning into slothful pigs! Save your friends from pigformation by collecting Pig Hearts! 
+Everyone's turning into slothful pigs! Save your friends from pigformation by collecting Pig Hearts!
 
 < PLAYMENU_EVENT_FRB2019_INSTRUCTION_01 >
-Pig Hearts are obtained in Normal or Bounty Hunt mode by finishing a match, and by either KO'ing an enemy player in battle (once per match for each opponent), or ranking higher than them.
+Pig Hearts are obtained in Normal or Bounty Hunt mode by finishing a match, and by either KO'ing an enemy player in battle (once per match for each opponent), or ranking higher than them, or by playing Co-op games.
 
 < PLAYMENU_EVENT_FRB2019_INSTRUCTION_02 >
 Use the stored Pig Hearts to unlock pig costumes in the Shop, freeing that character from the curse of pigformation!
@@ -570,7 +570,7 @@ Build your Co-op deck freely using the new Deck Point system! More powerful card
 Note that many characters' Hyper cards work differently in Co-op! You can toggle between regular and Co-op cards in the Binder to look at the effects in detail.
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_08 >
-Your Deck Point pool is determined by your character rating. A-ranked characters are considered most fitting for that role, and start with 10 Deck Points. 
+Your Deck Point pool is determined by your character rating. A-ranked characters are considered most fitting for that role, and start with 10 Deck Points.
 
 < PLAYMENU_EVENT_SPRING2019_INSTRUCTION_09 >
 Characters with a lower rating for each role have more Deck Points to compensate. Experiment with different character/role combinations!
@@ -875,7 +875,7 @@ Some mutators have game rewards or achievements disabled for balancing reasons. 
 This event does not have an ending or unique rewards. By playing in the Chaos Mode, you'll instead receive one Arcade Token at the end of each game, up to 20 per day.
 
 < PLAYMENU_EVENT_CHAOS_INSTRUCTION_04 >
-It's time to break all the rules! Embrace the chaos! 
+It's time to break all the rules! Embrace the chaos!
 
 
 < PLAYMENU_EVENT_PTS_INSTRUCTION_MAIN >
@@ -902,7 +902,6 @@ Who will obtain the fabled treasure? Only time will tell...
 < PLAYMENU_EVENT_PTS_INSTRUCTION_COMPLETE >
 You have reached the shrine! However, you may repeat the trek as many times as you want for even more rewards.
 
-
 < PLAYMENU_EVENT_WINTER2022_INSTRUCTION_MAIN >
 Christmas cakes around the world are in danger! We must search far and wide and dispose of Mio's abominable cakes!
 
@@ -925,10 +924,10 @@ The two event counters correspond to the method of disposing of the cakes, and e
 To unlock the event's ending, you must reach your personal goal of event games played, which will also give you a prize independent of the global event progress.
 
 < PLAYMENU_EVENT_WINTER2022_COMPLETE_01 >
-The world has been saved! Everyone can happily enjoy tasty Christmas cakes again instead of whatever that was! You can still keep searching for leftover cakes. 
+The world has been saved! Everyone can happily enjoy tasty Christmas cakes again instead of whatever that was! You can still keep searching for leftover cakes.
 
 < PLAYMENU_EVENT_WINTER2022_COMPLETE_02 >
-A new cake trend is here! Everyone can enjoy Mio's fashionable creations around the world! You can still keep searching for more cakes if you haven't had your fill. 
+A new cake trend is here! Everyone can enjoy Mio's fashionable creations around the world! You can still keep searching for more cakes if you haven't had your fill.
 
 < PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_MAIN >
 We're surrounded! Help Ellie and Lulu fight off hordes of aggressive Mousse to get your hands on the promised treasure!
@@ -943,7 +942,7 @@ Treasure Tails is an adjusted version of Bounty Hunt game mode with several key 
 The 3 Bounties available are always Mousse (easy), Key Lime Mousse (medium) and Strawberry Mousse (hard).\nDefeat any of them to progress in the event!
 
 < PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_04 >
-In addition, completing a Quest will trigger a bounty fight against a 2 HP Mousse instead of granting 2 fame immediately. 
+In addition, completing a Quest will trigger a bounty fight against a 2 HP Mousse instead of granting 2 fame immediately.
 
 < PLAYMENU_EVENT_SUMMER2023_INSTRUCTION_05 >
 Finally, a new invader, Dark Chocolate Mousse, will doom players' stars instead of their lives...\nDefeating Dark Chocolate Mousse grants 3 points of progress in the event.
@@ -988,7 +987,7 @@ Duke it out over a delicious meal at Family Restaurant Pures! Regular customers 
 For the duration of this event, players will be able to play a new game mode: Tag Team!
 
 < PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_02 >
-You can get a stamp on your Family Restaurant Pures Loyalty Card by playing a game of Tag Team, or 2 games in other game modes! 
+You can get a stamp on your Family Restaurant Pures Loyalty Card by playing a game of Tag Team, or 2 games in other game modes!
 
 < PLAYMENU_EVENT_SEASON3LAUNCH_INSTRUCTION_03 >
 In Tag Team, you'll be able to choose an additional character as a Partner to accompany you in games.
@@ -1038,16 +1037,16 @@ Ending
 < PLAYMENU_EVENT_STORYREPLAYBUTTON_INTERLUDE >
 Interlude
 
-< PLAYMENU_EVENT_BOUNTYHUNTERS_FAME > 
+< PLAYMENU_EVENT_BOUNTYHUNTERS_FAME >
 Fame: %d
 
-< PLAYMENU_EVENT_BOUNTYHUNTERS_RIBBON > 
+< PLAYMENU_EVENT_BOUNTYHUNTERS_RIBBON >
 You got Lulu's ribbon!
 
-< PLAYMENU_LOADING_TEXT > 
+< PLAYMENU_LOADING_TEXT >
 Loading...
 
-< PLAYMENU_CONNECTING_TEXT > 
+< PLAYMENU_CONNECTING_TEXT >
 Connecting...
 
 < PLAYMENU_INVENTORY_STACKING_TEXT >
@@ -1097,10 +1096,10 @@ Oranges +%d
 Deck point +%d
 
 < MENU_COOPUNLOCK_ROLEHYPER >
-Role hyper 
+Role hyper
 
 < MENU_COOPUNLOCK_NEWBOSS >
-%s is now available to fight in the Co-op game mode!\nYou can change the boss using the arrows next to their name when creating a game. 
+%s is now available to fight in the Co-op game mode!\nYou can change the boss using the arrows next to their name when creating a game.
 
 < MENU_COOPUNLOCK_HYPERDIFFICULTY >
 Hyper difficulty is now available for %s in the Co-op game mode!
@@ -1270,6 +1269,36 @@ Once you reach 50 online games with a unit, you will unlock their respective pla
 < MENU_CODEX_INSTRUCTION_4 >
 We hope you will enjoy this new feature. Feel free to post your feedback on the Steam forums, or our Discord server!
 
+< MENU_CODEX_TAB_LORE >
+Unit Lore
+
+< MENU_CODEX_TAB_STORIES >
+Side Stories
+
+< MENU_CODEX_READSTORY >
+Read Story
+
+< MENU_CODEXSTORY_TITLE_FAMILY >
+Family
+
+< MENU_CODEXSTORY_TITLE_CLASSCHANGE >
+Class Change
+
+< MENU_CODEXSTORY_TITLE_LULUWATTY >
+Commiseration
+
+< MENU_CODEXSTORY_UNLOCKCOND_1UNIT >
+Play {0} games as {1}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_2UNITS >
+Play {0} games as either {1} or {2}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_NUNITS >
+Play {0} games as any of the following units: {1}.
+
+< MENU_CODEXSTORY_UNLOCKCOND_EVENT >
+Clear "{0}" event.
+
 < MENU_NORMABOARD >
 Norma Upgrade
 
@@ -1281,5 +1310,11 @@ Show UI
 
 < MENU_CARDBACK_UNLOCK >
 New card back unlocked!
+
+< MENU_CHAPTER_LABEL >
+Chapter
+
+< MENU_UNAVAILABLE_LABEL >
+Currently unavailable.
 
 [EOF]

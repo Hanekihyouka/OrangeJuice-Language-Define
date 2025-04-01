@@ -115,51 +115,55 @@
 <0114> This is wonderful, isn't it?
 <0115> Is this what you want?
 <0116> Oh, how wonderful.
-<0117> Nice.
-<0118> How nice.
-<0119> Yes.
-<0120> No.
-<0121> Wow...
-<0122> I'm so happy.
-<0123> Hmm...
-<0124> Shall we go?
-<0125> I throw these, huh?
-<0126> Let's go.
-<0127> Greetings.
-<0128> What should I do...?
-<0129> How wonderful.
-<0130> Amazing.
-<0131> Oh my.
-<0132> I'm borrowing this...
-<0133> I wonder what this does.
-<0134> I'm borrowing this for a bit.
-<0135> So this is that person's power.
-<0136> You have my thanks.
-<0137> Well, Suguri, shall we dance?
-<0138> O-hoho, to think Suguri would invite me.
-<0139> O-hoho, that was a lot of fun, Suguri.
-<0140> Hah, playing with you really is fun, Suguri.
-<0141> Let's play together, Sis.
-<0142> Dancing with Sis sounds fun.
-<0143> Sis really is wonderful.
-<0144> Your beam is a bit hot, Sis...
-<0145> Oh, you're the spitting image of that good-for-nothing.
-<0146> Hold on... I don't like you.
-<0147> Beating you up is somewhat enjoyable.
-<0148> You really are a good-for-nothing...
-<0149> No more violence, okay?
-<0150> You're so useless...
-<0151> Settle down.
-<0152> Seriously... you're truly useless.
-<0153> Oh, that's a cute, red airplane.
-<0154> Okay, let's begin. In order to protect everyone...
-<0155> Everyone, things are about to get tough.
-<0156> O-hoho, those clothes really do suit you.
-<0157> You're wearing the clothes I picked out for you.
-<0158> O-hoho, you've shown me something nice.
-<0159> You're strong even when you're wearing cute clothes, Suguri.
-<0160> This will be much more fun if you and I work together.
-<0161> Let me help you.
-<0162> Fufu, you look really adorable in that.
-<0163> How do I look? Do I look good in this?
-<0164> You want to play with me again? Fufu, sure, gladly.
+<0117> It's time to tag out.
+<0118> Would you take my place?
+<0119> Fufu, let's switch.
+<0120> I'm trusting you with this.
+<0121> Nice.
+<0122> How nice.
+<0123> Yes.
+<0124> No.
+<0125> Wow...
+<0126> I'm so happy.
+<0127> Hmm...
+<0128> Shall we go?
+<0129> I throw these, huh?
+<0130> Let's go.
+<0131> Greetings.
+<0132> What should I do...?
+<0133> How wonderful.
+<0134> Amazing.
+<0135> Oh my.
+<0136> I'm borrowing this...
+<0137> I wonder what this does.
+<0138> I'm borrowing this for a bit.
+<0139> So this is that person's power.
+<0140> You have my thanks.
+<0141> Well, Suguri, shall we dance?
+<0142> O-hoho, to think Suguri would invite me.
+<0143> O-hoho, that was a lot of fun, Suguri.
+<0144> Hah, playing with you really is fun, Suguri.
+<0145> Let's play together, Sis.
+<0146> Dancing with Sis sounds fun.
+<0147> Sis really is wonderful.
+<0148> Your beam is a bit hot, Sis...
+<0149> Oh, you're the spitting image of that good-for-nothing.
+<0150> Hold on... I don't like you.
+<0151> Beating you up is somewhat enjoyable.
+<0152> You really are a good-for-nothing...
+<0153> No more violence, okay?
+<0154> You're so useless...
+<0155> Settle down.
+<0156> Seriously... you're truly useless.
+<0157> Oh, that's a cute, red airplane.
+<0158> Okay, let's begin. In order to protect everyone...
+<0159> Everyone, things are about to get tough.
+<0160> O-hoho, those clothes really do suit you.
+<0161> You're wearing the clothes I picked out for you.
+<0162> O-hoho, you've shown me something nice.
+<0163> You're strong even when you're wearing cute clothes, Suguri.
+<0164> This will be much more fun if you and I work together.
+<0165> Let me help you.
+<0166> Fufu, you look really adorable in that.
+<0167> How do I look? Do I look good in this?
+<0168> You want to play with me again? Fufu, sure, gladly.

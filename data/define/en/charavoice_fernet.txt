@@ -115,47 +115,51 @@
 <0114> This is pretty good.
 <0115> Should I try using it?
 <0116> Oh, how splendid.
-<0117> Understood.
-<0118> Very nice.
-<0119> Yes.
-<0120> No.
-<0121> What's this?
-<0122> Whatever.
-<0123> What is it?
-<0124> Let's head out.
-<0125> How will it go?
-<0126> I'm going.
-<0127> Greetings.
-<0128> Ngh.
-<0129> Very good.
-<0130> Amazing!
-<0131> Hmph.
-<0132> Allow me to use this.
-<0133> May I use this?
-<0134> What a card!
-<0135> This is a pretty good card.
-<0136> Hmph! T-thanks, I guess...
-<0137> Oh, greetings.
-<0138> Give up on being a pilot already.
-<0139> How dare you!
-<0140> Isn't that dress a bit short?
-<0141> Stop speaking in such a strange manner.
-<0142> Children should go home.
-<0143> You plane fanatics are all idiots!
-<0144> You're a pilot too?
-<0145> ...Whoa.
-<0146> How vulgar...
-<0147> A pervert has appeared.
-<0148> Ah... I can't see anything.
-<0149> Such a cheap flavor...
-<0150> To... lose to a lowly beast!
-<0151> I want this for my home.
-<0152> This really was a nuisance.
-<0153> They made such a stupid thing.
-<0154> I'm not angry, okay?
-<0155> What a shameless card!
-<0156> I'm borrowing your power!
-<0157> Eww... my clothes are a mess now!
-<0158> The tea is served, it's going to be a perfect par- gyah?!
-<0159> Such an overbearing presence, every time I see him...
-<0160> So cool...
+<0117> You take care of this, alright?
+<0118> You take it from here.
+<0119> Don't mess up out there, okay?
+<0120> I'm going to get some rest.
+<0121> Understood.
+<0122> Very nice.
+<0123> Yes.
+<0124> No.
+<0125> What's this?
+<0126> Whatever.
+<0127> What is it?
+<0128> Let's head out.
+<0129> How will it go?
+<0130> I'm going.
+<0131> Greetings.
+<0132> Ngh.
+<0133> Very good.
+<0134> Amazing!
+<0135> Hmph.
+<0136> Allow me to use this.
+<0137> May I use this?
+<0138> What a card!
+<0139> This is a pretty good card.
+<0140> Hmph! T-thanks, I guess...
+<0141> Oh, greetings.
+<0142> Give up on being a pilot already.
+<0143> How dare you!
+<0144> Isn't that dress a bit short?
+<0145> Stop speaking in such a strange manner.
+<0146> Children should go home.
+<0147> You plane fanatics are all idiots!
+<0148> You're a pilot too?
+<0149> ...Whoa.
+<0150> How vulgar...
+<0151> A pervert has appeared.
+<0152> Ah... I can't see anything.
+<0153> Such a cheap flavor...
+<0154> To... lose to a lowly beast!
+<0155> I want this for my home.
+<0156> This really was a nuisance.
+<0157> They made such a stupid thing.
+<0158> I'm not angry, okay?
+<0159> What a shameless card!
+<0160> I'm borrowing your power!
+<0161> Eww... my clothes are a mess now!
+<0162> The tea is served, it's going to be a perfect par- gyah?!
+<0163> Such an overbearing presence, every time I see him...
+<0164> So cool...

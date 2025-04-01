@@ -358,6 +358,16 @@ name=全炮门开启
 descr=消耗所有炮弹。对随机1名敌人造成1点伤害。\n造成击倒时，你获得1WIN与你等级×10的\nSTAR。\n每消耗1枚炮弹重复一次此行为。
 flavor=「全炮门开启……发射！」—格雷因
 
+< CARD_HYPER_COOP_HARUKA >
+name=暖场高手
+descr=持续效果（2轮）\n每当其他玩家倒下时，支付等级×5\n的STAR，该玩家将立即以最大HP复活。
+flavor=「大家都来热热闹闹地玩起来吧！」—春留果
+
+< CARD_HYPER_COOP_KANATA >
+name=故弄玄虚
+descr=持续效果（3轮）\n选择一种卡片类型（战斗、增益、事件、\n其它）。\n每当有玩家使用这种类型的卡片时，该玩家\n抽1张卡。
+flavor=「你的手牌已经被我看透了。」—夏奈多
+
 < CARD_BOSS_COOP_DOZE >
 name=打盹
 descr=没有效果。
@@ -530,7 +540,7 @@ flavor=
 
 < CARD_BOSS_COOP_IMAGINARY_NUMBERS >
 name=虚数
-descr=持续效果（1轮）\nBOSS的骰子投出的点数为7。
+descr=持续效果（1轮）\nBOSS的骰子投点为7。
 flavor=
 
 < CARD_BOSS_COOP_HEALTH_DOWN >
@@ -930,7 +940,7 @@ flavor=
 
 < CARD_BOSS_COOP_DELUSIONAL_NUMBERS >
 name=妄数
-descr=★COST（20）\n持续效果（1轮）\nBOSS的骰子投出的点数为0或7，\n投出0时最小结果为0。\n无法支付COST时，变为获得40个STAR。
+descr=★COST（20）\n持续效果（1轮）\nBOSS的骰子投点为0或7，\n投出0时最小结果为0。\n无法支付COST时，变为获得40个STAR。
 flavor=
 
 < CARD_BOSS_COOP_SECOND_WING2 >

@@ -22,10 +22,6 @@ descr=在游戏开始时，选择的角色将更换所有者。
 name=终极鬼牌
 descr=将所有卡片视为1级且无需COST。
 
-< MUTATOR_BDTT >
-name=集火坦克
-descr=随机1名玩家的角色提高50点HP上限，\n基础ATK变为2，同时免疫卡片的击倒效果。\n其他玩家获得永久冲刺效果。\n所有卡片视为1级且无需COST。\n当坦克被击败时，其余3名玩家获胜。\n未能在30轮内击败坦克时，坦克获胜。
-
 < MUTATOR_UNSTABLE_SELECTION >
 name=捉摸不定的选择
 descr=选择的角色将被替换为随机角色。
@@ -101,3 +97,23 @@ descr=体验原汁原味的场地破坏效果，每10轮触发一次。
 < MUTATOR_CARD_MANIA >
 name=嗜卡如命
 descr=所有卡组中的卡片都将翻倍。卡堆中的HYPER将从原有的8张增加至16张。所有角色的手牌上限提高至5，回合中可使用任意张卡片。所有人每轮都可以抽取1张卡片。
+
+< MUTATOR_BDTT >
+name=集火坦克
+descr=组队对抗被随机指定为坦克的玩家。\n击倒坦克时三名歼灭者获胜。\n坦克在生存30轮时或击倒所有歼灭者时\n获胜。
+
+< MUTATOR_SINGLE_CREDIT >
+name=一币换人
+descr=被击倒时立即复活。复活后，切换为随机角色。
+
+< MUTATOR_REVERSIBLE_FORTUNE >
+name=逆天改命
+descr=初始拥有200个STAR与14WIN。\n获胜需要清空等级、并将STAR或WIN\n降至0。\n卡片COST减半，且不超过30个STAR。
+
+< MUTATOR_TAG_TEAM >
+name=搭档模式
+descr=组建自己的小队，成为本地100%鲜橙汁\n比赛冠军吧！
+
+< MUTATOR_ULTIMATE_TAG_TEAM >
+name=终极搭档模式
+descr=搭档模式，但不是单纯的搭档模式！\n换人冷却时间降至1轮。\n战斗时也可以选择换人。

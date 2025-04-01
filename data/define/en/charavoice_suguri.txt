@@ -116,42 +116,46 @@
 <0114> It's a new item.
 <0115> Haven't seen that before.
 <0116> Did you get something good?
-<0117> Okay.
-<0118> That's good.
-<0119> Yeah.
-<0120> No.
-<0121> Mhmm...
-<0122> Good job.
-<0123> Huh?
-<0124> Okay, let's go.
-<0125> Be a good roll.
-<0126> Let's do this.
-<0127> Hi.
-<0128> Hmm.
-<0129> Great.
-<0130> That is amazing.
-<0131> Ugh...
-<0132> Let me borrow this for a bit.
-<0133> Can I use this?
-<0134> This isn't my own power, but...
-<0135> I'll try this one...!
-<0136> Let's play, Hime.
-<0137> It's a little child...
-<0138> Here I come, Sora.
-<0139> I'm dashing through!
-<0140> The god of... Pudding...
-<0141> Star Breaker... I'm stopping you.
-<0142> Wow, that is one big castle...
-<0143> I won't let you do whatever you please.
-<0144> Is that another me...?
-<0145> "The past me"...? What do you mean?
-<0146> This is a complicated feeling...
-<0147> Are you really me?
-<0148> It's reassuring to have you with me.
-<0149> Hime, let's switch.
-<0150> Sure, I'm in.
-<0151> You got carried away, Hime.
-<0152> Yeah, I had fun, too.
-<0153> I know you're not easy to beat, Sora.
-<0154> Fufu, that was fun, Sora.
-<0155> I'm impressed how strong you still are.
+<0117> Let's tag out.
+<0118> Will you take my place?
+<0119> I'll leave the game to you.
+<0120> I'm rooting for you.
+<0121> Okay.
+<0122> That's good.
+<0123> Yeah.
+<0124> No.
+<0125> Mhmm...
+<0126> Good job.
+<0127> Huh?
+<0128> Okay, let's go.
+<0129> Be a good roll.
+<0130> Let's do this.
+<0131> Hi.
+<0132> Hmm.
+<0133> Great.
+<0134> That is amazing.
+<0135> Ugh...
+<0136> Let me borrow this for a bit.
+<0137> Can I use this?
+<0138> This isn't my own power, but...
+<0139> I'll try this one...!
+<0140> Let's play, Hime.
+<0141> It's a little child...
+<0142> Here I come, Sora.
+<0143> I'm dashing through!
+<0144> The god of... Pudding...
+<0145> Star Breaker... I'm stopping you.
+<0146> Wow, that is one big castle...
+<0147> I won't let you do whatever you please.
+<0148> Is that another me...?
+<0149> "The past me"...? What do you mean?
+<0150> This is a complicated feeling...
+<0151> Are you really me?
+<0152> It's reassuring to have you with me.
+<0153> Hime, let's switch.
+<0154> Sure, I'm in.
+<0155> You got carried away, Hime.
+<0156> Yeah, I had fun, too.
+<0157> I know you're not easy to beat, Sora.
+<0158> Fufu, that was fun, Sora.
+<0159> I'm impressed how strong you still are.

@@ -396,7 +396,7 @@ flavor=「狱火！」—魅樱
 
 < CARD_BATTLE_DESPERATEMODIFICATION >
 name=自暴自弃的改造
-descr=这场战斗中，\n攻击·防御·闪避时，投出的点数为1或6。
+descr=这场战斗中，\n攻击·防御·闪避时，投点为1或6。
 flavor=「装上了那么重的东西，太可怜了吧！」—玛儿
 
 < CARD_BOOST_PATHBLOCKERS >
@@ -511,7 +511,7 @@ flavor=「你以为是香蕉吗？遗憾，是我奈奈子！」\n—奈奈子
 
 < CARD_GIFT_LUCKYSEVENS >
 name=幸运7
-descr=持有这张卡片时，骰子的点数范围\n变为0～7，投出0时最小结果为0。\n在移动骰为0的回合无法进行目标检测。
+descr=持有这张卡片时，骰子的投点范围\n变为0～7，投出0时最小结果为0。\n在移动骰为0的回合无法进行目标检测。
 flavor=「让我来的话，想投几就是几。」—由希
 
 < CARD_BOOST_WARPCONTROL >
@@ -611,7 +611,7 @@ flavor=「帮帮我，店长！」—克丽丝
 
 < CARD_HYPER_HALENA >
 name=平安的旅途
-descr=每次回合开始时失去5个STAR。\n忽略掉落格、陷阱及卡片效果的伤害。\n当你停留在自己的HOME格或\n持有的STAR少于5个时效果结束。
+descr=每次回合开始时失去5个STAR。\n忽略掉落格、陷阱及来自卡片效果的伤害。\n当你停留在自己的HOME格或\n持有的STAR少于5个时效果结束。
 flavor=「好，我们出发吧。」—哈琳娜
 
 < CARD_HYPER_COOK >
@@ -761,13 +761,23 @@ flavor=「我们只是想在我们自己的天空中飞翔而已。」\n—波�
 
 < CARD_HYPER_POYO >
 name=超级青春Time
-descr=持续效果（1轮）\n攻击·防御·闪避·移动·奖励·掉落骰\n点数翻倍。
+descr=持续效果（1轮）\n攻击·防御·闪避·移动·奖励·掉落骰\n投点翻倍。
 flavor=「浓郁的青春开始啦！」—啵悠
 
 < CARD_HYPER_CHUU >
 name=该拿出点真本事了
-descr=★COST（等级×3）\n回合结束前，ATK+X，X为你的等级数。\n击倒敌人时不会获得STAR。\n效果存在期间初次战斗击倒敌人额外获得\n2WIN。
+descr=★COST（等级×5）\n回合结束前，ATK+X，X为你的等级数。\n击倒敌人时不会获得STAR。\n效果存在期间初次战斗击倒玩家额外获得\n2WIN。
 flavor=「看来我要来点真格的了。」—䌷
+
+< CARD_HYPER_HARUKA >
+name=暖场高手
+descr=持续效果（3轮）\n以最大HP复活所有倒下的玩家。\n每当其他玩家倒下时，其立即以最大HP复活，\n每次复活你获得对方等级×5的STAR。\n该STAR获得效果可叠加。
+flavor=「大家都来热热闹闹地玩起来吧！」—春留果
+
+< CARD_HYPER_KANATA >
+name=故弄玄虚
+descr=指定1名其他玩家。\n暗自选择一种卡片类型（战斗、增益、事件、\n其它），然后公开宣称一种卡片类型。\n当该玩家使用的下一张卡片：\n·符合选择：获得2WIN和等级×10的STAR。\n·仅符合宣称：受到2点伤害。
+flavor=「你的手牌已经被我看透了。」—夏奈多
 
 < CARD_HYPER_SUMMER2018_ATTACKER >
 name=炎炎烈日的最终兵器
@@ -848,4 +858,35 @@ flavor=
 name=烫手小精怪
 descr=一个捉摸不透的米缪附在了你的身上。\n在你的回合结束时，获得等级数的STAR。\n经过随机回合后将会发飙，把你的HP降为1，\n并转移至另一名玩家手中。\n使用时将转移至另一名玩家手中。\n无法丢弃或通过其它任何方式移除。\n忽略任何阻止这张卡起效的效果。
 flavor=
+
+< CARD_CHAOS_BDTT_HYPER >
+name=威压
+descr=指定1名倒下的敌人，使其复活时REC+3。
+flavor=
+
+< CARD_GENERIC_BATTLE >
+name=战斗卡
+descr=这是战斗用的卡片。
+flavor=「你的手牌已经被我看透了。」—夏奈多
+
+< CARD_GENERIC_BOOST >
+name=增益卡
+descr=这是增益卡。
+flavor=「你的手牌已经被我看透了。」—夏奈多
+
+< CARD_GENERIC_TRAP >
+name=陷阱卡
+descr=小心！这是个陷阱卡！
+flavor=「你的手牌已经被我看透了。」—夏奈多
+
+< CARD_GENERIC_EVENT >
+name=事件卡
+descr=这看起来是张事件卡。
+flavor=「你的手牌已经被我看透了。」—夏奈多
+
+< CARD_GENERIC_GIFT >
+name=礼物卡
+descr=礼物卡？送给我的？你可太客气了。
+flavor=「你的手牌已经被我看透了。」—夏奈多
+
 [EOF]
