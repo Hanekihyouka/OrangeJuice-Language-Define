@@ -75,8 +75,9 @@
     {"type":"file","name":"posternumbers.png","size":24952,"md5":"2b2af66e5fe184606e2c1ac58bde3d34"},
     {"type":"file","name":"small_board.png","size":20957,"md5":"59f8ecbdbcf5cba150bc2743671a6d44"},
     {"type":"file","name":"system128.png","size":26522,"md5":"0fd5d29c4d31aeef0246f848002199a0"},
-    {"type":"file","name":"system256.png","size":81409,"md5":"e521a9cd14bc8410b185fd420de4c2f6"}
+    {"type":"file","name":"system256.png","size":81409,"md5":"e521a9cd14bc8410b185fd420de4c2f6"},
+    {"type":"file","name":"typesuits.png","size":159221,"md5":"9900e53236412cb6a96cceba37e95a75"}
   ]}
 ,
-  {"type":"report","directories":2,"files":74}
+  {"type":"report","directories":2,"files":75}
 ]

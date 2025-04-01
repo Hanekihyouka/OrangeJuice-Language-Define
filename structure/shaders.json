@@ -11,10 +11,11 @@
     {"type":"file","name":"ColorAndDiffuseAlphaGradient_2AlphaMasks.glsl","size":591,"md5":"a6d124e24f619ff2ea9f6036f596f6e6"},
     {"type":"file","name":"ColorAndDiffuseAlphaGradient.glsl","size":477,"md5":"ca764cd9a5f78756b544fd064bc2be1f"},
     {"type":"file","name":"ColorAndDiffuse.glsl","size":298,"md5":"fb2d8adcb66627996d279686866f66f5"},
-    {"type":"file","name":"Credits.glsl","size":50496,"md5":"e113481d9a09547517b2dcb556ec3cca"},
     {"type":"file","name":"DefaultVS.glsl","size":367,"md5":"0ce5ee93af74cd8b5ccbbd19f2abfc83"},
     {"type":"directory","name":"es2","size":4096},
     {"type":"file","name":"FadeToColor.glsl","size":309,"md5":"6f1f61691d974881b4af5dd14679b7a5"},
+    {"type":"file","name":"FieldRenderedFrag.glsl","size":545,"md5":"b6630221705f1362b124ec32284af268"},
+    {"type":"file","name":"FieldRenderedVert.glsl","size":548,"md5":"beb0a6d21ca718ef9ed7c67b870b3901"},
     {"type":"file","name":"fog_frag.glsl","size":1203,"md5":"88bc65d7a45d18e8bf0625bd7313beca"},
     {"type":"file","name":"HairShader.glsl","size":996,"md5":"c3c71d8198ab2d33633435edf20c30db"},
     {"type":"file","name":"lighting_frag.glsl","size":971,"md5":"e824eef506c97ea74aaf2b4cae5fe0b3"},
@@ -22,7 +23,7 @@
     {"type":"file","name":"MarcFogFrag.glsl","size":1135,"md5":"22deacd885adeb65ba4aa402432b0320"},
     {"type":"file","name":"MarcFogVert.glsl","size":431,"md5":"0b83cee9bc503a74424860e512c62f23"},
     {"type":"file","name":"MarcOutlineFrag.glsl","size":393,"md5":"6333c76f9109daf06510fa9ec2db5b80"},
-    {"type":"file","name":"MiragePS.glsl","size":506,"md5":"c5c4a6a9d0101a438348a7845c7f54ec"},
+    {"type":"file","name":"MiragePS.glsl","size":547,"md5":"4e20fef076f84592dc24bcda1f107824"},
     {"type":"file","name":"ModelComplexFragExtraColor.glsl","size":257,"md5":"44e130c5713252845af9043ad8fee3a3"},
     {"type":"file","name":"ModelComplexFrag.glsl","size":247,"md5":"ee99be65a724ca0c3412338754fe88ee"},
     {"type":"file","name":"MultiplyDiffuse.glsl","size":467,"md5":"afb94b0a1d047d332425c04e812c1fed"},
@@ -36,5 +37,5 @@
     {"type":"file","name":"Screen.glsl","size":256,"md5":"7f7adfbb7c659be3dba510beeb96f6e3"}
   ]}
 ,
-  {"type":"report","directories":2,"files":33}
+  {"type":"report","directories":2,"files":34}
 ]

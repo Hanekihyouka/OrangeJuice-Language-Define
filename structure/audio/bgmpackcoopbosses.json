@@ -1,7 +1,7 @@
 [
   {"type":"directory","name":"data/audio/bgmpackcoopbosses","size":4096,"contents":[
     {"type":"file","name":"0.ogg","size":2302235,"md5":"d3b501d5de8ed0790e50d572be4f933e"},
-    {"type":"file","name":"1.ogg","size":1610809,"md5":"340077770f39934039ad036270e2e29b"},
+    {"type":"file","name":"1.ogg","size":1214464,"md5":"1f30505510e295cbabca13170d3b8851"},
     {"type":"file","name":"2.ogg","size":2131166,"md5":"0ef932f0da041b7da36d78c1078b2742"},
     {"type":"file","name":"3.ogg","size":2319388,"md5":"a2f6445fd96020106904b8961124ec5c"},
     {"type":"file","name":"4.ogg","size":1389605,"md5":"5d3cc490a42836fdaeda5fccf5d61bd4"},

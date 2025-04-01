@@ -34,6 +34,7 @@
     {"type":"file","name":"thumb_sweetbreaker.png","size":37160,"md5":"b672d30ab5effbba49daecd642b20487"},
     {"type":"file","name":"thumb_valentines2018.png","size":49920,"md5":"ac2c8dd68d7e7c59688818130d31a2fa"},
     {"type":"file","name":"thumb_winter2020.png","size":60888,"md5":"c39d3dfced315951a6c95ddf8872faf0"},
+    {"type":"file","name":"thumb_winter2022_1.png","size":56583,"md5":"aca60f5b1d65b4281568b653bc18ef7f"},
     {"type":"file","name":"thumb_winter2022_2.png","size":66216,"md5":"3500f8e70dbc8ebaa04accbc6ab7e0af"},
     {"type":"file","name":"thumb_winter2022contest_coolness1.png","size":52363,"md5":"e473f4778813a0b69cf9829a16360115"},
     {"type":"file","name":"thumb_winter2022contest_coolness2.png","size":64391,"md5":"e04643b7b016d68f1e95b37742d0c0f4"},
@@ -48,5 +49,5 @@
     {"type":"file","name":"thumb_winter2023.png","size":61882,"md5":"304c1e94d4e376e6615cf2d5685ff653"}
   ]}
 ,
-  {"type":"report","directories":1,"files":46}
+  {"type":"report","directories":1,"files":47}
 ]

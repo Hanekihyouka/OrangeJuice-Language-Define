@@ -170,6 +170,10 @@
     {"type":"file","name":"homemark_38_1.png","size":38429,"md5":"b6eeb34776f23415e6210c9ead0cb47c"},
     {"type":"file","name":"homemark_38_2.png","size":40742,"md5":"817301956097b34648f9f0bcafa948df"},
     {"type":"file","name":"homemark_38_3.png","size":38981,"md5":"d615ac7603614ffddd7f5262d4476ab4"},
+    {"type":"file","name":"homemark_39_0.png","size":37098,"md5":"7a2fc1ae4bd5b45676157285b6cb87cc"},
+    {"type":"file","name":"homemark_39_1.png","size":37884,"md5":"2b6dacb1f00bb22561860b8239ca1042"},
+    {"type":"file","name":"homemark_39_2.png","size":38353,"md5":"e53bc77aa3a398ab660702adb2582382"},
+    {"type":"file","name":"homemark_39_3.png","size":38453,"md5":"8aeaaae2ed5db1df2130bedb6abfc8d9"},
     {"type":"file","name":"homemark_40_0.png","size":44847,"md5":"819bb495bc8c2289469151c253e7c101"},
     {"type":"file","name":"homemark_40_1.png","size":47130,"md5":"762dc1e8bcda38b503306079f8ad6fa8"},
     {"type":"file","name":"homemark_40_2.png","size":45576,"md5":"fa163f058e53b277d36a96bf3e57cbf9"},
@@ -182,7 +186,7 @@
     {"type":"file","name":"homemark_42_1.png","size":9919,"md5":"ff810c07cad86abe6e750b2fb87292d5"},
     {"type":"file","name":"homemark_42_2.png","size":9972,"md5":"20c3f90f639712d1a7f746037b657e80"},
     {"type":"file","name":"homemark_42_3.png","size":9970,"md5":"b2f3acccfec53ad7fc2f6f6417f192b4"},
-    {"type":"file","name":"homemark_icons.png","size":814290,"md5":"c01895f825a8d5fc2dbe442b37eabb71"},
+    {"type":"file","name":"homemark_icons.png","size":820180,"md5":"27665406a1526251a4b2925ab2152459"},
     {"type":"file","name":"homemark_shadow.png","size":2581,"md5":"8f5e1df47fc896e2d33303e571948428"},
     {"type":"file","name":"mass_aoe.png","size":3270,"md5":"608913f0c312eed3bb85062f21deaa46"},
     {"type":"file","name":"mass_base0.png","size":1244,"md5":"42a902027be539878791c0eca77aa52d"},
@@ -246,5 +250,5 @@
     {"type":"file","name":"world_arrow_up.png","size":3763,"md5":"33666631c41e460738fa366ce2a69133"}
   ]}
 ,
-  {"type":"report","directories":1,"files":244}
+  {"type":"report","directories":1,"files":248}
 ]

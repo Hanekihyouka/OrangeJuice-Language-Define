@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"data/graphics/cards","size":57344,"contents":[
+  {"type":"directory","name":"data/graphics/cards","size":49152,"contents":[
     {"type":"file","name":"accel128.png","size":34390,"md5":"1805878d903c4ab48c4f8407ad286562"},
     {"type":"file","name":"accel256.png","size":106976,"md5":"8154229152d530dbb558a05fc16eab2e"},
     {"type":"file","name":"accelhyper128.png","size":23336,"md5":"2df8ed4565e44ce819e3c3a4390ec1fa"},
@@ -535,6 +535,8 @@
     {"type":"file","name":"finalsurgery256.png","size":81029,"md5":"fccc3adefba46bee934500dfe74efd21"},
     {"type":"file","name":"firesupport128.png","size":50227,"md5":"b3d390da3a2766915ea34043a1165177"},
     {"type":"file","name":"firesupport256.png","size":134107,"md5":"9f4efead4ff35c2c51a3d3fb28fd0fda"},
+    {"type":"file","name":"fiveheadbluff128.png","size":22150,"md5":"d0d50a0a3304a9db881fa5fba3611129"},
+    {"type":"file","name":"fiveheadbluff256.png","size":53559,"md5":"63feba2c9ac4d7f55adcf6191376a809"},
     {"type":"file","name":"flame128.png","size":37214,"md5":"c5e13e56d5360f3106d93a621f761851"},
     {"type":"file","name":"flame256.png","size":122934,"md5":"2f2ffff6fef60f293345a66a5cccaa34"},
     {"type":"file","name":"flyingpirate128.png","size":36703,"md5":"6ef30f5250bf189efc78281b244ed3c1"},
@@ -581,6 +583,8 @@
     {"type":"file","name":"hammer256.png","size":94953,"md5":"0e50e05d5fdb99d778b9697c74bb5d32"},
     {"type":"file","name":"hanten128.png","size":29536,"md5":"d1bb13a9d1b6259f5004177b9ae9524a"},
     {"type":"file","name":"hanten256.png","size":89017,"md5":"fedf811d980abb2ae2f5c501576c07d2"},
+    {"type":"file","name":"haruka128.png","size":15004,"md5":"107a53380b581bf5fc71c252a7a93b54"},
+    {"type":"file","name":"haruka256.png","size":39154,"md5":"a48072cccb955703134a3394fc799f3f"},
     {"type":"file","name":"heat300128.png","size":39722,"md5":"4dad5ea02217a3910f910b66ab6ade9b"},
     {"type":"file","name":"heat300256.png","size":133756,"md5":"7dbec28548bc00f183f87a010af42cfb"},
     {"type":"file","name":"heavywitch128.png","size":29907,"md5":"db5e45e4c499e6478640214f068cc084"},
@@ -609,6 +613,8 @@
     {"type":"file","name":"hotpotato256.png","size":99597,"md5":"3920602ba248ea306735f519f091f4c8"},
     {"type":"file","name":"huuin128.png","size":27402,"md5":"199bf04c06a2dcd95852ced4f6405b11"},
     {"type":"file","name":"huuin256.png","size":87261,"md5":"a49a29a841677e1bd7b7b889ebe778bc"},
+    {"type":"file","name":"hypebringer128.png","size":24142,"md5":"2ae760a980e7a9145b6082a7419845db"},
+    {"type":"file","name":"hypebringer256.png","size":58891,"md5":"dcf7a83f81d2a43172bfdaa65239fa00"},
     {"type":"file","name":"hypmode128.png","size":42719,"md5":"b30a41eba8b13d4a99de017288e9d362"},
     {"type":"file","name":"hypmode256.png","size":145705,"md5":"c220db46b5208055563f28c02b76ef93"},
     {"type":"file","name":"idealworld128.png","size":57037,"md5":"54a7442590f2f9fabc95fddc0c90b044"},
@@ -635,6 +641,8 @@
     {"type":"file","name":"kai256.png","size":34350,"md5":"6ffc9c8784e0f9512ce4b93d210fd4e9"},
     {"type":"file","name":"kaihero128.png","size":13959,"md5":"ab2c93337e901c7ef256492f9d2746ca"},
     {"type":"file","name":"kaihero256.png","size":37324,"md5":"d34c4f42e07403851de57a7a19515d64"},
+    {"type":"file","name":"kanata128.png","size":14689,"md5":"97c025aced7a10999d77a59fb2d057b6"},
+    {"type":"file","name":"kanata256.png","size":38302,"md5":"60db23249ecb5d70f0c11df461d76467"},
     {"type":"file","name":"kessyou128.png","size":36114,"md5":"6908ef5870fe66acda94c177b474b929"},
     {"type":"file","name":"kessyou256.png","size":118429,"md5":"75512553f2bd2f6e0c7f2407956ddd0f"},
     {"type":"file","name":"kiriko128.png","size":17028,"md5":"6b66293ce9f6218ef26e5a05bd3561be"},
@@ -1053,6 +1061,8 @@
     {"type":"file","name":"teq_minion256.png","size":38518,"md5":"95aee1720cb38695d63cf31d536baa1d"},
     {"type":"file","name":"tequila128.png","size":19559,"md5":"9d8ba406ead2afeae099b1536c50ccd8"},
     {"type":"file","name":"tequila256.png","size":44427,"md5":"14b87d3ecebf11b8d6bcabfd5df5fa79"},
+    {"type":"file","name":"terrorize128.png","size":30800,"md5":"f6cf274196183791ed4ae7170ee4b2f7"},
+    {"type":"file","name":"terrorize256.png","size":87462,"md5":"365ca6f269ab05fe26cabdb30470dc60"},
     {"type":"file","name":"tmsw128.png","size":24689,"md5":"0a28714b9d8947618e78f785ff8b4d4a"},
     {"type":"file","name":"tmsw_2_128.png","size":13233,"md5":"e25629d8f04239f62c56e32a27dfac19"},
     {"type":"file","name":"tmsw_2_256.png","size":31382,"md5":"c8af1911cb0ec7f7291366dc65ddacde"},
@@ -1143,5 +1153,5 @@
     {"type":"file","name":"zsalesman256.png","size":98164,"md5":"cc1adad3aa65fddbdf3a4fc703ebf929"}
   ]}
 ,
-  {"type":"report","directories":1,"files":1141}
+  {"type":"report","directories":1,"files":1151}
 ]

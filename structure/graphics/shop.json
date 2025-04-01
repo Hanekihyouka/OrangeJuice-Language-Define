@@ -1,5 +1,5 @@
 [
-  {"type":"directory","name":"data/graphics/shop","size":36864,"contents":[
+  {"type":"directory","name":"data/graphics/shop","size":28672,"contents":[
     {"type":"file","name":"arcade_background.png","size":732713,"md5":"9e97ad98f2aa7be61e615c8ba4aca9f6"},
     {"type":"file","name":"arcade_bg1.png","size":732713,"md5":"9e97ad98f2aa7be61e615c8ba4aca9f6"},
     {"type":"file","name":"arcade_bg2.png","size":916843,"md5":"31762255b0a3a18cef8a1ec8e0e63254"},
@@ -619,6 +619,7 @@
     {"type":"file","name":"dlc_41.png","size":70350,"md5":"0b005706ae31aad0310bc24daea3f22e"},
     {"type":"file","name":"dlc_42.png","size":64093,"md5":"debc56ca9156e8150f6d9388b09912e1"},
     {"type":"file","name":"dlc_43.png","size":70349,"md5":"9cbd84e8005ef7f2e413f69866e04208"},
+    {"type":"file","name":"dlc_44.png","size":63698,"md5":"30ff2ae9f6f9e7eb8b9d3c960f63073e"},
     {"type":"file","name":"field_01.png","size":38195,"md5":"670a2a22b45909bf8a4515b111131196"},
     {"type":"file","name":"field_02.png","size":20357,"md5":"82cc9a88883600b22570be3267eea5ef"},
     {"type":"file","name":"field_03.png","size":41926,"md5":"dc88feb70eb9de592ff9175fb7a197fd"},
@@ -749,8 +750,10 @@
     {"type":"file","name":"preview_disc_10.png","size":26807,"md5":"208206575c37b79f0eb2d390c69b4b50"},
     {"type":"file","name":"preview_disc_20.png","size":28722,"md5":"eb5c5da9d0d00ee578fb16326e51716d"},
     {"type":"file","name":"preview_disc_30.png","size":29736,"md5":"b0f43e6d134bf4b0fce1cc778e906af2"},
-    {"type":"file","name":"re_beachparty.png","size":55294,"md5":"0da1c8e24fe125e4c67550a840c8daf3"}
+    {"type":"file","name":"re_beachparty.png","size":55294,"md5":"0da1c8e24fe125e4c67550a840c8daf3"},
+    {"type":"file","name":"re_bountyhunt.png","size":74494,"md5":"0b6825132926d700ce980a85dcaa6af9"},
+    {"type":"file","name":"re_poppo.png","size":70096,"md5":"93694cbf37e2037c6e1a20c983455594"}
   ]}
 ,
-  {"type":"report","directories":1,"files":750}
+  {"type":"report","directories":1,"files":753}
 ]

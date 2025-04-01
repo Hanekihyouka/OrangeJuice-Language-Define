@@ -2,12 +2,16 @@
   {"type":"directory","name":"data/graphics/codex","size":4096,"contents":[
     {"type":"file","name":"alicianrone.png","size":508510,"md5":"f8d7e00f69d644966a979d04bc87721c"},
     {"type":"file","name":"alte.png","size":449253,"md5":"96933652e928084989338520dd9459b8"},
+    {"type":"file","name":"arnelle.png","size":542166,"md5":"4910d757e4d04736bfeb47d3db80593b"},
     {"type":"file","name":"arthur.png","size":351467,"md5":"db8ed8510dbe41aae9c21bc9ceb39454"},
     {"type":"file","name":"aru.png","size":442184,"md5":"16d03fc08e3f72e59e0ec328834f2f61"},
     {"type":"file","name":"ceor.png","size":421988,"md5":"77b91b82b64d00e24ad0b3c1171cfb34"},
+    {"type":"file","name":"chris.png","size":299038,"md5":"c2d48f500192129e0dcc8e00c05575a7"},
+    {"type":"file","name":"cook.png","size":553605,"md5":"ab0c24ea9c59837391c4581b6fcc5bec"},
     {"type":"file","name":"cuties.png","size":577790,"md5":"8e46a70256eb822ff6636c70897a9aca"},
     {"type":"file","name":"ellie.png","size":517300,"md5":"a3e8633d6107797f9abe7329407c1f28"},
     {"type":"file","name":"fernet.png","size":517648,"md5":"70b41997a3e1508130d2f8754f5e8062"},
+    {"type":"file","name":"halena.png","size":522823,"md5":"17575dfa55c7f6485edca061d45c83a0"},
     {"type":"file","name":"hime.png","size":621528,"md5":"83d314ba2a583dad2c705f66a4bd29d9"},
     {"type":"file","name":"iru.png","size":593236,"md5":"16979cd52b56e4e8e6836705d0806f88"},
     {"type":"file","name":"islay.png","size":507179,"md5":"23cbd09d657c177afd5a74cda4aaec21"},
@@ -17,9 +21,13 @@
     {"type":"file","name":"krila.png","size":451592,"md5":"b04e9cb288b2d986b924a172482fcfbd"},
     {"type":"file","name":"ksuke.png","size":343996,"md5":"eae1753e5480e725c7d4fa8e7cddbdcc"},
     {"type":"file","name":"kyoko.png","size":492670,"md5":"cd5ba8f62630e83f4475dc7691a80b38"},
+    {"type":"file","name":"kyupita.png","size":455254,"md5":"06ba61740e439995cfb42f01f157fcae"},
+    {"type":"file","name":"lonerider.png","size":388449,"md5":"4651724809216f06c6d9288142ed9b41"},
     {"type":"file","name":"lulu.png","size":393874,"md5":"61096e737de66eb00cc46e1327f156a2"},
     {"type":"file","name":"marc.png","size":325784,"md5":"d24147f391e182c8661059123b6bd810"},
+    {"type":"file","name":"maynie.png","size":449612,"md5":"26372e53c059ee161b69498948139c25"},
     {"type":"file","name":"mei.png","size":374557,"md5":"bd2710658df4abee8ceebf01b241a299"},
+    {"type":"file","name":"merchant.png","size":384193,"md5":"67c37361a0c571d843c7558db68a3a5f"},
     {"type":"file","name":"mimyuu.png","size":339886,"md5":"06034cb08cdb51d75ad4b926e31ef27b"},
     {"type":"file","name":"mio.png","size":392203,"md5":"2f93c3806b8cd9afe7576acfbe27c1bf"},
     {"type":"file","name":"mira.png","size":461278,"md5":"593713946a6bf78a47f733e138189ee7"},
@@ -51,5 +59,5 @@
     {"type":"file","name":"yuuki.png","size":302840,"md5":"cf11bc7d151ba71fa13a32b1c4b91367"}
   ]}
 ,
-  {"type":"report","directories":1,"files":49}
+  {"type":"report","directories":1,"files":57}
 ]

@@ -20,6 +20,7 @@
     {"type":"file","name":"CARDUSE.oga","size":12401,"md5":"3ae132b3e51ef159657f069b3c3345df"},
     {"type":"file","name":"CHAIN.oga","size":14123,"md5":"bcbe8339a68dbb2ee8a44574f8526ec4"},
     {"type":"file","name":"CHAPTERSTART.oga","size":29319,"md5":"343d4fa4191530fab836a4f4bc24e081"},
+    {"type":"file","name":"CHEER.oga","size":37144,"md5":"a6c374ee868a5443dbafc595c0bb332d"},
     {"type":"file","name":"CICADA_SHORT.oga","size":28267,"md5":"90f8221b58d76795d0266eaca0bf477d"},
     {"type":"file","name":"CLANG.oga","size":5007,"md5":"210ddad285c5aed27d31b9c74ba9b8dc"},
     {"type":"file","name":"CRASH2.oga","size":27161,"md5":"c0686362f7bfb8a3ba7265c3c231fd56"},
@@ -109,5 +110,5 @@
     {"type":"file","name":"WIN.oga","size":38653,"md5":"39e8d17110bf0027634840552d96b006"}
   ]}
 ,
-  {"type":"report","directories":1,"files":107}
+  {"type":"report","directories":1,"files":108}
 ]

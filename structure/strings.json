@@ -1,8 +1,9 @@
 [
   {"type":"directory","name":"data/strings","size":4096,"contents":[
-    {"type":"file","name":"credits.ojtxt","size":49065,"md5":"f978933b4e163a8c7fb7e47f8f105e42"},
-    {"type":"file","name":"version.ojtxt","size":7,"md5":"f176335a70a77a7f0b172c027e36dd52"}
+    {"type":"file","name":"credits.ojtxt","size":50220,"md5":"77d46e695e2251593c2d89fb0cced97a"},
+    {"type":"file","name":"data.ojd","size":40960,"md5":"a58a3704062bdbd499aa57454b16413a"},
+    {"type":"file","name":"version.ojtxt","size":8,"md5":"55ad9935d68fe2088e6428d4eecc683f"}
   ]}
 ,
-  {"type":"report","directories":1,"files":2}
+  {"type":"report","directories":1,"files":3}
 ]

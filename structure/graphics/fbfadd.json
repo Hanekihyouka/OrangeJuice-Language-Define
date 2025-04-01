@@ -44,6 +44,7 @@
     {"type":"file","name":"binder_tab_coop.png","size":9217,"md5":"43e39c0e3da0ed64f52cbdad8e98be6c"},
     {"type":"file","name":"binder_tab_normal.png","size":12921,"md5":"f9462e26e174eb6bf6904c5674dafc5a"},
     {"type":"file","name":"bloodlust.png","size":14019,"md5":"019a15033e7164033e498e803668b109"},
+    {"type":"file","name":"blufficon.png","size":28940,"md5":"a2f2fd254871428d253204dd34a43f75"},
     {"type":"file","name":"bomb_shield.png","size":16576,"md5":"e6a506dc932f25b337bbdd7abdc23fc6"},
     {"type":"file","name":"boostStat0.png","size":5699,"md5":"a5892242cf80922d0e8e8dd5f5b0626b"},
     {"type":"file","name":"boostStat1.png","size":5485,"md5":"32443f8183fe7523b5f6a15c06a4303b"},
@@ -68,7 +69,7 @@
     {"type":"file","name":"castle256.png","size":73131,"md5":"8030694c332facb257310d3814044283"},
     {"type":"file","name":"ccp4heart00.png","size":22832,"md5":"17c99e4561b38b74e415e957adb7c645"},
     {"type":"file","name":"ccp4heart01.png","size":22888,"md5":"702fd07adbe77e50d609e979df869df1"},
-    {"type":"file","name":"CCustomization.png","size":150570,"md5":"844ab4fcbd4b396a735373bd5446d500"},
+    {"type":"file","name":"CCustomization.png","size":152005,"md5":"8c81bffc9ee6cddf22a4788c32bf7ca2"},
     {"type":"file","name":"christsmasherdust.png","size":24099,"md5":"609a1fbe124f8ae72cefc58b68b6e22f"},
     {"type":"file","name":"christsmashersnowflake.png","size":2986,"md5":"cc261d4f84ba0ac398fdc0966c8d69a5"},
     {"type":"file","name":"cloud_00.png","size":49903,"md5":"3f0e90ff1d3814e2f536b7687745e529"},
@@ -110,8 +111,8 @@
     {"type":"file","name":"costume_button.png","size":8555,"md5":"1a54f1d51cf70c6597e57c279e251e27"},
     {"type":"file","name":"costume_mask.png","size":7774,"md5":"3f0b36d29bbfe8911cdd4e7682a45348"},
     {"type":"file","name":"credits_icon.png","size":834,"md5":"c3bfa2e41c17a90a701d531d20f59f4a"},
-    {"type":"file","name":"CSelect_a.png","size":1113513,"md5":"be46dc8391cb36d9b8c65988cc715ebc"},
-    {"type":"file","name":"CSelect.png","size":1106856,"md5":"c2d02458ca67e721e8d34ceb94e2bb34"},
+    {"type":"file","name":"CSelect_a.png","size":1140251,"md5":"aed5c23ce29aa569112c4e23c6dda1dc"},
+    {"type":"file","name":"CSelect.png","size":1133344,"md5":"afa1f18107a1dc95a36c71dd9aaf1eab"},
     {"type":"file","name":"dice_big.png","size":52788,"md5":"8200d2806e75dad5189172f5f396b225"},
     {"type":"file","name":"dice_blur.png","size":52577,"md5":"2465381696edaa694092ffa80d488b67"},
     {"type":"file","name":"die8.png","size":26492,"md5":"40bc4f5cb7a81295f51d883903e24445"},
@@ -133,11 +134,13 @@
       {"type":"file","name":"fernetnoble.png","size":40511,"md5":"a706d14a459830bd86731ea0def72f6c"},
       {"type":"file","name":"grain.png","size":39015,"md5":"c220fec629b3c1760492959da7f3daeb"},
       {"type":"file","name":"halena.png","size":43739,"md5":"040be378e9b6a568c33011e0ef988c47"},
+      {"type":"file","name":"haruka.png","size":44716,"md5":"e5868c571ee3679374f8f0ff9ebfab4d"},
       {"type":"file","name":"himem.png","size":46298,"md5":"888c00a39512caa0e3059de8bfaf2295"},
       {"type":"file","name":"iru.png","size":36462,"md5":"7927ab8e0c66f21fde72427dfabc118a"},
       {"type":"file","name":"islay.png","size":50420,"md5":"547ff0d4c2400754e4099c6be50e6969"},
       {"type":"file","name":"kae.png","size":37253,"md5":"17b9fa3eec0fc1c0fcd8752214c3b960"},
       {"type":"file","name":"kaihero.png","size":44705,"md5":"273d1edc2e0a04aa7b63fe3bbc7ce6a2"},
+      {"type":"file","name":"kanata.png","size":43744,"md5":"f5cb222057bba46ff0bb77332ca065c1"},
       {"type":"file","name":"kiriko.png","size":43211,"md5":"e8705723fd4e5ec8fae3c542d7a93bdc"},
       {"type":"file","name":"krila.png","size":45234,"md5":"62cbb699ed42efa4864071aea25582e7"},
       {"type":"file","name":"krilap.png","size":49334,"md5":"5a4dc263837c0ba408d45734d33c49fe"},
@@ -413,7 +416,7 @@
     {"type":"file","name":"master256.png","size":38929,"md5":"b6364230b976c34ef4f19bdd9d12d489"},
     {"type":"file","name":"menu_config.png","size":10607,"md5":"c2a3643c452d64b1fdb6400ba2884b0b"},
     {"type":"file","name":"menu_mods.png","size":13941,"md5":"0f264132b0f815e7e833a229d76a95ca"},
-    {"type":"file","name":"menu_socialmedias.png","size":11105,"md5":"f3a885ef186ca9c5a0fae0a59092e4ac"},
+    {"type":"file","name":"menu_socialmedias.png","size":12001,"md5":"081740f761c7a958a317553cc673686e"},
     {"type":"file","name":"mimyu_tomato_voiceBtn0.png","size":18214,"md5":"ac89b583954f0bc0d46ce9296028d773"},
     {"type":"file","name":"mimyu_tomato_voiceBtn1.png","size":17335,"md5":"914c23064535511710e7c6d68b932415"},
     {"type":"file","name":"mio_flame_sheet.png","size":162720,"md5":"26ec1762b868267a51521a4dfb2829ce"},
@@ -673,5 +676,5 @@
     {"type":"file","name":"yk_devilboost.png","size":19145,"md5":"711f1dbebf538f4644d059347f21329d"}
   ]}
 ,
-  {"type":"report","directories":2,"files":669}
+  {"type":"report","directories":2,"files":672}
 ]

@@ -57,9 +57,10 @@
     {"type":"file","name":"sweetbreaker.png","size":1388191,"md5":"64a4a769c053eb80fd0cf016baf85eca"},
     {"type":"file","name":"valentines2018.png","size":3979339,"md5":"9f820ecd79c0b53338575a8840774b8d"},
     {"type":"file","name":"winter2020.png","size":2914463,"md5":"92ee4e0347b9337156067ed1a72e41dc"},
+    {"type":"file","name":"winter2022_1.png","size":2274354,"md5":"057a1c9b9c7be44a465d36d03cf9ba47"},
     {"type":"file","name":"winter2022_2.png","size":2463522,"md5":"70623c758f583667f36607d6436e4b09"},
     {"type":"file","name":"winter2023.png","size":1604690,"md5":"b4b8a0a002ec76208b3b20d2839af677"}
   ]}
 ,
-  {"type":"report","directories":6,"files":49}
+  {"type":"report","directories":6,"files":50}
 ]

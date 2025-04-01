@@ -5,7 +5,8 @@
     {"type":"file","name":"campaign_system.png","size":130085,"md5":"3e2df19f193bb1cd1f63b22e5b5df95e"},
     {"type":"file","name":"card_switch.png","size":10121,"md5":"5e079da6bdd7342660736b23e7572793"},
     {"type":"file","name":"center_card.png","size":34846,"md5":"32a728d2fcb06609476c462f485dd281"},
-    {"type":"file","name":"codex_system.png","size":390335,"md5":"a4bc8fac70ffbb854b84356167daf970"},
+    {"type":"file","name":"codex_storybg_mask.png","size":78027,"md5":"a1df269943d41bd27e6935324cf653aa"},
+    {"type":"file","name":"codex_system.png","size":354879,"md5":"7a4172b60b87bcda6421e4d9d15dec7a"},
     {"type":"file","name":"comnt_sys.png","size":1658,"md5":"3085ab762244fdad26c127ac05a990db"},
     {"type":"file","name":"config_index.png","size":53216,"md5":"cccef6a07db769002cb43f55ed508023"},
     {"type":"file","name":"config_mod_system.png","size":299488,"md5":"97f11a74b716238d3744afcad2fb34c7"},
@@ -44,6 +45,7 @@
     {"type":"file","name":"dice_coop_boss05.png","size":137815,"md5":"a898172e425f6844e0748b4749a55969"},
     {"type":"file","name":"dice_cow.png","size":157315,"md5":"68cf7cd94a9dce1d1d48e63b7045d85d"},
     {"type":"file","name":"dice_darkcitadel.png","size":155987,"md5":"dfdfe7820435de3dd213b13a5544cd75"},
+    {"type":"file","name":"dice_dragon.png","size":147694,"md5":"097507183006c757334087cd217921ce"},
     {"type":"file","name":"dice_earth.png","size":61140,"md5":"d8eb228196770a3707b2900d455755a1"},
     {"type":"file","name":"dice_ellielulu.png","size":135920,"md5":"64ec87a100f57a6e93edf81ec3098de5"},
     {"type":"file","name":"dice_fish.png","size":90141,"md5":"068a8147971621f6f94ddd75338e8aeb"},
@@ -72,6 +74,7 @@
     {"type":"file","name":"dice_ropochi.png","size":107426,"md5":"dba851d54fa725b14f20475fd47d7cf7"},
     {"type":"file","name":"dice_sakura.png","size":74037,"md5":"bc23ce4c363dd7da1ea4975589189859"},
     {"type":"file","name":"dice_sandcastle.png","size":144221,"md5":"68c56c2498ef76a894a1224ac9855770"},
+    {"type":"file","name":"dice_snake.png","size":148707,"md5":"37db2df54774b5fe0453930f2a9060b1"},
     {"type":"file","name":"dice_snow.png","size":85953,"md5":"61bd205a506883a1edf7265391f4df18"},
     {"type":"file","name":"dice_sun.png","size":97730,"md5":"f6ecd948da632d52b7cfa7998446af2a"},
     {"type":"file","name":"dice_vday2018_1.png","size":147215,"md5":"10e8a780597b965e3fdb5f116543f0ca"},
@@ -189,6 +192,7 @@
     {"type":"file","name":"prepar_pic52.png","size":88825,"md5":"5cfaf6b7b4e410972719a1cd2c864747"},
     {"type":"file","name":"prepar_pic5.png","size":171676,"md5":"eee410e81882d1293deb2b68da8208db"},
     {"type":"file","name":"prepar_pic6.png","size":4305,"md5":"ffbd22439803cd71b7407d872a0a6118"},
+    {"type":"file","name":"prepar_pic7.png","size":33608,"md5":"38a1834d12ad27d4637c3c660cdbb459"},
     {"type":"file","name":"prepar_pic.png","size":29615,"md5":"90c47877fba03d0a677ad85708439c73"},
     {"type":"file","name":"prepar_sys.png","size":96293,"md5":"6bfec56410658f076c920584db3ff328"},
     {"type":"file","name":"result_system.png","size":63151,"md5":"6d0574a25b43f9b9851efb634951f312"},
@@ -214,7 +218,7 @@
     {"type":"file","name":"title_system.png","size":12322,"md5":"962d6aeef61f9be70d08b25d758b7ac7"},
     {"type":"file","name":"tony_menu.png","size":33090,"md5":"10db8c1432b276200c83bca9d6657fbc"},
     {"type":"file","name":"tPlateBackgrounds.png","size":2415265,"md5":"62d71287798210db4c9fb4c53e551e7a"},
-    {"type":"file","name":"tPlatePins.png","size":241129,"md5":"664f538ea0109f67fca251684c3c212a"},
+    {"type":"file","name":"tPlatePins.png","size":1048417,"md5":"5f31904b2b913a8014206c9240f517ae"},
     {"type":"file","name":"true_star.png","size":824,"md5":"9cece4e9f0b20133e0055d3cff842ddb"},
     {"type":"file","name":"ui_buttons.png","size":167130,"md5":"f4f8347fef008406d9366a51dd533460"},
     {"type":"file","name":"user_system.png","size":84680,"md5":"23d3f75f3e84185f2694116600895bb4"},
@@ -224,5 +228,5 @@
     {"type":"file","name":"word_input.png","size":13229,"md5":"2ab4733567741a63e314ee10f53d9a5e"}
   ]}
 ,
-  {"type":"report","directories":1,"files":222}
+  {"type":"report","directories":1,"files":226}
 ]

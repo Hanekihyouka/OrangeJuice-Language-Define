@@ -13,6 +13,8 @@
     {"type":"file","name":"ColorAndDiffuse.glsl","size":314,"md5":"29c7ffe278ed2b391799080099c53a52"},
     {"type":"file","name":"DefaultVS.glsl","size":419,"md5":"69983e6740ece3757680c26e6ee2a474"},
     {"type":"file","name":"FadeToColor.glsl","size":323,"md5":"f136c8fc4e248980f87836198b9fe68b"},
+    {"type":"file","name":"FieldRenderedFrag.glsl","size":565,"md5":"2661464827d39c99741efa967c012949"},
+    {"type":"file","name":"FieldRenderedVert.glsl","size":588,"md5":"be58f995bbe7ecac952e3203e9b90d82"},
     {"type":"file","name":"fog_frag.glsl","size":1186,"md5":"cc4204b7e99d40176a52b0208ff7834f"},
     {"type":"file","name":"HairShader.glsl","size":1021,"md5":"4ffe6e05727357fe0450d7f4b0aff1a7"},
     {"type":"file","name":"lighting_frag.glsl","size":972,"md5":"d549489be895726bf23c1eca691764c3"},
@@ -20,7 +22,7 @@
     {"type":"file","name":"MarcFogFrag.glsl","size":1137,"md5":"ef2024326394944716ddd149c8d9f1e6"},
     {"type":"file","name":"MarcFogVert.glsl","size":497,"md5":"91bdbc91b1edbddc2247e78cc9f489ff"},
     {"type":"file","name":"MarcOutlineFrag.glsl","size":420,"md5":"c143603dc14541b447dce5e298e128c2"},
-    {"type":"file","name":"MiragePS.glsl","size":524,"md5":"741369642250be4743841fede560f990"},
+    {"type":"file","name":"MiragePS.glsl","size":567,"md5":"7c7b1b33c33a94244ceeda40b27a4d91"},
     {"type":"file","name":"ModelComplexFragExtraColor.glsl","size":273,"md5":"5c0013884ca782a05619aff64f50f7a8"},
     {"type":"file","name":"ModelComplexFrag.glsl","size":263,"md5":"318c9a15c1dc870a4828640d4dd278f4"},
     {"type":"file","name":"MultiplyDiffuse.glsl","size":484,"md5":"10ec8d30b6a2986fba611730c0cdacc7"},
@@ -34,5 +36,5 @@
     {"type":"file","name":"Screen.glsl","size":272,"md5":"396b33ed12f1ce225802429e0f793ed0"}
   ]}
 ,
-  {"type":"report","directories":1,"files":32}
+  {"type":"report","directories":1,"files":34}
 ]

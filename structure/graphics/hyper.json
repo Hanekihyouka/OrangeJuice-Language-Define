@@ -47,6 +47,15 @@
       {"type":"file","name":"propeller0.png","size":20994,"md5":"d7f2579185ce00aef666a4c7c8473fc9"},
       {"type":"file","name":"propeller1.png","size":16269,"md5":"2f668a29dee0fd1e0c4a3527a195da48"}
     ]},
+    {"type":"directory","name":"haruka","size":4096,"contents":[
+      {"type":"file","name":"cheer00C.png","size":86861,"md5":"0dccd65dafd0ec4b55e2431e545e7447"},
+      {"type":"file","name":"cheer01C.png","size":97480,"md5":"0512100312df0ae938473920bd6dd2be"},
+      {"type":"file","name":"cheer02C.png","size":99937,"md5":"4b0dd574059038ef434cfa55142e9c15"},
+      {"type":"file","name":"cheer03C.png","size":98655,"md5":"6fd907a11aa0cec9296c74dcb56713ba"},
+      {"type":"file","name":"cheer04C.png","size":92403,"md5":"068c035c0805f7f3dceb7549bf35a13f"},
+      {"type":"file","name":"cheer05C.png","size":82102,"md5":"3dda3d5654bacfeafb9e1202812a1ddf"},
+      {"type":"file","name":"confetti.png","size":209860,"md5":"46a2aa5cb699fec9f4b964449965d316"}
+    ]},
     {"type":"directory","name":"hellie","size":4096,"contents":[
       {"type":"file","name":"-1.png","size":18409,"md5":"bd78869942968824e930583971ae2e7a"},
       {"type":"file","name":"1.png","size":23872,"md5":"6afe4e0ea051087707c4e92996fe3661"},
@@ -112,5 +121,5 @@
     ]}
   ]}
 ,
-  {"type":"report","directories":18,"files":76}
+  {"type":"report","directories":19,"files":83}
 ]
